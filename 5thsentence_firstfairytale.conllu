@@ -1,0 +1,12 @@
+1	«	_	PUNCT	PUNCT	_	3	punct	3:punct	_
+2	πα	ba	PRON	PRON	Case=Acc|Definite=Ind|Gender=Neut|PronType=Art	3	obj	3:obj	_
+3	οίκουμε	οικ	VERB	VERB	Aspect=Imp|Number=Plur|Tense=Pres||Person=1|Mood=Imp	0	root	0:root	_
+4	να	να	SCONJ	SCONJ	_	5	mark	5:mark	_
+5	γλιτώσουμε	γλυτώνω	VERB	VERB	Aspect=Perf|Number=Plur|Person=1|Voice=Act	3	advcl	3:advcl	_
+6	σ	σε	ADP	ADP	_	8	case	8:case	_
+7	του	ο	DET	DET	Definite=Def|Gender=Masc|Number=Sing|PronType=Art|Case=Gen	8	det	8:det	_
+8	νοματίουν	νομάτης	NOUN	NOUN	Gender=Masc|Number=Sing|Case=Gen	_	_	_	_
+9	το	το	DET	DET	Definite=Def|Gender=Neut|Number=Sing|Case=Acc|PronType=Art	10	det	10:det	_
+10	τζυνή’ι	_	NOUN	NOUN	Gender=Neut|Number=Sing|Case=Acc	5	obj	5:obj	_
+11	»	_	PUNCT	PUNCT	_	3	punct	3:punct	_
+12	.	_	PUNCT	PUNCT	_	3	punct	3:punct	_

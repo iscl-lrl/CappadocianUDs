@@ -1,0 +1,13 @@
+1	Σωρεύτανε	σωρέβου	VERB	VERB	Aspect=Perf|Number=Plur|Person=3|Tense=Past|Voice=Pass	0	root	0:root	_
+2	,	_	PUNCT	PUNCT	_	1	punct	1:punct	_
+3	αν	α	NUM	NUM	Case=Acc|Definite=Ind|Gender=Fem|Number=Sing	4	det	4:det	_
+4	Τζερετζή 	Çεrεçή	NOUN	Case=Acc|Gender=Fem|Number=Sing	_	_	_	_	_
+5	την	η	DET	DET	Definite=Def|Gender=Fem|Number=Sing|Case=Acc|PronType=Art	6	det	6:det	_
+6	εβίτζα	_	NOUN	NOUN	Gender=Fem|Number=Sing|Case=Acc	_	_	_	_
+7	,	_	PUNCT	PUNCT	_	1	punct	1:punct	_
+8	σου	σε	ADP	ADP	_	9	case	9:case	_
+9	Καβάρη	Kαβάρη	PROPN	PROPN	Case=Gen|Gender=Fem|Number=Sing	11	nmod	11:nmod	_
+10	το	το	DET	DET	Definite=Def|Gender=Neut|Number=Sing|Case=Acc|PronType=Art	11	det	11:det	_
+11	κάτζι	κάτζιν	NOUN	NOUN	Case=Acc|Gender=Neu|Number=Sing	_	_	_	_
+12	μπρο	μπρο	ADV	ADV	_	11	advmod	11:advmod	_
+13	.	_	PUNCT	PUNCT	_	1	punct	1:punct	_

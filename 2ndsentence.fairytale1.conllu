@@ -1,0 +1,12 @@
+1	Σα	σε	ADP	ADP	_	4	case	_	_
+2	μπρο	μπρο	ADJ	ADJ	Degree=Pos|Gender=Masc|Number=Sing	4	amod	_	_
+3	τον	ο	DET	DET	Definite=Def|Gender=Masc|Number=Sing	4	det	_	_
+4	ταρό	ταρός	NOUN	NOUN	Gender=Masc|Number=Sing	_	_	_	_
+5	,	_	PUNCT	PUNCT	_	4	punct	_	_
+6	του	το	DET	DET	Definite=Def|Gender=Neut|Number=Sing	7	det	_	_
+7	ρουσού	ρουσί	NOUN	NOUN	Gender=Neut|Number=Sing	9	nmod	_	_
+8	τα	το	DET	DET	Definite=Def|Gender=Neut|Number=Plur	9	det	_	_
+9	τζναβάρα 	jαναβάρι	NOUN	NOUN	Gender=Neut|Number=Plur	10	nsubj	_	_
+10	νανόστανε 	νανοῦμαι	VERB	VERB	Tense=Past|Number=Plur|Person=3	0	root	_	_
+11	κι	κι	SCONJ	CCONJ	_	10	mark	_	_
+12	:	_	PUNCT	PUNCT	_	10	punct	_	_
