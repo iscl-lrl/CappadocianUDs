@@ -1,0 +1,19 @@
+# sent_id = Fairytale 3.1
+# text = Σα µ̟ρο τον ταρό, ‘ς εν κουµάσι ήσαντε λια 'ρνίθε τζαι α ζόρι λαχτόρι 
+# text_en = In the old days, there were a few hens and a brave rooster in a hen house.
+1	Σα	σε	ADP	ADP	_	4	case	4:case	_
+2	µ̟ρο	μπρο	ADJ	ADJ	Case=Acc|Gender=Masc|Number=Sing	4	amod	4:amod	_
+3	τον	ο	DET	DET	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	4:det	_
+4	ταρό	ταρός	NOUN	NOUN	Case=Acc|Gender=Masc|Number=Sing	_	_	_	_
+5	,	_	PUNCT	PUNCT	_	9	punct	9:punct	_
+6	‘ς	σε	ADP	ADP	_	8	case	8:case	_
+7	εν	ε	DET	DET	Case=Acc|Definite=Ind|Gender=Neut|Number=Sing|PronType=Ind	8	det	8:det	_
+8	κουµάσι	κουµάσι	NOUN	NOUN	Case=Acc|Gender=Masc|Number=Sing	_	_	_	_
+9	ήσαντε	είμαι	VERB	VERB	Aspect=Ιmp|Tense=Past|Number=Plur|Person=3|Voice=Act	0	root	0:root	_
+10	λια	λια	ADJ	ADJ	Case=Nom|Gender=Neut|Number=Sing	11	amod	11:amod	_
+11	'ρνίθε	ρνίθι	NOUN	NOUN	Case=Nom|Gender=Neut|Number=Sing	9	nsubj	9:nsubj	_
+12	τζαι	jαι	CCONJ	CCONJ	_	9	conj	9:conj	_
+13	α	α	DET	DET	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing|PronType=Ind	15	det	15:det	_
+14	ζόρι	ζόρι	ADJ	ADJ	Case=Nom|Gender=Neut|Number=Sing	15	amod	15:amod	_
+15	λαχτόρι	λαχτόρι	NOUN	NOUN	Case=Nom|Gender=Neut|Number=Sing	_	_	_	_
+16	.	_	PUNCT	PUNCT	_	9	punct	9:punct	_
