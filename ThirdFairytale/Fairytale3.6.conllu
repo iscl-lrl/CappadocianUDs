@@ -1,0 +1,8 @@
+# sent_id = Fairytale 3.6
+# text = «Ε 'ρνιθού κλέφτη. 
+# text_en = Eh, thief of hens
+1	«	_	PUNCT	PUNCT	_	4	punct	4:punct	_
+2	Ε	ε	INTJ	INTJ	_	_	_	_	_
+3	'ρνιθού	ρνίθι	NOUN	NOUN	Case=Gen|Gender=Neut|Number=Sing	4	nmod	4:nmod	_
+4	κλέφτη	κλέφτης	NOUN	NOUN	Case=Voc|Gender=Masc|Number=Sing	0	root	0:root	_
+5	.	_	PUNCT	PUNCT	_	4	punct	4:punct	_
