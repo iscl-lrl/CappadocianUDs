@@ -1,0 +1,11 @@
+# sent_id = Fairytale 3.4
+# text = Μη τα φήτζει να ̟νίξει τα ρνίθε. 
+# text_en = Not to let her drown the hens
+1	Μη	μη	PART	ADV	_	3	advmod	3:advmod	_
+2	τα	ο	DET	DET	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	obj	3:obj	_
+3	φήτζει	φήνω	VERB	VERB	Aspect=Ιmp|Tense=Past|Number=Sing|Person=3|Voice=Act	0	root	0:root	_
+4	να	να	SCONJ	SCONJ	_	5	mark	5:mark	_
+5	̟πνίξει	πνίγω	VERB	VERB	Aspect=Ιmp|Tense=Past|Number=Sing|Person=3|Voice=Act	3	iobj	3:iobj	_
+6	τα	το	DET	DET	Case=Acc|Definite=Def|Gender=Neut|Number=Plur|PronType=Art	7	det	7:det	_
+7	ρνίθε	ρνίθι	NOUN	NOUN	Case=Acc|Gender=Neut|Number=Plur	5	obj	5:obj	_
+8	.	_	PUNCT	PUNCT	_	3	punct	3:punct	_
