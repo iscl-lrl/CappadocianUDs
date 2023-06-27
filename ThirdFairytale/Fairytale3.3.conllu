@@ -1,0 +1,11 @@
+# sent_id = Fairytale 3.3
+# text = Στάθη το λαχτόρι σον αω̟ό γνέντα.
+# text_en = The rooster stood opposite the fox.
+1	Στάθη	στέκω	VERB	VERB	Aspect=Ιmp|Tense=Past|Number=Sing|Person=3|Voice=Pass	0	root	0:root	_
+2	το	το	DET	DET	Definite=Def|Gender=Neut|Number=Sing|PronType=Art|Case=Nom	3	det	3:det	_
+3	λαχτόρι	λαχτόρι	NOUN	NOUN	Case=Nom|Gender=Neut|Number=Sing	1	nsubj	1:nsubj	_
+4	σ	σε	ADP	ADP	_	6	case	6:case	_
+5	ον	ο	DET	DET	Definite=Def|Gender=Masc|Number=Sing|PronType=Art|Case=Acc	6	det	6:det	_
+6	αω̟πό	απός	NOUN	NOUN	Case=Acc|Gender=Masc|Number=Sing	1	obl	1:obl	_
+7	γνέντα	γνέντα	ADP	ADV	_	1	advmod	1:advmod	_
+8	.	_	PUNCT	PUNCT	_	1	punct	1:punct	_
