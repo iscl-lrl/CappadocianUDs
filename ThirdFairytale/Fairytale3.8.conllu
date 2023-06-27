@@ -1,7 +1,7 @@
 # sent_id = Fairytale 3.7
 # text = Ατό το κουµάσι εν το µόνα τζαι γω είµαι των 'ρνιθίουν ο τσουφαλάς».
 # text_en = This house of hens is mine and I am in charge of the chickens.
-1	Ατό	αυτό	PRON	PRON	Case=Nom|Definite=Def|Gender=Neut|PronType=Dem	3	det	3:det	_
+1	Ατό	αυτό	PRON	PRON	Case=Nom|Definite=Def|Gender=Neut|PronType=Dem	4	csubj	4:csubj	_
 2	το	το	DET	DET	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	3	det	3:det	_
 3	κουµάσι	κουµάσι	NOUN	NOUN	Case=Nom|Gender=Neut|Number=Sing	4	nsubj	4:nsubj	_
 4	εν	είναι	VERB	VERB	Aspect=Ιmp|Tense=Pres|Number=Sing|Person=3|Voice=Act	0	root	0:root	_
