@@ -1,0 +1,7 @@
+# sent_id = Fairytale 3.7
+# text = Πώς ‘υρεύεις αδού.
+# text_en = What are you doing here.
+1	Πώς	πώς	ADV	ADV	_	2	advmod	2:advmod	_
+2	‘υρεύεις	γυρεύω	VERB	VERB	Aspect=Ιmp|Tense=Pres|Number=Sing|Person=2|Voice=Act	0	root	0:root	_
+3	αδού	αδού	ADV	ADV	_	2	advmod	2:advmod	_
+4	.	_	PUNCT	PUNCT	_	2	punct	2:punct	_
