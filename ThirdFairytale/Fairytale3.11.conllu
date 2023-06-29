@@ -2,7 +2,7 @@
 # text = Ποιος είσαι εσύ και µε το λειψό σου µυαλό, γίνεσαι αφεντικό στο κουµάσι κι επικεφαλής των ορνίθων 
 # text_en = Who are you and with your "missing" mind, you become the boss of the house of hens and head of the of chickens
 1	Συ	εσύ	PRON	PRON	Case=Nom|Definite=Def|Gender=Masc	3	nsubj	3:nsubj	_
-2	τίς	τίς	PRON	PRON	Case=Nom|Definite=Ind|Gender=Masc	3	csubj	3:csubj	_
+2	τίς	τίς	PRON	PRON	Case=Nom|Definite=Ind|Gender=Masc	1	det	1:det	_
 3	είσαι	είμαι	VERB	VERB	Aspect=Ιmp|Tense=Pres|Number=Sing|Person=2|Voice=Act	11	conj	11:conj	_
 4	τζαι	jαι	CCONJ	CCONJ	_	11	conj	11:conj	_
 5	µο	με	ADP	_	_	10	case	10:case	_
@@ -19,3 +19,6 @@
 16	τσουφαλάς	τσουφαλάς	NOUN	NOUN	Case=Nom|Gender=Masc|Number=Sing	13	conj	13:conj	_
 17	»	_	PUNCT	PUNCT	_	11	punct	11:punct	_
 18	.	_	PUNCT	PUNCT	_	11	punct	11:punct	_
+
+# Parataxis and conjuctions: https://universaldependencies.org/treebanks/el_gdt/el_gdt-dep-parataxis.html 
+# https://universaldependencies.org/treebanks/el_gdt/el_gdt-dep-conj.html  I tried to do it like the examples.
