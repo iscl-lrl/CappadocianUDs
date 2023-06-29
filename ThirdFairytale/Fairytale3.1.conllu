@@ -10,10 +10,14 @@
 7	εν	ε	DET	DET	Case=Acc|Definite=Ind|Gender=Neut|Number=Sing|PronType=Ind	8	det	8:det	_
 8	κουµάσι	κουµάσι	NOUN	NOUN	Case=Acc|Gender=Masc|Number=Sing	_	_	_	_
 9	ήσαντε	είμαι	VERB	VERB	Aspect=Ιmp|Tense=Past|Number=Plur|Person=3|Voice=Act	0	root	0:root	_
-10	λια	λια	ADJ	ADJ	Case=Nom|Gender=Neut|Number=Sing	11	amod	11:amod	_
+10	λια	λια	NUM	ADJ	Case=Nom|Gender=Neut|Number=Sing	11	amod	11:amod	_
 11	'ρνίθε	ρνίθι	NOUN	NOUN	Case=Nom|Gender=Neut|Number=Sing	9	nsubj	9:nsubj	_
 12	τζαι	jαι	CCONJ	CCONJ	_	9	conj	9:conj	_
 13	α	α	DET	DET	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing|PronType=Ind	15	det	15:det	_
 14	ζόρι	ζόρι	ADJ	ADJ	Case=Nom|Gender=Neut|Number=Sing	15	amod	15:amod	_
-15	λαχτόρι	λαχτόρι	NOUN	NOUN	Case=Nom|Gender=Neut|Number=Sing	_	_	_	_
+15	λαχτόρι	λαχτόρι	NOUN	NOUN	Case=Nom|Gender=Neut|Number=Sing	9	nsubj	9:nsubj	_
 16	.	_	PUNCT	PUNCT	_	9	punct	9:punct	_
+
+
+# Phrase "Σα µ̟ρο τον ταρό," is not directly connected to the sentence. It works as additional info. That is why there is no relationship from root to the phrase.
+# Phrase "‘ς εν κουµάσι" the same as above.
