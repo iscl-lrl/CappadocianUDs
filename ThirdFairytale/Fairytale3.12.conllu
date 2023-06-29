@@ -12,7 +12,7 @@
 9	σ	σε	ADP	_	_	11	case	11:case	_
 10	το	το	DET	DET	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	11	det	11:det	_
 11	γουργούρι	γουργούρι	NOUN	NOUN	Case=Acc|Gender=Neut|Number=Sing	7	obl	7:obl	_
-12	ντα	να	AUX	conj	_	13	mark	13:mark	_
+12	ντα	να	AUX	CONJ	_	13	mark	13:mark	_
 13	πνίξει	πνίγω	VERB	VERB	Aspect=Ιmp|Number=Sing|Person=3|Voice=Act	7	ccomp	7:ccomp	_
 14	τεϊ	το	DET	DET	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	13	obj	13:obj	_
 15	.	_	PUNCT	PUNCT	_	1	punct	1:punct	_

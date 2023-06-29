@@ -1,0 +1,14 @@
+# sent_id = Fairytale 3.14
+# text = Νανόστε να νάβρει α δεβοσύνη, να κοµ̟ώσει τον αωπό.
+# text_en = he thought of finding a trick to trick the fox.
+1	Νανόστε	νανοῦμαι	VERB	VERB	Aspect=Ιmp|Tense=Past|Number=Sing|Person=3|Voice=Act	0	root	0:root	_
+2	να	να	ADP	CONJ	_	3	mark	3:mark	_
+3	νάβρει	βρίσκω	VERB	VERB	Aspect=Ιmp|Tense=Pres|Number=Sing|Person=3|Voice=Act	1	parataxis	1:parataxis	_
+4	α	α	NUM	DET	Case=Acc|Definite=Ind|Gender=Fem|Number=Sing	5	det	5:det	_
+5	δεβοσύνη	δεβοσύνη	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Sing	3	obj	3:obj	_
+6	,	_	PUNCT	PUNCT	_	8	punct	8:punct	_
+7	να	να	AUX	CONJ	_	8	mark	8:mark	_
+8	κοµ̟ώσει	(κομώνω)	VERB	VERB	Aspect=Ιmp|Tense=Pres|Number=Sing|Person=3|Voice=Act	3	conj	3:conj	_
+9	τον	ο	DET	DET	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	10:det	_
+10	αωπό	απός	NOUN	NOUN	Case=Acc|Gender=Masc|Number=Sing	8	obj	8:obj	_
+11	.	_	PUNCT	PUNCT	_	1	punct	1:punct	_
