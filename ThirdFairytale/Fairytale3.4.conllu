@@ -5,7 +5,11 @@
 2	τα	ο	DET	DET	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	obj	3:obj	_
 3	φήτζει	φήνω	VERB	VERB	Aspect=Ιmp|Tense=Past|Number=Sing|Person=3|Voice=Act	0	root	0:root	_
 4	να	να	SCONJ	SCONJ	_	5	mark	5:mark	_
-5	̟πνίξει	πνίγω	VERB	VERB	Aspect=Ιmp|Tense=Past|Number=Sing|Person=3|Voice=Act	3	iobj	3:iobj	_
+5	̟πνίξει	πνίγω	VERB	VERB	Aspect=Ιmp|Tense=Past|Number=Sing|Person=3|Voice=Act	3	obj	3:obj	_
 6	τα	το	DET	DET	Case=Acc|Definite=Def|Gender=Neut|Number=Plur|PronType=Art	7	det	7:det	_
 7	ρνίθε	ρνίθι	NOUN	NOUN	Case=Acc|Gender=Neut|Number=Plur	5	obj	5:obj	_
 8	.	_	PUNCT	PUNCT	_	3	punct	3:punct	_
+
+
+# "Μη" https://universaldependencies.org/treebanks/el_gdt/el_gdt-dep-advmod.html . Μη works like δεν from example 3.
+# "να πνίξει" works as an object of the root verb. This I decided by intuition.

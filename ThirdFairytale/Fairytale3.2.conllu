@@ -18,4 +18,5 @@
 
 # Phrase "Τόινα τη µία" acts like an introductory phrase providing temporal context. Thats why no specific relationship with the root. 
 # Phrase "σο κουµάσι" works as obl to the root. Here is why I gave this relationship: https://universaldependencies.org/treebanks/el_gdt/el_gdt-dep-case.html Example 3.
-# Phrase "να φα τα 'ρνίθε" https://universaldependencies.org/u/dep/advcl.html and: the phrase is analyzed as a non-finite clause with a nominal function that modifies the verb.
+# Phrase "να φα τα 'ρνίθε" https://universaldependencies.org/u/dep/advcl.html and: the phrase is analyzed as a non-finite clause with a nominal function that modifies
+# the verb.
