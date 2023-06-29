@@ -1,0 +1,8 @@
+# sent_id = Fairytale 3.15
+# text = Εί̟εν ‘τι κι:
+# text_en = TODO
+1	Εί̟εν	λαλώ	VERB	VERB	Aspect=Ιmp|Tense=Past|Number=Sing|Person=3|Voice=Act	0	root	0:root	_
+2	‘τι	di	DET	DET	_	1	mark	1:mark	_
+3	κι	ki	SCONJ	SCONJ	_	1	mark	1:mark	_
+4	:	_	PUNCT	PUNCT	_	1	punct	1:punct	_
+
