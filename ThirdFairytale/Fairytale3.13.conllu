@@ -1,0 +1,9 @@
+# sent_id = Fairytale 3.13
+# text = Είδεν το λαχτόρι κι πνίγεται. 
+# text_en = The rooster saw that he was drowning
+1	Είδεν	θεωρῶ	VERB	VERB	Aspect=Ιmp|Tense=Past|Number=Sing|Person=3|Voice=Act	0	root	0:root	_
+2	το	το	DET	DET	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	3	det	3:det	_
+3	λαχτόρι	λαχτόρι	NOUN	NOUN	Case=Nom|Gender=Neut|Number=Sing	1	nsubj	1:nsubj	_
+4	κι	κι	SCONJ	SCONJ	_	5	mark	5:mark	_
+5	πνίγεται	πνίγω	VERB	VERB	Aspect=Ιmp|Tense=Pres|Number=Sing|Person=3|Voice=Pass	1	ccomp	1:ccomp	_
+6	.	_	PUNCT	PUNCT	_	1	punct	1:punct	_
