@@ -1,0 +1,28 @@
+# sent_id = Fairytale 3.16
+# text = «Έ ντόστη, άφτσε µε τζαι µή µε πνίξεις, τζαι ‘γω να σα υπώ αν αχιλλούς κατζί».
+# text_en = TODO
+1	«	_	PUNCT	PUNCT	_	16	punct	16:punct	_
+2	Έ	ε	INTJ	_	_	_	_	_	_
+3	ντόστη	ντόστης	NOUN	NOUN	Case=Voc|Gender=Masc|Number=Sing	5	vocative	5:vocative	_
+4	,	_	PUNCT	PUNCT	_	16	punct	16:punct	_
+5	άφτσε	ἀφήνω	VERB	VERB	Aspect=Ιmp|Tense=Pres|Number=Sing|Person=2|Voice=Act	16	conj	16:conj	_
+6	µε	εγώ	PRON	PRON	Case=Acc|Definite=Def|Gender=Neut	5	obj	5:obj	_
+7	τζαι	jαι	SCONJ	_	_	10	cc	10:cc	_
+8	µή	μή	PART	ADV	_	10	advmod	10:advmod	_
+9	µε	εγώ	PRON	PRON	Case=Acc|Definite=Def|Gender=Neut	10	obj	10:obj	_
+10	πνίξεις	πνίγω	VERB	VERB	Aspect=Ιmp|Tense=Pres|Number=Sing|Person=2|Voice=Act	16	conj	16:conj	_
+11	,	_	PUNCT	PUNCT	_	16	punct	16:punct	_
+12	τζαι	jαι	CCONJ	CCONJ	_	16	conj	16:conj	_
+13	‘γω	εγώ	PRON	PRON	Case=Nom|Definite=Def|Gender=Neut	16	nsubj	16:nsubj	_
+14	να	να	AUX	CONJ	_	16	mark	16:mark	_
+15	σα	εσύ	AUX	CONJ	_	16	iobj	16:iobj	_
+16	υπώ	λαλώ	VERB	VERB	Aspect=Ιmp|Number=Sing|Person=1|Voice=Act	0	root	0:root	_
+17	αν	αν	NUM	DET	Case=Acc|Definite=Ind|Gender=Neut|Number=Sing	19	det	19:det	_
+18	αχιλλούς	hile	ADJ	ADJ	Degree=Pos|Gender=Neut|Number=Sing	19	nmod	19:nmod	_
+19	κατζί	κατζίν	NOUN	NOUN	Case=Acc|Gender=Neut|Number=Sing	16	obj	16:obj	_
+20	»	_	PUNCT	PUNCT	_	16	punct	16:punct	_
+21	.	_	PUNCT	PUNCT	_	16	punct	16:punct	_
+
+# "Μη" https://universaldependencies.org/treebanks/el_gdt/el_gdt-dep-advmod.html . Μη works like δεν from example 3.
+
+
