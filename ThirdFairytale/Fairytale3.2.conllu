@@ -14,3 +14,8 @@
 11	τα	το	DET	DET	Definite=Def|Case=Acc|Gender=Neut|Number=Plur	12	det	12:det	_
 12	'ρνίθε	ρνίθι	NOUN	NOUN	Case=Acc|Gender=Neut|Number=Plur	10	obj	10:obj	_
 13	.	_	PUNCT	PUNCT	_	4	punct	4:punct	_
+
+
+# Phrase "Τόινα τη µία" acts like an introductory phrase providing temporal context. Thats why no specific relationship with the root. 
+# Phrase "σο κουµάσι" works as obl to the root. Here is why I gave this relationship: https://universaldependencies.org/treebanks/el_gdt/el_gdt-dep-case.html Example 3.
+# Phrase "να φα τα 'ρνίθε" https://universaldependencies.org/u/dep/advcl.html and: the phrase is analyzed as a non-finite clause with a nominal function that modifies the verb.
