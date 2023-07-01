@@ -1,0 +1,17 @@
+# sent_id = Fairytale 3.29
+# text = Τζαι στέρου ποικ το κέιφι σου τζαι φα µε µο το χουζούρι σου.
+# text_en = And then have fun and eat me in peace.
+1	Τζαι	jαι	CCONJ	CCONJ	_	3	cc	3:cc	_
+2	στέρου	στέρου	ADV	ADV	Degree=Pos	3	advmod	3:advmod	_
+3	ποικ	ποιῶ	VERB	VERB	Aspect=Perf|Mood=Imp|Number=Sing|Person=2|Tense=Pres|Verbform=Fin|Voice=Act	8	conj	8:conj	_
+4	το	το	DET	DET	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	5	det	5:det	_
+5	κέιφι	kef	NOUN	NOUN	Case=Acc|Gender=Neut|Number=Sing	3	obj	3:obj	_
+6	σου	εσύ	PRON	PRON	Case=Gen|Number=Sing	5	nmod:poss	5:nmod:poss	_
+7	τζαι	jαι	CCONJ	CCONJ	_	8	cc	8:cc	_
+8	φα	φάω	VERB	VERB	Aspect=Perf|Mood=Ip|Number=Sing|Person=2|Tense=Pres|Verbform=Fin|Voice=Act	0	root	0:root	_
+9	µε	ἐγώ	PRON	PRON	Case=Acc|Number=Sing	8	obj	8:obj	_
+10	µο	με	ADP	ADP	_	12	case	12:case	_
+11	το	το	DET	DET	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	12	dep	12:dep	_
+12	χουζούρι	huzur	NOUN	NOUN	Case=Acc|Gender=Neut|Number=Sing	8	obl	8:obl	_
+13	σου	εσύ	PRON	PRON	Case=Gen|Number=Sing	12	nmod:poss	12:nmod:poss	_
+14	.	.	PUNCT	PUNCT	_	8	punct	8:punct	_
