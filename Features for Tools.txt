@@ -1,0 +1,54 @@
+Features for the UD
+
+
+Verb: Aspect=Perf|Mood|Number|Person|Tense|Verbform|Voice=Pass
+1.Aspect = Στιγμικό ή όχι.
+Νεα προσθήκη: MOOD ---> Imp: Προστακτική
+                        Ind: ολα τα υπολοιπα
+                        Empty: Για μετοχή
+
+              VerbForm ---> Conv: Ενεργητικη μετοχη
+                            Part: Παθητική μετοχή
+                            Fin: Κανονικό ρήμα
+                            Inf: "Απαρέμφατο"
+
+AUX: Aspect=Perf|Mood|Number|Person|Tense|Verbform|Voice=Pass
+	
+Mood ---> Ind: είναι, πρέπει, ήταν, έχει κτλ
+                  Empty: να, θα, ας
+
+Adj:  Case|Degree|Gender=Neut|Number=Plur|NumType
+
+  Νέα προσθηκη NumType: Mult --> πχ διπλάσιο, διπλό
+                        Ord --> Σειρά
+                       
+
+Noun: Case=Nom|Gender=Neut|Number=Plur
+Det:  Case=Nom|Definite=Def|Gender=Neut|Number=Plur|PronType=Art (Μόνο για οριστικό αρθ)
+Pron: Case=Nom|Gender=Neut|Number=Plur|Pos
+    
+Νεα προσθήκη: Poss ---> Yes: ναι ειναι κτητικό 
+                        EMPTY: ΌΧΙ 
+              PronType ---> Dem: Δεικτικό
+                            Ind: Αόριστο
+                            Ind,Rel: Ποσοτικό
+                            Ιnt: ερωτηματικό
+                            Prs: κτητικό
+                            Rel: αναφορικό
+
+
+Num:  Case=Nom|Gender=Neut|Number=Plur|NumType
+     Νεα προσθήκη --> NumType: Card:απλοί
+                               Sets: σετ (δεκάδες, χιλιάδες)
+
+
+
+ADV: Degree.
+
+
+ΠΡΟΣΟΧΗ: 
+1.ΣΒΗΣΕ ΤΟ FOREIGN - ΟΤΑΝ ΒΡΕΙΣ ΤΟ ΕΠΙΘΕΤΟ --> ΑΛΛΑΞΕ ΤΟ POS
+2. ΒΑΖΟΥΜΕ ΣΤΟ ΛΗΜΜΑ ΤΟΝ ΤΥΠΟ ΤΗΣ ΣΤΙΞΗΣ.
+3. ΟΤΑΝ ΔΕΝ ΒΡΙΣΚΟΥΜΕ ΛΗΜΜΑ ΒΑΖΟΥΜΕ ΤΗ ΛΕΞΗ ΣΕ ΠΑΡΕΝΘΕΣΗ.
+4. ΚΑΠΟΙΑ PRON ΕΧΟΥΝ ΛΕΙΤΟΥΡΓΙΑ DET ΚΑΙ ΤΑ ΒΑΖΟΥΜΕ ΣΕ POSTAG DET
+5. Τα χωρίζουμε τα ADP σε ΑDP( σ) + det(o)
