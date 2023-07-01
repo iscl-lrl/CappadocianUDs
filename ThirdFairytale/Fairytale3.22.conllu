@@ -1,0 +1,26 @@
+# sent_id = Fairytale 3.22
+# text = Χα τιδέ είπα σε τ’ αβούτζι αν ασλανίχι να ‘ουµε π’ α µε ποικ τεϊ».
+# text_en = Yes, I told you one joke to see what you will do to me»
+1	Χα	χα	INTJ	_	_	_	_	_	_
+2	τιδέ	τιδέ	ADV	ADV	_	3	advmod	3:advmod	_
+3	είπα	λαλώ	VERB	VERB	Aspect=Ιmp|Tense=Past|Number=Sing|Person=1|Voice=Act	0	root	0:root	_
+4	σε	εσύ	PRON	PRON	Case=Acc|Definite=Def	3	iobj	3:iobj	_
+5	τ’	το	DET	DET	Definite=Def|Gender=Neut|Number=Sing|Case=Acc|PronType=Art	6	det	6:det	_
+6	αβούτζι	αβούτζι	ADV	ADV	_	3	advmod	3:advmod	_
+7	αν	αω	NUM	NUM	Case=Acc|Definite=Ind|Gender=Neut|Number=Sing	8	nummod	8:nummod	_
+8	ασλανίχι	ασλανίχι	NOUN	Case=Acc|Gender=Neut|Number=Sing	_	3	obj	3:obj	_
+9	να	να	SCONJ	SCONJ	_	10	mark	10:mark	_
+10	‘ουµε	θεωρῶ	VERB	VERB	Aspect=Ιmp|Number=Plur|Person=1|Voice=Act	3	xcomp	3:xcomp	_
+11	π’	πα	PRON	PRON	Case=Acc|Definite=Def	14	obj	14:obj	_
+12	α	α	SCONJ	SCONJ	_	14	mark	14:mark	_
+13	µε	εγώ	PRON	PRON	Case=Acc|Definite=Def	14	iobj	14:iobj	_
+14	ποικ	ποιῶ	VERB	VERB	Aspect=Ιmp|Tense=Pres|Number=Sing|Person=2|Voice=Act	10	xcomp	10:xcomp	_
+15	τεϊ	τεϊ	INTJ	_	_	_	_	_	_
+16	»	_	PUNCT	PUNCT	_	3	punct	3:punct	_
+17	.	_	PUNCT	PUNCT	_	3	punct	3:punct	_
+
+
+# χα according to Dawkins is a particle that is used before the subject in Pharasa to express
+# the apodosis of an unfulfilled condition.
+# δε from αδε==here. used also as an indecl.demonstrative.
+# αβουτσι==ετσι
