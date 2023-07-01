@@ -1,0 +1,7 @@
+# sent_id = Fairytale 3.38
+# text = Αωπός ενότουν πουσμάνι.
+# text_en = The fox regretted it.
+1	Αωπός	απός	NOUN	NOUN	Case=Nom|Gender=Masc|Number=Sing	2	nsubj	2:nsubj	_
+2	ενότουν	νανοῦμαι	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|Verbform=Fin|Voice=Act	0	root	0:root	_
+3	πουσµάνι	(πουσµάνι)	NOUN	NOUN	Case=Acc|Gender=Neut|Number=Sing	2	obj	2:obj	_
+4	.	.	PUNCT	PUNCT	_	2	punct	2:punct	_
