@@ -1,22 +1,22 @@
 # sent_id = Fairytale 3.37
 # text = Τε στέρου σιτσιράτσεν σ’ απού τη χαραή, τσιρμαλάτσεν τα, έβκαλεν τα φτάλμε του ποίτζεν dα κοριένι.
 # text_en = And then it jumped to the fox's face, it scratched it, gouged out its eyes, it blinded it.
-1	Τε	_	_	_	_	_	_	_	_
-2	στέρου	_	_	_	_	_	_	_	_
-3	σιτσιράτσεν	_	VERB	_	_	_	_	_	_
-4	σ’	_	ADP	_	_	_	_	_	_
-5	απού	_	NOUN	_	_	_	_	_	_
-6	τη	_	DET	_	_	_	_	_	_
-7	χαραή	_	NOUN	_	_	_	_	_	_
-8	,	_	PUNCT	_	_	_	_	_	_
-9	τσιρµαλάτσεν	_	VERB	_	_	_	_	_	_
-10	τα	_	NOUN	_	_	_	_	_	_
-11	,	_	PUNCT	_	_	_	_	_	_
-12	έβκαλεν	_	VERB	_	_	_	_	_	_
-13	τα	_	DET	_	_	_	_	_	_
-14	φτάλµε	_	NOUN	_	_	_	_	_	_
-15	του	_	DET	_	_	_	_	_	_
-16	ποίτζεν	_	_	_	_	_	_	_	_
-17	dα	_	_	_	_	_	_	_	_
-18	κοριένι	_	_	_	_	_	_	_	_
-19	.	_	PUNCT	_	_	_	_	_	_
+1	Τε	_	INTJ	_	_	_	_	_	_
+2	στέρου	_	ADV	ADV	_	3	advmod	3:advmod	_
+3	σιτσιράτσεν	_	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|Verbform=Fin|Voice=Act	0	root	0:root	_
+4	σ’	σε	ADP	ADP	_	7	mark	7:mark	_
+5	απού	απός	NOUN	NOUN	Case=Gen|Gender=Masc|Number=Sing	7	nmod:poss	7:nmod:poss	_
+6	τη	η	DET	DET	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	7:det	_
+7	χαραή	_	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Sing	3	expl	3:expl	_
+8	,	,	PUNCT	PUNCT	_	3	punct	3:punct	_
+9	τσιρµαλάτσεν	_	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|Verbform=Fin|Voice=Act	3	conj	3:conj	_
+10	τα	ο	NOUN	NOUN	Case=Acc|Gender=Masc|Number=Sing	9	obj	9:obj	_
+11	,	,	PUNCT	PUNCT	_	3	punct	3:punct	_
+12	έβκαλεν	βγαίνω	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|Verbform=Fin|Voice=Act	3	conj	3:conj	_
+13	τα	οι	DET	DET	Case=Acc|Definite=Def|Gender=Masc|Number=Plur|PronType=Art	14	det	14:det	_
+14	φτάλµε	ὀθφαλμός	NOUN	NOUN	Case=Acc|Gender=Masc|Number=Plur	12	obj	12:obj	_
+15	του	ο	DET	DET	Case=Gen|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	14	nmod:poss	14:nmod:poss	_
+16	ποίτζεν	(ποιῶ)	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|Verbform=Fin|Voice=Act	3	conj	3:conj	_
+17	dα	το	DET	DET	Case=Acc|Definite=Def|Gender=Neut|Number=Plur|PronType=Art	18	det	18:det	_
+18	κοριένι	_	NOUN	NOUN	Case=Acc|Gender=Neut|Number=Plur	16	obj	16:obj	_
+19	.	.	PUNCT	PUNCT	_	3	punct	3:punct	_
