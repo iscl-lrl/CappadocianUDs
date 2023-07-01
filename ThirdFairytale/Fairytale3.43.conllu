@@ -1,0 +1,17 @@
+# sent_id = Fairytale 3.41
+# text = Έφαγαν, έπαν, έφτασαν σα μουράτε τουν.
+# text_en = They ate, they drank, they lived happily ever after.
+1	Έφαγαν	τρώγω	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|Verbform=Fin|Voice=Act	5	conj	5:conj	_
+2	,	,	PUNCT	PUNCT	_	5	punct	5:punct	_
+3	έπαν	πίνω	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|Verbform=Fin|Voice=Act	5	conj	5:conj	_
+4	,	,	PUNCT	PUNCT	_	5	punct	5:punct	_
+5	έφτασαν	φτάνω	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|Verbform=Fin|Voice=Act	0	root	0:root	_
+6	σ	σε	ADP	ADP	_	8	mark	8:mark	_
+7	α	το	DET	DET	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	8	dep	8:dep	_
+8	µουράτε	murad	NOUN	NOUN	Case=Acc|Gender=Neut|Number=Sing	5	expl	5:expl	_
+9	τουν	το	PRON	PRON	Case=Gen|Number=Sing	8	nmod:poss	8:nmod:poss	_
+10	.	.	PUNCT	PUNCT	_	5	punct	5:punct	_
+
+
+# Μουρατε comes from the turkish murad. It used in the phrase at the end of a tale. "They 
+# fullfiled their desires" it is a verb I think.
