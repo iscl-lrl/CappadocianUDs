@@ -1,0 +1,10 @@
+# sent_id = Fairytale 3.20
+# text = Γω είµαι άλεϊ φυακιάρ’.
+# text_en = I'm a simple guardian.
+1	Γω	ἐγώ	PRON	PRON	Case=Nom|Definite=Def	2	nsubj	2:nsubj	_
+2	είµαι	είµαι_	VERB	VERB	Aspect=Ιmp|Tense=Pres|Number=Sing|Person=1|Voice=Act	0	root	0:root	_
+3	άλεϊ	άλεϊ(ς)	ADJ	ADJ	Degree=Pos|Gender=Masc|Number=Sing	4	nmod	4:nmod	_
+4	φυακιάρ’	φυακιάρης	NOUN	NOUN	Case=Nom|Gender=Masc|Number=Sing	2	expl	2:expl	_
+5	.	_	PUNCT	PUNCT	_	2	punct	2:punct	_
+
+# I couldn't find a lemma for "άλεϊ"
