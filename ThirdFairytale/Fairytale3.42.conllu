@@ -1,0 +1,24 @@
+# sent_id = Fairytale 3.42
+# text = Σ'του λαχτορού το λάληλα ξύπνησαν οι χωρότοι ήρταν, πιέσαν τον κιορ αωπό, κόνσαν τα σον dερέ.
+# text_en = The crowing of the rooster woke up the villagers, they came, caught the blind fox, threw it into the stream.
+1	Σ'	σε	ADP	ADP	_	3	case	3:case	_
+2	του	το	DET	DET	Case=Gen|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	3	det	3:det	_
+3	λαχτορού	λαχτόρι	NOUN	NOUN	Case=Gen|Gender=Neut|Number=Sing	5	nmod:poss	5:nmod:poss	_
+4	το	το	DET	DET	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	5	det	5:det	_
+5	λάληλα	(λάληλα)	NOUN	NOUN	Case=Nom|Gender=Neut|Number=Sing	6	obl	6:obl	_
+6	ξύπνησαν	ξυπνῶ	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|Verbform=Fin|Voice=Act	0	root	0:root	_
+7	οι	οι	DET	DET	Case=Nom|Definite=Def|Gender=Masc|Number=Plur|PronType=Art	8	det	8:det	_
+8	χωρότοι	χωρώτ	NOUN	NOUN	Case=Nom|Gender=Masc|Number=Sing	6	nsubj	6:nsubj	_
+9	ήρταν	ἔρχομαι	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|Verbform=Fin|Voice=Act	6	conj	6:conj	_
+10	,	,	PUNCT	PUNCT	_	6	punct	6:punct	_
+11	πιέσαν	πιάνω	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|Verbform=Fin|Voice=Act	6	conj	6:conj	_
+12	τον	ο	DET	DET	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	14	det	14:det	_
+13	κιορ	κιορ	ADJ	ADJ	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	14	amod	14:amod	_
+14	αωπό	απός	NOUN	NOUN	Case=Acc|Gender=Masc|Number=Sing	11	obj	11:obj	_
+15	,	,	PUNCT	PUNCT	_	6	punct	6:punct	_
+16	κόνσαν	κολῶ	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|Verbform=Fin|Voice=Act	6	conj	6:conj	_
+17	τα	ο	DET	DET	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	16	obj	16:obj	_
+18	σ	σε	ADP	ADP	_	20	mark	20:mark	_
+19	ον	o	DET	DET	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	20	det	20:det	_
+20	dερέ	dere	NOUN	NOUN	Case=Acc|Gender=Masc|Number=Sing	16	obl	16:obl	_
+21	.	.	PUNCT	PUNCT	_	6	punct	6:punct	_
