@@ -1,0 +1,13 @@
+# sent_id = Fairytale 3.26
+# text = Α µε φας α υ̟ά.
+# text_en = You will eat me and go.
+1	Α	α	AUX	AUX	_	3	mark	3:mark	_
+2	µε	ἐγώ	PRON	PRON	Case=Acc|Number=Sing	3	obj	3:obj	_
+3	φας	φάω	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=2|Tense=Past|Verbform=Fin|Voice=Act	0	root	0:root	_
+4	α	α	AUX	AUX	_	5	mark	5:mark	_
+5	υπά	ὑπάω	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=2|Tense=Past|Verbform=Fin|Voice=Act	_	_	_	_
+6	.	.	PUNCT	PUNCT	_	3	punct	3:punct	_
+
+
+# υπαω ρημα ==πηγαινω, α is a particle followed by subj to express the future.
+# No clear relationship between the two verbs could be established. 
