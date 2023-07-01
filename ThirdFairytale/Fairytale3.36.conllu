@@ -1,0 +1,10 @@
+# sent_id = Fairytale 3.36
+# text = Το λαχτόρι άλτσε δύο τρία φορές.
+# text_en = The rooster crowed two three times.
+1	Το	το	DET	DET	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	2	det	2:det	_
+2	λαχτόρι	λαχτόρι	NOUN	NOUN	Case=Nom|Gender=Neut|Number=Sing	3	nsubj	3:nsubj	_
+3	άλτσε	λαλώ	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|Verbform=Fin|Voice=Act	0	root	0:root	_
+4	δύο	δύο	NUM	NUM	Case=Acc|Gender=Fem|Number=Plur|NumType=Card	6	nummod	6:nummod	_
+5	τρία	τρία	NUM	NUM	Case=Acc|Gender=Fem|Number=Plur|NumType=Card	6	nummod	6:nummod	_
+6	φορές	φορά	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Plur	3	nmod	3:nmod	_
+7	.	.	PUNCT	PUNCT	_	3	punct	3:punct	_
