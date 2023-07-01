@@ -1,0 +1,20 @@
+# sent_id = Fairytale 3.32
+# text = «Χύτα να βκούμε σο δώμα, να 'ινεί το στερνό σου το χατίρι».
+# text_en = "Run, let's go out on the roof, let's fulfill your last wish".
+1	«	«	PUNCT	PUNCT	_	2	punct	2:punct	_
+2	Χύτα	(χυτώ)	VERB	VERB	Aspect=Perf|Mood=Imp|Number=Sing|Person=2|Tense=Pres|Verbform=Fin|Voice=Act	0	root	0:root	_
+3	να	να	AUX	AUX	_	4	mark	4:mark	_
+4	βκούµε	βγαίνω	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Tense=Pres|Verbform=Fin|Voice=Act	2	xcomp	2:xcomp	_
+5	σ	σε	ADP	ADP	_	7	case	7:case	_
+6	ο	ο	DET	DET	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	7	det	7:det	_
+7	δώµα	δώµα	NOUN	NOUN	Case=Acc|Gender=Neut|Number=Sing	2	obl	2:obl	_
+8	,	,	PUNCT	PUNCT	_	2	punct	2:punct	_
+9	να	να	AUX	AUX	_	10	mark	10:mark	_
+10	'ινεί	γίνομαι	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Verbform=Fin|Voice=Act	2	xcomp	2:xcomp	_
+11	το	το	DET	DET	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	12	det	12:det	_
+12	στερνό	στερνός	ADJ	ADJ	_	15	amod	15:amod	_
+13	σου	εσύ	PRON	PRON	Case=Gen|Number=Sing	15	nmod:poss	15:nmod:poss	_
+14	το	το	DET	DET	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	15	det	15:det	_
+15	χατίρι	χατίρι	NOUN	NOUN	Case=Acc|Gender=Neut|Number=Sing	10	obj	10:obj	_
+16	»	»	PUNCT	PUNCT	_	2	punct	2:punct	_
+17	.	.	PUNCT	PUNCT	_	2	punct	2:punct	_
