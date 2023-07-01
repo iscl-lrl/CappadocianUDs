@@ -1,0 +1,19 @@
+# sent_id = Fairytale 3.30
+# text = Εδώ τζαι συ ντάμα μου να σεριανείς του χωρού τα κουμάσα».
+# text_en = Come with me to serge the henhouses of the village"
+1	Εδώ	ἐδῶ	ADV	ADV	_	7	advmod	7:advmod	_
+2	τζαι	jαι	CCONJ	CCONJ	_	7	cc	7:cc	_
+3	συ	εσύ	PRON	PRON	Case=Νom|Number=Sing	7	nsubj	7:nsubj	_
+4	ντάµα	(ντάµα)	NOUN	NOUN	Case=Nom|Gender=Fem|Number=Sing	3	expl	3:expl	_
+5	µου	ἐγώ	PRON	PRON	Case=Gen|Number=Sing	4	nmod:poss	4:nmod:poss	_
+6	να	να	AUX	AUX	_	7	mark	7:mark	_
+7	σεριανείς	(σεριανίζω)	VERB	VERB	Aspect=Imp|Mood=Imp|Number=Sing|Person=2|Tense=Pres|Verbform=Fin|Voice=Act	0	root	0:root	_
+8	του	το	DET	DET	Case=Gen|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	9	det	9:det	_
+9	χωρού	χωρίο	NOUN	NOUN	Case=Gen|Gender=Neut|Number=Sing	11	nmod:poss	11:nmod:poss	_
+10	τα	το	DET	DET	Case=Acc|Definite=Def|Gender=Neut|Number=Plur|PronType=Art	11	det	11:det	_
+11	κουµάσα	κουμάσι	NOUN	NOUN	Case=Acc|Gender=Neut|Number=Plur	7	obj	7:obj	_
+12	»	»	PUNCT	PUNCT	_	7	punct	7:punct	_
+13	.	.	PUNCT	PUNCT	_	7	punct	7:punct	_
+
+
+#εδω+means+here+but+in+pharase+it+is+used+as+come!&oq=εδω+means+here+but+in+pharase+it+is+used+as+come!
