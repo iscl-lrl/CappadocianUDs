@@ -1,0 +1,18 @@
+# sent_id = Fairytale 3.35
+# text = Αωπός μετρά του χωρού τα κουμάσα, σαίρεται τα πουά 'ρνίθα του χα φα.
+# text_en = The fox counts the chicken coops of the village, gets excited about the many hens he will eat.
+1	Αωπός	απός	NOUN	NOUN	Case=Nom|Gender=Masc|Number=Sing	2	nsubj	2:nsubj	_
+2	µετρά	μετρῶ	VERB	VERB	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Verbform=Fin|Voice=Act	0	root	0:root	_
+3	του	το	DET	DET	Case=Gen|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	4	det	4:det	_
+4	χωρού	χωρίο	NOUN	NOUN	Case=Gen|Gender=Neut|Number=Sing	6	nmod:poss	6:nmod:poss	_
+5	τα	το	DET	DET	Case=Acc|Definite=Def|Gender=Neut|Number=Plur|PronType=Art	6	det	6:det	_
+6	κουµάσα	κουμάσι	NOUN	NOUN	Case=Acc|Gender=Neut|Number=Plur	2	obj	2:obj	_
+7	,	,	PUNCT	PUNCT	_	2	punct	2:punct	_
+8	σαίρεται	χαίρομαι	VERB	VERB	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Verbform=Fin|Voice=Act	2	conj	2:conj	_
+9	τα	το	DET	DET	Case=Acc|Definite=Def|Gender=Neut|Number=Plur|PronType=Art	11	det	11:det	_
+10	πουά	πόσα	ADJ	ADJ	Case=Acc|Degree=Pos|Gender=Neut|Number=Plur	11	nmod	11:nmod	_
+11	'ρνίθα	ρνίθι	NOUN	NOUN	Case=Acc|Gender=Neut|Number=Plur	14	obj	14:obj	_
+12	του	του	ADP	ADP	_	14	case	14:case	_
+13	χα	χα	SCONJ	SCONJ	_	14	mark	14:mark	_
+14	φα	φάω	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Verbform=Fin|Voice=Act	8	xcomp	8:xcomp	_
+15	.	.	PUNCT	PUNCT	_	2	punct	2:punct	_
