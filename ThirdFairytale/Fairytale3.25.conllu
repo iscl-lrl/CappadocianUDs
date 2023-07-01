@@ -1,0 +1,10 @@
+# sent_id = Fairytale 3.24
+# text = Είπεν τι τζαι το λαχτόρι κι: 
+# text_en = 
+1	Είπεν	λαλώ	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|Verbform=Fin|Voice=Act	0	root	0:root	_
+2	τι	di	SCONJ	SCONJ	_	1	mark	1:mark	_
+3	τζαι	jαι	CCONJ	CCONJ	_	1	conj	1:conj	_
+4	το	το	DET	DET	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	5	dep	5:dep	_
+5	λαχτόρι	λαχτόρι	NOUN	NOUN	Case=Nom|Gender=Neut|Number=Sing	1	nsubj	1:nsubj	_
+6	κι	ki	SCONJ	SCONJ	_	1	mark	1:mark	_
+7	:	:	PUNCT	PUNCT	_	1	punct	1:punct	_
