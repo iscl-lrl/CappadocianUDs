@@ -1,0 +1,10 @@
+# sent_id = Fairytale3.17
+# text = Λέ’ ‘τι τζ’ αωπός: 
+# text_en = The fox says: 
+1	Λέ’	λαλώ	VERB	VERB	Aspect=Ιmp|Tense=Pres|Number=Sing|Person=3|Voice=Act	0	root	0:root	_
+2	‘τι	di	SCONJ	SCONJ	_	1	mark	1:mark	_
+3	τζ’	ki	SCONJ	SCONJ	_	1	mark	1:mark	_
+4	αωπός	απός	NOUN	NOUN	Case=Nom|Gender=Masc|Number=Sing	1	nsubj	1:nsubj	_
+5	:	_	PUNCT	PUNCT	_	1	punct	1:punct	_
+
+# "τζ’" here is the word ki.
