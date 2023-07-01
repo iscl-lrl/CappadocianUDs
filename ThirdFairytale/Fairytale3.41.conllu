@@ -1,0 +1,25 @@
+# sent_id = Fairytale 3.41
+# text = Ήτουν σα σέρε μου, κέσκε ντα φάω τσας τα είχα σα σέρε μου».
+# text_en = He was in my hands, I wish I could eat him when I had him in my hands".
+1	Ήτουν	είμαι	VERB	VERB	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Verbform=Fin|Voice=Act	0	root	0:root	_
+2	σ	σε	ADP	ADP	_	4	mark	4:mark	_
+3	α	το	DET	DET	Case=Acc|Definite=Def|Gender=Neut|Number=Plur|PronType=Art	4	det	4:det	_
+4	σέρε	σέρι	NOUN	NOUN	Case=Acc|Gender=Neut|Number=Plur	1	obl	1:obl	_
+5	µου	ἐγώ	PRON	PRON	Case=Gen|Number=Sing	4	nmod:poss	4:nmod:poss	_
+6	,	,	PUNCT	PUNCT	_	1	punct	1:punct	_
+7	κέσκε	keske	PART	PART	_	_	_	_	_
+8	ν	να	AUX	AUX	_	10	mark	10:mark	_
+9	τα	το	DET	DET	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	10	obj	10:obj	_
+10	φάω	τρώγω	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Verbform=Fin|Voice=Act	1	advcl	1:advcl	_
+11	τσας	τσας	ADV	_	_	10	advmod	10:advmod	_
+12	τα	το	DET	DET	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	13	obj	13:obj	_
+13	είχα	_	VERB	VERB	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Verbform=Fin|Voice=Act	1	advcl	1:advcl	_
+14	σ	σε	ADP	ADP	_	16	mark	16:mark	_
+15	α	το	DET	DET	Case=Acc|Definite=Def|Gender=Neut|Number=Plur|PronType=Art	16	det	16:det	_
+16	σέρε	σέρι	NOUN	NOUN	Case=Acc|Gender=Neut|Number=Plur	13	obl	13:obl	_
+17	µου	ἐγώ	PRON	PRON	Case=Gen|Number=Sing	16	nmod:poss	16:nmod:poss	_
+18	»	»	PUNCT	PUNCT	_	1	punct	1:punct	_
+19	.	.	PUNCT	PUNCT	_	1	punct	1:punct	_
+
+
+# Keske is a particle introducing a wish
