@@ -1,0 +1,26 @@
+# sent_id = Fairytale 3.40
+# text = «Απιδέ στέρου να νάχω τ’ αχίλι μου σο τσουφάλι μου, τζαι αβούτζι να μη με ζαναχεύει αν πίσι λαχτόρι.
+# text_en = "From now on, I should have my mind in my head, so I won't be mocked by a dumb, dirty rooster.
+1	«	«	PUNCT	PUNCT	_	5	punct	5:punct	_
+2	Απιδέ	ἀπιδού	ADV	ADV	_	5	advmod	5:advmod	_
+3	στέρου	στέρου	ADV	ADV	_	5	advmod	5:advmod	_
+4	να	να	AUX	AUX	_	5	mark	5:mark	_
+5	νάχω	έχω	VERB	VERB	Aspect=Imp|Mood=Imp|Number=Sing|Person=1|Verbform=Fin|Voice=Act	0	root	0:root	_
+6	τ’	τ	DET	DET	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	7	det	7:det	_
+7	αχίλι	αχίλι	NOUN	NOUN	Case=Acc|Gender=Neut|Number=Sing	5	obj	5:obj	_
+8	µου	ἐγώ	PRON	PRON	Case=Gen|Number=Sing	7	nmod:poss	7:nmod:poss	_
+9	σ	σε	ADP	_	_	11	case	11:case	_
+10	ο	ο	DET	DET	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	11	det	11:det	_
+11	τσουφάλι	τσουφάλι	NOUN	NOUN	Case=Acc|Gender=Neut|Number=Sing	5	nmod	5:nmod	_
+12	µου	ἐγώ	PRON	PRON	Case=Gen|Number=Sing	11	nmod:poss	11:nmod:poss	_
+13	,	,	PUNCT	PUNCT	_	5	punct	5:punct	_
+14	τζαι	jαι	CCONJ	CCONJ	_	5	cc	5:cc	_
+15	αβούτζι	αβούτζι	ADV	ADV	_	19	advmod	19:advmod	_
+16	να	να	AUX	AUX	_	19	det	19:det	_
+17	µη	μη	PART	PART	_	19	advmod	19:advmod	_
+18	µε	ἐγώ	PRON	PRON	Case=Acc|Number=Sing	19	obj	19:obj	_
+19	ζαναχεύει	_	VERB	VERB	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Verbform=Fin|Voice=Act	5	conj	5:conj	_
+20	αν	αν	NUM	NUM	Case=Nom|Gender=Neut|Number=Sing	22	nummod	22:nummod	_
+21	πίσι	pis	ADJ	ADJ	_	22	amod	22:amod	_
+22	λαχτόρι	λαχτόρι	NOUN	NOUN	Case=Nom|Gender=Neut|Number=Sing	19	nsubj	19:nsubj	_
+23	.	.	PUNCT	PUNCT	_	5	punct	5:punct	_
