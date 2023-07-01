@@ -1,0 +1,13 @@
+1	Ήρταν	ἒρχουμι	VERB	VERB	Aspect=Perf|Number=Plur|Person=3|Tense=Past|Voice=Pass	0	root	0:root	_
+2	τζαι	jαι	CCONJ	CCONJ	_	1	cc	1:cc	_
+3	σ	σε	ADP	ADP	_	5	case	5:case	_
+4	το	το	DET	DET	Definite=Def|Gender=Neut|Number=Sing|Case=Acc||PronType=Art	5	det	5:det	_
+5	ορμάνι	ὀρμάν(ι)	NOUN	NOUN	Gender=Neut|Number=Sing|Case=Acc	1	obl	1:obl	_
+6	ατόνε	ατό	DET	DET	Definite=Def|Gender=Neut|Number=Sing|Case=Acc||PronType=Dem	5	det	5:det	_
+7	τα	το	DET	DET	Definite=Def|Gender=Neut|Number=Plur|Case=Nom||PronType=Art	8	det	8:det	_
+8	’πομεινά	πομεινό	ADJ	ADJ	Gender=Neut|Number=Plur|Case=Nom	12	amod	12:amod	_
+9	του	το	DET	DET	Definite=Def|Gender=Neut|Number=Sing|Case=Gen||PronType=Art	10	det	10:det	_
+10	ρουσού	ρουσί	NOUN	NOUN	Gender=Neut|Number=Sing|Case=Gen	12	nmod	12:nmod	_
+11	τα	το	DET	DET	Definite=Def|Gender=Neut|Number=Plur|Case=Nom||PronType=Art	12	det	12:det	_
+12	χαϊβανόκκα	χαϊβαν(ι)	NOUN	NOUN	Gender=Neut|Number=Plur|Case=Nom	1	nsubj	1:nsubj	_
+13	.	.	PUNCT	PUNCT	_	1	punct	1:punct	_

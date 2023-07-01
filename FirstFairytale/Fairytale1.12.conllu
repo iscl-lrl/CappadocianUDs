@@ -1,0 +1,11 @@
+1	Σο	σε	ADP	ADP	_	2	case	2:case	_
+2	μεντζιλίσι	menjουλίσι	NOUN	NOUN	Gender=Masc|Number=Plur|Case=Acc	6	obl	6:obl	_
+3	τα	το	DET	DET	Definite=Def|Gender=Neut|Number=Plur|Case=Nom||PronType=Art	4	det	4:det	_
+4	τζαναβάρα	jαναβάρι	NOUN	NOUN	Gender=Neut|Number=Plur|Case=Nom	6	nsubj	6:nsubj	_
+5	,	,	PUNCT	PUNCT	_	6	punct	6:punct	_
+6	έβγκαλαν	βγάζω	VERB	VERB	_	0	root	0:root	_
+7	τσουφαλάς	çουφαλάς	ADJ	ADJ	_	_	_	_	_
+8	τουνε	το	PRON	PRON	Definite=Def|Gender=Neut|Number=Plur|Case=Gen||PronType=Art	7	nmod	7:nmod	_
+9	τον	O	DET	DET	Definite=Def|Gender=Masc|Number=Plur|Case=Acc||PronType=Art	10	det	10:det	_
+10	αωπό	αωπός	NOUN	NOUN	Gender=Masc|Number=Plur|Case=Acc	_	_	_	_
+11	.	.	PUNCT	PUNCT	_	6	punct	6:punct	_

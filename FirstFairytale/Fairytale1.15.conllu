@@ -1,0 +1,13 @@
+1	Κάτα	_	DET	DET	_	2	det	_	_
+2	ημέρα	_	NOUN	NOUN	_	3	obl	_	_
+3	έρχονται	_	VERB	VERB	_	0	root	_	_
+4	οι	_	DET	DET	_	5	det	_	_
+5	τζυνη'οί	_	NOUN	NOUN	_	3	nsubj	_	_
+6	τζαι	_	CCONJ	CCONJ	_	8	cc	_	_
+7	μες	_	PRON	PRON	_	8	obj	_	_
+8	σκοτώνουν	_	VERB	VERB	_	3	conj	_	_
+9	τζάπου	_	ADV	ADV	_	12	advmod	_	_
+10	να	_	AUX	AUX	_	12	aux	_	_
+11	μες	_	PRON	PRON	_	12	obj	_	_
+12	εύρουν	_	VERB	VERB	_	_	_	_	_
+13	.	_	PUNCT	PUNCT	_	3	punct	_	_

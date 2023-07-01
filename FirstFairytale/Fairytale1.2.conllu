@@ -4,7 +4,7 @@
 4	ταρό	ταρός	NOUN	NOUN	Gender=Masc|Number=Sing	_	_	_	_
 5	,	_	PUNCT	PUNCT	_	4	punct	_	_
 6	του	το	DET	DET	Definite=Def|Gender=Neut|Number=Sing	7	det	_	_
-7	ρουσού	ρουσί	NOUN	NOUN	Gender=Neut|Number=Sing	9	nmod	_	_
+7	ρουσού	ρουσί	NOUN	NOUN		Definite=Def|Gender=Neut|Number=Sing|Case=Gen||PronType=Art	9	nmod	_	_
 8	τα	το	DET	DET	Definite=Def|Gender=Neut|Number=Plur	9	det	_	_
 9	τζναβάρα 	jαναβάρι	NOUN	NOUN	Gender=Neut|Number=Plur	10	nsubj	_	_
 10	νανόστανε 	νανοῦμαι	VERB	VERB	Tense=Past|Number=Plur|Person=3	0	root	_	_
