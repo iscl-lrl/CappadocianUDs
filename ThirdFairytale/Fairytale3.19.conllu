@@ -1,0 +1,33 @@
+# sent_id = Fairytale 3.19
+# text = «Έ ντόστη», λέ ‘τι κι το λαχτόρι, «µε ‘γω κουµασού αφτέν τζαι 'ρνιθίουν τσουφαλάς ίνοµαι;
+# text_en = "Hey friend," says the rooster: "Can I be the boss in the henhouse and head of the hens?
+1	«	_	PUNCT	PUNCT	_	6	punct	6:punct	_
+2	Έ	ε	INTJ	_	_	_	_	_	_
+3	ντόστη	ντόστης	NOUN	NOUN	Case=Voc|Gender=Masc|Number=Sing	6	vocative	6:vocative	_
+4	»	_	PUNCT	PUNCT	_	6	punct	6:punct	_
+5	,	_	PUNCT	PUNCT	_	6	punct	6:punct	_
+6	λέ	λαλώ	VERB	VERB	Aspect=Ιmp|Tense=Pres|Number=Sing|Person=2|Voice=Act	0	root	0:root	_
+7	‘τι	di	SCONJ	SCONJ	_	6	mark	6:mark	_
+8	κι	ki	SCONJ	SCONJ	_	6	mark	6:mark	_
+9	το	το	DET	DET	Definite=Def|Case=Nom|Gender=Neut|Number=Sing	10	det	10:det	_
+10	λαχτόρι	λαχτόρι	NOUN	NOUN	Case=Nom|Gender=Masc|Number=Sing	6	nsubj	6:nsubj	_
+11	,	_	PUNCT	PUNCT	_	6	punct	6:punct	_
+12	«	_	PUNCT	PUNCT	_	6	punct	6:punct	_
+13	µε	μα	INTJ	_	_	_	_	_	_
+14	‘γω	ἐγώ	PRON	PRON	Case=Nom|Definite=Def	20	nsubj	20:nsubj	_
+15	κουµασού	κουμάσι	NOUN	NOUN	Case=Gen|Gender=Neut|Number=Sing	16	nmod	16:nmod	_
+16	αφτέν	αὐθέντης	NOUN	NOUN	Case=Nom|Gender=Masc|Number=Sing	20	expl	20:expl	_
+17	τζαι	jαι	CCONJ	CCONJ	_	19	cc	19:cc	_
+18	'ρνιθίουν	ρνίθι	NOUN	NOUN	Case=Gen|Gender=Neut|Number=Plur	19	nmod	19:nmod	_
+19	τσουφαλάς	τσουφαλάς	NOUN	NOUN	Case=Nom|Gender=Masc|Number=Sing	16	conj	16:conj	_
+20	ίνοµαι	γίνομαι	VERB	VERB	Aspect=Ιmp|Number=Sing|Person=1|Voice=Act	6	parataxis	6:parataxis	_
+21	;	_	PUNCT	PUNCT	_	6	punct	6:punct	_
+
+
+# Since the direct speech sentence is huge(around 45 words) I put only the direct speech sentence
+# until the ; character to showcase the parenthetical parataxis. It will be assumed that 
+# the next sentences of direct speech belong together.
+
+# με is assumed to be the epifonima μα and hence no direct relationship with the rest of the sentence.
+# For the cc and cconj relationship I looked to: https://universaldependencies.org/u/dep/cc.html
+# and https://universaldependencies.org/u/dep/conj.html
