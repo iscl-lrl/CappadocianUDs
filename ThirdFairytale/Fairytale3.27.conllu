@@ -1,5 +1,5 @@
-# sent_id = Fairytale 3.26
-# text = Α µε φας α υ̟ά.
+# sent_id = Fairytale 3.27
+# text = Α µε φας α υπά.
 # text_en = You will eat me and go.
 1	Α	α	AUX	AUX	_	3	mark	3:mark	_
 2	µε	ἐγώ	PRON	PRON	Case=Acc|Number=Sing	3	obj	3:obj	_

@@ -1,0 +1,37 @@
+# sent_id = Fairytale 3.28
+# text = Πιρ µη µε φας, να γαπάς το Θεό σου, άφτσε µε να βκώ ‘τζα σο δώµα πάνω ν’ αλήσω στερνά δύο τρία φορέδες, να πητάξω σελάµι σις χωρώτοι
+# text_en = But before you eat me, if you love your God, let me go up to the roof and sing for the last time two or three times, to send greetings to the villagers.
+1	Πιρ	(Πιρ)	ADP	ADP	_	4	mark	4:mark	_
+2	µη	μη	CCONJ	CCONJ	_	4	cc	4:cc	_
+3	µε	ἐγώ	PRON	PRON	Case=Acc|Number=Sing	4	obj	4:obj	_
+4	φας	φάω	VERB	VERB	Aspect=Perf|Mood=Imp|Number=Sing|Person=2|Verbform=Fin|Voice=Act	0	root	0:root	_
+5	,	,	PUNCT	PUNCT	_	4	punct	4:punct	_
+6	να	να	SCONJ	SCONJ	_	7	mark	7:mark	_
+7	γαπάς	ἀγαπῶ	VERB	VERB	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|Verbform=Fin|Voice=Act	4	advcl	4:advcl	_
+8	το	το	DET	DET	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	9:det	_
+9	Θεό	Θεός	NOUN	NOUN	Case=Acc|Gender=Masc|Number=Sing	7	obj	7:obj	_
+10	σου	εσύ	PRON	PRON	Case=Gen|Number=Sing	9	nmod:poss	9:nmod:poss	_
+11	,	,	PUNCT	PUNCT	_	4	punct	4:punct	_
+12	άφτσε	ἀφήνω	VERB	VERB	Aspect=Perf|Mood=Imp|Number=Sing|Person=2|Tense=Pres|Verbform=Fin|Voice=Act	4	ccomp	4:ccomp	_
+13	µε	ἐγώ	PRON	PRON	Case=Acc|Number=Sing	12	obj	12:obj	_
+14	να	να	AUX	AUX	_	15	mark	15:mark	_
+15	βκώ	βγαίνω	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Verbform=Fin|Voice=Act	12	xcomp	12:xcomp	_
+16	‘τζα	τζα	NUM	NUM	Case=Nom|Number=Sing|NumType=Card	15	acl	15:acl	_
+17	σ	σε	ADP	ADP	_	19	mark	19:mark	_
+18	ο	ο	DET	DET	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	19	det	19:det	_
+19	δώµα	δώµα	NOUN	NOUN	Case=Acc|Gender=Neut|Number=Sing	22	advmod	22:advmod	_
+20	πάνω	πάνω	ADV	ADV	_	22	advmod	22:advmod	_
+21	ν’	να	AUX	AUX	_	22	mark	22:mark	_
+22	αλήσω	λαλῶ	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Verbform=Fin|Voice=Act	15	xcomp	15:xcomp	_
+23	στερνά	στερνός	ADV	ADV	_	22	advmod	22:advmod	_
+24	δύο	δύο	NUM	NUM	Case=Acc|Gender=Neut|Number=Plur|NumType=Card	26	nummod	26:nummod	_
+25	τρία	τρία	NUM	NUM	Case=Acc|Gender=Neut|Number=Plur|NumType=Card	26	nummod	26:nummod	_
+26	φορέδες	φορά	NOUN	NOUN	Case=Acc|Gender=Neut|Number=Plur	22	nmod	22:nmod	_
+27	,	,	PUNCT	PUNCT	_	22	punct	22:punct	_
+28	να	να	AUX	AUX	_	29	mark	29:mark	_
+29	πητάξω	πετῶ	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Verbform=Fin|Voice=Act	15	xcomp	15:xcomp	_
+30	σελάµι	selam	NOUN	NOUN	Case=Acc|Gender=Neut|Number=Sing	29	obj	29:obj	_
+31	σ	σε	ADP	ADP	_	33	case	33:case	_
+32	ις	ο	DET	DET	Case=Acc|Definite=Def|Gender=Masc|Number=Plur|PronType=Art	33	det	33:det	_
+33	χωρώτοι	χωρώτ	NOUN	NOUN	Case=Acc|Gender=Masc|Number=Plur	29	nmod	29:nmod	_
+34	.	.	PUNCT	PUNCT	_	4	punct	4:punct	_
