@@ -1,0 +1,9 @@
+# sent_id = Fairytale 4.6
+# text = Τζαι τσιράς νυέχτα τζαι ηµέρα;
+# text_en = And you yell night and day?
+1	Τζαι	jαι	CCONJ	CCONJ	_	2	cc	2:cc	_
+2	τσιράς	τσιρίζω	VERB	VERB	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|Verbform=Fin|Voice=Act	0	root	0:root	_
+3	νυέχτα	νύχτα	NOUN	NOUN	Case=Nom|Gender=Fem|Number=Sing	2	conj	2:conj	_
+4	τζαι	jαι	CCONJ	CCONJ	_	2	cc	2:cc	_
+5	ημέρα	ἡμέρα	NOUN	NOUN	Case=Nom|Gender=Fem|Number=Sing	2	conj	2:conj	_
+6	;	;	PUNCT	PUNCT	_	2	punct	2:punct	_
