@@ -1,0 +1,9 @@
+# sent_id = Fairytale 4.5
+# text = Συ τελλάλ είσαι τζαι ‘ξωµατικός;
+# text_en = Are you both a preacher and an officer?
+1	Συ	εσύ	PRON	PRON	Case=Nom|Number=Sing	3	nsubj	3:nsubj	_
+2	τελλάλ	_	NOUN	NOUN	Case=Nom|Gender=Masc|Number=Sing	1	appos	1:appos	_
+3	είσαι	είμαι	VERB	VERB	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|Verbform=Fin|Voice=Act	0	root	0:root	_
+4	τζαι	jαι	CCONJ	CCONJ	_	5	cc	5:cc	_
+5	‘ξωματικός	(αξωματικός)	NOUN	NOUN	Case=Nom|Gender=Masc|Number=Sing	2	conj	2:conj	_
+6	;	;	PUNCT	PUNCT	_	3	punct	3:punct	_
