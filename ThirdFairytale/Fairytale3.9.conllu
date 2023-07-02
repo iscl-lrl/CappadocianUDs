@@ -1,7 +1,7 @@
 # sent_id = Fairytale 3.9
 # text = Εί̟εν ‘τι κι τζ’ αω̟ός: 
 # text_en = The fox said too:
-1	Εί̟εν	λαλώ	VERB	VERB	Aspect=Ιmp|Tense=Past|Number=Sing|Person=3|Voice=Act	0	root	0:root	_
+1	Εί̟εν	λαλώ	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|Verbform=Fin|Voice=Act	0	root	0:root	_
 2	‘τι	di	SCONJ	SCONJ	_	1	mark	1:mark	_
 3	κι	ki	SCONJ	SCONJ	_	1	mark	1:mark	_
 4	τζ’	o	DET	DET	_	5	det	5:det	_
