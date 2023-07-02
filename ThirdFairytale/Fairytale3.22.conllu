@@ -3,18 +3,18 @@
 # text_en = Yes, I told you one joke to see what you will do to me»
 1	Χα	χα	INTJ	_	_	_	_	_	_
 2	τιδέ	τιδέ	ADV	ADV	_	3	advmod	3:advmod	_
-3	είπα	λαλώ	VERB	VERB	Aspect=Ιmp|Tense=Past|Number=Sing|Person=1|Voice=Act	0	root	0:root	_
-4	σε	εσύ	PRON	PRON	Case=Acc|Definite=Def	3	iobj	3:iobj	_
+3	είπα	λαλώ	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|Verbform=Fin|Voice=Act	0	root	0:root	_
+4	σε	εσύ	PRON	PRON	Case=Acc|Number=Sing	3	iobj	3:iobj	_
 5	τ’	το	DET	DET	Definite=Def|Gender=Neut|Number=Sing|Case=Acc|PronType=Art	6	det	6:det	_
 6	αβούτζι	αβούτζι	ADV	ADV	_	3	advmod	3:advmod	_
 7	αν	αω	NUM	NUM	Case=Acc|Definite=Ind|Gender=Neut|Number=Sing	8	nummod	8:nummod	_
 8	ασλανίχι	ασλανίχι	NOUN	Case=Acc|Gender=Neut|Number=Sing	_	3	obj	3:obj	_
 9	να	να	SCONJ	SCONJ	_	10	mark	10:mark	_
-10	‘ουµε	θεωρῶ	VERB	VERB	Aspect=Ιmp|Number=Plur|Person=1|Voice=Act	3	xcomp	3:xcomp	_
-11	π’	πα	PRON	PRON	Case=Acc|Definite=Def	14	obj	14:obj	_
+10	‘ουµε	θεωρῶ	VERB	VERB	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Verbform=Fin|Voice=Act	3	xcomp	3:xcomp	_
+11	π’	πα	PRON	PRON	Case=Acc|Number=Sing	14	obj	14:obj	_
 12	α	α	AUX	AUX	_	14	mark	14:mark	_
-13	µε	εγώ	PRON	PRON	Case=Acc|Definite=Def	14	iobj	14:iobj	_
-14	ποικ	ποιῶ	VERB	VERB	Aspect=Ιmp|Tense=Pres|Number=Sing|Person=2|Voice=Act	10	xcomp	10:xcomp	_
+13	µε	εγώ	PRON	PRON	Case=Acc|Number=Sing	14	iobj	14:iobj	_
+14	ποικ	ποιῶ	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|Verbform=Fin|Voice=Act	10	ccomp	10:ccomp	_
 15	τεϊ	τεϊ	INTJ	_	_	_	_	_	_
 16	»	_	PUNCT	PUNCT	_	3	punct	3:punct	_
 17	.	_	PUNCT	PUNCT	_	3	punct	3:punct	_

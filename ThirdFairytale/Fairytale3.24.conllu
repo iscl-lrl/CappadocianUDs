@@ -1,14 +1,14 @@
 # sent_id = Fairytale 3.24
 # text = «Ματέµ κι ‘ύρεψες να µε ζαναχέπ’ πίσι λαχτόρι ραδέ, εµ µπρο αρέ να σε πνίξω, να σε παρτσαλατίσω τζαι τε στέρου να σε ποίκω α ζόρι φάεµα». 
 # text_en = "After so you wanted to make fun of me, you dirty cock, first, now I will smother you, devour you and make you a wonderful meal."
-1	«	«	PUNCT	PUNCT	_	_	_	_	_
+1	«	«	PUNCT	PUNCT	_	4	punct	4:punct	_
 2	Ματέµ	(Ματέµ)	ADP	_	_	4	mark	4:mark	_
-3	κι	κι	SCONJ	SCONJ	_	_	_	_	_
+3	κι	κι	CCONJ	SCONJ	_	4	cc	4:cc	_
 4	‘ύρεψες	γυρεύω	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=2|Tense=Past|Verbform=Fin|Voice=Act	0	root	0:root	_
 5	να	να	AUX	AUX	_	7	mark	7:mark	_
 6	µε	ἐγώ	PRON	PRON	Case=Acc|Number=Sing	7	obj	7:obj	_
 7	ζαναχέπ’	(ζαναχέπω)	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=2|Tense=Past|Verbform=Fin|Voice=Act	4	xcomp	4:xcomp	_
-8	πίσι	pis	ADJ	ADJ	Case=Voc|Gender=Neut|Number=Sing	9	amod	9:amod	_
+8	πίσι	pis	ADJ	ADJ	Case=Voc|Degree=Pos|Gender=Neut|Number=Sing	9	amod	9:amod	_
 9	λαχτόρι	λαχτόρι	NOUN	NOUN	Case=Voc|Gender=Neut|Number=Sing	7	appos	7:appos	_
 10	ραδέ	ραδή	ADJ	ADJ	Case=Voc|Gender=Neut|Number=Sing	9	amod	9:amod	_
 11	,	,	PUNCT	PUNCT	_	4	punct	4:punct	_
@@ -17,18 +17,18 @@
 14	αρέ	ἀρέ	ADV	ADV	Degree=Pos	17	advmod	17:advmod	_
 15	να	να	AUX	AUX	_	17	mark	17:mark	_
 16	σε	εσύ	PRON	PRON	Case=Acc|Number=Sing	17	obj	17:obj	_
-17	πνίξω	πνίγω	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Verbform=Fin|Voice=Act	4	ccomp	4:ccomp	_
+17	πνίξω	πνίγω	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Verbform=Fin|Voice=Act	4	xcomp	4:xcomp	_
 18	,	,	PUNCT	PUNCT	_	4	punct	4:punct	_
-19	να	να	SCONJ	SCONJ	_	21	mark	21:mark	_
+19	να	να	AUX	SCONJ	_	21	mark	21:mark	_
 20	σε	εσύ	PRON	PRON	Case=Acc|Number=Sing	21	obj	21:obj	_
 21	παρτσαλατίσω	(παρτσαλώ)	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Verbform=Fin|Voice=Act	17	conj	17:conj	_
 22	τζαι	jαι	CCONJ	CCONJ	_	21	cc	21:cc	_
 23	τε	τε	INTJ	_	_	_	_	_	_
 24	στέρου	στέρου	ADV	ADV	Degree=Pos	27	advmod	27:advmod	_
-25	να	να	SCONJ	SCONJ	_	27	mark	27:mark	_
+25	να	να	AUX	SCONJ	_	27	mark	27:mark	_
 26	σε	εσύ	PRON	PRON	Case=Acc|Number=Sing	27	iobj	27:iobj	_
 27	ποίκω	ποιῶ	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Verbform=Fin|Voice=Act	21	conj	21:conj	_
-28	α	α	NUM	NUM	Case=Acc|Gender=Neut|Number=Sing|NumType=Card	30	nummod	30:nummod	_
+28	α	α	NUM	DET	Case=Acc|Gender=Neut|Number=Sing|NumType=Card	30	nummod	30:nummod	_
 29	ζόρι	zor	ADJ	ADJ	Case=Acc|Gender=Neut|Number=Sing	30	amod	30:amod	_
 30	φάεµα	φάϊμα	NOUN	NOUN	Case=Acc|Gender=Neut|Number=Sing	27	obj	27:obj	_
 31	»	_	PUNCT	PUNCT	_	4	punct	4:punct	_

@@ -2,8 +2,8 @@
 # text = Αφτέν του κουµασού είσαι συ.
 # text_en = TODO
 1	Αφτέν	αὐθέντης	NOUN	NOUN	Case=Nom|Gender=Masc|Number=Sing	4	expl	4:expl	_
-2	του	το	DET	DET	Definite=Def|Case=Gen|Gender=Neut|Number=Sing	3	det	3:det	_
-3	κουµασού	κουμάσι	NOUN	NOUN	Case=Gen|Gender=Neut|Number=Sing	1	nmod	1:nmod	_
-4	είσαι	είµαι	VERB	VERB	Aspect=Ιmp|Tense=Pres|Number=Sing|Person=2|Voice=Act	0	root	0:root	_
-5	συ	έσύ	PRON	PRON	Case=Nom|Definite=Def	4	nsubj	4:nsubj	_
+2	του	το	DET	DET	Case=Gen|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	3	det	3:det	_
+3	κουµασού	κουμάσι	NOUN	NOUN	Case=Gen|Gender=Neut|Number=Sing	1	nmod:poss	1:nmod:poss	_
+4	είσαι	είµαι	VERB	VERB	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|Verbform=Fin|Voice=Act	0	root	0:root	_
+5	συ	έσύ	PRON	PRON	Case=Nom|Number=Sing	4	nsubj	4:nsubj	_
 6	.	_	PUNCT	PUNCT	_	4	punct	4:punct	_
