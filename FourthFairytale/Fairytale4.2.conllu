@@ -12,7 +12,7 @@
 9	αντί	αντί	SCONJ	SCONJ	_	12	mark	12:mark	_
 10	πέγος	(πέγος)	ADJ	ADJ	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	12	amod	12:amod	_
 11	-	-	PUNCT	PUNCT	_	14	punct	14:punct	_
-12	αβγάτ’ς	(αβγάτης)	NOUN	NOUN	Case=Nom|Gender=Masc|Number=Sing	14	expl	14:expl	_
+12	αβγάτ’ς	(αβγάτης)	NOUN	NOUN	Case=Nom|Gender=Masc|Number=Sing	14	obl	14:obl	_
 13	,	,	PUNCT	PUNCT	_	14	punct	14:punct	_
 14	φοραίνεις	φορῶ	VERB	VERB	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|Verbform=Fin|Voice=Act	0	root	0:root	_
 15	τζαι	jαι	CCONJ	CCONJ	_	14	cc	14:cc	_
@@ -20,8 +20,7 @@
 17	αβγάτη	(αβγάτης)	NOUN	NOUN	Case=Gen|Gender=Masc|Number=Sing	16	nmod:poss	16:nmod:poss	_
 18	σ	σε	ADP	ADP	_	20	mark	20:mark	_
 19	α	το	DET	DET	Case=Acc|Definite=Def|Gender=Neut|Number=Plur|PronType=Art	20	det	20:det	_
-20	ποδάρε	ποδάρι	NOUN	NOUN	Case=Acc|Gender=Neut|Number=Plur	14	expl	14:expl	_
+20	ποδάρε	ποδάρι	NOUN	NOUN	Case=Acc|Gender=Neut|Number=Plur	14	obl	14:obl	_
 21	σου	εσύ	PRON	PRON	Case=Gen|Number=Plur	20	nmod:poss	20:nmod:poss	_
 22	;	;	PUNCT	PUNCT	_	14	punct	14:punct	_
-
 # αβγό means horse. I guess the word αβγάτης stems from it.
