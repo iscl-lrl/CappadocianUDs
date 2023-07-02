@@ -1,21 +1,21 @@
 # sent_id = Fairytale 3.11
 # text = Ποιος είσαι εσύ και µε το λειψό σου µυαλό, γίνεσαι αφεντικό στο κουµάσι κι επικεφαλής των ορνίθων 
 # text_en = Who are you and with your "missing" mind, you become the boss of the house of hens and head of the of chickens
-1	Συ	εσύ	PRON	PRON	Case=Nom|Definite=Def|Gender=Masc	3	nsubj	3:nsubj	_
-2	τίς	τίς	PRON	PRON	Case=Nom|Definite=Ind|Gender=Masc	1	det	1:det	_
-3	είσαι	είμαι	VERB	VERB	Aspect=Ιmp|Tense=Pres|Number=Sing|Person=2|Voice=Act	11	conj	11:conj	_
-4	τζαι	jαι	CCONJ	CCONJ	_	11	conj	11:conj	_
+1	Συ	εσύ	PRON	PRON	Case=Nom|Gender=Masc|Number=Sing	3	nsubj	3:nsubj	_
+2	τίς	τίς	PRON	PRON	Case=Nom|Gender=Masc|Number=Sing	1	appos	1:appos	_
+3	είσαι	είμαι	VERB	VERB	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|Verbform=Fin|Voice=Act	11	conj	11:conj	_
+4	τζαι	jαι	CCONJ	CCONJ	_	11	cc	11:cc	_
 5	µο	με	ADP	_	_	10	case	10:case	_
 6	το	το	DET	DET	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	7	det	7:det	_
 7	λειψό	λειψός	ADJ	ADJ	Degree=Pos|Gender=Neut|Number=Sing	10	amod	10:amod	_
-8	σου	σου	PRON	PRON	Case=Acc|Definite=Def|Gender=Masc	10	nmod	10:nmod	_
+8	σου	σου	PRON	PRON	Case=Acc|Gender=Masc|Number=Sing	10	nmod:poss	10:nmod:poss	_
 9	τ’	το	DET	DET	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	10	det	10:det	_
 10	αχίλι	αχίλι	NOUN	NOUN	Case=Acc|Gender=Neut|Number=Sing	11	obl	11:obl	_
-11	ίνεσαι	γίνομαι	VERB	VERB	Aspect=Ιmp|Tense=Pres|Number=Sing|Person=3|Voice=Pass	0	root	0:root	_
-12	κουµασού	κουµάσι	NOUN	NOUN	Case=Gen|Gender=Neut|Number=Sing	13	nmod	13:nmod	_
+11	ίνεσαι	γίνομαι	VERB	VERB	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|Verbform=Fin|Voice=Act	0	root	0:root	_
+12	κουµασού	κουµάσι	NOUN	NOUN	Case=Gen|Gender=Neut|Number=Sing	13	nmod:poss	13:nmod:poss	_
 13	αφτέν	αὐθέντης	NOUN	NOUN	Case=Nom|Gender=Masc|Number=Sing	11	parataxis	11:parataxis	_
-14	τζαι	jαι	CCONJ	CCONJ	_	16	conj	16:conj	_
-15	'ρνιθίουν	ρνίθι	NOUN	NOUN	Case=Gen|Gender=Neut|Number=Plur	16	nmod	16:nmod	_
+14	τζαι	jαι	CCONJ	CCONJ	_	16	cc	16:cc	_
+15	'ρνιθίουν	ρνίθι	NOUN	NOUN	Case=Gen|Gender=Neut|Number=Plur	16	nmod:poss	16:nmod:poss	_
 16	τσουφαλάς	τσουφαλάς	NOUN	NOUN	Case=Nom|Gender=Masc|Number=Sing	13	conj	13:conj	_
 17	»	_	PUNCT	PUNCT	_	11	punct	11:punct	_
 18	.	_	PUNCT	PUNCT	_	11	punct	11:punct	_

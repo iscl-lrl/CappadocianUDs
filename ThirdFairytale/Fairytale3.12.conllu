@@ -1,19 +1,19 @@
 # sent_id = Fairytale 3.12
 # text = Πέττασεν αω̟ός σο λαχτόρι ̟άνου τζαι πίεσεν τα στο γουργούρι ντα πνίξει τεϊ. 
 # text_en = The fox jumped on the rooster and grabbed him by the throat to choke him.
-1	Πέττασεν	πετῶ	VERB	VERB	Aspect=Ιmp|Tense=Past|Number=Sing|Person=3|Voice=Act	0	root	0:root	_
+1	Πέττασεν	πετῶ	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|Verbform=Fin|Voice=Act	0	root	0:root	_
 2	αωπος	απός	NOUN	NOUN	Case=Nom|Gender=Masc|Number=Sing	1	nsubj	1:nsubj	_
 3	σο	σε	ADP	_	_	4	case	4:case	_
 4	λαχτόρι	λαχτόρι	NOUN	NOUN	Case=Acc|Gender=Neut|Number=Sing	1	obl	1:obl	_
 5	πανου	πάνου	ADP	_	_	1	amod	1:amod	_
-6	τζαι	jαι	CCONJ	CCONJ	_	1	conj	1:conj	_
-7	πιέσεν	πιένω	VERB	VERB	Aspect=Ιmp|Tense=Past|Number=Sing|Person=3|Voice=Act	1	conj	1:conj	_
+6	τζαι	jαι	CCONJ	CCONJ	_	1	cc	1:cc	_
+7	πιέσεν	πιένω	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|Verbform=Fin|Voice=Act	1	conj	1:conj	_
 8	τα	το	DET	DET	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	7	obj	7:obj	_
 9	σ	σε	ADP	_	_	11	case	11:case	_
 10	το	το	DET	DET	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	11	det	11:det	_
 11	γουργούρι	γουργούρι	NOUN	NOUN	Case=Acc|Gender=Neut|Number=Sing	7	obl	7:obl	_
 12	ντα	να	AUX	CONJ	_	13	mark	13:mark	_
-13	πνίξει	πνίγω	VERB	VERB	Aspect=Ιmp|Number=Sing|Person=3|Voice=Act	7	ccomp	7:ccomp	_
+13	πνίξει	πνίγω	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|Verbform=Inf|Voice=Act	7	xcomp	7:xcomp	_
 14	τεϊ	το	DET	DET	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	13	obj	13:obj	_
 15	.	_	PUNCT	PUNCT	_	1	punct	1:punct	_
 
