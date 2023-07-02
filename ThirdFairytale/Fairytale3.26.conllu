@@ -7,7 +7,7 @@
 4	κι	κι	SCONJ	SCONJ	_	11	mark	11:mark	_
 5	σ	σε	ADP	ADP	_	7	case	7:case	_
 6	τα	το	DET	DET	Case=Acc|Definite=Def|Gender=Neut|Number=Plur|PronType=Art	7	det	7:det	_
-7	σέρα	σέρι	NOUN	NOUN	Case=Acc|Gender=Neut|Number=Plur	11	expl	11:expl	_
+7	σέρα	σέρι	NOUN	NOUN	Case=Acc|Gender=Neut|Number=Plur	11	obl	11:obl	_
 8	σου	εσύ	PRON	PRON	Case=Gen|Number=Sing	7	nmod:poss	7:nmod:poss	_
 9	κατιέν	κατιέν	ADV	ADV	_	11	advmod	11:advmod	_
 10	τζο	τζο	DET	DET	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	11	obj	11:obj	_

@@ -12,7 +12,7 @@
 9	Θεό	Θεός	NOUN	NOUN	Case=Acc|Gender=Masc|Number=Sing	7	obj	7:obj	_
 10	σου	εσύ	PRON	PRON	Case=Gen|Number=Sing	9	nmod:poss	9:nmod:poss	_
 11	,	,	PUNCT	PUNCT	_	4	punct	4:punct	_
-12	άφτσε	ἀφήνω	VERB	VERB	Aspect=Perf|Mood=Imp|Number=Sing|Person=2|Tense=Pres|Verbform=Fin|Voice=Act	4	ccomp	4:ccomp	_
+12	άφτσε	ἀφήνω	VERB	VERB	Aspect=Perf|Mood=Imp|Number=Sing|Person=2|Tense=Pres|Verbform=Fin|Voice=Act	4	conj	4:conj	_
 13	µε	ἐγώ	PRON	PRON	Case=Acc|Number=Sing	12	obj	12:obj	_
 14	να	να	AUX	AUX	_	15	mark	15:mark	_
 15	βκώ	βγαίνω	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Verbform=Fin|Voice=Act	12	xcomp	12:xcomp	_
