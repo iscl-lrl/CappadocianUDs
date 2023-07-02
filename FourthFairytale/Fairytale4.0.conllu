@@ -1,6 +1,6 @@
 # sent_id = Fairytale 4.0 (Title)
 # text = Αωπός τζαι το λαχτόρι. Β΄
-# text_en = The fox and the cock.
+# text_en = The fox and the rooster.
 1	Αωπός	απός	NOUN	NOUN	Case=Nom|Gender=Masc|Number=Sing	0	root	0:root	_
 2	τζαι	jαι	CCONJ	CCONJ	_	4	cc	4:cc	_
 3	το	το	DET	DET	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	4	det	4:det	_

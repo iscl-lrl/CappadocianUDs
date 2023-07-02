@@ -1,0 +1,24 @@
+# sent_id = Fairytale 4.1
+# text = Σον παλό τον ταρό, α φορά αν αωπός πιέσεν α λαχτόρι ν’ τα φα, τζ’ είπεν ‘τι :
+# text_en = 
+1	Σ	σε	ADP	ADP	_	3	mark	3:mark	_
+2	ον	ο	DET	DET	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	3:det	_
+3	παλό	(παλιός)	ADJ	ADJ	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	5	amod	5:amod	_
+4	τον	ο	DET	DET	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	5:det	_
+5	ταρό	ταρός	NOUN	NOUN	Case=Acc|Gender=Masc|Number=Sing	11	obl	11:obl	_
+6	,	,	PUNCT	PUNCT	_	11	punct	11:punct	_
+7	α	α	NUM	NUM	Case=Nom|Gender=Fem|Number=Sing	8	nummod	8:nummod	_
+8	φορά	φορά	NOUN	NOUN	Case=Nom|Gender=Fem|Number=Sing	11	nmod	11:nmod	_
+9	αν	αν	NUM	NUM	Case=Nom|Gender=Masc|Number=Sing	10	nummod	10:nummod	_
+10	αωπός	απός	NOUN	NOUN	Case=Nom|Gender=Masc|Number=Sing	11	nsubj	11:nsubj	_
+11	πιέσεν	πιάνω	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|Verbform=Fin|Voice=Act	0	root	0:root	_
+12	α	α	NUM	NUM	Case=Acc|Gender=Neut|Number=SIng	13	nummod	13:nummod	_
+13	λαχτόρι	λαχτόρι	NOUN	NOUN	Case=Acc|Gender=Neut|Number=Sing	11	obj	11:obj	_
+14	ν’	να	AUX	AUX	_	16	mark	16:mark	_
+15	τα	το	DET	DET	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	16	obj	16:obj	_
+16	φα	τρώγω	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|Verbform=Fin|Voice=Act	11	xcomp	11:xcomp	_
+17	,	,	PUNCT	PUNCT	_	11	punct	11:punct	_
+18	τζ’	jαι	CCONJ	CCONJ	_	11	cc	11:cc	_
+19	είπεν	λαλώ	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|Verbform=Fin|Voice=Act	11	conj	11:conj	_
+20	‘τι	το	DET	DET	Case=Dat|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	19	iobj	19:iobj	_
+21	:	:	PUNCT	PUNCT	_	11	punct	11:punct	_
