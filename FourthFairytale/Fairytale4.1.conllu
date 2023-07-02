@@ -1,6 +1,6 @@
 # sent_id = Fairytale 4.1
 # text = Σον παλό τον ταρό, α φορά αν αωπός πιέσεν α λαχτόρι ν’ τα φα, τζ’ είπεν ‘τι :
-# text_en = 
+# text_en = Once upon a time, a fox caught a rooster to eat it, and says to him:
 1	Σ	σε	ADP	ADP	_	3	mark	3:mark	_
 2	ον	ο	DET	DET	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	3:det	_
 3	παλό	(παλιός)	ADJ	ADJ	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	5	amod	5:amod	_

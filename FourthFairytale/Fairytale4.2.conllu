@@ -1,0 +1,27 @@
+# sent_id = Fairytale 4.1
+# text =  «Ε λαχτόρι, συ πώτ’ς είσαι τζαι αντί πέγος - αβγάτ’ς, φοραίνεις τζαι τζισµέδε αβγάτη σα ποδάρε σου;
+# text_en = "Hey, rooster, what are you and like a (bey) -knight, do you also wear knight's spurs on your feet?
+1	«	«	PUNCT	PUNCT	_	14	punct	14:punct	_
+2	Ε	ε	INTJ	INTJ	_	_	_	_	_
+3	λαχτόρι	λαχτόρι	NOUN	NOUN	Case=Voc|Gender=Neut|Number=Sing	7	appos	7:appos	_
+4	,	,	PUNCT	PUNCT	_	14	punct	14:punct	_
+5	συ	εσύ	PRON	PRON	Case=Nom|Number=Sing	7	nsubj	7:nsubj	_
+6	πώτ’ς	(πώτ’ς)	PRON	PRON	_	7	obj	7:obj	_
+7	είσαι	είμαι	AUX	AUX	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|Verbform=Fin|Voice=Act	14	conj	14:conj	_
+8	τζαι	jαι	CCONJ	CCONJ	_	14	cc	14:cc	_
+9	αντί	αντί	SCONJ	SCONJ	_	12	mark	12:mark	_
+10	πέγος	(πέγος)	ADJ	ADJ	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	12	amod	12:amod	_
+11	-	-	PUNCT	PUNCT	_	14	punct	14:punct	_
+12	αβγάτ’ς	(αβγάτης)	NOUN	NOUN	Case=Nom|Gender=Masc|Number=Sing	14	expl	14:expl	_
+13	,	,	PUNCT	PUNCT	_	14	punct	14:punct	_
+14	φοραίνεις	φορῶ	VERB	VERB	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|Verbform=Fin|Voice=Act	0	root	0:root	_
+15	τζαι	jαι	CCONJ	CCONJ	_	14	cc	14:cc	_
+16	τζισμέδε	(τζισμάς)	NOUN	NOUN	Case=Acc|Gender=Masc|Number=Sing	14	obj	14:obj	_
+17	αβγάτη	(αβγάτης)	NOUN	NOUN	Case=Gen|Gender=Masc|Number=Sing	16	nmod:poss	16:nmod:poss	_
+18	σ	σε	ADP	ADP	_	20	mark	20:mark	_
+19	α	το	DET	DET	Case=Acc|Definite=Def|Gender=Neut|Number=Plur|PronType=Art	20	det	20:det	_
+20	ποδάρε	ποδάρι	NOUN	NOUN	Case=Acc|Gender=Neut|Number=Plur	14	expl	14:expl	_
+21	σου	εσύ	PRON	PRON	Case=Gen|Number=Plur	20	nmod:poss	20:nmod:poss	_
+22	;	;	PUNCT	PUNCT	_	14	punct	14:punct	_
+
+# αβγό means horse. I guess the word αβγάτης stems from it.
