@@ -2,14 +2,14 @@
 # text = «Πέ µε να ‘ούµε π’ α µα ειπείς».
 # text_en = "Tell me and let's see what you have to say."
 1	«	_	PUNCT	PUNCT	_	2	punct	2:punct	_
-2	Πέ	λαλώ	VERB	VERB	Aspect=Ιmp|Tense=Pres|Number=Sing|Person=2|Voice=Act	0	root	0:root	_
+2	Πέ	λαλώ	VERB	VERB	Aspect=Perf|Mood=Imp|Number=Sing|Person=2|Tense=Pres|Verbform=Fin|Voice=Act	0	root	0:root	_
 3	µε	εγώ	PRON	PRON	_	2	obj	2:obj	_
 4	να	να	SCONJ	SCONJ	_	5	mark	5:mark	_
-5	‘ούµε	θεωρῶ	VERB	VERB	Aspect=Ιmp|Number=Plur|Person=1|Voice=Act	2	xcomp	2:xcomp	_
+5	‘ούµε	θεωρῶ	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Verbform=Fin|Voice=Act	2	xcomp	2:xcomp	_
 6	π’	πα	PRON	PRON	Case=Acc|Definite=Def|Gender=Neut	9	obj	9:obj	_
 7	α	α	SCONJ	SCONJ	_	9	mark	9:mark	_
 8	µα	ἐγώ	PRON	PRON_	Case=Acc|Definite=Def|Gender=Neut	9	iobj	9:iobj	_
-9	ειπείς	λαλώ	VERB	VERB	Aspect=Ιmp|Number=Plur|Person=2|Voice=Act	5	xcomp	5:xcomp	_
+9	ειπείς	λαλώ	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=2|Verbform=Fin|Voice=Act	5	ccomp	5:ccomp	_
 10	»	_	PUNCT	PUNCT	_	2	punct	2:punct	_
 11	.	_	PUNCT	PUNCT	_	2	punct	2:punct	_
 

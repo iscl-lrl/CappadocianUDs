@@ -1,7 +1,7 @@
 # sent_id = Fairytale3.17
 # text = Λέ’ ‘τι τζ’ αωπός: 
 # text_en = The fox says: 
-1	Λέ’	λαλώ	VERB	VERB	Aspect=Ιmp|Tense=Pres|Number=Sing|Person=3|Voice=Act	0	root	0:root	_
+1	Λέ’	λαλώ	VERB	VERB	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Verbform=Fin|Voice=Act	0	root	0:root	_
 2	‘τι	di	SCONJ	SCONJ	_	1	mark	1:mark	_
 3	τζ’	jαι	CCONJ	CCONJ	_	1	conj	1:conj	_
 4	αωπός	απός	NOUN	NOUN	Case=Nom|Gender=Masc|Number=Sing	1	nsubj	1:nsubj	_
