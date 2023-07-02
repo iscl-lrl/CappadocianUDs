@@ -1,0 +1,14 @@
+# sent_id = Fairytale 4.7
+# text = Τζαι αλείς αντί πέγος, δεχούς µάνα τζαι ‘δελφές!»
+# text_en = And you speak like a bey without a mother and sisters!"
+1	Τζαι	jαι	CCONJ	CCONJ	_	2	cc	2:cc	_
+2	αλείς	λαλώ	VERB	VERB	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|Verbform=Fin|Voice=Act	0	root	0:root	_
+3	αντί	αντί	SCONJ	SCONJ	_	4	mark	4:mark	_
+4	πέγος	πέγος	NOUN	NOUN	Case=Nom|Gender=Masc|Number=Sing	2	expl	2:expl	_
+5	,	,	PUNCT	PUNCT	_	2	punct	2:punct	_
+6	δεχούς	δεχούς	SCONJ	SCONJ	_	7	mark	7:mark	_
+7	μάνα	μάνα	NOUN	NOUN	Case=Nom|Gender=Fem|Number=Sing	2	expl	2:expl	_
+8	τζαι	jαι	CCONJ	CCONJ	_	7	cc	7:cc	_
+9	‘δελφές	ἀδελφή	NOUN	NOUN	Case=Nom|Gender=Fem|Number=Plur	7	conj	7:conj	_
+10	!	!	PUNCT	PUNCT	_	2	punct	2:punct	_
+11	»	»	PUNCT	PUNCT	_	2	punct	2:punct	_
