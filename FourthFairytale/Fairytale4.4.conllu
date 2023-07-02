@@ -1,0 +1,9 @@
+# sent_id = Fairytale 4.4
+# text = Μην είσαι ζαπίτ’ς του Γενιτζερίουν;
+# text_en = Are you rank bearer of the Janissaries?
+1	Μην	μην	PART	PART	_	_	_	_	_
+2	είσαι	είμαι	VERB	VERB	Aspect=Ιμπ|Mood=Ind|Number=Sing|Person=2|Tense=Pres|Verbform=Fin|Voice=Act	0	root	0:root	_
+3	ζαπίτ’ς	_	NOUN	NOUN	Case=Nom|Gender=Masc|Number=Sing	2	nsubj	2:nsubj	_
+4	του	το	DET	DET	Case=Gen|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	5	det	5:det	_
+5	Γενιτζερίουν	Γενιτζερί	PROPN	PROPN	Case=Gen|Gender=Neut|Number=Sing	3	nmod:poss	3:nmod:poss	_
+6	;	;	PUNCT	PUNCT	_	2	punct	2:punct	_
