@@ -1,5 +1,5 @@
-1	Των	το	DET	DET	Gender=Neut|Number=Plural	2	det	2:det	_
-2	τζαναβαρίων	jαναβάρι	NOUN	NOUN	Gender=Neut|Number=Plural	4	nmod:poss	4:nmod:poss	_
-3	το	το	DET	DET	Gender=Neut|Number=Sing	4	det	4:det	_
-4	μεντζιλίσι	menjουλίσι	NOUN	NOUN	Gender=Neut|Number=Sing	_	_	_	_
-5	.	_	PUNCT	PUNCT	_	4	punct	4:punct	_
+1	Των	το	DET	DET	Case=Gen|Gender=Neut|Number=Plural|PronType=Art	2	det	2:det	_
+2	τζαναβαρίων	jαναβάρι	NOUN	NOUN	Case=Gen|Gender=Neut|Number=Plural	4	nmod	4:nmod	_
+3	το	το	DET	DET	Case=Nom|Gender=Neut|Number=Sing|PronType=Art	4	det	4:det	_
+4	μεντζιλίσι	menjουλίσι	NOUN	NOUN	Case=Nom|Gender=Neut|Number=Sing	_	_	_	_
+5	.	.	PUNCT	PUNCT	_	4	punct	4:punct	_

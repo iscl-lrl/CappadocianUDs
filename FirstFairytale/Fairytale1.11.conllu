@@ -1,11 +1,11 @@
-1	Πουστιέσαν	πουστιέγω|pusmak	VERB	VERB	Aspect=Perf|Number=Plur|Person=3|Tense=Past|Voice=Act	0	root	0:root	_
+1	Πουστιέσαν	πουστιέγω|pusmak	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|Verbform=Fin|Voice=Act 	0	root	0:root	_
 2	παρέτζει	bαρεçεί	ADV	ADV	_	1	advmod	1:advmod	_
 3	:	:	PUNCT	PUNCT	_	1	punct	1:punct	_
-4	το	το	DET	DET	Definite=Def|Gender=Neut|Number=Plur|Case=Nom||PronType=Art	5	det	5:det	_
-5	ζαρκάδι	ζαρκάδι	NOUN	NOUN	Gender=Neut|Number=Plur|Case=Nom	1	parataxis	1:parataxis	_
+4	το	το	DET	DET	Case=Nom|Definite=Def|Gender=Neut|Number=Plur|PronType=Art	5	det	5:det	_
+5	ζαρκάδι	ζαρκάδι	NOUN	NOUN	Case=Nom|Gender=Neut|Number=Plur	1	parataxis	1:parataxis	_
 6	,	,	PUNCT	PUNCT	_	8	punct	8:punct	_
-7	ο	ο	DET	DET	Definite=Def|Gender=Masc|Number=Plur|Case=Nom||PronType=Art	8	det	8:det	_
-8	πουρτσούχος	πουρτσούχος	NOUN	NOUN	Gender=Masc|Number=Plur|Case=Nom	5	conj	5:conj	_
+7	ο	ο	DET	DET	Case=Nom|Definite=Def|Gender=Masc|Number=Plur|PronType=Art	8	det	8:det	_
+8	πουρτσούχος	πουρτσούχος	NOUN	NOUN	Case=Nom|Gender=Masc|Number=Plur	5	conj	5:conj	_
 9	,	,	PUNCT	PUNCT	_	10	punct	10:punct	_
-10	τζ’αγός	αγός	NOUN	NOUN	Gender=Masc|Number=Plur|Case=Nom	5	conj	5:conj	_
+10	τζ’αγός	αγός	NOUN	NOUN	Case=Nom|Gender=Masc|Number=Plur	5	conj	5:conj	_
 11	.	.	PUNCT	PUNCT	_	1	punct	1:punct	_

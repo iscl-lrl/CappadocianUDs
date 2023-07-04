@@ -1,5 +1,5 @@
-1	Σηκώθην	σηκοῡμαι	VERB	VERB	Tense=Past|Number=Sing|Person=3	0	root	0:root	_
+1	Σηκώθην	σηκοῡμαι	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|Verbform=Fin|Voice=Pass	0	root	0:root	_
 2	τζαι	jαι	CCONJ	CCONJ	_	1	conj	1:conj	_
-3	̟πα	bά	ADV	ADV	_	1	advmod	1:advmod	_
-4	σηκώθη	σηκοῡμαι	VERB	VERB	Tense=Past|Number=Sing|Person=3	1	conj	1:conj	_
-5	.	_	PUNCT	PUNCT	_	1	punct	1:punct	_
+3	̟πα	bά	ADV	ADV	_	4	advmod	4:advmod	_
+4	σηκώθη	σηκοῡμαι	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|Verbform=Fin|Voice=Pass	1	conj	1:conj	_
+5	.	.	PUNCT	PUNCT	_	1	punct	1:punct	_
