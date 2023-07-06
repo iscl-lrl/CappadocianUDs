@@ -384,7 +384,7 @@
 # text = «Γροίξα τα κι στα σέρα σου κατιέν τζο γλιτώνω.
 # text_en = "I understood that from your hands I an not escaping with no power.
 1	«	«	PUNCT	PUNCT	_	2	punct	2:punct	_
-2	Γροίξα	_	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|Verbform=Fin|Voice=Act	0	root	0:root	_
+2	Γροίξα	(γροικώ)	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|Verbform=Fin|Voice=Act	0	root	0:root	_
 3	τα	τα	DET	DET	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	2	obj	2:obj	_
 4	κι	κι	SCONJ	SCONJ	_	11	mark	11:mark	_
 5	σ	σε	ADP	ADP	_	7	case	7:case	_
@@ -569,15 +569,15 @@
 # sent_id = Fairytale 3.37
 # text = Τε στέρου σιτσιράτσεν σ’ απού τη χαραή, τσιρμαλάτσεν τα, έβκαλεν τα φτάλμε του ποίτζεν dα κοριένι.
 # text_en = And then it jumped to the fox's face, it scratched it, gouged out its eyes, it blinded it.
-1	Τε	_	INTJ	_	_	_	_	_	_
-2	στέρου	_	ADV	ADV	_	3	advmod	3:advmod	_
-3	σιτσιράτσεν	_	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|Verbform=Fin|Voice=Act	0	root	0:root	_
+1	Τε	τε	INTJ	_	_	_	_	_	_
+2	στέρου	(στέρου)	ADV	ADV	_	3	advmod	3:advmod	_
+3	σιτσιράτσεν	(σιτσιράτσω)	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|Verbform=Fin|Voice=Act	0	root	0:root	_
 4	σ’	σε	ADP	ADP	_	7	mark	7:mark	_
 5	απού	απός	NOUN	NOUN	Case=Gen|Gender=Masc|Number=Sing	7	nmod	7:nmod	_
 6	τη	η	DET	DET	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	7:det	_
-7	χαραή	_	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Sing	3	expl	3:expl	_
+7	χαραή	χαραή	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Sing	3	expl	3:expl	_
 8	,	,	PUNCT	PUNCT	_	3	punct	3:punct	_
-9	τσιρµαλάτσεν	_	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|Verbform=Fin|Voice=Act	3	conj	3:conj	_
+9	τσιρµαλάτσεν	(τσιρµαλάτσω)	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|Verbform=Fin|Voice=Act	3	conj	3:conj	_
 10	τα	ο	NOUN	NOUN	Case=Acc|Gender=Masc|Number=Sing	9	obj	9:obj	_
 11	,	,	PUNCT	PUNCT	_	3	punct	3:punct	_
 12	έβκαλεν	βγαίνω	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|Verbform=Fin|Voice=Act	3	conj	3:conj	_
@@ -586,7 +586,7 @@
 15	του	ο	DET	DET	Case=Gen|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	14	nmod	14:nmod	_
 16	ποίτζεν	(ποιῶ)	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|Verbform=Fin|Voice=Act	3	conj	3:conj	_
 17	dα	το	DET	DET	Case=Acc|Definite=Def|Gender=Neut|Number=Plur|PronType=Art	18	det	18:det	_
-18	κοριένι	_	NOUN	NOUN	Case=Acc|Gender=Neut|Number=Plur	16	obj	16:obj	_
+18	κοριένι	(κοριέν)	NOUN	NOUN	Case=Acc|Gender=Neut|Number=Plur	16	obj	16:obj	_
 19	.	.	PUNCT	PUNCT	_	3	punct	3:punct	_
 
 # sent_id = Fairytale 3.38
@@ -625,7 +625,7 @@
 16	να	να	AUX	AUX	_	19	det	19:det	_
 17	µη	μη	PART	PART	_	19	advmod	19:advmod	_
 18	µε	ἐγώ	PRON	PRON	Case=Acc|Number=Sing	19	obj	19:obj	_
-19	ζαναχεύει	_	VERB	VERB	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Verbform=Fin|Voice=Act	5	conj	5:conj	_
+19	ζαναχεύει	ζαναχέπω	VERB	VERB	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Verbform=Fin|Voice=Act	5	conj	5:conj	_
 20	αν	αν	NUM	NUM	Case=Nom|Gender=Neut|Number=Sing	22	nummod	22:nummod	_
 21	πίσι	pis	ADJ	ADJ	_	22	amod	22:amod	_
 22	λαχτόρι	λαχτόρι	NOUN	NOUN	Case=Nom|Gender=Neut|Number=Sing	19	nsubj	19:nsubj	_
@@ -646,7 +646,7 @@
 10	φάω	τρώγω	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Verbform=Fin|Voice=Act	1	advcl	1:advcl	_
 11	τσας	τσας	ADV	_	_	10	advmod	10:advmod	_
 12	τα	το	DET	DET	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	13	obj	13:obj	_
-13	είχα	_	VERB	VERB	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Verbform=Fin|Voice=Act	1	advcl	1:advcl	_
+13	είχα	έχω	VERB	VERB	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Verbform=Fin|Voice=Act	1	advcl	1:advcl	_
 14	σ	σε	ADP	ADP	_	16	mark	16:mark	_
 15	α	το	DET	DET	Case=Acc|Definite=Def|Gender=Neut|Number=Plur|PronType=Art	16	det	16:det	_
 16	σέρε	σέρι	NOUN	NOUN	Case=Acc|Gender=Neut|Number=Plur	13	obl	13:obl	_
@@ -772,7 +772,7 @@
 # text_en = Are you rank bearer of the Janissaries?
 1	Μην	μην	PART	PART	_	_	_	_	_
 2	είσαι	είμαι	VERB	VERB	Aspect=Ιμπ|Mood=Ind|Number=Sing|Person=2|Tense=Pres|Verbform=Fin|Voice=Act	0	root	0:root	_
-3	ζαπίτ’ς	_	NOUN	NOUN	Case=Nom|Gender=Masc|Number=Sing	2	nsubj	2:nsubj	_
+3	ζαπίτ’ς	(ζαπίτης)	NOUN	NOUN	Case=Nom|Gender=Masc|Number=Sing	2	nsubj	2:nsubj	_
 4	του	το	DET	DET	Case=Gen|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	5	det	5:det	_
 5	Γενιτζερίουν	Γενιτζερί	PROPN	PROPN	Case=Gen|Gender=Neut|Number=Sing	3	nmod	3:nmod	_
 6	;	;	PUNCT	PUNCT	_	2	punct	2:punct	_
@@ -781,7 +781,7 @@
 # text = Συ τελλάλ είσαι τζαι ‘ξωµατικός;
 # text_en = Are you both a preacher and an officer?
 1	Συ	εσύ	PRON	PRON	Case=Nom|Number=Sing	3	nsubj	3:nsubj	_
-2	τελλάλ	_	NOUN	NOUN	Case=Nom|Gender=Masc|Number=Sing	1	appos	1:appos	_
+2	τελλάλ	τελλάλ	NOUN	NOUN	Case=Nom|Gender=Masc|Number=Sing	1	appos	1:appos	_
 3	είσαι	είμαι	VERB	VERB	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|Verbform=Fin|Voice=Act	0	root	0:root	_
 4	τζαι	jαι	CCONJ	CCONJ	_	5	cc	5:cc	_
 5	‘ξωματικός	(αξωματικός)	NOUN	NOUN	Case=Nom|Gender=Masc|Number=Sing	2	conj	2:conj	_
