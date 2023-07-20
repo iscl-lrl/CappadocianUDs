@@ -1,0 +1,10 @@
+1	Είπαν	λέγω	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|Verbform=Fin|Voice=Act	0	root	0:root	_
+2	dι	di	SCONJ	PART	_	1	mark	1:mark	_
+3	κι	κι	SCONJ	PART	_	1	mark	1:mark	_
+4	πενεντάβου	πενενdάβου	ADP	ADP	_	5	case	5:case	_
+5	τουνε	το	PRON	PRON	Case=Gen|Gender=Neut|Number=Plur	_	_	_	_
+6	τα	το	DET	DET	Case=Nom|Definite=Def|Gender=Neut|Number=Plur|PronType=Art	7	det	7:det	_
+7	δρα	δρό	ADJ	ADJ	Case=Nom|Gender=Neut|Number=Plur	9	advmod	9:advmod	_
+8	τα	το	DET	DET	Case=Nom|Definite=Def|Gender=Neut|Number=Plur|PronType=Art	9	det	9:det	_
+9	τζαναβάρα	jαναβάρι	NOUN	NOUN	Case=Nom|Gender=Neut|Number=Plur	1	nsubj	1:nsubj	_
+10	:	:	PUNCT	PUNCT	_	1	punct	1:punct	_
