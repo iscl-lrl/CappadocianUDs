@@ -1,0 +1,12 @@
+1	Μες	ἐγώ	PRON	PRON	Case=Acc|Gender=Neut|Number=Plur|Person=1	2	obj	2:obj	_
+2	συραίνουν	συραίνω	VERB	VERB	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|Verbform=Fin|Voice=Act	0	root	0:root	_
+3	μο	με	ADP	ADP	_	5	case	5:case	_
+4	τον	ο	DET	DET	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	5:det	_
+5	τσιφτέ	çιφτές	NOUN	NOUN	Case=Acc|Gender=Masc|Number=Sing	2	obl	2:obl	_
+6	τζαι	jαι	CCONJ	CCONJ	_	8	cc	8:cc	_
+7	μες	ἐγώ	PRON	PRON	Case=Αcc|Gender=Neut|Number=Plur|Person=1	8	obj	8:obj	_
+8	καρφώνουν	καρφώνω	VERB	VERB	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|Verbform=Fin|Voice=Act	2	conj	2:conj	_
+9	μο	με	ADP	ADP	_	11	case	11:case	_
+10	το	το	DET	DET	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	11	det	11:det	_
+11	τσίκκι	τσίκι	NOUN	NOUN	Case=Acc|Gender=Neut|Number=Sing	8	obl	8:obl	_
+12	.	.	PUNCT	PUNCT	_	2	punct	2:punct	_
