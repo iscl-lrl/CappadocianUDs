@@ -1,0 +1,5 @@
+1. I have to add:
+# sent_id = Fairytale 3.0 (Title)
+# text = Αωπός τζαι το λαχτόρι.
+# text_en = The fox and the rooster.
+

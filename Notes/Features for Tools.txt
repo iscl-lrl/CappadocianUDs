@@ -25,7 +25,7 @@ Adj:  Case|Degree|Gender=Neut|Number=Plur|NumType
 
 Noun: Case=Nom|Gender=Neut|Number=Plur
 Det:  Case=Nom|Definite=Def|Gender=Neut|Number=Plur|PronType=Art (Μόνο για οριστικό αρθ)
-Pron: Case=Nom|Gender=Neut|Number=Plur|Pos
+Pron: Case=Nom|Gender=Neut|Number=Plur|Poss
     
 Νεα προσθήκη: Poss ---> Yes: ναι ειναι κτητικό 
                         EMPTY: ΌΧΙ 
