@@ -2,10 +2,10 @@
 2	τ'	η	DET	DET	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	3:det	_
 3	άβο	ἂβου DET	DET  Case=Acc|Definite=Ind|Gender=Fem|Number=Sing	5	det	5:det	_
 4	τη	η	DET 	DET	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	5:det	_
-5	μερέ	μερά	NOUN	NOUN	Case=AccGender=Fem|Number=Sing	6	obl	6:obl	_
+5	μερέ	μερά	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Sing	6	obl	6:obl	_
 6	ήρταν	ἒρχουμι	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|Verbform=Fin|Voice=Pass	0	root	0:root	_
 7	κάτσαν	κάθομαι	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|Verbform=Fin|Voice=Pass	6	conj	6:conj	_
-8	του	το	DET	DET	Definite=Def|Gender=Neut|Number=Sing|Case=Gen||PronType=Art	9	det	9:det	_
+8	του	το	DET	DET	Case=Gen|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	9	det	9:det	_
 9	χωρού	χωρίο(ν)	NOUN	NOUN	Case=Gen|Gender=Neut|Number=Sing	11	nmod	11:nmod	_
 10	τα	το	DET	DET	Case=Nom|Definite=Def|Gender=Neut|Number=Plur|PronType=Art	11	det	11:det	_
 11	χαϊβάνα	χαϊβάν(ι)	NOUN	NOUN	Case=Nom|Gender=Neut|Number=Plur	6	nsubj	6:nsubj	_
