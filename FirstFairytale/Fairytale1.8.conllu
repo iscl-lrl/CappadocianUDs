@@ -3,7 +3,7 @@
 3	κάτσανε	κάθομαι	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|Verbform=Fin|Voice=Pass	1	parataxis	1:parataxis	_
 4	‘ς	σε	ADP	ADP	_	7	case	7:case	_
 5	όινα	(όινα)	DET	DET	Case=Acc|Definite=Ind|Gender=Fem|Number=Plur	7	det	7:det	_
-6	τη	η	DET	DET	Definite=Def|Gender=Fem|Number=Sing|Case=Acc||PronType=Art	7	det	7:det	_
+6	τη	η	DET	DET	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	7:det	_
 7	μερέ	μερά	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Sing 	_	_	_	_
 8	του	το	DET	DET	Case=Gen|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	9	det	9:det	_
 9	’ρουσού	ρουσί	NOUN	NOUN	Case=Gen|Gender=Neut|Number=Sing 	11	nmod	11:nmod	_
@@ -13,11 +13,11 @@
 13	ο	o	DET	DET	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	14	det	14:det	_
 14	ασλάνος	ἀσλάν,ἀσλάνος	NOUN	NOUN	Case=Nom|Gender=Masc|Number=Sing	3	parataxis	3:parataxis	_
 15	,	,	PUNCT	PUNCT	_	17	punct	17:punct	_
-16	το	τo	DET	DET	Definite=Def|Gender=Neut|Number=Sing|Case=Nom||PronType=Art	17	det	17:det	_
-17	καλάνι	qαπλάνος	NOUN	NOUN	Gender=Neut|Number=Sing|Case=Nom	14	conj	14:conj	_
+16	το	τo	DET	DET	|Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	17	det	17:det	_
+17	καλάνι	qαπλάνος	NOUN	NOUN	Case=Nom|Gender=Neut|Number=Sing	14	conj	14:conj	_
 18	,	,	PUNCT	PUNCT	_	20	punct	20:punct	_
-19	το	το	DET	DET	Definite=Def|Gender=Neut|Number=Sing|Case=Nom||PronType=Art	20	det	20:det	_
-20	’ρκούδι	ἀρκούδι	NOUN	NOUN	Gender=Neut|Number=Sing|Case=Gen	14	conj	14:conj	_
+19	το	το	DET	DET	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	20	det	20:det	_
+20	’ρκούδι	ἀρκούδι	NOUN	NOUN	Case=Nom|Gender=Neut|Number=Sing	14	conj	14:conj	_
 21	,	,	PUNCT	PUNCT	_	23	punct	23:punct	_
 22	ο	ο	DET	DET	Case=Nom|Definite=Def|Gender=Masc|Number=Plur|PronType=Art	23	det	23:det	_
 23	λύκος	λύκος(λύgoσ)	NOUN	NOUN	Case=Nom|Gender=Masc|Number=Sing	14	conj	14:conj	_
