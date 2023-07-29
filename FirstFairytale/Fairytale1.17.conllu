@@ -1,0 +1,10 @@
+1	Τάημισα	τάημισα	DET	DET	_	3	det	3:det	_
+2	οι	ο	DET	DET	Case=Nom|Definite=Def|Gender=Masc|Number=Plur|PronType=Art	3	det	3:det	_
+3	νομάτοι	νομάτης	NOUN	NOUN	Case=Nom|Gender=Masc|Number=Plur	4	nsubj	4:nsubj	_
+4	θέκνουν	θέκνω	VERB	VERB	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|Verbform=Fin|Voice=Act	0	root	0:root	_
+5	μέγκενε	μέγκενε	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Plur	4	obj	4:obj	_
+6	τζαι	jαι	CCONJ	CCONJ	_	7	cc	7:cc	_
+7	πιένουν	πιένω	VERB	VERB	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|Verbform=Fin|Voice=Act	4	conj	4:conj	_
+8	μες	ἐγώ	PRON	PRON	Case=Αcc|Gender=Neut|Number=Plur|Person=1	7	obj	7:obj	_
+9	αρά	αρό	ADJ	ADJ	Case=Acc|Gender=Fem|Number=Plur	8	amod	8:amod	_
+10	.	.	PUNCT	PUNCT	_	4	punct	4:punct	_
