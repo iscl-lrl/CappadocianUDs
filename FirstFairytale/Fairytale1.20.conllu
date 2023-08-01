@@ -1,0 +1,10 @@
+1	Πα	πό	PRON	PRON	_	2	nsubj	2:nsubj	_
+2	ποίκομε	ποιῶ	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Tense=Future|Verbform=Fin|Voice=Act	0	root	0:root	_
+3	να	να	SCONJ	SCONJ	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Tense=Past|Verbform=Fin|Voice=Act	4	mark	4:mark	_
+4	γλιτώσουμε	γλυτώνω 	VERB	VERB	_	2	advcl	2:advcl	_
+5	‘π’	πό	ADP	ADP	_	8	case	8:case	_
+6	ατό	ατός	DET	DET	Case=Acc|Gender=Neut|Number=Sing	8	det	8:det	_
+7	το	το	DET	DET	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	8	det	8:det	_
+8	σεφιλλίκι	σεφιλλίκι-sefil 	NOUN	NOUN	Case=Acc|Gender=Neut|Number=Sing	4	obl	4:obl	_
+9	;	;	PUNCT	PUNCT	_	2	punct	2:punct	_
+10	»	»	PUNCT	PUNCT	_	2	punct	2:punct	_

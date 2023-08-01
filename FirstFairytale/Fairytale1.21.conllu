@@ -1,0 +1,7 @@
+1	Κάτζιψαν	κατζεύω	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|Verbform=Fin|Voice=Act	0	root	0:root	_
+2	τζαι	jαι	CCONJ	CCONJ	_	6	cc	6:cc	_
+3	του	το	DET	DET	Case=Gen|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	4	det	4:det	_
+4	χωρού	χωρίο(ν)	NOUN	NOUN	Case=Gen|Gender=Neut|Number=Sing	6	nmod	6:nmod	_
+5	τα	το	DET	DET	Case=Nom|Definite=Def|Gender=Neut|Number=Plur|PronType=Art	6	det	6:det	_
+6	χαϊβάνα	χαϊβάν	NOUN	NOUN	Case=Nom|Gender=Neut|Number=Plur	1	nsubj	1:nsubj	_
+7	.	.	PUNCT	PUNCT	_	1	punct	1:punct	_

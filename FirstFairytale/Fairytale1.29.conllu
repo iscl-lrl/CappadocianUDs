@@ -1,0 +1,10 @@
+1	Ατό	αὐτό	DET	DET	Case=Nom|Definite=Def|Gender=Neut|Number=Sing	4	det	4:det	_
+2	το	το	DET	DET	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	4	det	4:det	_
+3	μέτρο	(μέτρο)	PRON	PRON	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|Pos=Yes	6	amod	6:amod	_
+4	το	το	DET	DET	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	6	det	6:det	_
+5	κετσίμι	κετσίμι(geçim)	NOUN	NOUN	Case=Nom|Gender=Neut|Number=Sing	10	nsubj	10:nsubj	_
+6	,	,	PUNCT	PUNCT	_	8	punct	8:punct	_
+7	κετσίμι	κετσίμι(geçim)	NOUN	NOUN	Case=Nom|Gender=Neut|Number=Sing	6	conj	6:conj	_
+8	τζό	τζο	PART	PART	_	10	advmod	10:advmod	_
+9	‘νι	είμαι	VERB	VERB	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Verbform=Fin|Voice=Act	0	root	0:root	_
+10	.	.	PUNCT	PUNCT	_	10	punct	10:punct	_

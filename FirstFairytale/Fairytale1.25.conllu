@@ -1,0 +1,15 @@
+1	Τζαι	jαι	CCONJ	CCONJ	_	2	cc	2:cc	_
+2	ουστουνέ	ουστουνέ	ADV	ADV	_	4	advmod	4:advmod	_
+3	,	,	PUNCT	PUNCT	_	4	punct	4:punct	_
+4	κοπανίζουν	κοπανίζω	VERB	VERB	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|Verbform=Fin|Voice=Act	0	root	0:root	_
+5	μες	εγω	PRON	PRON	Case=Acc|Gender=Neut|Number=Plur|Person=1	4	obj	4:obj	_
+6	μο	με	ADP	ADP	_	8	case	8:case	_
+7	το	το	DET	DET	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	8	det	8:det	_
+8	ραβdί	ραβdί	NOUN	NOUN	Case=Acc|Gender=Neut|Number=Sing	4	obl	4:obl	_
+9	,	,	PUNCT	PUNCT	_	10	punct	10:punct	_
+10	τζεντάν	κεντώ/jeνdώ	VERB	VERB	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|Verbform=Fin|Voice=Act	4	conj	4:conj	_
+11	μες	εγω	PRON	PRON	Case=Acc|Gender=Neut|Number=Plur|Person=1	10	obj	10:obj	_
+12	μο	με	ADP	ADP	_	14	case	14:case	_
+13	το	το	DET	DET	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	14	det	14:det	_
+14	βουτζέντρι	βούκεντρον	NOUN	NOUN	Case=Acc|Gender=Neut|Number=Sing	10	obl	10:obl	_
+15	.	.	PUNCT	PUNCT	_	4	punct	4:punct	_

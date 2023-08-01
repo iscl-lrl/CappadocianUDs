@@ -1,0 +1,15 @@
+1	Τε	Τε	PART	PART	_	2	cc	2:cc	_
+2	στέρου	στέρου	ADV	ADV	_	5	advmod	5:advmod	_
+3	πάλι	πάλι	ADV	ADV	_	5	advmod	5:advmod	_
+4	τάημισα	τάημισα	DET	DET	_	6	det	6:det	_
+5	φήνουν	(α)φήνω	VERB	VERB	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|Verbform=Fin|Voice=Act	0	root	0:root	_
+6	μες	εγω	PRON	PRON	Case=Acc|Gender=Neut|Number=Plur|Person=1	5	obj	5:obj	_
+7	νηστικά	νηστικός	ADJ	ADJ	Case=Acc|Gender=Neut|Number=Plur	6	amod	6:amod	_
+8	σ	σε	ADP	ADP	_	10	case	10:case	_
+9	α	το	DET	DET	Case=Acc|Definite=Def|Gender=Neut|Number=Plur|PronType=Art	10	det	10:det	_
+10	οράνα	οράνι	NOUN	NOUN	Case=Acc|Gender=Neut|Number=Plur	5	obl	5:obl	_
+11	τζαι	jαι	CCONJ	CCONJ	_	13	cc	13:cc	_
+12	τάημισα	τάημισα	DET	DET	_	14	det	14:det	_
+13	φσάκνουν	σφάζω-φσάγνω	VERB	VERB	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|Verbform=Fin|Voice=Act	5	conj	5:conj	_
+14	μες	εγω	PRON	PRON	Case=Acc|Gender=Neut|Number=Plur|Person=1	13	obj	13:obj	_
+15	.	.	PUNCT	PUNCT	_	5	punct	5:punct	_
