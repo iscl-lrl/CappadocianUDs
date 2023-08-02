@@ -1,0 +1,12 @@
+1	Οι	ο	DET	DET	Case=Nom|Definite=Def|Gender=Masc|Number=Plur|PronType=Art	2	det	2:det	_
+2	νομάτοι	νομάτης	NOUN	NOUN	Case=Nom|Gender=Masc|Number=Plur	3	nsubj	3:nsubj	_
+3	σκοτώνουν	σκοτώνω	VERB	VERB	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|Verbform=Fin|Voice=Act	0	root	0:root	_
+4	του	το	DET	DET	Case=Gen|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	5	det	5:det	_
+5	ρουσού	ρουσί	NOUN	NOUN	Case=Gen|Gender=Neut|Number=Sing	7	nmod	7:nmod	_
+6	τα	το	DET	DET	Case=Acc|Definite=Def|Gender=Neut|Number=Plur|PronType=Art	7	det	7:det	_
+7	τζαναβάρα	jαναβάρι	NOUN	NOUN	Case=Acc|Gender=Neut|Number=Plur	3	obj	3:obj	_
+8	τσαι	jαι	CCONJ	CCONJ	_	9	cc	9:cc	_
+9	φσάζουν	σφάζω-φσάζω	VERB	VERB	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|Verbform=Fin|Voice=Act	3	conj	3:conj	_
+10	τα	το	DET	DET	Case=Acc|Definite=Def|Gender=Neut|Number=Plur|PronType=Art	11	det	11:det	_
+11	χαϊβάνα	χαϊβάν(ι)	NOUN	Case=Acc|Gender=Neut|Number=Plur	_	9	obj	9:obj	_
+12	.	.	PUNCT	PUNCT	_	3	punct	3:punct	_

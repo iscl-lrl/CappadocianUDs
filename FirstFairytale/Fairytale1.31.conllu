@@ -1,0 +1,13 @@
+1	Είπεν	λέγω	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|Verbform=Fin|Voice=Act	0	root	0:root	_
+2	τι	di	SCONJ	SCONJ	_	1	mark	1:mark	_
+3	κι	κι	SCONJ	SCONJ	_	1	mark	1:mark	_
+4	τζ’	jαι	CCONJ	CCONJ	_	5	cc	5:cc	_
+5	αωπός	αωπός	NOUN	NOUN	Case=Nom|Gender=Masc|Number=Sing	1	nsubj	1:nsubj	_
+6	,	,	PUNCT	PUNCT	_	8	punct	8:punct	_
+7	ο	ο	DET	DET	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	8:det	_
+8	Μουdούρης	(Μουdούρης)	NOUN	NOUN	Case=Nom|Gender=Masc|Number=Sing	_	_	_	_
+9	,	,	PUNCT	PUNCT	_	1	punct	1:punct	_
+10	σ	σε	ADP	ADP	_	12	case	12:case	_
+11	ο	το	DET	DET	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	12	det	12:det	_
+12	μεντζιλίσι	menjουλίσι	NOUN	NOUN	Case=Acc|Gender=Neut|Number=Sing	1	obl	1:obl	_
+13	:	:	PUNCT	PUNCT	_	1	punct	1:punct	_
