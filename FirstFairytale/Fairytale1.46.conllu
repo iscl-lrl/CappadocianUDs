@@ -1,0 +1,5 @@
+1	Αωπός	αωπός	NOUN	NOUN	Case=Nom|Gender=Masc|Number=Sing	2	nsubj	2:nsubj	_
+2	είπεν	λέγω	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|Verbform=Fin|Voice=Act	0	root	0:root	_
+3	dι	di	SCONJ	PART	_	2	mark	2:mark	_
+4	κι	ki	SCONJ	PART	_	2	mark	2:mark	_
+5	:	:	PUNCT	PUNCT	_	2	punct	2:punct	_

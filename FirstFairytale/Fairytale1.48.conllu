@@ -1,0 +1,10 @@
+
+
+1	Των	το	DET	DET	Case=Gen|Gender=Neut|Number=Plural|PronType=Art	2	det	2:det	_
+2	τζαναβαρίων	jαναβάρι	NOUN	NOUN	Case=Gen|Gender=Neut|Number=Plural	4	nmod	4:nmod	_
+3	το	το	DET	DET	Case=Nom|Gender=Neut|Number=Sing|PronType=Art	4	det	4:det	_
+4	μεντζιλίσι	menjουλίσι	NOUN	NOUN	Case=Nom|Gender=Neut|Number=Sing	7	nsubj	7:nsubj	_
+5	χως	χως	ADP	ADP	_	6	case	6:case	_
+6	αδού	αδέ	ADV	ADV	_	7	advmod	7:advmod	_
+7	ήτουνε	ειμί	VERB	VERB	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|Verbform=Fin|Voice=Act	0	root	0:root	_
+8	.	.	PUNCT	PUNCT	_	7	punct	7:punct	_
