@@ -1,0 +1,15 @@
+1	Σεις	 εγω	PRON	PRON	Case=Nom|Gender=Neut|Number=Plur|Person=2	8	nsubj	8:nsubj	_
+2	πάλι	πάλι-bάλι	ADV	ADV	_	8	advmod	8:advmod	_
+3	του	το	DET	DET	Case=Gen|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	4	det	4:det	_
+4	χωρού	χωρίο(ν)	NOUN	NOUN	Case=Gen|Gender=Neut|Number=Sing	6	nmod	6:nmod	_
+5	τα	το	DET	DET	Case=Nom|Definite=Def|Gender=Neut|Number=Plur|PronType=Art	6	det	6:det	_
+6	χαϊβάνα	χαϊβάν(ι)	NOUN	NOUN	Case=Nom|Gender=Neut|Number=Plur	1	appos	1:appos	_
+7	πα	bα	PRON	PRON	_	8	obj	8:obj	_
+8	ποίτζετε	ποιώ	VERB	VERB	Aspect=Imp|Mood=Ind|Number=Plur|Person=2|Tense=Pres|Verbform=Fin|Voice=Act	0	root	0:root	_
+9	δεχούς	δεχούς	ADP	ADP	_	11	case	11:case	_
+10	την	η	DET	DET	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	11	det	11:det	_
+11	παχνή	(παχνή)	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Sing	8	obl	8:obl	_
+12	του	o	DET	DET	Case=Gen|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	13	det	13:det	_
+13	αυτέdη	αφένdης-αυθέντης	NOUN	NOUN	Case=Gen|Gender=Masc|Number=Sing	11	nmod	11:nmod	_
+14	σας	εσυ	PRON	PRON	Case=Gen|Gender=Neut|Number=Plur|Person=2|Poss=Yes	13	nmod	13:nmod	_
+15	;	;	PUNCT	PUNCT	_	8	punct	8:punct	_
