@@ -1,5 +1,13 @@
-1. I have to add:
-# sent_id = Fairytale 3.0 (Title)
-# text = Αωπός τζαι το λαχτόρι.
-# text_en = The fox and the rooster.
+# sent_id = Fairytale 1.49
+# text = Χωρίστανε, πηάγανε.
+# text_en = They scattered, they went.
 
+
+# sent_id = Fairytale 1.29
+# text =  «Ατό το μέτρο το κετσίμι, κετσίμι τζό ‘νι.
+# text_en = “This life of ours, life is not.
+
+
+1.41 να βαλω το punct
+1,32
+1,34
