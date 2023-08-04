@@ -1,3 +1,6 @@
+# sent_id = Fairytale 1.45
+# text = Χέρκες σ' αφτέdη του το σταύκο».
+# text_en = Each at his master's stable."
 1	Χέρκες	χερκές	PRON	PRON	Case=Nom|Gender=Neut|Number=Sing	0	root	0:root	_
 2	σ'	σε	ADP	ADP	_	6	case	6:case	_
 3	αφτέdη	αφένdης-αυθέντης	NOUN	NOUN	Case=Acc|Gender=Masc|Number=Sing	6	nmod	6:nmod	_

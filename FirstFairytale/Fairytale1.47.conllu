@@ -1,5 +1,6 @@
-
-
+# sent_id = Fairytale 1.47
+# text = «Αμέτε, τα τζαναβάρα χέρκες σο σπήλο του τζαι τα χαϊβάνα σο παχνί τουνε».
+# text_en = "Take each ,the wild ones in their cave and the beasts to their manger".
 1	«Αμέτε	πηγαίνω	VERB	VERB	Aspect=Imp|Mood=Imp|Number=Plur|Person=2|Tense=Pres|Verbform=Fin|Voice=Act	0	root	0:root	_
 2	,	,	PUNCT	PUNCT	_	1	punct	1:punct	_
 3	τα	το	DET	DET	Case=Acc|Definite=Def|Gender=Neut|Number=Plur|PronType=Art	4	det	4:det	_

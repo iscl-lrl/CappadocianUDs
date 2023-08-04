@@ -1,4 +1,6 @@
-
+# sent_id = Fairytale 1.42
+# text = Ερ να πασλατίσουμε χαρέτζα μουχαρεπέ μο τις χωρότοι, πελάς α νάρτει σοτσουφάλι μας».
+# text_en = If we start a war with the villagers now trouble will come upon us."
 1	Ερ	ερ	SCONJ	SCONJ	_	3	mark	3:mark	_
 2	να	να	AUX	AUX	Aspect=EMPTY|Mood=EMPTY|Number=EMPTY|Person=EMPTY|Tense=EMPTY|Verbform=EMPTY|Voice=EMPTY	3	aux	3:aux	_
 3	πασλατίσουμε	πασλατίσκην	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Tense=Pres|Verbform=Fin|Voice=Act	0	root	0:root	_

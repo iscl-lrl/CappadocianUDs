@@ -1,3 +1,7 @@
+# sent_id = Fairytale 1.10
+# text = Ήρταν τζαι στο ορμάνι ατόνε τα ’πομεινά του ρουσού τα χαϊβανόκκα.
+# text_en = Some other mountain animals also came from the forest.
+
 1	Ήρταν	ἒρχουμι	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|Verbform=Fin|Voice=Pass	0	root	0:root	_
 2	τζαι	jαι	CCONJ	CCONJ	_	1	cc	1:cc	_
 3	σ	σε	ADP	ADP	_	5	case	5:case	_
@@ -5,7 +9,7 @@
 5	ορμάνι	ὀρμάν(ι)	NOUN	NOUN	Case=Acc|Gender=Neut|Number=Sing	1	obl	1:obl	_
 6	ατόνε	ατό	DET	DET	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|	5	det	5:det	_
 7	τα	το	DET	DET	Case=Nom|Definite=Def|Gender=Neut|Number=Plur|PronType=Art	8	det	8:det	_
-8   ’πομεινά	πομεινό	ADJ	ADJ	Case=Nom|Gender=Neut|Number=Plur	12	amod	12:amod	_
+8   ’πομεινά	πομεινό	ADJ	ADJ	Aspect=Imp|Case=Nom|Gender=Neut|Mood=Ind|Number=Plur|Tense=Pres|Verbform=Part|Voice=Pass	12	amod	12:amod	_
 9	του	το	DET	DET	Case=Gen|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	10	det	10:det	_
 10	ρουσού	ρουσί	NOUN	NOUN	Case=Gen|Gender=Neut|Number=Sing	12	nmod	12:nmod	_
 11	τα	το	DET	DET	Case=Nom|Definite=Def|Gender=Neut|Number=Plur|PronType=Art	12	det	12:det	_

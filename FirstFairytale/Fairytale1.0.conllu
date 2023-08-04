@@ -1,3 +1,6 @@
+# sent_id = Fairytale 1.0 (Title)
+# text = Των τζαναβαρίων το μεντζιλίσι.
+# text_en = The meeting of the wild beasts.
 1	Των	το	DET	DET	Case=Gen|Gender=Neut|Number=Plural|PronType=Art	2	det	2:det	_
 2	τζαναβαρίων	jαναβάρι	NOUN	NOUN	Case=Gen|Gender=Neut|Number=Plural	4	nmod	4:nmod	_
 3	το	το	DET	DET	Case=Nom|Gender=Neut|Number=Sing|PronType=Art	4	det	4:det	_

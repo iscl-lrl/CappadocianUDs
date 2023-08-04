@@ -1,3 +1,6 @@
+# sent_id = Fairytale 1.44
+# text = «Να υπάμε τζαι μεις σις χωρότοι μας κοντά.
+# text_en = "Let also go close to our villagers,
 1	«	«	PUNCT	PUNCT	_	3	punct	3:punct	_
 2	Να	να	AUX	AUX	Aspect=EMPTY|Mood=EMPTY|Number=EMPTY|Person=EMPTY|Tense=EMPTY|Verbform=EMPTY|Voice=EMPTY	3	aux	3:aux	_
 3	υπάμε	πηγαίνω	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Tense=Pres|Verbform=Fin|Voice=Act	0	root	0:root	_

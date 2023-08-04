@@ -1,3 +1,6 @@
+# sent_id = Fairytale 1.30
+# text = Να νάβρουμε αν τσαρές να γλιτώσουμε».
+# text_en =  Let's find a way to escape".
 1	Να	να	AUX	AUX	Aspect=EMPTY|Mood=EMPTY|Number=EMPTY|Person=EMPTY|Tense=EMPTY|Verbform=EMPTY|Voice=EMPTY	2	aux	2:aux	_
 2	νάβρουμε	βρίσκω	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Tense=Pres|Verbform=Fin|Voice=Act	0	root	0:root	_
 3	αν	α	DET	DET	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	4:det	_

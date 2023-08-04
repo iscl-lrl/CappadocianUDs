@@ -1,4 +1,6 @@
-
+# sent_id = Fairytale 1.40
+# text = Απιδού στέρου να ‘υριστούμε τζας είμεστε ση φωλέ μας:
+# text_en = Fron now on let's go back as we are in our nest:
 1	Απιδού	απιδού	ADV	ADV	_	4	advmod	4:advmod	_
 2	στέρου	στέρου	ADV	ADV	_	4	advmod	4:advmod	_
 3	να	να	AUX	AUX	Aspect=EMPTY|Mood=EMPTY|Number=EMPTY|Person=EMPTY|Tense=EMPTY|Verbform=EMPTY|Voice=EMPTY	4	aux	4:aux	_

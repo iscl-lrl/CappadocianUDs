@@ -1,3 +1,6 @@
+# sent_id = Fairytale 1.36
+# text = Σεις πάλι του χωρού τα χαϊβάνα πα ποίτζετε δεχούς την παχνή του αυτέdη σας;
+# text_en = You again, the animals of the village, what will you do without the crib your master's?
 1	Σεις	 εγω	PRON	PRON	Case=Nom|Gender=Neut|Number=Plur|Person=2	8	nsubj	8:nsubj	_
 2	πάλι	πάλι-bάλι	ADV	ADV	_	8	advmod	8:advmod	_
 3	του	το	DET	DET	Case=Gen|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	4	det	4:det	_

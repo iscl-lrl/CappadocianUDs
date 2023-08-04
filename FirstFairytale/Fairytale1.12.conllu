@@ -1,3 +1,6 @@
+# sent_id = Fairytale 1.12
+# text =  Σο μεντζιλίσι τα τζαναβάρα, έβγκαλαν τσουφαλάς τουνε τον αωπό.
+# text_en = At the meeting the wild beasts took the fox as their leader.
 1	Σ	σε	ADP	ADP	_	3	case	3:case	_
 2	ο	το	DET	DET	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	3	det	3:det	_
 3	μεντζιλίσι	menjουλίσι	NOUN	NOUN	Case=Acc|Gender=Neut|Number=Sing	7	obl	7:obl	_

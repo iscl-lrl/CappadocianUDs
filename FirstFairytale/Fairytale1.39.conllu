@@ -1,4 +1,6 @@
-
+# sent_id = Fairytale 1.39
+# text = «Τεμέκ πω λέτε dόστοι;
+# text_en = “So what do you say comrades?
 1	«Τεμέκ	τεμέκ	CCONJ	CCONJ	_	3	cc	3:cc	_
 2	πω	bα	PRON	PRON	_	3	obj	3:obj	_
 3	λέτε	λέγω	VERB	VERB	Aspect=Imp|Mood=Ind|Number=Plur|Person=2|Tense=Pres|Verbform=Fin|Voice=Act	0	root	0:root	_

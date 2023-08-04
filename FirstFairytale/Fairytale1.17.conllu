@@ -1,3 +1,6 @@
+# sent_id = Fairytale 1.17
+# text = Τάημισα οι νομάτοι θέκνουν μέγκενε τζαι πιένουν μες αρά.
+# text_en = Some people set traps and catch us alive.
 1	Τάημισα	τάημισα	DET	DET	_	3	det	3:det	_
 2	οι	ο	DET	DET	Case=Nom|Definite=Def|Gender=Masc|Number=Plur|PronType=Art	3	det	3:det	_
 3	νομάτοι	νομάτης	NOUN	NOUN	Case=Nom|Gender=Masc|Number=Plur	4	nsubj	4:nsubj	_

@@ -1,3 +1,6 @@
+# sent_id = Fairytale 1.38
+# text = Αδού, σ’ αω.ού το κατζί .άνου, εί.ανε τζαι τα ’.ομεινά του ρουσού τα τζαναβάρα:
+# text_en = Here, upon the rock of the fox, and other beasts also spoke mountain:
 1	Αδού	αδέ	ADV	ADV	_	9	advmod	9:advmod	_
 2	,	,	PUNCT	PUNCT	_	_	_	_	_
 3	σ’	σε	ADP	ADP	_	6	case	6:case	_
@@ -9,7 +12,7 @@
 9	είπανε	λέγω	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|Verbform=Fin|Voice=Act	0	root	0:root	_
 10	τζαι	jαι	CCONJ	CCONJ	_	16	cc	16:cc	_
 11	τα	το	DET	DET	Case=Nom|Definite=Def|Gender=Neut|Number=Plur|PronType=Art	12	det	12:det	_
-12	’πομεινά	απομένω	ADJ	VERB	Aspect=Imp|Case=Nom|Gender=Neut|Mood=Ind|Number=Plur|Tense=Pres|Verbform=Part|Voice=Pass	16	amod	16:amod	_
+12	’πομεινά	απομένω	ADJ	ADJ	Aspect=Imp|Case=Nom|Gender=Neut|Mood=Ind|Number=Plur|Tense=Pres|Verbform=Part|Voice=Pass	16	amod	16:amod	_
 13	του	το	DET	DET	Case=Gen|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	14	det	14:det	_
 14	ρουσού	ρουσί	NOUN	NOUN	Case=Gen|Gender=Neut|Number=Sing	16	nmod	16:nmod	_
 15	τα	το	DET	DET	Case=Nom|Definite=Def|Gender=Neut|Number=Plur|PronType=Art	16	det	16:det	_

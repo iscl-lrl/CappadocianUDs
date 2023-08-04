@@ -1,3 +1,6 @@
+# sent_id = Fairytale 1.27
+# text = Τρων το κρες μας τζαι μο το πόστι μας φταίνουν τσαρούχα.
+# text_en =  They eat our meat and with the skin they make shoes(tsarouchia).
 1	Τρων	τρώγω	VERB	VERB	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|Verbform=Fin|Voice=Act	0	root	0:root	_
 2	το	το	DET	DET	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	3	det	3:det	_
 3	κρες	κρες	NOUN	NOUN	Case=Acc|Gender=Neut|Number=Sing	1	obj	1:obj	_

@@ -1,3 +1,8 @@
+# sent_id = Fairytale 1.2 
+# text = Σα μπρο τον ταρό, του ρουσού τα τζναβάρα νανόστανε κι:
+# text_en = In the first time, the wild beasts of the mountain thought:
+
+
 1	Σα	σε	ADP	ADP	_	4	case	4:case	_
 2	μπρο	μπρο	ADJ	ADJ	Case=Acc|Gender=Masc|Number=Sing|NumType=Ord	4	amod	4:amod	_
 3	τον	ο	DET	DET	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art 	4	det	4:det	_

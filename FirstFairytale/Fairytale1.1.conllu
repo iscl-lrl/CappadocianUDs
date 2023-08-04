@@ -1,3 +1,7 @@
+# sent_id = Fairytale 1.1 
+# text = Σηκώθην τζαι πα σηκώθη.
+# text_en = He rose and rose.
+
 1	Σηκώθην	σηκοῡμαι	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|Verbform=Fin|Voice=Pass	0	root	0:root	_
 2	τζαι	jαι	CCONJ	CCONJ	_	1	conj	1:conj	_
 3	̟πα	bά	ADV	ADV	_	4	advmod	4:advmod	_

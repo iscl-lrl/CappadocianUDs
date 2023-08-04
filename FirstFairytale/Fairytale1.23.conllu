@@ -1,3 +1,6 @@
+# sent_id = Fairytale 1.23
+# text = «Με μεις, το μέτρο το σεφιλλίκι ένι τζάβου ζόρι.
+# text_en = But us? Οur suffering is worse.
 1	«	«	PUNCT	PUNCT	_	9	punct	9:punct	_
 2	Με	μα	SCONJ	SCONJ_	_	_	_	_	_
 3	μεις	εγω	PRON	PRON	Case=Nom|Gender=Neut|Number=Plur|Person=1	_	_	_	_

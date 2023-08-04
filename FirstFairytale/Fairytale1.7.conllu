@@ -1,3 +1,6 @@
+# sent_id = Fairytale 1.7
+# text = Σωρεύτανε, αν Τζερετζή την εβίτζα, σου Καβάρη το κάτζι μπρο.
+# text_en = They gathered one Sunday morning, in front of the rock Cavari
 1	Σωρεύτανε	σωρέβου	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|Verbform=Fin|Voice=Pass	0	root	0:root	_
 2	,	,	PUNCT	PUNCT	_	1	punct	1:punct	_
 3	αν	α	NUM	NUM	Case=Acc|Definite=Ind|Gender=Fem|Number=Sing	4	det	4:det	_

@@ -1,3 +1,6 @@
+# sent_id = Fairytale 1.28
+# text = Ινεται τελέφι το δέρμα μας σ' η στράτα.
+# text_en =  It melts our skin on the road.
 1	‘Ινεται	(γ)ίνομαι	VERB	VERB	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Verbform=Fin|Voice=Pass	0	root	0:root	_
 2	τελέφι	τελέφι	NOUN	NOUN	Case=Nom|Gender=Neut|Number=Sing	_	_	_	_
 3	το	το	DET	DET	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	4	det	4:det	_

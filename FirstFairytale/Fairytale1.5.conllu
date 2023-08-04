@@ -1,3 +1,7 @@
+1. I have to add:
+# sent_id = Fairytale 1.5
+# text = «πα ποίκουμε να γλιτώσουμε στου νοματίουν το τζυνή’ι».
+# text_en = "something to do to escape the hunting of humans".
 1	«	«	PUNCT	PUNCT	_	3	punct	3:punct	_
 2	πα	ba	PRON	PRON	Case=Acc|Definite=Ind|Gender=Neut	3	obj	3:obj	_
 3	οίκουμε	οίκ	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Tense=Past|Verbform=Fin|Voice=Act	0	root	0:root	_

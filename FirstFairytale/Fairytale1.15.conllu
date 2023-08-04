@@ -1,3 +1,6 @@
+# sent_id = Fairytale 1.15
+# text =  Κάτα ημέρα έρχονται οι τζυνη'οί τζαι μες σκοτώνουν τζάπου να μες εύρουν.
+# text_en = Every day the hunters come and kill us everywhere find us.
 1	Κάτα	κάτα,κάτε,κάdε	DET	DET	_	2	det	2:det	_
 2	ημέρα	(ἡ)μέρα	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Sing 	3	obl	3:obl	_
 3	έρχονται	ἒρχουμι	VERB	VERB	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|Verbform=Fin|Voice=Pass	0	root	0:root	_

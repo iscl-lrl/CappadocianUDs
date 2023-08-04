@@ -1,3 +1,6 @@
+# sent_id = Fairytale 1.46
+# text = Αωπός είπεν dι κι:
+# text_en = The fox said:
 1	Αωπός	αωπός	NOUN	NOUN	Case=Nom|Gender=Masc|Number=Sing	2	nsubj	2:nsubj	_
 2	είπεν	λέγω	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|Verbform=Fin|Voice=Act	0	root	0:root	_
 3	dι	di	SCONJ	PART	_	2	mark	2:mark	_

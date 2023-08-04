@@ -1,3 +1,6 @@
+# sent_id = Fairytale 1.3
+# text = «Να σωρευτούμε α ημέρα ‘ς α μεντζιλίσι».
+# text_en = "Let us gather one day in a meeting"
 1	«	«	PUNCT	PUNCT	_	3	punct	3:punct	_
 2	Να	να	AUX	AUX	Mood=Empty	3	aux	3:aux	_
 3	σωρευτούμε	σωρόβω	VERB	VERB	Aspect=Perf|Mood=Imp|Number=Sing|Person=3|Tense=Past|Verbform=Fin|Voice=Pass	0	root	0:root	_

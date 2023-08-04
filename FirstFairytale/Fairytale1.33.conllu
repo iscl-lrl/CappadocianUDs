@@ -1,3 +1,6 @@
+# sent_id = Fairytale 1.33
+# text = Οι νομάτοι σκοτώνουν του ρουσού τα τζαναβάρα τσαι φσάζουν τα χαϊβάνα.
+# text_en =  Humans kill wild animals of the mountain and slaughter the animals.
 1	Οι	ο	DET	DET	Case=Nom|Definite=Def|Gender=Masc|Number=Plur|PronType=Art	2	det	2:det	_
 2	νομάτοι	νομάτης	NOUN	NOUN	Case=Nom|Gender=Masc|Number=Plur	3	nsubj	3:nsubj	_
 3	σκοτώνουν	σκοτώνω	VERB	VERB	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|Verbform=Fin|Voice=Act	0	root	0:root	_

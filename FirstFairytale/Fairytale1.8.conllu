@@ -1,3 +1,7 @@
+# sent_id = Fairytale 1.8
+# text = Ήρτανε, κάτσανε ‘ς όινα τη μερέ του ’ρουσού τα τζαναβάρα: ο ασλάνος, το
+καπλάνι, το ’ρκούδι, ο λύκος, ο αωπός, η ’γρουκάτα.
+# text_en = They came, sat down at one aside the wild beasts of the mountain: the lion, the tiger, the bear, the wolf, the fox, the wildcat.
 1	Ήρτανε	ἒρχουμι	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|Verbform=Fin|Voice=Pass	0	root	0:root	_
 2	,	,	PUNCT	PUNCT	_	3	punct	3:punct	_
 3	κάτσανε	κάθομαι	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|Verbform=Fin|Voice=Pass	1	parataxis	1:parataxis	_

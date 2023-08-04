@@ -1,3 +1,6 @@
+# sent_id = Fairytale 1.20
+# text = Πα ποίκομε να γλιτώσουμε ‘π’ ατό το σεφιλλίκι;»
+# text_en = What will we do for escape this wretchedness?'
 1	Πα	πό	PRON	PRON	_	2	nsubj	2:nsubj	_
 2	ποίκομε	ποιῶ	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Tense=Future|Verbform=Fin|Voice=Act	0	root	0:root	_
 3	να	να	SCONJ	SCONJ	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Tense=Past|Verbform=Fin|Voice=Act	4	mark	4:mark	_

@@ -1,3 +1,6 @@
+# sent_id = Fairytale 1.24
+# text = Χεμ ’αμναίνουμε την Άνοιξη τζαι το Μαθό̟ωρο τα χωράφα τουν, χεμ ταβρούμε το τουκάνι σ’ αώνι σ’ον τεμίση πέσου, χεμ κουβαλαίνουμε σου σειμού το τουφάνι ξύα στο ορμάνι.
+# text_en = We plow the Spring and the Autumn their fields, and we crawl into the heat of summer the sheaf into the threshing floor, and we carry through the windstorm of snow, wood from the forest.
 1	Χεμ	χέμ	CCONJ	CCONJ	_	4	cc	4:cc	_
 2	’αμναίνουμε	λάμνω	VERB	VERB	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|Verbform=Fin|Voice=Act	0	root	0:root	_
 3	την	η	DET	DET	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	4:det	_

@@ -1,3 +1,7 @@
+# sent_id = Fairytale 1.35
+# text = Μεις, οι αωποί, κλέφτουμε τα ’ρνίθε τουν, τα ’ρκούδε αχτούνε τα μελίσα τουν τζαι τρων το μέλι, ο λύκος τρω τα πρόβατα τζαι τα γίδε, ο ασλάνος παρτσαλατίζει τα μουσκάρα τζαι τα γαϊρίδε.
+# text_en =  We, the foxes, steal their hens, the bears kick the bees and eat their honey, the wolf eats the sheep and the goats, the lion devours the calves and donkeys.
+
 1	Μεις	εγω	PRON	PRON	Case=Nom|Gender=Neut|Number=Plur|Person=1	6	nsubj	6:nsubj	_
 2	,	,	PUNCT	PUNCT	_	6	punct	6:punct	_
 3	οι	o	DET	DET	Case=Nom|Definite=Def|Gender=Masc|Number=Plur|PronType=Art	4	det	4:det	_

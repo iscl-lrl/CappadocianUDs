@@ -1,3 +1,6 @@
+# sent_id = Fairytale 1.14
+# text =  «Ατό το μέτρο το κετσίμι, κετσίμι τζό ‘νι.
+# text_en = “This life of ours, life is not.
 1	«	«	PUNCT	PUNCT	_	10	punct	10:punct	_
 2	Ατό	αὐτό	DET	DET	Case=Nom|Definite=Def|Gender=Neut|Number=Sing	4	det	4:det	_
 3	το	το	DET	DET	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	4	det	4:det	_

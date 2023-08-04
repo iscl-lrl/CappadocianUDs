@@ -1,4 +1,6 @@
-
+# sent_id = Fairytale 1.43
+# text = Είπανε τζαι του χωρού τα χαϊβάνα:
+# text_en = They animals of the village also said: 
 1	Είπανε	λέγω	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|Verbform=Fin|Voice=Act	0	root	0:root	_
 2	τζαι	jαι	CCONJ	CCONJ	_	6	cc	6:cc	_
 3	του	το	DET	DET	Case=Gen|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	4	det	4:det	_

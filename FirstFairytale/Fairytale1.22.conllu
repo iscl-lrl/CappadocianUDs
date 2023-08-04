@@ -1,3 +1,6 @@
+# sent_id = Fairytale 1.22
+# text = Είπαν dι κι:
+# text_en = and they said.
 1	Είπαν	λέγω	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|Verbform=Fin|Voice=Act	0	root	0:root	_
 2	dι	di	SCONJ	PART	_	1	mark	1:mark	_
 3	κι	ki	SCONJ	PART	_	1	mark	1:mark	_

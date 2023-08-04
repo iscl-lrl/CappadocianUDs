@@ -1,3 +1,6 @@
+# sent_id = Fairytale 1.16
+# text =  Μες συραίνουν μο τον τσιφτέ τζαι μες καρφώνουν μο το τσίκκι.
+# text_en = They shoot us with the double barrel or impale us with the bows.
 1	Μες	ἐγώ	PRON	PRON	Case=Acc|Gender=Neut|Number=Plur|Person=1	2	obj	2:obj	_
 2	συραίνουν	συραίνω	VERB	VERB	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|Verbform=Fin|Voice=Act	0	root	0:root	_
 3	μο	με	ADP	ADP	_	5	case	5:case	_

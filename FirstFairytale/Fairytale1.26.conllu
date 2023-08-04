@@ -1,3 +1,6 @@
+# sent_id = Fairytale 1.26
+# text = Τε στέρου πάλι τάημισα φήνουν μες νηστικά σα οράνα τζαι τάημισα φσάκνουν μες.
+# text_en =  And later, some of us they leave us fasting in the deserts and some of us are slaughtered.
 1	Τε	Τε	PART	PART	_	2	cc	2:cc	_
 2	στέρου	στέρου	ADV	ADV	_	5	advmod	5:advmod	_
 3	πάλι	πάλι	ADV	ADV	_	5	advmod	5:advmod	_

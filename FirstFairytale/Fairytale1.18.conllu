@@ -1,3 +1,6 @@
+# sent_id = Fairytale 1.18
+# text = Φταίνουν μες τελέφι.
+# text_en = They are retailing us.
 1	Φταίνουν	φταίνω	VERB	VERB	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|Verbform=Fin|Voice=Act	0	root	0:root	_
 2	μες	εγώ	PRON	PRON	Case=Αcc|Gender=Neut|Number=Plur|Person=1	1	obj	1:obj	_
 3	τελέφι	τελέφι	NOUN	NOUN	Case=Acc|Gender=Neut|Number=Sing	1	obj	1:obj	_

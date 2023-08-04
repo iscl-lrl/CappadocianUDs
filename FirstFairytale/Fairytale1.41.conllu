@@ -1,4 +1,6 @@
-
+# sent_id = Fairytale 1.41
+# text = Τα τζαναβάρα σο ρουσί, χερκές να υπά σο σπήλο του
+# text_en = The wild animals on the mountain, everyone to go to his cave.
 1	Τα	το	DET	DET	Case=Nom|Definite=Def|Gender=Neut|Number=Plur|PronType=Art	2	det	2:det	_
 2	τζαναβάρα	jαναβάρι	NOUN	NOUN	Case=Nom|Gender=Neut|Number=Plur	_	_	_	_
 3	σ	σε	ADP	ADP	_	5	case	5:case	_

@@ -1,3 +1,6 @@
+# sent_id = Fairytale 1.6
+# text = Στρίγξαν τζαι του χωρού τα χαϊβάνα να ειπούν τζαι τζείνα το κετσίμιν dουν μο τις χωρώτοι.
+# text_en = They also invited the animals of the village to say their lives them with the villagers.
 1	Στρίγξαν	στρινgάγω	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|Verbform=Fin|Voice=Act	0	root	0:root	_
 2	τζαι	jαι	CCONJ	CCONJ	_	6	cc	6:cc	_
 3	του	το	DET	DET	Case=Gen|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	4	det	4:det	_

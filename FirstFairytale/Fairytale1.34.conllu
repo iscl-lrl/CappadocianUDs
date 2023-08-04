@@ -1,3 +1,6 @@
+# sent_id = Fairytale 1.34
+# text = Με νανόστετε σο τίπος φταίνουν τα αούτζι;
+# text_en = But have you thought why they behave like this?
 1	Με	μα	INTJ	INTJ	_	2	discourse	2:discourse	_
 2	νανόστετε	νανουμαι	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Plur|Person=2|Tense=Past|Verbform=Fin|Voice=Act	0	root	0:root	_
 3	σοτίπος	σο-τίπος	SCONJ	SCONJ	_	4	mark	4:mark	_

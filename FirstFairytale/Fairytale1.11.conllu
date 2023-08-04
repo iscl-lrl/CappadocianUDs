@@ -1,3 +1,6 @@
+# sent_id = Fairytale 1.11
+# text = Πουστιέσαν παρέτζει: το ζαρκάδι, ο πουρτσούχος, τζ’αγός.
+# text_en = Crouched bit further: the deer, the ferret, the rabbit.
 1	Πουστιέσαν	πουστιέγω|pusmak	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|Verbform=Fin|Voice=Act 	0	root	0:root	_
 2	παρέτζει	bαρεçεί	ADV	ADV	_	1	advmod	1:advmod	_
 3	:	:	PUNCT	PUNCT	_	1	punct	1:punct	_

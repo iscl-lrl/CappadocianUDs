@@ -1,3 +1,6 @@
+# sent_id = Fairytale 1.31
+# text = Είπεν τι κι τζ’ αωπός, ο Μουdούρης, σο μεντζιλίσι:
+# text_en =  Then the fox, who was President of the meeting, said:
 1	Είπεν	λέγω	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|Verbform=Fin|Voice=Act	0	root	0:root	_
 2	τι	di	SCONJ	SCONJ	_	1	mark	1:mark	_
 3	κι	κι	SCONJ	SCONJ	_	1	mark	1:mark	_
