@@ -1,6 +1,6 @@
 # CappadocianUDs
 
-This is the repository containing UD annotations for Cappadocian Greek (Pharasa "Dialect") as part of the "Tools and Resources for Low-resource Languages" class.
+This is the repository containing UD annotations for Cappadocian Greek (Pharasa "Idiom") as part of the "Tools and Resources for Low-resource Languages" class.
 
 The structure of the repository is the following:
   1. Folder containing the final annotated sentences called AnnotationsFinal
