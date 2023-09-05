@@ -3,11 +3,11 @@
 # text_en = They scattered, they went.
 
 
-# sent_id = Fairytale 1.29
-# text =  «Ατό το μέτρο το κετσίμι, κετσίμι τζό ‘νι.
-# text_en = “This life of ours, life is not.
+1.41 (checked)
+1,32 (chekced)
+1,34 (το αουτζι?)
+1.2 (checked)
 
-
-1.41 να βαλω το punct
-1,32
-1,34
+Συζητηση με Ινεσσα
+1. Την Παραθεση πως την εβαλε
+2. Το κι πριν απο imported speech το ki της τουρκικης 
