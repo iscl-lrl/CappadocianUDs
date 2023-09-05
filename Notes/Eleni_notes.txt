@@ -11,3 +11,11 @@
 Συζητηση με Ινεσσα
 1. Την Παραθεση πως την εβαλε
 2. Το κι πριν απο imported speech το ki της τουρκικης 
+
+Validation results 
+Enhanced errors: 27
+Format errors:100
+Metadata errors: 231
+Morpho errors: 209
+Syntax errors:107
+***Failed*** with 674 errors
