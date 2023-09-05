@@ -4,7 +4,7 @@
 1	Σα	σε	ADP	ADP	_	4	case	4:case	_
 2	μπρο	μπρο	ADJ	ADJ	Case=Acc|Gender=Masc|Number=Sing|NumType=Ord	4	amod	4:amod	_
 3	τον	ο	DET	DET	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art 	4	det	4:det	_
-4	ταρό	ταρός	NOUN	NOUN	Case=Acc|Gender=Masc|Number=Sing	_	_	_	_
+4	ταρό	ταρός	NOUN	NOUN	Case=Acc|Gender=Masc|Number=Sing	10	obl	10:obl	_
 5	,	,	PUNCT	PUNCT	_	4	punct	4:punct	_
 6	του	το	DET	DET	Case=Gen|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	7	det	7:det	_
 7	ρουσού	ρουσί	NOUN	NOUN	Case=Gen|Gender=Neut|Number=Sing|	9	nmod	9:nmod	_

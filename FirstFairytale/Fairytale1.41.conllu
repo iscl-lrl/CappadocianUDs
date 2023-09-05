@@ -2,16 +2,16 @@
 # text = Τα τζαναβάρα σο ρουσί, χερκές να υπά σο σπήλο του
 # text_en = The wild animals on the mountain, everyone to go to his cave.
 1	Τα	το	DET	DET	Case=Nom|Definite=Def|Gender=Neut|Number=Plur|PronType=Art	2	det	2:det	_
-2	τζαναβάρα	jαναβάρι	NOUN	NOUN	Case=Nom|Gender=Neut|Number=Plur	_	_	_	_
+2	τζαναβάρα	jαναβάρι	NOUN	NOUN	Case=Nom|Gender=Neut|Number=Plur	9	nsubj	9:nsubj	_
 3	σ	σε	ADP	ADP	_	5	case	5:case	_
 4	ο	το	DET	DET	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	5	det	5:det	_
-5	ρουσί	ρουσί	NOUN	NOUN	Case=Acc|Gender=Neut|Number=Sing	_	_	_	_
+5	ρουσί	ρουσί	NOUN	NOUN	Case=Acc|Gender=Neut|Number=Sing	9	obl	9:obl	_
 6	,	,	PUNCT	PUNCT	_	9	punct	9:punct	_
-7	χερκές	χερκές	PRON	PRON	Case=Nom|Gender=Neut|Number=Sing	9	nsubj	9:nsubj	_
+7	χερκές	χερκές	PRON	PRON	Case=Nom|Gender=Neut|Number=Sing	2	amod	2:amod	_
 8	να	να	AUX	AUX	Aspect=EMPTY|Mood=EMPTY|Number=EMPTY|Person=EMPTY|Tense=EMPTY|Verbform=EMPTY|Voice=EMPTY	9	aux	9:aux	_
 9	υπά	πηγαίνω	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Verbform=Fin|Voice=Act	0	root	0:root	_
 10	σ	σε	ADP	ADP	_	12	case	12:case	_
 11	ο	ο	DET	DET	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	12	det	12:det	_
 12	σπήλο	σπήλος	NOUN	NOUN	Case=Acc|Gender=Neut|Number=Sing	9	obl	9:obl	_
 13	του	το	PRON	PRON	Case=Gen|Definite=Def|Gender=Neut|Number=Plur|PronType=Art	12	nmod	12:nmod	_
-14	.	.	PUNCT	PUNCT	_	_	_	_	_
+14	.	.	PUNCT	PUNCT	_	9	punct	9:punct	_
