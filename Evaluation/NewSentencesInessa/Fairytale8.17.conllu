@@ -1,0 +1,19 @@
+# sent_id = Fairytale8.16
+# text = «Ε ατάµογλου, είσες σα σέρα σου το ιχπάλι σου µε έχασές τα. 
+# text_en = 
+1	«	_	PUNCT	_	_	5	punct	_	_
+2	Ε	_	INTJ	_	_	5	vocative	_	_
+3	ατάµογλου	_	ADJ	_	_	5	expl	_	_
+4	,	_	PUNCT	_	_	5	punct	_	_
+5	είσες	_	VERB	_	_	0	root	_	_
+6	σ	_	ADP	_	_	8	mark	_	_
+7	α	_	DET	_	_	8	det	_	_
+8	σέρα	_	NOUN	_	_	5	expl	_	_
+9	σου	_	PRON	_	_	8	nmod	_	_
+10	το	_	DET	_	_	11	det	_	_
+11	ιχπάλι	_	NOUN	_	_	5	obj	_	_
+12	σου	_	PRON	_	_	11	nmod	_	_
+13	µε	_	INTJ	_	_	14	vocative	_	_
+14	έχασές	_	VERB	_	_	5	conj	_	_
+15	τα	_	PRON	_	_	14	obj	_	_
+16	.	_	PUNCT	_	_	5	punct	_	_

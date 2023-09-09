@@ -1,0 +1,10 @@
+# sent_id = Fairytale8.14
+# text = Απη τζεί είπεν τι το πουλί:
+# text_en = 
+1	Απη	_	ADP	_	_	_	_	_	_
+2	τζεί	_	ADV	_	_	3	advmod	3:advmod	_
+3	είπεν	_	VERB	_	_	0	root	0:root	_
+4	τι	_	PRON	_	_	3	iobj	3:iobj	_
+5	το	_	DET	_	_	6	det	6:det	_
+6	πουλί	_	NOUN	_	_	3	nsubj	3:nsubj	_
+7	:	_	PUNCT	_	_	3	punct	3:punct	_

@@ -1,0 +1,14 @@
+# sent_id = Fairytale 4.13
+# text = Ήρτες µπρο µου, α σε φάγω!»
+# text_en = 
+1	Ήρτες	_	VERB	_	_	7	conj	7:conj	_
+2	µπρο	_	ADV	_	_	1	advcl	1:advcl	_
+3	µου	_	PRON	_	_	1	iobj	1:iobj	_
+4	,	_	PUNCT	_	_	7	punct	7:punct	_
+5	α	_	SCONJ	_	_	7	mark	7:mark	_
+6	σε	_	PRON	_	_	7	iobj	7:iobj	_
+7	φάγω	_	VERB	_	_	0	root	0:root	_
+8	!	_	PUNCT	_	_	7	punct	7:punct	_
+9	»	_	PUNCT	_	_	7	punct	7:punct	_
+
+# xaxlous from turkish haqq which mean truth, justice

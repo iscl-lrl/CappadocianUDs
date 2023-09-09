@@ -1,0 +1,8 @@
+# sent_id = Fairytale8.16
+# text = Τε στέρου είπεν τι:
+# text_en = 
+1	Τε	_	INTJ	_	_	3	vocative	3:vocative	_
+2	στέρου	_	ADV	_	_	3	advmod	3:advmod	_
+3	είπεν	_	VERB	_	_	0	root	0:root	_
+4	τι	_	PRON	_	_	3	iobj	3:iobj	_
+5	:	_	PUNCT	_	_	3	punct	3:punct	_

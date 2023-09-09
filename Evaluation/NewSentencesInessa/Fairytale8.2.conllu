@@ -1,0 +1,15 @@
+# sent_id = Fairytale 4.15
+# text = Λιέγουσιν τζαι γιαναστέσην σ' ε στσιάιδι να πάρει αν ύπνος τεϊ.
+# text_en = 
+1	Λιέγουσιν	_	VERB	_	_	0	root	0:root	_
+2	τζαι	_	CCONJ	_	_	1	cc	1:cc	_
+3	γιαναστέσην	_	VERB	_	_	1	conj	1:conj	_
+4	σ'	_	ADP	_	_	6	mark	6:mark	_
+5	ε	_	NUM	_	_	6	nummod	6:nummod	_
+6	στσιάιδι	_	NOUN	_	_	3	obl	3:obl	_
+7	να	_	AUX	_	_	8	aux	8:aux	_
+8	πάρει	_	VERB	_	_	3	xcomp	3:xcomp	_
+9	αν	_	NUM	_	_	10	nummod	10:nummod	_
+10	ύπνος	_	NOUN	_	_	8	obj	8:obj	_
+11	τεϊ	_	INTJ	_	_	8	vocative	8:vocative	_
+12	.	_	PUNCT	_	_	1	punct	1:punct	_

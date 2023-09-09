@@ -1,0 +1,17 @@
+# sent_id = Fairytale8.13
+# text = Ο νοµάτ φήτζεν το πουλπούλι τζ΄ τζείνο πέττασεν πα σ΄ε ψεό τάλι.
+# text_en = 
+1	Ο	_	DET	_	_	2	det	2:det	_
+2	νοµάτ	_	NOUN	_	_	3	nsubj	3:nsubj	_
+3	φήτζεν	_	VERB	_	_	0	root	0:root	_
+4	το	_	DET	_	_	5	det	5:det	_
+5	πουλπούλι	_	NOUN	_	_	3	obj	3:obj	_
+6	τζ΄	_	CCONJ	_	_	3	cc	3:cc	_
+7	τζείνο	_	PRON	_	_	8	nsubj	8:nsubj	_
+8	πέττασεν	_	VERB	_	_	3	conj	3:conj	_
+9	πα	_	INTJ	_	_	8	advcl	8:advcl	_
+10	σ΄	_	ADP	_	_	13	mark	13:mark	_
+11	ε	_	NUM	_	_	13	nummod	13:nummod	_
+12	ψεό	_	ADJ	_	_	13	amod	13:amod	_
+13	τάλι	_	NOUN	_	_	8	obl	8:obl	_
+14	.	_	PUNCT	_	_	3	punct	3:punct	_
