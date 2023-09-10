@@ -1,10 +1,10 @@
 # sent_id = Fairytale 1.32
 # text = «Ε dόστοι, είστε χαχλούδες.
 # text_en =  "He comrades, you are right.
-1	«	«	PUNCT	PUNCT	_	5	punct	5:punct	_
+1	«	«	PUNCT	PUNCT	_	5	punct	5:punct	SpaceAfter=No
 2	Ε	Ε	INTJ	PART	_	5	discourse	5:discourse	_
-3	dόστοι	dόστη	NOUN	NOUN	Case=Nom|Gender=Masc|Number=Plur	5	vocative	5:vocative	_
+3	dόστοι	dόστη	NOUN	NOUN	Case=Nom|Gender=Masc|Number=Plur	5	vocative	5:vocative	SpaceAfter=No
 4	,	,	PUNCT	PUNCT	_	5	punct	5:punct	_
 5	είστε	ειμί	VERB	VERB	_	0	root	0:root	_
-6	χαχλούδες	χαχλούς	ADJ	ADJ	Case=Nom|Gender=Masc|Number=Plur	3	amod	3:amod	_
+6	χαχλούδες	χαχλούς	ADJ	ADJ	Case=Nom|Gender=Masc|Number=Plur	3	amod	3:amod	SpaceAfter=No
 7	.	.	PUNCT	PUNCT	_	5	punct	5:punct	_
