@@ -1,0 +1,25 @@
+# sent_id = Fairytale8.10
+# text = «Οϊλέ ισέ», είπεν τι ο νοµάτ, «α σα ψήσω τζαι α ποίκω α ζόρι φάεµα».
+# text_en = 
+1	«	_	PUNCT	_	_	6	punct	6:punct	_
+2	Οϊλέ	_	INTJ	_	_	6	vocative	6:vocative	_
+3	ισέ	_	VERB	_	_	6	parataxis	6:parataxis	_
+4	»	_	PUNCT	_	_	_	_	_	_
+5	,	_	PUNCT	_	_	6	punct	6:punct	_
+6	είπεν	_	VERB	_	_	0	root	0:root	_
+7	τι	_	PRON	_	_	6	iobj	6:iobj	_
+8	ο	_	DET	_	_	9	det	9:det	_
+9	νοµάτ	_	NOUN	_	_	6	nsubj	6:nsubj	_
+10	,	_	PUNCT	_	_	6	punct	6:punct	_
+11	«	_	PUNCT	_	_	6	punct	6:punct	_
+12	α	_	ADP	_	_	14	mark	14:mark	_
+13	σα	_	PRON	_	_	14	obj	14:obj	_
+14	ψήσω	_	VERB	_	_	6	parataxis	6:parataxis	_
+15	τζαι	_	CCONJ	_	_	14	cc	14:cc	_
+16	α	_	ADP	_	_	17	mark	17:mark	_
+17	ποίκω	_	VERB	_	_	14	conj	14:conj	_
+18	α	_	ADP	_	_	20	det	20:det	_
+19	ζόρι	_	ADJ	_	_	20	amod	20:amod	_
+20	φάεµα	_	NOUN	_	_	17	obj	17:obj	_
+21	»	_	PUNCT	_	_	6	punct	6:punct	_
+22	.	_	PUNCT	_	_	6	punct	6:punct	_

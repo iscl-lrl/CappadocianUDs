@@ -1,0 +1,12 @@
+# sent_id = Fairytale8.6
+# text = Κάτζηψην τζαι είπεν το πουλπούλι µο ινσανού γώσσα:
+# text_en = 
+1	Κάτζηψην	_	VERB	_	_	0	root	0:root	_
+2	τζαι	_	CCONJ	_	_	1	cc	1:cc	_
+3	είπεν	_	VERB	_	_	1	conj	1:conj	_
+4	το	_	DET	_	_	5	det	5:det	_
+5	πουλπούλι	_	NOUN	_	_	3	nsubj	3:nsubj	_
+6	µο	_	ADP	_	_	8	mark	8:mark	_
+7	ινσανού	_	ADJ	_	_	8	amod	8:amod	_
+8	γώσσα	_	NOUN	_	_	3	obl	3:obl	_
+9	:	_	PUNCT	_	_	1	punct	1:punct	_

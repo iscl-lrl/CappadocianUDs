@@ -1,0 +1,22 @@
+# sent_id = Fairytale8.5
+# text = Ατέ τη µία πην σο σπίτι, πήρην αν καπάνι τζ΄ήρτε, πιέσε το πουλπούλι αρό.
+# text_en = 
+1	Ατέ	_	PRON	_	_	_	_	_	_
+2	τη	_	DET	_	_	_	_	_	_
+3	µία	_	NUM	_	_	_	_	_	_
+4	πην	_	VERB	_	_	0	root	0:root	_
+5	σ	_	ADP	_	_	7	mark	7:mark	_
+6	ο	_	DET	_	_	7	det	7:det	_
+7	σπίτι	_	NOUN	_	_	4	obl	4:obl	_
+8	,	_	PUNCT	_	_	4	punct	4:punct	_
+9	πήρην	_	VERB	_	_	4	conj	4:conj	_
+10	αν	_	NUM	_	_	11	det	11:det	_
+11	καπάνι	_	NOUN	_	_	9	obj	9:obj	_
+12	τζ΄	_	CCONJ	_	_	9	cc	9:cc	_
+13	ήρτε	_	VERB	_	_	9	conj	9:conj	_
+14	,	_	PUNCT	_	_	4	punct	4:punct	_
+15	πιέσε	_	VERB	_	_	9	conj	9:conj	_
+16	το	_	DET	_	_	17	det	17:det	_
+17	πουλπούλι	_	NOUN	_	_	15	obj	15:obj	_
+18	αρό	_	ADJ	_	_	17	amod	17:amod	_
+19	.	_	PUNCT	_	_	4	punct	4:punct	_

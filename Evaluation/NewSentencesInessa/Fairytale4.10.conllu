@@ -1,0 +1,8 @@
+# sent_id = Fairytale 4.10
+# text = Για αωπός είπεν ‘τι:
+# text_en = 
+1	Για	Για	CCONJ	CCONJ	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	3	cc	3:cc	_
+2	αωπός	απός	NOUN	NOUN	Case=Nom|Gender=Masc|Number=Sing	3	nsubj	3:nsubj	_
+3	είπεν	λαλώ	VERB	VERB	_	0	root	0:root	_
+4	‘τι	o	DET	DET	Case=Gen|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	iobj	3:iobj	SpaceAfter=No
+5	:	:	PUNCT	PUNCT	_	3	punct	3:punct	_

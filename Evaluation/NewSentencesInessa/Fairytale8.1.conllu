@@ -1,0 +1,17 @@
+# sent_id = Fairytale8.1
+# text = Πην αβτζής σο ρουσί να σύρει τζαι να φέρει ορτύτζε τζαι αγοί.
+# text_en = 
+1	Πην	_	VERB	_	_	0	root	0:root	_
+2	αβτζής	_	NOUN	_	_	1	nsubj	1:nsubj	_
+3	σ	_	ADP	_	_	5	mark	5:mark	_
+4	ο	_	DET	_	_	5	det	5:det	_
+5	ρουσί	_	NOUN	_	_	1	obl	1:obl	_
+6	να	_	AUX	_	_	7	aux	7:aux	_
+7	σύρει	_	VERB	_	_	1	xcomp	1:xcomp	_
+8	τζαι	_	CCONJ	_	_	7	cc	7:cc	_
+9	να	_	AUX	_	_	10	aux	10:aux	_
+10	φέρει	_	VERB	_	_	7	conj	7:conj	_
+11	ορτύτζε	_	NOUN	_	_	10	obj	10:obj	_
+12	τζαι	_	CCONJ	_	_	13	cc	13:cc	_
+13	αγοί	_	NOUN	_	_	10	obj	10:obj	_
+14	.	_	PUNCT	_	_	1	punct	1:punct	_

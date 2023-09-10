@@ -1,0 +1,14 @@
+# sent_id = Fairytale8.7
+# text = «Πού µε παγαίνεις µένα, πά µε ποικ;»
+# text_en = 
+1	«	_	PUNCT	_	_	4	punct	4:punct	_
+2	Πού	_	PRON	_	_	4	obl	4:obl	_
+3	µε	_	PRON	_	_	4	obj	4:obj	_
+4	παγαίνεις	_	VERB	_	_	0	root	0:root	_
+5	µένα	_	PRON	_	_	4	obj	4:obj	_
+6	,	_	PUNCT	_	_	4	punct	4:punct	_
+7	πά	_	PRON	_	_	9	obj	9:obj	_
+8	µε	_	PRON	_	_	9	iobj	9:iobj	_
+9	ποικ	_	VERB	_	_	4	conj	4:conj	_
+10	;	_	PUNCT	_	_	4	punct	4:punct	_
+11	»	_	PUNCT	_	_	4	punct	4:punct	_

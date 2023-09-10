@@ -1,0 +1,12 @@
+# sent_id = Fairytale 4.10
+# text = «Ό,τι τζαι να µε ειπείς ‘πέ µε!
+# text_en = 
+1	«	«	PUNCT	PUNCT	_	7	punct	7:punct	_
+2	Ότι	Ότι	PRON	PRON	_	6	obj	6:obj	_
+3	τζαι	jαι	CCONJ	CCONJ	_	7	cc	7:cc	_
+4	να	να	AUX	AUX	_	6	aux	6:aux	_
+5	µε	εγώ	PRON	PRON	_	6	iobj	6:iobj	_
+6	ειπείς	λαλώ	VERB	VERB	_	7	conj	7:conj	_
+7	‘πέ	λαλώ	VERB	VERB	_	0	root	0:root	_
+8	µε	εγώ	PRON	PRON	_	7	iobj	7:iobj	_
+9	!	!	PUNCT	PUNCT	_	7	punct	7:punct	_

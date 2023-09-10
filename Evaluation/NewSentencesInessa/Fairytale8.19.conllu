@@ -1,0 +1,12 @@
+# sent_id = Fairytale8.19
+# text = Ο νοµάτ ενότουν πισµάνι του φήτζεν το πουλπούλι.
+# text_en = 
+1	Ο	_	DET	_	_	2	det	2:det	_
+2	νοµάτ	_	NOUN	_	_	3	nsubj	3:nsubj	_
+3	ενότουν	_	VERB	_	_	0	root	0:root	_
+4	πισµάνι	_	NOUN	_	_	3	obj	3:obj	_
+5	του	_	PRON	_	_	6	mark	6:mark	_
+6	φήτζεν	_	VERB	_	_	3	ccomp	3:ccomp	_
+7	το	_	DET	_	_	8	det	8:det	_
+8	πουλπούλι	_	NOUN	_	_	6	obj	6:obj	_
+9	.	_	PUNCT	_	_	3	punct	3:punct	_

@@ -1,0 +1,32 @@
+# sent_id = Fairytale8.11
+# text = «Να µε ψήσεις ση θράκα το κρες µου ίνεται σερτι τσο µασιέται, να µε βρας, α 'ινώ τελέφι χα 'ποµείνει άλεϊ το πόστι µου.
+# text_en = 
+1	«	_	PUNCT	_	_	11	punct	11:punct	_
+2	Να	_	AUX	_	_	4	mark	4:mark	_
+3	µε	_	PRON	_	_	4	obj	4:obj	_
+4	ψήσεις	_	VERB	_	_	11	xcomp	11:xcomp	_
+5	σ	_	ADP	_	_	7	mark	7:mark	_
+6	η	_	PRON	_	_	7	det	7:det	_
+7	θράκα	_	NOUN	_	_	4	obl	4:obl	_
+8	το	_	DET	_	_	9	det	9:det	_
+9	κρες	_	NOUN	_	_	11	nsubj	11:nsubj	_
+10	µου	_	PRON	_	_	9	expl	9:expl	_
+11	ίνεται	_	VERB	_	_	0	root	0:root	_
+12	σερτι	_	ADJ	_	_	11	expl	11:expl	_
+13	τσο	_	INTJ	_	_	_	_	_	_
+14	µασιέται	_	VERB	_	_	11	conj	11:conj	_
+15	,	_	PUNCT	_	_	11	punct	11:punct	_
+16	να	_	AUX	_	_	18	mark	18:mark	_
+17	µε	_	PRON	_	_	18	obj	18:obj	_
+18	βρας	_	VERB	_	_	21	xcomp	21:xcomp	_
+19	,	_	PUNCT	_	_	_	_	_	_
+20	α	_	ADP	_	_	21	mark	21:mark	_
+21	'ινώ	_	VERB	_	_	11	parataxis	11:parataxis	_
+22	τελέφι	_	ADJ	_	_	21	expl	21:expl	_
+23	χα	_	ADP	_	_	24	mark	24:mark	_
+24	'ποµείνει	_	VERB	_	_	21	parataxis	21:parataxis	_
+25	άλεϊ	_	INTJ	_	_	_	_	_	_
+26	το	_	DET	_	_	_	_	_	_
+27	πόστι	_	NOUN	_	_	24	obj	24:obj	_
+28	µου	_	PRON	_	_	27	_	27	_
+29	.	_	PUNCT	_	_	_	_	_	_
