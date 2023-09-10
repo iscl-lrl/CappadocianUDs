@@ -1,0 +1,9 @@
+1	Ο	_	DET	_	_	2	det	2:det	_
+2	νομάτ	_	NOUN	_	_	3	nsubj	3:nsubj	_
+3	ενότουν	_	VERB	_	_	0	root	0:root	_
+4	πισμάνι	_	NOUN	_	_	3	obj	3:obj	_
+5	του	_	SCONJ	_	_	6	mark	6:mark	_
+6	φήτζεν	_	VERB	_	_	3	advcl	3:advcl	_
+7	το	_	DET	_	_	8	det	8:det	_
+8	πουλπούλι	_	NOUN	_	_	6	obj	6:obj	_
+9	.	_	PUNCT	_	_	3	punct	3:punct	_

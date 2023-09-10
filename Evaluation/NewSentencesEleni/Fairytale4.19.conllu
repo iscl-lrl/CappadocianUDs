@@ -1,0 +1,14 @@
+1	Ο	_	DET	_	_	2	det	2:det	_
+2	νομάτ	_	NOUN	_	_	3	nsubj	3:nsubj	_
+3	φήτζεν	_	VERB	_	_	0	root	0:root	_
+4	το	_	DET	_	_	5	det	5:det	_
+5	πουλπούλι	_	NOUN	_	_	3	obj	3:obj	_
+6	τζ΄	_	CCONJ	_	_	8	cc	8:cc	_
+7	τζείνο	_	PRON	_	_	8	nsubj	8:nsubj	_
+8	πέττασεν	_	VERB	_	_	_	_	_	_
+9	πα	_	ADV	_	_	8	advmod	8:advmod	_
+10	σ΄	_	ADP	_	_	13	case	13:case	_
+11	ε	_	NUM	_	_	13	nummod	13:nummod	_
+12	ψεό	_	ADJ	_	_	13	amod	13:amod	_
+13	τάλι	_	NOUN	_	_	8	obl	8:obl	_
+14	.	_	PUNCT	_	_	3	punct	3:punct	_

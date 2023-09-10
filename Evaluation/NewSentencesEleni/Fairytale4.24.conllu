@@ -1,0 +1,17 @@
+1	Σο	_	ADP	_	_	4	case	4:case	_
+2	μον	_	PRON	_	_	4	nmod	4:nmod	_
+3	την	_	DET	_	_	4	det	4:det	_
+4	τζοιλία	_	NOUN	_	_	5	obl	5:obl	_
+5	ήτουν	_	AUX	_	_	14	conj	14:conj	_
+6	αν	_	NUM	_	_	7	nummod	7:nummod	_
+7	ελμάς	_	NOUN	_	_	5	nsubj	5:nsubj	_
+8	αμόν	_	ADP	_	_	10	case	10:case	_
+9	το	_	DET	_	_	10	det	10:det	_
+10	γιουμπρούχι	_	NOUN	_	_	5	obl	5:obl	_
+11	σου	_	PRON	_	_	10	nmod	10:nmod	_
+12	,	_	PUNCT	_	_	14	punct	14:punct	_
+13	αρέτσα	_	ADV	_	_	14	advmod	14:advmod	_
+14	έχασές	_	VERB	_	_	0	root	0:root	_
+15	τα	_	NOUN	_	_	14	obj	14:obj	_
+16	»	_	PUNCT	_	_	14	punct	14:punct	_
+17	.	_	PUNCT	_	_	14	punct	14:punct	_

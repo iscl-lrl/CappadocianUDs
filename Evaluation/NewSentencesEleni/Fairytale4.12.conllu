@@ -1,0 +1,9 @@
+1	Κάτζηψην	_	VERB	_	_	0	root	0:root	_
+2	τζαι	_	CCONJ	_	_	3	cc	3:cc	_
+3	είπεν	_	VERB	_	_	1	conj	1:conj	_
+4	το	_	DET	_	_	5	det	5:det	_
+5	πουλπούλι	_	NOUN	_	_	3	nsubj	3:nsubj	_
+6	μο	_	ADP	_	_	8	case	8:case	_
+7	ινσανού	_	ADJ	_	_	8	amod	8:amod	_
+8	γώσσα	_	NOUN	_	_	3	obl	3:obl	_
+9	:	_	PUNCT	_	_	3	punct	3:punct	_

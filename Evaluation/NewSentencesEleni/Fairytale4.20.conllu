@@ -1,0 +1,7 @@
+1	Απη	_	ADP	_	_	2	case	2:case	_
+2	τζεί	_	ADV	_	_	3	obl	3:obl	_
+3	είπεν	_	VERB	_	_	0	root	0:root	_
+4	τι	_	PRON	_	_	3	obj	3:obj	_
+5	το	_	DET	_	_	6	det	6:det	_
+6	πουλί	_	NOUN	_	_	3	nsubj	3:nsubj	_
+7	:	_	PUNCT	_	_	3	punct	3:punct	_

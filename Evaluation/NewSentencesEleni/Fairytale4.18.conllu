@@ -1,0 +1,17 @@
+1	Άφτζε	_	VERB	_	_	0	root	0:root	_
+2	με	_	PRON	_	_	1	obj	1:obj	_
+3	τζαι	_	CCONJ	_	_	7	cc	7:cc	_
+4	γω	_	PRON	_	_	7	nsubj	7:nsubj	_
+5	α	_	AUX	_	_	7	aux	7:aux	_
+6	σα	_	PRON	_	_	7	iobj	7:iobj	_
+7	δώκω	_	VERB	_	_	1	conj	1:conj	_
+8	αν	_	NUM	_	_	10	nummod	10:nummod	_
+9	αχιλλούς	_	ADJ	_	_	10	amod	10:amod	_
+10	κατσί	_	NOUN	_	_	7	obj	7:obj	_
+11	»	_	PUNCT	_	_	1	punct	1:punct	_
+12	,	_	PUNCT	_	_	13	punct	13:punct	_
+13	είπεν	_	VERB	_	_	1	parataxis	1:parataxis	_
+14	τι	_	PRON	_	_	13	obj	13:obj	_
+15	το	_	DET	_	_	16	det	16:det	_
+16	πουλπούλι	_	NOUN	_	_	13	nsubj	13:nsubj	_
+17	.	_	PUNCT	_	_	1	punct	1:punct	_

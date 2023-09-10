@@ -1,0 +1,11 @@
+1	«	_	PUNCT	_	_	9	punct	_	_
+2	Χέρκες	_	PRON	_	_	4	nsubj	_	_
+3	σου	_	PRON	_	_	4	iobj	_	_
+4	λε	_	VERB	_	_	9	advcl	_	_
+5	τα	_	DET	_	_	6	det	_	_
+6	κατζία	_	NOUN	_	_	4	obj	_	_
+7	τι	_	PART	_	_	9	obj	_	_
+8	μου	_	SCONJ	_	_	9	mark	_	_
+9	κρους	_	VERB	_	_	0	root	_	_
+10	»	_	PUNCT	_	_	9	punct	_	_
+11	.	_	PUNCT	_	_	9	punct	_	_
