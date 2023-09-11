@@ -1,1 +1,14 @@
-Χαχλούς πάλι να είσαι τζαι χαχτσούζης να είσαι, γω τζο χαρίζω σε!
+1	Χαχλούς	_	ADJ	_	_	4	cop	4:cop	_
+2	πάλι	_	ADV	_	_	4	advmod	4:advmod	_
+3	να	_	AUX	_	_	4	aux	4:aux	_
+4	είσαι	_	VERB	_	_	0	root	0:root	_
+5	τζαι	_	CCONJ	_	_	8	cc	8:cc	_
+6	χαχτσούζης	_	ADJ	_	_	8	cop	8:cop	_
+7	να	_	AUX	_	_	8	aux	8:aux	_
+8	είσαι	_	VERB	_	_	4	conj	4:conj	_
+9	,	_	PUNCT	_	_	12	punct	12:punct	_
+10	γω	_	PRON	_	_	12	nsubj	12:nsubj	_
+11	τζο	_	PART	_	_	12	advmod	12:advmod	_
+12	χαρίζω	_	VERB	_	_	_	_	_	_
+13	σε	_	PRON	_	_	12	obj	12:obj	_
+14	!	_	PUNCT	_	_	4	punct	4:punct	_
