@@ -1,0 +1,619 @@
+ne: '# sent_id = Fairytale1.1 ' Should look like '# sent_id = xxxxx' where xxxxx is not whitespace. Forward slash reserved for special purposes.
+[Line 18 Sent Fairytale1.0Title]: [L2 Metadata missing-sent-id] Missing the sent_id attribute.
+[Line 24 Sent Fairytale1.0Title]: [L1 Format number-of-columns] The line has 1 columns but 10 are expected. The contents of the columns will not be checked.
+[Line 30 Sent Fairytale1.0Title]: [L1 Format trailing-whitespace] Trailing whitespace not allowed in column FORM.
+[Line 30 Sent Fairytale1.0Title]: [L4 Format invalid-word-with-space] 'τζναβά▒\udc81α ' in column FORM is not on the list of exceptions allowed to contain whitespace (data/tokens_w_space.LANG files).
+[Line 31 Sent Fairytale1.0Title]: [L1 Format number-of-columns] The line has 8 columns but 10 are expected. The contents of the columns will not be checked.
+[Line 39 Sent Fairytale1.3]: [L4 Morpho feature-value-unknown] Value EMPTY is not documented for feature Aspect in language [el].
+
+The following 64 feature values are currently permitted in language [el]:
+Abbr=Yes, Aspect=Imp, Aspect=Perf, Case=Acc, Case=Dat, Case=Gen, Case=Nom, Case=Voc, Definite=Def, Definite=Ind, Degree=Abs, Degree=Aug, Degree=Cmp, Degree=Dim, Degree=Pos, Degree=Sup, Foreign=Yes, Gender=Fem, Gender=Masc, Gender=Neut, Mood=Imp, Mood=Ind, NumType=Card, NumType=Frac, NumType=Mult, NumType=Ord, NumType=Sets, Number=Plur, Number=Sing, Person=1, Person=2, Person=3, Polarity=Neg, Polarity=Pos, Poss=Yes, PronType=Art, PronType=Dem, PronType=Emp, PronType=Ind, PronType=Int, PronType=Neg, PronType=Prs, PronType=Rel, PronType=Tot, PunctType=Brck, PunctType=Colo, PunctType=Comm, PunctType=Dash, PunctType=Elip, PunctType=Excl, PunctType=Peri, PunctType=Qest, PunctType=Quot, PunctType=Slsh, Tense=Fut, Tense=Past, Tense=Pres, Typo=Yes, VerbForm=Conv, VerbForm=Fin, VerbForm=Inf, VerbForm=Part, Voice=Act, Voice=Pass
+If a language needs a feature that is not documented in the universal guidelines, the feature must
+have a language-specific documentation page in a prescribed format.
+See https://universaldependencies.org/contributing_language_specific.html for further guidelines.
+All features including universal must be specifically turned on for each language in which they are used.
+See https://quest.ms.mff.cuni.cz/udvalidator/cgi-bin/unidep/langspec/specify_feature.pl for details.
+
+[Line 39 Sent Fairytale1.3]: [L4 Morpho feature-value-unknown] Value EMPTY is not documented for feature Mood in language [el].
+[Line 39 Sent Fairytale1.3]: [L4 Morpho feature-value-unknown] Value EMPTY is not documented for feature Number in language [el].
+[Line 39 Sent Fairytale1.3]: [L4 Morpho feature-value-unknown] Value EMPTY is not documented for feature Person in language [el].
+[Line 39 Sent Fairytale1.3]: [L4 Morpho feature-value-unknown] Value EMPTY is not documented for feature Tense in language [el].
+[Line 39 Sent Fairytale1.3]: [L4 Morpho feature-value-unknown] Value EMPTY is not documented for feature VerbForm in language [el].
+[Line 39 Sent Fairytale1.3]: [L4 Morpho feature-value-unknown] Value EMPTY is not documented for feature Voice in language [el].
+[Line 42 Sent Fairytale1.3]: [L1 Format number-of-columns] The line has 2 columns but 10 are expected. The contents of the columns will not be checked.
+[Line 65 Sent Fairytale1.5]: [L2 Metadata missing-spaceafter] 'SpaceAfter=No' is missing in the MISC field of node #6 because the text is 'στου νοματ▒[...]'.
+[Line 76 Sent Fairytale1.6]: [L1 Format number-of-columns] The line has 2 columns but 10 are expected. The contents of the columns will not be checked.
+[Line 82 Sent Fairytale1.6]: [L4 Morpho feature-value-unknown] Value Empty is not documented for feature Aspect in language [el].
+[Line 82 Sent Fairytale1.6]: [L4 Morpho feature-value-unknown] Value Empty is not documented for feature Mood in language [el].
+[Line 82 Sent Fairytale1.6]: [L4 Morpho feature-value-unknown] Value Empty is not documented for feature Number in language [el].
+[Line 82 Sent Fairytale1.6]: [L4 Morpho feature-value-unknown] Value Empty is not documented for feature Person in language [el].
+[Line 82 Sent Fairytale1.6]: [L4 Morpho feature-value-unknown] Value Empty is not documented for feature Tense in language [el].
+[Line 82 Sent Fairytale1.6]: [L4 Morpho feature-value-unknown] Value Empty is not documented for feature VerbForm in language [el].
+[Line 82 Sent Fairytale1.6]: [L4 Morpho feature-value-unknown] Value Empty is not documented for feature Voice in language [el].
+[Line 100 Sent Fairytale1.7]: [L1 Format number-of-columns] The line has 2 columns but 10 are expected. The contents of the columns will not be checked.
+[Line 120 Sent Fairytale1.8]: [L1 Format number-of-columns] The line has 4 columns but 10 are expected. The contents of the columns will not be checked.
+[Line 122 Sent Fairytale1.8]: [L1 Format number-of-columns] The line has 1 columns but 10 are expected. The contents of the columns will not be checked.
+[Line 124 Sent Fairytale1.8]: [L1 Format number-of-columns] The line has 8 columns but 10 are expected. The contents of the columns will not be checked.
+[Line 150 Sent Fairytale1.9]: [L1 Format number-of-columns] The line has 2 columns but 10 are expected. The contents of the columns will not be checked.
+[Line 151 Sent Fairytale1.9]: [L1 Format number-of-columns] The line has 2 columns but 10 are expected. The contents of the columns will not be checked.
+[Line 161 Sent Fairytale1.9]: [L1 Format number-of-columns] The line has 9 columns but 10 are expected. The contents of the columns will not be checked.
+[Line 164 Sent Fairytale1.9]: [L1 Format number-of-columns] The line has 9 columns but 10 are expected. The contents of the columns will not be checked.
+[Line 190 Sent Fairytale1.10]: [L1 Format number-of-columns] The line has 2 columns but 10 are expected. The contents of the columns will not be checked.
+[Line 192 Sent Fairytale1.10]: [L1 Format number-of-columns] The line has 2 columns but 10 are expected. The contents of the columns will not be checked.
+[Line 202 Sent Fairytale1.11]: [L1 Format number-of-columns] The line has 1 columns but 10 are expected. The contents of the columns will not be checked.
+[Line 224 Sent Fairytale1.12]: [L1 Format number-of-columns] The line has 9 columns but 10 are expected. The contents of the columns will not be checked.
+[Line 250 Sent Fairytale1.14]: [L1 Format number-of-columns] The line has 2 columns but 10 are expected. The contents of the columns will not be checked.
+[Line 262 Sent Fairytale1.15]: [L1 Format number-of-columns] The line has 1 columns but 10 are expected. The contents of the columns will not be checked.
+[Line 263 Sent Fairytale1.15]: [L1 Format number-of-columns] The line has 1 columns but 10 are expected. The contents of the columns will not be checked.
+[Line 264 Sent Fairytale1.15]: [L1 Format number-of-columns] The line has 1 columns but 10 are expected. The contents of the columns will not be checked.
+[Line 271 Sent Fairytale1.15]: [L4 Morpho feature-value-unknown] Value EMPTY is not documented for feature Aspect in language [el].
+[Line 271 Sent Fairytale1.15]: [L4 Morpho feature-value-unknown] Value EMPTY is not documented for feature Mood in language [el].
+[Line 271 Sent Fairytale1.15]: [L4 Morpho feature-value-unknown] Value EMPTY is not documented for feature Number in language [el].
+[Line 271 Sent Fairytale1.15]: [L4 Morpho feature-value-unknown] Value EMPTY is not documented for feature Person in language [el].
+[Line 271 Sent Fairytale1.15]: [L4 Morpho feature-value-unknown] Value EMPTY is not documented for feature Tense in language [el].
+[Line 271 Sent Fairytale1.15]: [L4 Morpho feature-value-unknown] Value EMPTY is not documented for feature VerbForm in language [el].
+[Line 271 Sent Fairytale1.15]: [L4 Morpho feature-value-unknown] Value EMPTY is not documented for feature Voice in language [el].
+[Line 273 Sent Fairytale1.15]: [L1 Format number-of-columns] The line has 7 columns but 10 are expected. The contents of the columns will not be checked.
+[Line 326 Sent Fairytale1.19]: [L1 Format number-of-columns] The line has 1 columns but 10 are expected. The contents of the columns will not be checked.
+[Line 331 Sent Fairytale1.20]: [L4 Format invalid-word-with-space] 'Πα' in column FORM is not on the list of exceptions allowed to contain whitespace (data/tokens_w_space.LANG files).
+[Line 334 Sent Fairytale1.20]: [L1 Format number-of-columns] The line has 1 columns but 10 are expected. The contents of the columns will not be checked.
+[Line 338 Sent Fairytale1.20]: [L1 Format number-of-columns] The line has 9 columns but 10 are expected. The contents of the columns will not be checked.
+[Line 365 Sent Fairytale1.23]: [L1 Format number-of-columns] The line has 4 columns but 10 are expected. The contents of the columns will not be checked.
+[Line 366 Sent Fairytale1.23]: [L1 Format number-of-columns] The line has 3 columns but 10 are expected. The contents of the columns will not be checked.
+[Line 369 Sent Fairytale1.23]: [L1 Format number-of-columns] The line has 4 columns but 10 are expected. The contents of the columns will not be checked.
+[Line 383 Sent Fairytale1.24]: [L1 Format number-of-columns] The line has 8 columns but 10 are expected. The contents of the columns will not be checked.
+[Line 420 Sent Fairytale1.25]: [L2 Metadata missing-spaceafter] 'SpaceAfter=No' is missing in the MISC field of node #3 because the text is ',κοπανίζου▒[...]'.
+[Line 444 Sent Fairytale1.26]: [L2 Metadata missing-spaceafter] 'SpaceAfter=No' is missing in the MISC field of node #8 because the text is 'σα ο▒\udc81άνα τζ[...]'.
+[Line 485 Sent Fairytale1.29]: [L1 Format number-of-columns] The line has 1 columns but 10 are expected. The contents of the columns will not be checked.
+[Line 486 Sent Fairytale1.29]: [L1 Format number-of-columns] The line has 1 columns but 10 are expected. The contents of the columns will not be checked.
+[Line 493 Sent Fairytale1.29]: [L1 Format number-of-columns] The line has 9 columns but 10 are expected. The contents of the columns will not be checked.
+[Line 499 Sent Fairytale1.30]: [L1 Format number-of-columns] The line has 8 columns but 10 are expected. The contents of the columns will not be checked.
+[Line 520 Sent Fairytale1.31]: [L2 Metadata missing-spaceafter] 'SpaceAfter=No' is missing in the MISC field of node #10 because the text is 'σο μεντζιλ▒[...]'.
+[Line 518 Sent Fairytale1.31 Node 8]: [L3 Syntax rel-upos-expl] 'expl' should normally be 'PRON' but it is 'NOUN'
+[Line 557 Sent Fairytale1.34]: [L1 Format leading-whitespace] Leading whitespace not allowed in column LEMMA.
+[Line 557 Sent Fairytale1.34]: [L4 Format invalid-word-with-space] ' σοτίπος' in column LEMMA is not on the list of exceptions allowed to contain whitespace (data/tokens_w_space.LANG files).
+[Line 574 Sent Fairytale1.35]: [L1 Format number-of-columns] The line has 1 columns but 10 are expected. The contents of the columns will not be checked.
+[Line 578 Sent Fairytale1.35]: [L1 Format number-of-columns] The line has 7 columns but 10 are expected. The contents of the columns will not be checked.
+[Line 579 Sent Fairytale1.35]: [L1 Format number-of-columns] The line has 9 columns but 10 are expected. The contents of the columns will not be checked.
+[Line 580 Sent Fairytale1.35]: [L1 Format number-of-columns] The line has 2 columns but 10 are expected. The contents of the columns will not be checked.
+[Line 581 Sent Fairytale1.35]: [L4 Morpho feature-upos-not-permitted] Feature Definite is not permitted with UPOS PRON in language [el].
+[Line 609 Sent Fairytale1.35]: [L1 Format number-of-columns] The line has 2 columns but 10 are expected. The contents of the columns will not be checked.
+[Line 629 Sent Fairytale1.37]: [L4 Morpho feature-value-unknown] Value EMPTY is not documented for feature Aspect in language [el].
+[Line 629 Sent Fairytale1.37]: [L4 Morpho feature-value-unknown] Value EMPTY is not documented for feature Mood in language [el].
+[Line 629 Sent Fairytale1.37]: [L4 Morpho feature-value-unknown] Value EMPTY is not documented for feature Number in language [el].
+[Line 629 Sent Fairytale1.37]: [L4 Morpho feature-value-unknown] Value EMPTY is not documented for feature Person in language [el].
+[Line 629 Sent Fairytale1.37]: [L4 Morpho feature-value-unknown] Value EMPTY is not documented for feature Tense in language [el].
+[Line 629 Sent Fairytale1.37]: [L4 Morpho feature-value-unknown] Value EMPTY is not documented for feature VerbForm in language [el].
+[Line 629 Sent Fairytale1.37]: [L4 Morpho feature-value-unknown] Value EMPTY is not documented for feature Voice in language [el].
+[Line 660 Sent Fairytale1.37]: [L1 Format number-of-columns] The line has 9 columns but 10 are expected. The contents of the columns will not be checked.
+[Line 676 Sent Fairytale1.38]: [L4 Morpho feature-upos-not-permitted] Feature Aspect is not permitted with UPOS ADJ in language [el].
+[Line 676 Sent Fairytale1.38]: [L4 Morpho feature-upos-not-permitted] Feature Mood is not permitted with UPOS ADJ in language [el].
+[Line 676 Sent Fairytale1.38]: [L4 Morpho feature-upos-not-permitted] Feature Tense is not permitted with UPOS ADJ in language [el].
+[Line 676 Sent Fairytale1.38]: [L4 Morpho feature-upos-not-permitted] Feature VerbForm is not permitted with UPOS ADJ in language [el].
+[Line 676 Sent Fairytale1.38]: [L4 Morpho feature-upos-not-permitted] Feature Voice is not permitted with UPOS ADJ in language [el].
+[Line 666 Sent Fairytale1.38]: [L2 Metadata text-form-mismatch] Mismatch between the text attribute and the FORM field. Form[2] is ',' but text is ' , σ’ αωπο▒\udc8d ▒...' (perhaps extra SpaceAfter=No at previous token?)
+[Line 682 Sent Fairytale1.38]: [L2 Metadata text-extra-chars] Extra characters at the end of the text attribute, not accounted for in the FORM fields: ' , σ’ αωπο▒\udc8d το κατζί πάνου, εί.ανε τζαι τα ’πομεινά του ▒\udc81ουσο▒\udc8d τα τζαναβά▒\udc81α:'
+[Line 697 Sent Fairytale1.40]: [L4 Morpho feature-value-unknown] Value EMPTY is not documented for feature Aspect in language [el].
+[Line 697 Sent Fairytale1.40]: [L4 Morpho feature-value-unknown] Value EMPTY is not documented for feature Mood in language [el].
+[Line 697 Sent Fairytale1.40]: [L4 Morpho feature-value-unknown] Value EMPTY is not documented for feature Number in language [el].
+[Line 697 Sent Fairytale1.40]: [L4 Morpho feature-value-unknown] Value EMPTY is not documented for feature Person in language [el].
+[Line 697 Sent Fairytale1.40]: [L4 Morpho feature-value-unknown] Value EMPTY is not documented for feature Tense in language [el].
+[Line 697 Sent Fairytale1.40]: [L4 Morpho feature-value-unknown] Value EMPTY is not documented for feature VerbForm in language [el].
+[Line 697 Sent Fairytale1.40]: [L4 Morpho feature-value-unknown] Value EMPTY is not documented for feature Voice in language [el].
+[Line 701 Sent Fairytale1.40]: [L2 Metadata missing-spaceafter] 'SpaceAfter=No' is missing in the MISC field of node #7 because the text is 'ση φωλέ μας:'.
+[Line 697 Sent Fairytale1.40 Node 3]: [L5 Morpho aux-lemma] 'να' is not an auxiliary in language [el]
+[Line 717 Sent Fairytale1.41]: [L4 Morpho feature-value-unknown] Value EMPTY is not documented for feature Aspect in language [el].
+[Line 717 Sent Fairytale1.41]: [L4 Morpho feature-value-unknown] Value EMPTY is not documented for feature Mood in language [el].
+[Line 717 Sent Fairytale1.41]: [L4 Morpho feature-value-unknown] Value EMPTY is not documented for feature Number in language [el].
+[Line 717 Sent Fairytale1.41]: [L4 Morpho feature-value-unknown] Value EMPTY is not documented for feature Person in language [el].
+[Line 717 Sent Fairytale1.41]: [L4 Morpho feature-value-unknown] Value EMPTY is not documented for feature Tense in language [el].
+[Line 717 Sent Fairytale1.41]: [L4 Morpho feature-value-unknown] Value EMPTY is not documented for feature VerbForm in language [el].
+[Line 717 Sent Fairytale1.41]: [L4 Morpho feature-value-unknown] Value EMPTY is not documented for feature Voice in language [el].
+[Line 722 Sent Fairytale1.41]: [L4 Morpho feature-upos-not-permitted] Feature Definite is not permitted with UPOS PRON in language [el].
+[Line 712 Sent Fairytale1.41]: [L2 Metadata missing-spaceafter] 'SpaceAfter=No' is missing in the MISC field of node #3 because the text is 'σο ▒\udc81ουσί, χ▒[...]'.
+[Line 719 Sent Fairytale1.41]: [L2 Metadata missing-spaceafter] 'SpaceAfter=No' is missing in the MISC field of node #10 because the text is 'σο σπήλο του.'.
+[Line 715 Sent Fairytale1.41 Node 6]: [L3 Syntax punct-causes-nonproj] Punctuation must not cause non-projectivity of nodes [7]
+[Line 717 Sent Fairytale1.41 Node 8]: [L5 Morpho aux-lemma] 'να' is not an auxiliary in language [el]
+[Line 729 Sent Fairytale1.42]: [L4 Morpho feature-value-unknown] Value EMPTY is not documented for feature Aspect in language [el].
+[Line 729 Sent Fairytale1.42]: [L4 Morpho feature-value-unknown] Value EMPTY is not documented for feature Mood in language [el].
+[Line 729 Sent Fairytale1.42]: [L4 Morpho feature-value-unknown] Value EMPTY is not documented for feature Number in language [el].
+[Line 729 Sent Fairytale1.42]: [L4 Morpho feature-value-unknown] Value EMPTY is not documented for feature Person in language [el].
+[Line 729 Sent Fairytale1.42]: [L4 Morpho feature-value-unknown] Value EMPTY is not documented for feature Tense in language [el].
+[Line 729 Sent Fairytale1.42]: [L4 Morpho feature-value-unknown] Value EMPTY is not documented for feature VerbForm in language [el].
+[Line 729 Sent Fairytale1.42]: [L4 Morpho feature-value-unknown] Value EMPTY is not documented for feature Voice in language [el].
+[Line 730 Sent Fairytale1.42]: [L1 Format number-of-columns] The line has 1 columns but 10 are expected. The contents of the columns will not be checked.
+[Line 731 Sent Fairytale1.42]: [L1 Format number-of-columns] The line has 7 columns but 10 are expected. The contents of the columns will not be checked.
+[Line 737 Sent Fairytale1.42]: [L1 Format number-of-columns] The line has 9 columns but 10 are expected. The contents of the columns will not be checked.
+[Line 738 Sent Fairytale1.42]: [L1 Format number-of-columns] The line has 9 columns but 10 are expected. The contents of the columns will not be checked.
+[Line 739 Sent Fairytale1.42]: [L2 Syntax invalid-deprel] Invalid DEPREL value '_'.
+[Line 739 Sent Fairytale1.42]: [L4 Syntax unknown-deprel] Unknown DEPREL label: '_'
+
+The following 43 relations are currently permitted in language [el]:
+acl, acl:relcl, advcl, advmod, amod, appos, aux, case, cc, ccomp, clf, compound, conj, cop, csubj, csubj:pass, dep, det, discourse, dislocated, expl, fixed, flat, goeswith, iobj, list, mark, nmod, nsubj, nsubj:outer, nsubj:pass, nummod, obj, obl, obl:agent, obl:arg, orphan, parataxis, punct, reparandum, root, vocative, xcomp
+If a language needs a relation subtype that is not documented in the universal guidelines, the relation
+must have a language-specific documentation page in a prescribed format.
+See https://universaldependencies.org/contributing_language_specific.html for further guidelines.
+Documented dependency relations can be specifically turned on/off for each language in which they are used.
+See https://quest.ms.mff.cuni.cz/udvalidator/cgi-bin/unidep/langspec/specify_deprel.pl for details.
+
+[Line 761 Sent Fairytale1.44]: [L1 Format number-of-columns] The line has 9 columns but 10 are expected. The contents of the columns will not be checked.
+[Line 762 Sent Fairytale1.44]: [L1 Format number-of-columns] The line has 9 columns but 10 are expected. The contents of the columns will not be checked.
+[Line 797 Sent Fairytale1.47]: [L1 Format number-of-columns] The line has 2 columns but 10 are expected. The contents of the columns will not be checked.
+[Line 798 Sent Fairytale1.47]: [L1 Format number-of-columns] The line has 9 columns but 10 are expected. The contents of the columns will not be checked.
+[Line 832 Sent Fairytale1.49]: [L1 Format number-of-columns] The line has 9 columns but 10 are expected. The contents of the columns will not be checked.
+[Line 837 Sent Fairytale1.49]: [L1 Format extra-empty-line] Spurious empty line. Only one empty line is expected after every sentence.
+[Line 837 Sent Fairytale1.49]: [L1 Format non-unix-newline] Only the unix-style LF line terminator is allowed.
+[Line 837 Sent Fairytale1.49]: [L3 Enhanced edeps-identical-to-basic-trees] Enhanced graphs are copies of basic trees in the entire dataset. This can happen for some simple sentences where there is nothing to enhance, but not for all sentences. If none of the enhancements from the guidelines (https://universaldependencies.org/u/overview/enhanced-syntax.html) are annotated, the DEPS should be left unspecified
+Enhanced errors: 1
+Format errors: 54
+Metadata errors: 11
+Morpho errors: 58
+Syntax errors: 4
+*** FAILED *** with 128 errors
+The language-specific file C:\Users\eleni\Desktop\tools\data\tokens_w_space.el does not exist.
+
+eleni@LAPTOP-EJF4JSI1 MINGW64 ~/Desktop/tools (master)
+$ cat AnnotationsFinal_Eleni.conllu | python validate.py --lang el --max-err=0
+[Line 18 Sent Fairytale1.0Title]: [L2 Metadata invalid-sent-id] Spurious sent_id line: '# sent_id = Fairytale1.1 ' Should look like '# sent_id = xxxxx' where xxxxx is not whitespace. Forward slash reserved for special purposes.
+[Line 18 Sent Fairytale1.0Title]: [L2 Metadata missing-sent-id] Missing the sent_id attribute.
+[Line 30 Sent Fairytale1.0Title]: [L1 Format trailing-whitespace] Trailing whitespace not allowed in column FORM.
+[Line 30 Sent Fairytale1.0Title]: [L4 Format invalid-word-with-space] 'τζναβά▒\udc81α ' in column FORM is not on the list of exceptions allowed to contain whitespace (data/tokens_w_space.LANG files).
+[Line 31 Sent Fairytale1.0Title]: [L1 Format number-of-columns] The line has 8 columns but 10 are expected. The contents of the columns will not be checked.
+[Line 39 Sent Fairytale1.3]: [L4 Morpho feature-value-unknown] Value EMPTY is not documented for feature Aspect in language [el].
+
+The following 64 feature values are currently permitted in language [el]:
+Abbr=Yes, Aspect=Imp, Aspect=Perf, Case=Acc, Case=Dat, Case=Gen, Case=Nom, Case=Voc, Definite=Def, Definite=Ind, Degree=Abs, Degree=Aug, Degree=Cmp, Degree=Dim, Degree=Pos, Degree=Sup, Foreign=Yes, Gender=Fem, Gender=Masc, Gender=Neut, Mood=Imp, Mood=Ind, NumType=Card, NumType=Frac, NumType=Mult, NumType=Ord, NumType=Sets, Number=Plur, Number=Sing, Person=1, Person=2, Person=3, Polarity=Neg, Polarity=Pos, Poss=Yes, PronType=Art, PronType=Dem, PronType=Emp, PronType=Ind, PronType=Int, PronType=Neg, PronType=Prs, PronType=Rel, PronType=Tot, PunctType=Brck, PunctType=Colo, PunctType=Comm, PunctType=Dash, PunctType=Elip, PunctType=Excl, PunctType=Peri, PunctType=Qest, PunctType=Quot, PunctType=Slsh, Tense=Fut, Tense=Past, Tense=Pres, Typo=Yes, VerbForm=Conv, VerbForm=Fin, VerbForm=Inf, VerbForm=Part, Voice=Act, Voice=Pass
+If a language needs a feature that is not documented in the universal guidelines, the feature must
+have a language-specific documentation page in a prescribed format.
+See https://universaldependencies.org/contributing_language_specific.html for further guidelines.
+All features including universal must be specifically turned on for each language in which they are used.
+See https://quest.ms.mff.cuni.cz/udvalidator/cgi-bin/unidep/langspec/specify_feature.pl for details.
+
+[Line 39 Sent Fairytale1.3]: [L4 Morpho feature-value-unknown] Value EMPTY is not documented for feature Mood in language [el].
+[Line 39 Sent Fairytale1.3]: [L4 Morpho feature-value-unknown] Value EMPTY is not documented for feature Number in language [el].
+[Line 39 Sent Fairytale1.3]: [L4 Morpho feature-value-unknown] Value EMPTY is not documented for feature Person in language [el].
+[Line 39 Sent Fairytale1.3]: [L4 Morpho feature-value-unknown] Value EMPTY is not documented for feature Tense in language [el].
+[Line 39 Sent Fairytale1.3]: [L4 Morpho feature-value-unknown] Value EMPTY is not documented for feature VerbForm in language [el].
+[Line 39 Sent Fairytale1.3]: [L4 Morpho feature-value-unknown] Value EMPTY is not documented for feature Voice in language [el].
+[Line 42 Sent Fairytale1.3]: [L1 Format number-of-columns] The line has 2 columns but 10 are expected. The contents of the columns will not be checked.
+[Line 65 Sent Fairytale1.5]: [L2 Metadata missing-spaceafter] 'SpaceAfter=No' is missing in the MISC field of node #6 because the text is 'στου νοματ▒[...]'.
+[Line 76 Sent Fairytale1.6]: [L1 Format number-of-columns] The line has 2 columns but 10 are expected. The contents of the columns will not be checked.
+[Line 82 Sent Fairytale1.6]: [L4 Morpho feature-value-unknown] Value Empty is not documented for feature Aspect in language [el].
+[Line 82 Sent Fairytale1.6]: [L4 Morpho feature-value-unknown] Value Empty is not documented for feature Mood in language [el].
+[Line 82 Sent Fairytale1.6]: [L4 Morpho feature-value-unknown] Value Empty is not documented for feature Number in language [el].
+[Line 82 Sent Fairytale1.6]: [L4 Morpho feature-value-unknown] Value Empty is not documented for feature Person in language [el].
+[Line 82 Sent Fairytale1.6]: [L4 Morpho feature-value-unknown] Value Empty is not documented for feature Tense in language [el].
+[Line 82 Sent Fairytale1.6]: [L4 Morpho feature-value-unknown] Value Empty is not documented for feature VerbForm in language [el].
+[Line 82 Sent Fairytale1.6]: [L4 Morpho feature-value-unknown] Value Empty is not documented for feature Voice in language [el].
+[Line 100 Sent Fairytale1.7]: [L1 Format number-of-columns] The line has 2 columns but 10 are expected. The contents of the columns will not be checked.
+[Line 120 Sent Fairytale1.8]: [L1 Format number-of-columns] The line has 4 columns but 10 are expected. The contents of the columns will not be checked.
+[Line 122 Sent Fairytale1.8]: [L1 Format number-of-columns] The line has 1 columns but 10 are expected. The contents of the columns will not be checked.
+[Line 124 Sent Fairytale1.8]: [L1 Format number-of-columns] The line has 8 columns but 10 are expected. The contents of the columns will not be checked.
+[Line 150 Sent Fairytale1.9]: [L1 Format number-of-columns] The line has 2 columns but 10 are expected. The contents of the columns will not be checked.
+[Line 151 Sent Fairytale1.9]: [L1 Format number-of-columns] The line has 2 columns but 10 are expected. The contents of the columns will not be checked.
+[Line 161 Sent Fairytale1.9]: [L1 Format number-of-columns] The line has 9 columns but 10 are expected. The contents of the columns will not be checked.
+[Line 164 Sent Fairytale1.9]: [L1 Format number-of-columns] The line has 9 columns but 10 are expected. The contents of the columns will not be checked.
+[Line 190 Sent Fairytale1.10]: [L1 Format number-of-columns] The line has 2 columns but 10 are expected. The contents of the columns will not be checked.
+[Line 192 Sent Fairytale1.10]: [L1 Format number-of-columns] The line has 2 columns but 10 are expected. The contents of the columns will not be checked.
+[Line 202 Sent Fairytale1.11]: [L1 Format number-of-columns] The line has 1 columns but 10 are expected. The contents of the columns will not be checked.
+[Line 224 Sent Fairytale1.12]: [L1 Format number-of-columns] The line has 9 columns but 10 are expected. The contents of the columns will not be checked.
+[Line 250 Sent Fairytale1.14]: [L1 Format number-of-columns] The line has 2 columns but 10 are expected. The contents of the columns will not be checked.
+[Line 262 Sent Fairytale1.15]: [L1 Format number-of-columns] The line has 1 columns but 10 are expected. The contents of the columns will not be checked.
+[Line 263 Sent Fairytale1.15]: [L1 Format number-of-columns] The line has 1 columns but 10 are expected. The contents of the columns will not be checked.
+[Line 264 Sent Fairytale1.15]: [L1 Format number-of-columns] The line has 1 columns but 10 are expected. The contents of the columns will not be checked.
+[Line 271 Sent Fairytale1.15]: [L4 Morpho feature-value-unknown] Value EMPTY is not documented for feature Aspect in language [el].
+[Line 271 Sent Fairytale1.15]: [L4 Morpho feature-value-unknown] Value EMPTY is not documented for feature Mood in language [el].
+[Line 271 Sent Fairytale1.15]: [L4 Morpho feature-value-unknown] Value EMPTY is not documented for feature Number in language [el].
+[Line 271 Sent Fairytale1.15]: [L4 Morpho feature-value-unknown] Value EMPTY is not documented for feature Person in language [el].
+[Line 271 Sent Fairytale1.15]: [L4 Morpho feature-value-unknown] Value EMPTY is not documented for feature Tense in language [el].
+[Line 271 Sent Fairytale1.15]: [L4 Morpho feature-value-unknown] Value EMPTY is not documented for feature VerbForm in language [el].
+[Line 271 Sent Fairytale1.15]: [L4 Morpho feature-value-unknown] Value EMPTY is not documented for feature Voice in language [el].
+[Line 273 Sent Fairytale1.15]: [L1 Format number-of-columns] The line has 7 columns but 10 are expected. The contents of the columns will not be checked.
+[Line 326 Sent Fairytale1.19]: [L1 Format number-of-columns] The line has 1 columns but 10 are expected. The contents of the columns will not be checked.
+[Line 331 Sent Fairytale1.20]: [L4 Format invalid-word-with-space] 'Πα' in column FORM is not on the list of exceptions allowed to contain whitespace (data/tokens_w_space.LANG files).
+[Line 334 Sent Fairytale1.20]: [L1 Format number-of-columns] The line has 1 columns but 10 are expected. The contents of the columns will not be checked.
+[Line 338 Sent Fairytale1.20]: [L1 Format number-of-columns] The line has 9 columns but 10 are expected. The contents of the columns will not be checked.
+[Line 365 Sent Fairytale1.23]: [L1 Format number-of-columns] The line has 4 columns but 10 are expected. The contents of the columns will not be checked.
+[Line 366 Sent Fairytale1.23]: [L1 Format number-of-columns] The line has 3 columns but 10 are expected. The contents of the columns will not be checked.
+[Line 369 Sent Fairytale1.23]: [L1 Format number-of-columns] The line has 4 columns but 10 are expected. The contents of the columns will not be checked.
+[Line 383 Sent Fairytale1.24]: [L1 Format number-of-columns] The line has 8 columns but 10 are expected. The contents of the columns will not be checked.
+[Line 420 Sent Fairytale1.25]: [L2 Metadata missing-spaceafter] 'SpaceAfter=No' is missing in the MISC field of node #3 because the text is ',κοπανίζου▒[...]'.
+[Line 444 Sent Fairytale1.26]: [L2 Metadata missing-spaceafter] 'SpaceAfter=No' is missing in the MISC field of node #8 because the text is 'σα ο▒\udc81άνα τζ[...]'.
+[Line 485 Sent Fairytale1.29]: [L1 Format number-of-columns] The line has 1 columns but 10 are expected. The contents of the columns will not be checked.
+[Line 486 Sent Fairytale1.29]: [L1 Format number-of-columns] The line has 1 columns but 10 are expected. The contents of the columns will not be checked.
+[Line 493 Sent Fairytale1.29]: [L1 Format number-of-columns] The line has 9 columns but 10 are expected. The contents of the columns will not be checked.
+[Line 499 Sent Fairytale1.30]: [L1 Format number-of-columns] The line has 8 columns but 10 are expected. The contents of the columns will not be checked.
+[Line 520 Sent Fairytale1.31]: [L2 Metadata missing-spaceafter] 'SpaceAfter=No' is missing in the MISC field of node #10 because the text is 'σο μεντζιλ▒[...]'.
+[Line 518 Sent Fairytale1.31 Node 8]: [L3 Syntax rel-upos-expl] 'expl' should normally be 'PRON' but it is 'NOUN'
+[Line 557 Sent Fairytale1.34]: [L1 Format leading-whitespace] Leading whitespace not allowed in column LEMMA.
+[Line 557 Sent Fairytale1.34]: [L4 Format invalid-word-with-space] ' σοτίπος' in column LEMMA is not on the list of exceptions allowed to contain whitespace (data/tokens_w_space.LANG files).
+[Line 574 Sent Fairytale1.35]: [L1 Format number-of-columns] The line has 1 columns but 10 are expected. The contents of the columns will not be checked.
+[Line 578 Sent Fairytale1.35]: [L1 Format number-of-columns] The line has 7 columns but 10 are expected. The contents of the columns will not be checked.
+[Line 579 Sent Fairytale1.35]: [L1 Format number-of-columns] The line has 9 columns but 10 are expected. The contents of the columns will not be checked.
+[Line 580 Sent Fairytale1.35]: [L1 Format number-of-columns] The line has 2 columns but 10 are expected. The contents of the columns will not be checked.
+[Line 581 Sent Fairytale1.35]: [L4 Morpho feature-upos-not-permitted] Feature Definite is not permitted with UPOS PRON in language [el].
+[Line 609 Sent Fairytale1.35]: [L1 Format number-of-columns] The line has 2 columns but 10 are expected. The contents of the columns will not be checked.
+[Line 629 Sent Fairytale1.37]: [L4 Morpho feature-value-unknown] Value EMPTY is not documented for feature Aspect in language [el].
+[Line 629 Sent Fairytale1.37]: [L4 Morpho feature-value-unknown] Value EMPTY is not documented for feature Mood in language [el].
+[Line 629 Sent Fairytale1.37]: [L4 Morpho feature-value-unknown] Value EMPTY is not documented for feature Number in language [el].
+[Line 629 Sent Fairytale1.37]: [L4 Morpho feature-value-unknown] Value EMPTY is not documented for feature Person in language [el].
+[Line 629 Sent Fairytale1.37]: [L4 Morpho feature-value-unknown] Value EMPTY is not documented for feature Tense in language [el].
+[Line 629 Sent Fairytale1.37]: [L4 Morpho feature-value-unknown] Value EMPTY is not documented for feature VerbForm in language [el].
+[Line 629 Sent Fairytale1.37]: [L4 Morpho feature-value-unknown] Value EMPTY is not documented for feature Voice in language [el].
+[Line 660 Sent Fairytale1.37]: [L1 Format number-of-columns] The line has 9 columns but 10 are expected. The contents of the columns will not be checked.
+[Line 676 Sent Fairytale1.38]: [L4 Morpho feature-upos-not-permitted] Feature Aspect is not permitted with UPOS ADJ in language [el].
+[Line 676 Sent Fairytale1.38]: [L4 Morpho feature-upos-not-permitted] Feature Mood is not permitted with UPOS ADJ in language [el].
+[Line 676 Sent Fairytale1.38]: [L4 Morpho feature-upos-not-permitted] Feature Tense is not permitted with UPOS ADJ in language [el].
+[Line 676 Sent Fairytale1.38]: [L4 Morpho feature-upos-not-permitted] Feature VerbForm is not permitted with UPOS ADJ in language [el].
+[Line 676 Sent Fairytale1.38]: [L4 Morpho feature-upos-not-permitted] Feature Voice is not permitted with UPOS ADJ in language [el].
+[Line 666 Sent Fairytale1.38]: [L2 Metadata text-form-mismatch] Mismatch between the text attribute and the FORM field. Form[2] is ',' but text is ' , σ’ αωπο▒\udc8d ▒...' (perhaps extra SpaceAfter=No at previous token?)
+[Line 682 Sent Fairytale1.38]: [L2 Metadata text-extra-chars] Extra characters at the end of the text attribute, not accounted for in the FORM fields: ' , σ’ αωπο▒\udc8d το κατζί πάνου, εί.ανε τζαι τα ’πομεινά του ▒\udc81ουσο▒\udc8d τα τζαναβά▒\udc81α:'
+[Line 697 Sent Fairytale1.40]: [L4 Morpho feature-value-unknown] Value EMPTY is not documented for feature Aspect in language [el].
+[Line 697 Sent Fairytale1.40]: [L4 Morpho feature-value-unknown] Value EMPTY is not documented for feature Mood in language [el].
+[Line 697 Sent Fairytale1.40]: [L4 Morpho feature-value-unknown] Value EMPTY is not documented for feature Number in language [el].
+[Line 697 Sent Fairytale1.40]: [L4 Morpho feature-value-unknown] Value EMPTY is not documented for feature Person in language [el].
+[Line 697 Sent Fairytale1.40]: [L4 Morpho feature-value-unknown] Value EMPTY is not documented for feature Tense in language [el].
+[Line 697 Sent Fairytale1.40]: [L4 Morpho feature-value-unknown] Value EMPTY is not documented for feature VerbForm in language [el].
+[Line 697 Sent Fairytale1.40]: [L4 Morpho feature-value-unknown] Value EMPTY is not documented for feature Voice in language [el].
+[Line 701 Sent Fairytale1.40]: [L2 Metadata missing-spaceafter] 'SpaceAfter=No' is missing in the MISC field of node #7 because the text is 'ση φωλέ μας:'.
+[Line 697 Sent Fairytale1.40 Node 3]: [L5 Morpho aux-lemma] 'να' is not an auxiliary in language [el]
+[Line 717 Sent Fairytale1.41]: [L4 Morpho feature-value-unknown] Value EMPTY is not documented for feature Aspect in language [el].
+[Line 717 Sent Fairytale1.41]: [L4 Morpho feature-value-unknown] Value EMPTY is not documented for feature Mood in language [el].
+[Line 717 Sent Fairytale1.41]: [L4 Morpho feature-value-unknown] Value EMPTY is not documented for feature Number in language [el].
+[Line 717 Sent Fairytale1.41]: [L4 Morpho feature-value-unknown] Value EMPTY is not documented for feature Person in language [el].
+[Line 717 Sent Fairytale1.41]: [L4 Morpho feature-value-unknown] Value EMPTY is not documented for feature Tense in language [el].
+[Line 717 Sent Fairytale1.41]: [L4 Morpho feature-value-unknown] Value EMPTY is not documented for feature VerbForm in language [el].
+[Line 717 Sent Fairytale1.41]: [L4 Morpho feature-value-unknown] Value EMPTY is not documented for feature Voice in language [el].
+[Line 722 Sent Fairytale1.41]: [L4 Morpho feature-upos-not-permitted] Feature Definite is not permitted with UPOS PRON in language [el].
+[Line 712 Sent Fairytale1.41]: [L2 Metadata missing-spaceafter] 'SpaceAfter=No' is missing in the MISC field of node #3 because the text is 'σο ▒\udc81ουσί, χ▒[...]'.
+[Line 719 Sent Fairytale1.41]: [L2 Metadata missing-spaceafter] 'SpaceAfter=No' is missing in the MISC field of node #10 because the text is 'σο σπήλο του.'.
+[Line 715 Sent Fairytale1.41 Node 6]: [L3 Syntax punct-causes-nonproj] Punctuation must not cause non-projectivity of nodes [7]
+[Line 717 Sent Fairytale1.41 Node 8]: [L5 Morpho aux-lemma] 'να' is not an auxiliary in language [el]
+[Line 729 Sent Fairytale1.42]: [L4 Morpho feature-value-unknown] Value EMPTY is not documented for feature Aspect in language [el].
+[Line 729 Sent Fairytale1.42]: [L4 Morpho feature-value-unknown] Value EMPTY is not documented for feature Mood in language [el].
+[Line 729 Sent Fairytale1.42]: [L4 Morpho feature-value-unknown] Value EMPTY is not documented for feature Number in language [el].
+[Line 729 Sent Fairytale1.42]: [L4 Morpho feature-value-unknown] Value EMPTY is not documented for feature Person in language [el].
+[Line 729 Sent Fairytale1.42]: [L4 Morpho feature-value-unknown] Value EMPTY is not documented for feature Tense in language [el].
+[Line 729 Sent Fairytale1.42]: [L4 Morpho feature-value-unknown] Value EMPTY is not documented for feature VerbForm in language [el].
+[Line 729 Sent Fairytale1.42]: [L4 Morpho feature-value-unknown] Value EMPTY is not documented for feature Voice in language [el].
+[Line 730 Sent Fairytale1.42]: [L1 Format number-of-columns] The line has 1 columns but 10 are expected. The contents of the columns will not be checked.
+[Line 731 Sent Fairytale1.42]: [L1 Format number-of-columns] The line has 7 columns but 10 are expected. The contents of the columns will not be checked.
+[Line 737 Sent Fairytale1.42]: [L1 Format number-of-columns] The line has 9 columns but 10 are expected. The contents of the columns will not be checked.
+[Line 738 Sent Fairytale1.42]: [L1 Format number-of-columns] The line has 9 columns but 10 are expected. The contents of the columns will not be checked.
+[Line 739 Sent Fairytale1.42]: [L2 Syntax invalid-deprel] Invalid DEPREL value '_'.
+[Line 739 Sent Fairytale1.42]: [L4 Syntax unknown-deprel] Unknown DEPREL label: '_'
+
+The following 43 relations are currently permitted in language [el]:
+acl, acl:relcl, advcl, advmod, amod, appos, aux, case, cc, ccomp, clf, compound, conj, cop, csubj, csubj:pass, dep, det, discourse, dislocated, expl, fixed, flat, goeswith, iobj, list, mark, nmod, nsubj, nsubj:outer, nsubj:pass, nummod, obj, obl, obl:agent, obl:arg, orphan, parataxis, punct, reparandum, root, vocative, xcomp
+If a language needs a relation subtype that is not documented in the universal guidelines, the relation
+must have a language-specific documentation page in a prescribed format.
+See https://universaldependencies.org/contributing_language_specific.html for further guidelines.
+Documented dependency relations can be specifically turned on/off for each language in which they are used.
+See https://quest.ms.mff.cuni.cz/udvalidator/cgi-bin/unidep/langspec/specify_deprel.pl for details.
+
+[Line 761 Sent Fairytale1.44]: [L1 Format number-of-columns] The line has 9 columns but 10 are expected. The contents of the columns will not be checked.
+[Line 762 Sent Fairytale1.44]: [L1 Format number-of-columns] The line has 9 columns but 10 are expected. The contents of the columns will not be checked.
+[Line 797 Sent Fairytale1.47]: [L1 Format number-of-columns] The line has 2 columns but 10 are expected. The contents of the columns will not be checked.
+[Line 798 Sent Fairytale1.47]: [L1 Format number-of-columns] The line has 9 columns but 10 are expected. The contents of the columns will not be checked.
+[Line 832 Sent Fairytale1.49]: [L1 Format number-of-columns] The line has 9 columns but 10 are expected. The contents of the columns will not be checked.
+[Line 837 Sent Fairytale1.49]: [L1 Format extra-empty-line] Spurious empty line. Only one empty line is expected after every sentence.
+[Line 837 Sent Fairytale1.49]: [L1 Format non-unix-newline] Only the unix-style LF line terminator is allowed.
+[Line 837 Sent Fairytale1.49]: [L3 Enhanced edeps-identical-to-basic-trees] Enhanced graphs are copies of basic trees in the entire dataset. This can happen for some simple sentences where there is nothing to enhance, but not for all sentences. If none of the enhancements from the guidelines (https://universaldependencies.org/u/overview/enhanced-syntax.html) are annotated, the DEPS should be left unspecified
+Enhanced errors: 1
+Format errors: 53
+Metadata errors: 11
+Morpho errors: 58
+Syntax errors: 4
+*** FAILED *** with 127 errors
+The language-specific file C:\Users\eleni\Desktop\tools\data\tokens_w_space.el does not exist.
+
+eleni@LAPTOP-EJF4JSI1 MINGW64 ~/Desktop/tools (master)
+$ cat AnnotationsFinal_Eleni.conllu | python validate.py --lang el --max-err=0
+[Line 18 Sent Fairytale1.0Title]: [L2 Metadata invalid-sent-id] Spurious sent_id line: '# sent_id = Fairytale1.1 ' Should look like '# sent_id = xxxxx' where xxxxx is not whitespace. Forward slash reserved for special purposes.
+[Line 18 Sent Fairytale1.0Title]: [L2 Metadata missing-sent-id] Missing the sent_id attribute.
+[Line 30 Sent Fairytale1.0Title]: [L1 Format trailing-whitespace] Trailing whitespace not allowed in column FORM.
+[Line 30 Sent Fairytale1.0Title]: [L4 Format invalid-word-with-space] 'τζναβά▒\udc81α ' in column FORM is not on the list of exceptions allowed to contain whitespace (data/tokens_w_space.LANG files).
+[Line 31 Sent Fairytale1.0Title]: [L1 Format number-of-columns] The line has 8 columns but 10 are expected. The contents of the columns will not be checked.
+[Line 39 Sent Fairytale1.3]: [L4 Morpho feature-value-unknown] Value EMPTY is not documented for feature Aspect in language [el].
+
+The following 64 feature values are currently permitted in language [el]:
+Abbr=Yes, Aspect=Imp, Aspect=Perf, Case=Acc, Case=Dat, Case=Gen, Case=Nom, Case=Voc, Definite=Def, Definite=Ind, Degree=Abs, Degree=Aug, Degree=Cmp, Degree=Dim, Degree=Pos, Degree=Sup, Foreign=Yes, Gender=Fem, Gender=Masc, Gender=Neut, Mood=Imp, Mood=Ind, NumType=Card, NumType=Frac, NumType=Mult, NumType=Ord, NumType=Sets, Number=Plur, Number=Sing, Person=1, Person=2, Person=3, Polarity=Neg, Polarity=Pos, Poss=Yes, PronType=Art, PronType=Dem, PronType=Emp, PronType=Ind, PronType=Int, PronType=Neg, PronType=Prs, PronType=Rel, PronType=Tot, PunctType=Brck, PunctType=Colo, PunctType=Comm, PunctType=Dash, PunctType=Elip, PunctType=Excl, PunctType=Peri, PunctType=Qest, PunctType=Quot, PunctType=Slsh, Tense=Fut, Tense=Past, Tense=Pres, Typo=Yes, VerbForm=Conv, VerbForm=Fin, VerbForm=Inf, VerbForm=Part, Voice=Act, Voice=Pass
+If a language needs a feature that is not documented in the universal guidelines, the feature must
+have a language-specific documentation page in a prescribed format.
+See https://universaldependencies.org/contributing_language_specific.html for further guidelines.
+All features including universal must be specifically turned on for each language in which they are used.
+See https://quest.ms.mff.cuni.cz/udvalidator/cgi-bin/unidep/langspec/specify_feature.pl for details.
+
+[Line 39 Sent Fairytale1.3]: [L4 Morpho feature-value-unknown] Value EMPTY is not documented for feature Mood in language [el].
+[Line 39 Sent Fairytale1.3]: [L4 Morpho feature-value-unknown] Value EMPTY is not documented for feature Number in language [el].
+[Line 39 Sent Fairytale1.3]: [L4 Morpho feature-value-unknown] Value EMPTY is not documented for feature Person in language [el].
+[Line 39 Sent Fairytale1.3]: [L4 Morpho feature-value-unknown] Value EMPTY is not documented for feature Tense in language [el].
+[Line 39 Sent Fairytale1.3]: [L4 Morpho feature-value-unknown] Value EMPTY is not documented for feature VerbForm in language [el].
+[Line 39 Sent Fairytale1.3]: [L4 Morpho feature-value-unknown] Value EMPTY is not documented for feature Voice in language [el].
+[Line 42 Sent Fairytale1.3]: [L1 Format number-of-columns] The line has 2 columns but 10 are expected. The contents of the columns will not be checked.
+[Line 65 Sent Fairytale1.5]: [L2 Metadata missing-spaceafter] 'SpaceAfter=No' is missing in the MISC field of node #6 because the text is 'στου νοματ▒[...]'.
+[Line 76 Sent Fairytale1.6]: [L1 Format number-of-columns] The line has 2 columns but 10 are expected. The contents of the columns will not be checked.
+[Line 82 Sent Fairytale1.6]: [L4 Morpho feature-value-unknown] Value Empty is not documented for feature Aspect in language [el].
+[Line 82 Sent Fairytale1.6]: [L4 Morpho feature-value-unknown] Value Empty is not documented for feature Mood in language [el].
+[Line 82 Sent Fairytale1.6]: [L4 Morpho feature-value-unknown] Value Empty is not documented for feature Number in language [el].
+[Line 82 Sent Fairytale1.6]: [L4 Morpho feature-value-unknown] Value Empty is not documented for feature Person in language [el].
+[Line 82 Sent Fairytale1.6]: [L4 Morpho feature-value-unknown] Value Empty is not documented for feature Tense in language [el].
+[Line 82 Sent Fairytale1.6]: [L4 Morpho feature-value-unknown] Value Empty is not documented for feature VerbForm in language [el].
+[Line 82 Sent Fairytale1.6]: [L4 Morpho feature-value-unknown] Value Empty is not documented for feature Voice in language [el].
+[Line 100 Sent Fairytale1.7]: [L1 Format number-of-columns] The line has 2 columns but 10 are expected. The contents of the columns will not be checked.
+[Line 120 Sent Fairytale1.8]: [L1 Format number-of-columns] The line has 4 columns but 10 are expected. The contents of the columns will not be checked.
+[Line 122 Sent Fairytale1.8]: [L1 Format number-of-columns] The line has 1 columns but 10 are expected. The contents of the columns will not be checked.
+[Line 124 Sent Fairytale1.8]: [L1 Format number-of-columns] The line has 8 columns but 10 are expected. The contents of the columns will not be checked.
+[Line 150 Sent Fairytale1.9]: [L1 Format number-of-columns] The line has 2 columns but 10 are expected. The contents of the columns will not be checked.
+[Line 151 Sent Fairytale1.9]: [L1 Format number-of-columns] The line has 2 columns but 10 are expected. The contents of the columns will not be checked.
+[Line 161 Sent Fairytale1.9]: [L1 Format number-of-columns] The line has 9 columns but 10 are expected. The contents of the columns will not be checked.
+[Line 164 Sent Fairytale1.9]: [L1 Format number-of-columns] The line has 9 columns but 10 are expected. The contents of the columns will not be checked.
+[Line 190 Sent Fairytale1.10]: [L1 Format number-of-columns] The line has 2 columns but 10 are expected. The contents of the columns will not be checked.
+[Line 192 Sent Fairytale1.10]: [L1 Format number-of-columns] The line has 2 columns but 10 are expected. The contents of the columns will not be checked.
+[Line 202 Sent Fairytale1.11]: [L1 Format number-of-columns] The line has 1 columns but 10 are expected. The contents of the columns will not be checked.
+[Line 224 Sent Fairytale1.12]: [L1 Format number-of-columns] The line has 9 columns but 10 are expected. The contents of the columns will not be checked.
+[Line 250 Sent Fairytale1.14]: [L1 Format number-of-columns] The line has 2 columns but 10 are expected. The contents of the columns will not be checked.
+[Line 262 Sent Fairytale1.15]: [L1 Format number-of-columns] The line has 1 columns but 10 are expected. The contents of the columns will not be checked.
+[Line 263 Sent Fairytale1.15]: [L1 Format number-of-columns] The line has 1 columns but 10 are expected. The contents of the columns will not be checked.
+[Line 264 Sent Fairytale1.15]: [L1 Format number-of-columns] The line has 1 columns but 10 are expected. The contents of the columns will not be checked.
+[Line 271 Sent Fairytale1.15]: [L4 Morpho feature-value-unknown] Value EMPTY is not documented for feature Aspect in language [el].
+[Line 271 Sent Fairytale1.15]: [L4 Morpho feature-value-unknown] Value EMPTY is not documented for feature Mood in language [el].
+[Line 271 Sent Fairytale1.15]: [L4 Morpho feature-value-unknown] Value EMPTY is not documented for feature Number in language [el].
+[Line 271 Sent Fairytale1.15]: [L4 Morpho feature-value-unknown] Value EMPTY is not documented for feature Person in language [el].
+[Line 271 Sent Fairytale1.15]: [L4 Morpho feature-value-unknown] Value EMPTY is not documented for feature Tense in language [el].
+[Line 271 Sent Fairytale1.15]: [L4 Morpho feature-value-unknown] Value EMPTY is not documented for feature VerbForm in language [el].
+[Line 271 Sent Fairytale1.15]: [L4 Morpho feature-value-unknown] Value EMPTY is not documented for feature Voice in language [el].
+[Line 273 Sent Fairytale1.15]: [L1 Format number-of-columns] The line has 7 columns but 10 are expected. The contents of the columns will not be checked.
+[Line 326 Sent Fairytale1.19]: [L1 Format number-of-columns] The line has 1 columns but 10 are expected. The contents of the columns will not be checked.
+[Line 331 Sent Fairytale1.20]: [L4 Format invalid-word-with-space] 'Πα' in column FORM is not on the list of exceptions allowed to contain whitespace (data/tokens_w_space.LANG files).
+[Line 334 Sent Fairytale1.20]: [L1 Format number-of-columns] The line has 1 columns but 10 are expected. The contents of the columns will not be checked.
+[Line 338 Sent Fairytale1.20]: [L1 Format number-of-columns] The line has 9 columns but 10 are expected. The contents of the columns will not be checked.
+[Line 365 Sent Fairytale1.23]: [L1 Format number-of-columns] The line has 4 columns but 10 are expected. The contents of the columns will not be checked.
+[Line 366 Sent Fairytale1.23]: [L1 Format number-of-columns] The line has 3 columns but 10 are expected. The contents of the columns will not be checked.
+[Line 369 Sent Fairytale1.23]: [L1 Format number-of-columns] The line has 4 columns but 10 are expected. The contents of the columns will not be checked.
+[Line 383 Sent Fairytale1.24]: [L1 Format number-of-columns] The line has 8 columns but 10 are expected. The contents of the columns will not be checked.
+[Line 420 Sent Fairytale1.25]: [L2 Metadata missing-spaceafter] 'SpaceAfter=No' is missing in the MISC field of node #3 because the text is ',κοπανίζου▒[...]'.
+[Line 444 Sent Fairytale1.26]: [L2 Metadata missing-spaceafter] 'SpaceAfter=No' is missing in the MISC field of node #8 because the text is 'σα ο▒\udc81άνα τζ[...]'.
+[Line 485 Sent Fairytale1.29]: [L1 Format number-of-columns] The line has 1 columns but 10 are expected. The contents of the columns will not be checked.
+[Line 486 Sent Fairytale1.29]: [L1 Format number-of-columns] The line has 1 columns but 10 are expected. The contents of the columns will not be checked.
+[Line 493 Sent Fairytale1.29]: [L1 Format number-of-columns] The line has 9 columns but 10 are expected. The contents of the columns will not be checked.
+[Line 499 Sent Fairytale1.30]: [L1 Format number-of-columns] The line has 8 columns but 10 are expected. The contents of the columns will not be checked.
+[Line 520 Sent Fairytale1.31]: [L2 Metadata missing-spaceafter] 'SpaceAfter=No' is missing in the MISC field of node #10 because the text is 'σο μεντζιλ▒[...]'.
+[Line 518 Sent Fairytale1.31 Node 8]: [L3 Syntax rel-upos-expl] 'expl' should normally be 'PRON' but it is 'NOUN'
+[Line 557 Sent Fairytale1.34]: [L1 Format leading-whitespace] Leading whitespace not allowed in column LEMMA.
+[Line 557 Sent Fairytale1.34]: [L4 Format invalid-word-with-space] ' σοτίπος' in column LEMMA is not on the list of exceptions allowed to contain whitespace (data/tokens_w_space.LANG files).
+[Line 574 Sent Fairytale1.35]: [L1 Format number-of-columns] The line has 1 columns but 10 are expected. The contents of the columns will not be checked.
+[Line 578 Sent Fairytale1.35]: [L1 Format number-of-columns] The line has 7 columns but 10 are expected. The contents of the columns will not be checked.
+[Line 579 Sent Fairytale1.35]: [L1 Format number-of-columns] The line has 9 columns but 10 are expected. The contents of the columns will not be checked.
+[Line 580 Sent Fairytale1.35]: [L1 Format number-of-columns] The line has 2 columns but 10 are expected. The contents of the columns will not be checked.
+[Line 581 Sent Fairytale1.35]: [L4 Morpho feature-upos-not-permitted] Feature Definite is not permitted with UPOS PRON in language [el].
+[Line 609 Sent Fairytale1.35]: [L1 Format number-of-columns] The line has 2 columns but 10 are expected. The contents of the columns will not be checked.
+[Line 629 Sent Fairytale1.37]: [L4 Morpho feature-value-unknown] Value EMPTY is not documented for feature Aspect in language [el].
+[Line 629 Sent Fairytale1.37]: [L4 Morpho feature-value-unknown] Value EMPTY is not documented for feature Mood in language [el].
+[Line 629 Sent Fairytale1.37]: [L4 Morpho feature-value-unknown] Value EMPTY is not documented for feature Number in language [el].
+[Line 629 Sent Fairytale1.37]: [L4 Morpho feature-value-unknown] Value EMPTY is not documented for feature Person in language [el].
+[Line 629 Sent Fairytale1.37]: [L4 Morpho feature-value-unknown] Value EMPTY is not documented for feature Tense in language [el].
+[Line 629 Sent Fairytale1.37]: [L4 Morpho feature-value-unknown] Value EMPTY is not documented for feature VerbForm in language [el].
+[Line 629 Sent Fairytale1.37]: [L4 Morpho feature-value-unknown] Value EMPTY is not documented for feature Voice in language [el].
+[Line 660 Sent Fairytale1.37]: [L1 Format number-of-columns] The line has 9 columns but 10 are expected. The contents of the columns will not be checked.
+[Line 676 Sent Fairytale1.38]: [L4 Morpho feature-upos-not-permitted] Feature Aspect is not permitted with UPOS ADJ in language [el].
+[Line 676 Sent Fairytale1.38]: [L4 Morpho feature-upos-not-permitted] Feature Mood is not permitted with UPOS ADJ in language [el].
+[Line 676 Sent Fairytale1.38]: [L4 Morpho feature-upos-not-permitted] Feature Tense is not permitted with UPOS ADJ in language [el].
+[Line 676 Sent Fairytale1.38]: [L4 Morpho feature-upos-not-permitted] Feature VerbForm is not permitted with UPOS ADJ in language [el].
+[Line 676 Sent Fairytale1.38]: [L4 Morpho feature-upos-not-permitted] Feature Voice is not permitted with UPOS ADJ in language [el].
+[Line 666 Sent Fairytale1.38]: [L2 Metadata text-form-mismatch] Mismatch between the text attribute and the FORM field. Form[2] is ',' but text is ' , σ’ αωπο▒\udc8d ▒...' (perhaps extra SpaceAfter=No at previous token?)
+[Line 682 Sent Fairytale1.38]: [L2 Metadata text-extra-chars] Extra characters at the end of the text attribute, not accounted for in the FORM fields: ' , σ’ αωπο▒\udc8d το κατζί πάνου, εί.ανε τζαι τα ’πομεινά του ▒\udc81ουσο▒\udc8d τα τζαναβά▒\udc81α:'
+[Line 697 Sent Fairytale1.40]: [L4 Morpho feature-value-unknown] Value EMPTY is not documented for feature Aspect in language [el].
+[Line 697 Sent Fairytale1.40]: [L4 Morpho feature-value-unknown] Value EMPTY is not documented for feature Mood in language [el].
+[Line 697 Sent Fairytale1.40]: [L4 Morpho feature-value-unknown] Value EMPTY is not documented for feature Number in language [el].
+[Line 697 Sent Fairytale1.40]: [L4 Morpho feature-value-unknown] Value EMPTY is not documented for feature Person in language [el].
+[Line 697 Sent Fairytale1.40]: [L4 Morpho feature-value-unknown] Value EMPTY is not documented for feature Tense in language [el].
+[Line 697 Sent Fairytale1.40]: [L4 Morpho feature-value-unknown] Value EMPTY is not documented for feature VerbForm in language [el].
+[Line 697 Sent Fairytale1.40]: [L4 Morpho feature-value-unknown] Value EMPTY is not documented for feature Voice in language [el].
+[Line 701 Sent Fairytale1.40]: [L2 Metadata missing-spaceafter] 'SpaceAfter=No' is missing in the MISC field of node #7 because the text is 'ση φωλέ μας:'.
+[Line 697 Sent Fairytale1.40 Node 3]: [L5 Morpho aux-lemma] 'να' is not an auxiliary in language [el]
+[Line 717 Sent Fairytale1.41]: [L4 Morpho feature-value-unknown] Value EMPTY is not documented for feature Aspect in language [el].
+[Line 717 Sent Fairytale1.41]: [L4 Morpho feature-value-unknown] Value EMPTY is not documented for feature Mood in language [el].
+[Line 717 Sent Fairytale1.41]: [L4 Morpho feature-value-unknown] Value EMPTY is not documented for feature Number in language [el].
+[Line 717 Sent Fairytale1.41]: [L4 Morpho feature-value-unknown] Value EMPTY is not documented for feature Person in language [el].
+[Line 717 Sent Fairytale1.41]: [L4 Morpho feature-value-unknown] Value EMPTY is not documented for feature Tense in language [el].
+[Line 717 Sent Fairytale1.41]: [L4 Morpho feature-value-unknown] Value EMPTY is not documented for feature VerbForm in language [el].
+[Line 717 Sent Fairytale1.41]: [L4 Morpho feature-value-unknown] Value EMPTY is not documented for feature Voice in language [el].
+[Line 722 Sent Fairytale1.41]: [L4 Morpho feature-upos-not-permitted] Feature Definite is not permitted with UPOS PRON in language [el].
+[Line 712 Sent Fairytale1.41]: [L2 Metadata missing-spaceafter] 'SpaceAfter=No' is missing in the MISC field of node #3 because the text is 'σο ▒\udc81ουσί, χ▒[...]'.
+[Line 719 Sent Fairytale1.41]: [L2 Metadata missing-spaceafter] 'SpaceAfter=No' is missing in the MISC field of node #10 because the text is 'σο σπήλο του.'.
+[Line 715 Sent Fairytale1.41 Node 6]: [L3 Syntax punct-causes-nonproj] Punctuation must not cause non-projectivity of nodes [7]
+[Line 717 Sent Fairytale1.41 Node 8]: [L5 Morpho aux-lemma] 'να' is not an auxiliary in language [el]
+[Line 729 Sent Fairytale1.42]: [L4 Morpho feature-value-unknown] Value EMPTY is not documented for feature Aspect in language [el].
+[Line 729 Sent Fairytale1.42]: [L4 Morpho feature-value-unknown] Value EMPTY is not documented for feature Mood in language [el].
+[Line 729 Sent Fairytale1.42]: [L4 Morpho feature-value-unknown] Value EMPTY is not documented for feature Number in language [el].
+[Line 729 Sent Fairytale1.42]: [L4 Morpho feature-value-unknown] Value EMPTY is not documented for feature Person in language [el].
+[Line 729 Sent Fairytale1.42]: [L4 Morpho feature-value-unknown] Value EMPTY is not documented for feature Tense in language [el].
+[Line 729 Sent Fairytale1.42]: [L4 Morpho feature-value-unknown] Value EMPTY is not documented for feature VerbForm in language [el].
+[Line 729 Sent Fairytale1.42]: [L4 Morpho feature-value-unknown] Value EMPTY is not documented for feature Voice in language [el].
+[Line 730 Sent Fairytale1.42]: [L1 Format number-of-columns] The line has 1 columns but 10 are expected. The contents of the columns will not be checked.
+[Line 731 Sent Fairytale1.42]: [L1 Format number-of-columns] The line has 7 columns but 10 are expected. The contents of the columns will not be checked.
+[Line 737 Sent Fairytale1.42]: [L1 Format number-of-columns] The line has 9 columns but 10 are expected. The contents of the columns will not be checked.
+[Line 738 Sent Fairytale1.42]: [L1 Format number-of-columns] The line has 9 columns but 10 are expected. The contents of the columns will not be checked.
+[Line 739 Sent Fairytale1.42]: [L2 Syntax invalid-deprel] Invalid DEPREL value '_'.
+[Line 739 Sent Fairytale1.42]: [L4 Syntax unknown-deprel] Unknown DEPREL label: '_'
+
+The following 43 relations are currently permitted in language [el]:
+acl, acl:relcl, advcl, advmod, amod, appos, aux, case, cc, ccomp, clf, compound, conj, cop, csubj, csubj:pass, dep, det, discourse, dislocated, expl, fixed, flat, goeswith, iobj, list, mark, nmod, nsubj, nsubj:outer, nsubj:pass, nummod, obj, obl, obl:agent, obl:arg, orphan, parataxis, punct, reparandum, root, vocative, xcomp
+If a language needs a relation subtype that is not documented in the universal guidelines, the relation
+must have a language-specific documentation page in a prescribed format.
+See https://universaldependencies.org/contributing_language_specific.html for further guidelines.
+Documented dependency relations can be specifically turned on/off for each language in which they are used.
+See https://quest.ms.mff.cuni.cz/udvalidator/cgi-bin/unidep/langspec/specify_deprel.pl for details.
+
+[Line 761 Sent Fairytale1.44]: [L1 Format number-of-columns] The line has 9 columns but 10 are expected. The contents of the columns will not be checked.
+[Line 762 Sent Fairytale1.44]: [L1 Format number-of-columns] The line has 9 columns but 10 are expected. The contents of the columns will not be checked.
+[Line 797 Sent Fairytale1.47]: [L1 Format number-of-columns] The line has 2 columns but 10 are expected. The contents of the columns will not be checked.
+[Line 798 Sent Fairytale1.47]: [L1 Format number-of-columns] The line has 9 columns but 10 are expected. The contents of the columns will not be checked.
+[Line 832 Sent Fairytale1.49]: [L1 Format number-of-columns] The line has 9 columns but 10 are expected. The contents of the columns will not be checked.
+[Line 837 Sent Fairytale1.49]: [L1 Format extra-empty-line] Spurious empty line. Only one empty line is expected after every sentence.
+[Line 837 Sent Fairytale1.49]: [L1 Format non-unix-newline] Only the unix-style LF line terminator is allowed.
+[Line 837 Sent Fairytale1.49]: [L3 Enhanced edeps-identical-to-basic-trees] Enhanced graphs are copies of basic trees in the entire dataset. This can happen for some simple sentences where there is nothing to enhance, but not for all sentences. If none of the enhancements from the guidelines (https://universaldependencies.org/u/overview/enhanced-syntax.html) are annotated, the DEPS should be left unspecified
+Enhanced errors: 1
+Format errors: 53
+Metadata errors: 11
+Morpho errors: 58
+Syntax errors: 4
+*** FAILED *** with 127 errors
+The language-specific file C:\Users\eleni\Desktop\tools\data\tokens_w_space.el does not exist.
+
+eleni@LAPTOP-EJF4JSI1 MINGW64 ~/Desktop/tools (master)
+$ cat AnnotationsFinal_Eleni.conllu | python validate.py --lang el --max-err=0
+[Line 30 Sent Fairytale1.2]: [L1 Format trailing-whitespace] Trailing whitespace not allowed in column FORM.
+[Line 30 Sent Fairytale1.2]: [L4 Format invalid-word-with-space] 'τζναβά▒\udc81α ' in column FORM is not on the list of exceptions allowed to contain whitespace (data/tokens_w_space.LANG files).
+[Line 31 Sent Fairytale1.2]: [L1 Format number-of-columns] The line has 8 columns but 10 are expected. The contents of the columns will not be checked.
+[Line 39 Sent Fairytale1.3]: [L4 Morpho feature-value-unknown] Value EMPTY is not documented for feature Aspect in language [el].
+
+The following 64 feature values are currently permitted in language [el]:
+Abbr=Yes, Aspect=Imp, Aspect=Perf, Case=Acc, Case=Dat, Case=Gen, Case=Nom, Case=Voc, Definite=Def, Definite=Ind, Degree=Abs, Degree=Aug, Degree=Cmp, Degree=Dim, Degree=Pos, Degree=Sup, Foreign=Yes, Gender=Fem, Gender=Masc, Gender=Neut, Mood=Imp, Mood=Ind, NumType=Card, NumType=Frac, NumType=Mult, NumType=Ord, NumType=Sets, Number=Plur, Number=Sing, Person=1, Person=2, Person=3, Polarity=Neg, Polarity=Pos, Poss=Yes, PronType=Art, PronType=Dem, PronType=Emp, PronType=Ind, PronType=Int, PronType=Neg, PronType=Prs, PronType=Rel, PronType=Tot, PunctType=Brck, PunctType=Colo, PunctType=Comm, PunctType=Dash, PunctType=Elip, PunctType=Excl, PunctType=Peri, PunctType=Qest, PunctType=Quot, PunctType=Slsh, Tense=Fut, Tense=Past, Tense=Pres, Typo=Yes, VerbForm=Conv, VerbForm=Fin, VerbForm=Inf, VerbForm=Part, Voice=Act, Voice=Pass
+If a language needs a feature that is not documented in the universal guidelines, the feature must
+have a language-specific documentation page in a prescribed format.
+See https://universaldependencies.org/contributing_language_specific.html for further guidelines.
+All features including universal must be specifically turned on for each language in which they are used.
+See https://quest.ms.mff.cuni.cz/udvalidator/cgi-bin/unidep/langspec/specify_feature.pl for details.
+
+[Line 39 Sent Fairytale1.3]: [L4 Morpho feature-value-unknown] Value EMPTY is not documented for feature Mood in language [el].
+[Line 39 Sent Fairytale1.3]: [L4 Morpho feature-value-unknown] Value EMPTY is not documented for feature Number in language [el].
+[Line 39 Sent Fairytale1.3]: [L4 Morpho feature-value-unknown] Value EMPTY is not documented for feature Person in language [el].
+[Line 39 Sent Fairytale1.3]: [L4 Morpho feature-value-unknown] Value EMPTY is not documented for feature Tense in language [el].
+[Line 39 Sent Fairytale1.3]: [L4 Morpho feature-value-unknown] Value EMPTY is not documented for feature VerbForm in language [el].
+[Line 39 Sent Fairytale1.3]: [L4 Morpho feature-value-unknown] Value EMPTY is not documented for feature Voice in language [el].
+[Line 42 Sent Fairytale1.3]: [L1 Format number-of-columns] The line has 2 columns but 10 are expected. The contents of the columns will not be checked.
+[Line 65 Sent Fairytale1.5]: [L2 Metadata missing-spaceafter] 'SpaceAfter=No' is missing in the MISC field of node #6 because the text is 'στου νοματ▒[...]'.
+[Line 76 Sent Fairytale1.6]: [L1 Format number-of-columns] The line has 2 columns but 10 are expected. The contents of the columns will not be checked.
+[Line 82 Sent Fairytale1.6]: [L4 Morpho feature-value-unknown] Value Empty is not documented for feature Aspect in language [el].
+[Line 82 Sent Fairytale1.6]: [L4 Morpho feature-value-unknown] Value Empty is not documented for feature Mood in language [el].
+[Line 82 Sent Fairytale1.6]: [L4 Morpho feature-value-unknown] Value Empty is not documented for feature Number in language [el].
+[Line 82 Sent Fairytale1.6]: [L4 Morpho feature-value-unknown] Value Empty is not documented for feature Person in language [el].
+[Line 82 Sent Fairytale1.6]: [L4 Morpho feature-value-unknown] Value Empty is not documented for feature Tense in language [el].
+[Line 82 Sent Fairytale1.6]: [L4 Morpho feature-value-unknown] Value Empty is not documented for feature VerbForm in language [el].
+[Line 82 Sent Fairytale1.6]: [L4 Morpho feature-value-unknown] Value Empty is not documented for feature Voice in language [el].
+[Line 100 Sent Fairytale1.7]: [L1 Format number-of-columns] The line has 2 columns but 10 are expected. The contents of the columns will not be checked.
+[Line 120 Sent Fairytale1.8]: [L1 Format number-of-columns] The line has 4 columns but 10 are expected. The contents of the columns will not be checked.
+[Line 122 Sent Fairytale1.8]: [L1 Format number-of-columns] The line has 1 columns but 10 are expected. The contents of the columns will not be checked.
+[Line 124 Sent Fairytale1.8]: [L1 Format number-of-columns] The line has 8 columns but 10 are expected. The contents of the columns will not be checked.
+[Line 150 Sent Fairytale1.9]: [L1 Format number-of-columns] The line has 2 columns but 10 are expected. The contents of the columns will not be checked.
+[Line 151 Sent Fairytale1.9]: [L1 Format number-of-columns] The line has 2 columns but 10 are expected. The contents of the columns will not be checked.
+[Line 161 Sent Fairytale1.9]: [L1 Format number-of-columns] The line has 9 columns but 10 are expected. The contents of the columns will not be checked.
+[Line 164 Sent Fairytale1.9]: [L1 Format number-of-columns] The line has 9 columns but 10 are expected. The contents of the columns will not be checked.
+[Line 190 Sent Fairytale1.10]: [L1 Format number-of-columns] The line has 2 columns but 10 are expected. The contents of the columns will not be checked.
+[Line 192 Sent Fairytale1.10]: [L1 Format number-of-columns] The line has 2 columns but 10 are expected. The contents of the columns will not be checked.
+[Line 202 Sent Fairytale1.11]: [L1 Format number-of-columns] The line has 1 columns but 10 are expected. The contents of the columns will not be checked.
+[Line 224 Sent Fairytale1.12]: [L1 Format number-of-columns] The line has 9 columns but 10 are expected. The contents of the columns will not be checked.
+[Line 250 Sent Fairytale1.14]: [L1 Format number-of-columns] The line has 2 columns but 10 are expected. The contents of the columns will not be checked.
+[Line 262 Sent Fairytale1.15]: [L1 Format number-of-columns] The line has 1 columns but 10 are expected. The contents of the columns will not be checked.
+[Line 263 Sent Fairytale1.15]: [L1 Format number-of-columns] The line has 1 columns but 10 are expected. The contents of the columns will not be checked.
+[Line 264 Sent Fairytale1.15]: [L1 Format number-of-columns] The line has 1 columns but 10 are expected. The contents of the columns will not be checked.
+[Line 271 Sent Fairytale1.15]: [L4 Morpho feature-value-unknown] Value EMPTY is not documented for feature Aspect in language [el].
+[Line 271 Sent Fairytale1.15]: [L4 Morpho feature-value-unknown] Value EMPTY is not documented for feature Mood in language [el].
+[Line 271 Sent Fairytale1.15]: [L4 Morpho feature-value-unknown] Value EMPTY is not documented for feature Number in language [el].
+[Line 271 Sent Fairytale1.15]: [L4 Morpho feature-value-unknown] Value EMPTY is not documented for feature Person in language [el].
+[Line 271 Sent Fairytale1.15]: [L4 Morpho feature-value-unknown] Value EMPTY is not documented for feature Tense in language [el].
+[Line 271 Sent Fairytale1.15]: [L4 Morpho feature-value-unknown] Value EMPTY is not documented for feature VerbForm in language [el].
+[Line 271 Sent Fairytale1.15]: [L4 Morpho feature-value-unknown] Value EMPTY is not documented for feature Voice in language [el].
+[Line 273 Sent Fairytale1.15]: [L1 Format number-of-columns] The line has 7 columns but 10 are expected. The contents of the columns will not be checked.
+[Line 326 Sent Fairytale1.19]: [L1 Format number-of-columns] The line has 1 columns but 10 are expected. The contents of the columns will not be checked.
+[Line 331 Sent Fairytale1.20]: [L4 Format invalid-word-with-space] 'Πα' in column FORM is not on the list of exceptions allowed to contain whitespace (data/tokens_w_space.LANG files).
+[Line 334 Sent Fairytale1.20]: [L1 Format number-of-columns] The line has 1 columns but 10 are expected. The contents of the columns will not be checked.
+[Line 338 Sent Fairytale1.20]: [L1 Format number-of-columns] The line has 9 columns but 10 are expected. The contents of the columns will not be checked.
+[Line 365 Sent Fairytale1.23]: [L1 Format number-of-columns] The line has 4 columns but 10 are expected. The contents of the columns will not be checked.
+[Line 366 Sent Fairytale1.23]: [L1 Format number-of-columns] The line has 3 columns but 10 are expected. The contents of the columns will not be checked.
+[Line 369 Sent Fairytale1.23]: [L1 Format number-of-columns] The line has 4 columns but 10 are expected. The contents of the columns will not be checked.
+[Line 383 Sent Fairytale1.24]: [L1 Format number-of-columns] The line has 8 columns but 10 are expected. The contents of the columns will not be checked.
+[Line 420 Sent Fairytale1.25]: [L2 Metadata missing-spaceafter] 'SpaceAfter=No' is missing in the MISC field of node #3 because the text is ',κοπανίζου▒[...]'.
+[Line 444 Sent Fairytale1.26]: [L2 Metadata missing-spaceafter] 'SpaceAfter=No' is missing in the MISC field of node #8 because the text is 'σα ο▒\udc81άνα τζ[...]'.
+[Line 485 Sent Fairytale1.29]: [L1 Format number-of-columns] The line has 1 columns but 10 are expected. The contents of the columns will not be checked.
+[Line 486 Sent Fairytale1.29]: [L1 Format number-of-columns] The line has 1 columns but 10 are expected. The contents of the columns will not be checked.
+[Line 493 Sent Fairytale1.29]: [L1 Format number-of-columns] The line has 9 columns but 10 are expected. The contents of the columns will not be checked.
+[Line 499 Sent Fairytale1.30]: [L1 Format number-of-columns] The line has 8 columns but 10 are expected. The contents of the columns will not be checked.
+[Line 520 Sent Fairytale1.31]: [L2 Metadata missing-spaceafter] 'SpaceAfter=No' is missing in the MISC field of node #10 because the text is 'σο μεντζιλ▒[...]'.
+[Line 518 Sent Fairytale1.31 Node 8]: [L3 Syntax rel-upos-expl] 'expl' should normally be 'PRON' but it is 'NOUN'
+[Line 557 Sent Fairytale1.34]: [L1 Format leading-whitespace] Leading whitespace not allowed in column LEMMA.
+[Line 557 Sent Fairytale1.34]: [L4 Format invalid-word-with-space] ' σοτίπος' in column LEMMA is not on the list of exceptions allowed to contain whitespace (data/tokens_w_space.LANG files).
+[Line 574 Sent Fairytale1.35]: [L1 Format number-of-columns] The line has 1 columns but 10 are expected. The contents of the columns will not be checked.
+[Line 578 Sent Fairytale1.35]: [L1 Format number-of-columns] The line has 7 columns but 10 are expected. The contents of the columns will not be checked.
+[Line 579 Sent Fairytale1.35]: [L1 Format number-of-columns] The line has 9 columns but 10 are expected. The contents of the columns will not be checked.
+[Line 580 Sent Fairytale1.35]: [L1 Format number-of-columns] The line has 2 columns but 10 are expected. The contents of the columns will not be checked.
+[Line 581 Sent Fairytale1.35]: [L4 Morpho feature-upos-not-permitted] Feature Definite is not permitted with UPOS PRON in language [el].
+[Line 609 Sent Fairytale1.35]: [L1 Format number-of-columns] The line has 2 columns but 10 are expected. The contents of the columns will not be checked.
+[Line 629 Sent Fairytale1.37]: [L4 Morpho feature-value-unknown] Value EMPTY is not documented for feature Aspect in language [el].
+[Line 629 Sent Fairytale1.37]: [L4 Morpho feature-value-unknown] Value EMPTY is not documented for feature Mood in language [el].
+[Line 629 Sent Fairytale1.37]: [L4 Morpho feature-value-unknown] Value EMPTY is not documented for feature Number in language [el].
+[Line 629 Sent Fairytale1.37]: [L4 Morpho feature-value-unknown] Value EMPTY is not documented for feature Person in language [el].
+[Line 629 Sent Fairytale1.37]: [L4 Morpho feature-value-unknown] Value EMPTY is not documented for feature Tense in language [el].
+[Line 629 Sent Fairytale1.37]: [L4 Morpho feature-value-unknown] Value EMPTY is not documented for feature VerbForm in language [el].
+[Line 629 Sent Fairytale1.37]: [L4 Morpho feature-value-unknown] Value EMPTY is not documented for feature Voice in language [el].
+[Line 660 Sent Fairytale1.37]: [L1 Format number-of-columns] The line has 9 columns but 10 are expected. The contents of the columns will not be checked.
+[Line 676 Sent Fairytale1.38]: [L4 Morpho feature-upos-not-permitted] Feature Aspect is not permitted with UPOS ADJ in language [el].
+[Line 676 Sent Fairytale1.38]: [L4 Morpho feature-upos-not-permitted] Feature Mood is not permitted with UPOS ADJ in language [el].
+[Line 676 Sent Fairytale1.38]: [L4 Morpho feature-upos-not-permitted] Feature Tense is not permitted with UPOS ADJ in language [el].
+[Line 676 Sent Fairytale1.38]: [L4 Morpho feature-upos-not-permitted] Feature VerbForm is not permitted with UPOS ADJ in language [el].
+[Line 676 Sent Fairytale1.38]: [L4 Morpho feature-upos-not-permitted] Feature Voice is not permitted with UPOS ADJ in language [el].
+[Line 666 Sent Fairytale1.38]: [L2 Metadata text-form-mismatch] Mismatch between the text attribute and the FORM field. Form[2] is ',' but text is ' , σ’ αωπο▒\udc8d ▒...' (perhaps extra SpaceAfter=No at previous token?)
+[Line 682 Sent Fairytale1.38]: [L2 Metadata text-extra-chars] Extra characters at the end of the text attribute, not accounted for in the FORM fields: ' , σ’ αωπο▒\udc8d το κατζί πάνου, εί.ανε τζαι τα ’πομεινά του ▒\udc81ουσο▒\udc8d τα τζαναβά▒\udc81α:'
+[Line 697 Sent Fairytale1.40]: [L4 Morpho feature-value-unknown] Value EMPTY is not documented for feature Aspect in language [el].
+[Line 697 Sent Fairytale1.40]: [L4 Morpho feature-value-unknown] Value EMPTY is not documented for feature Mood in language [el].
+[Line 697 Sent Fairytale1.40]: [L4 Morpho feature-value-unknown] Value EMPTY is not documented for feature Number in language [el].
+[Line 697 Sent Fairytale1.40]: [L4 Morpho feature-value-unknown] Value EMPTY is not documented for feature Person in language [el].
+[Line 697 Sent Fairytale1.40]: [L4 Morpho feature-value-unknown] Value EMPTY is not documented for feature Tense in language [el].
+[Line 697 Sent Fairytale1.40]: [L4 Morpho feature-value-unknown] Value EMPTY is not documented for feature VerbForm in language [el].
+[Line 697 Sent Fairytale1.40]: [L4 Morpho feature-value-unknown] Value EMPTY is not documented for feature Voice in language [el].
+[Line 701 Sent Fairytale1.40]: [L2 Metadata missing-spaceafter] 'SpaceAfter=No' is missing in the MISC field of node #7 because the text is 'ση φωλέ μας:'.
+[Line 697 Sent Fairytale1.40 Node 3]: [L5 Morpho aux-lemma] 'να' is not an auxiliary in language [el]
+[Line 717 Sent Fairytale1.41]: [L4 Morpho feature-value-unknown] Value EMPTY is not documented for feature Aspect in language [el].
+[Line 717 Sent Fairytale1.41]: [L4 Morpho feature-value-unknown] Value EMPTY is not documented for feature Mood in language [el].
+[Line 717 Sent Fairytale1.41]: [L4 Morpho feature-value-unknown] Value EMPTY is not documented for feature Number in language [el].
+[Line 717 Sent Fairytale1.41]: [L4 Morpho feature-value-unknown] Value EMPTY is not documented for feature Person in language [el].
+[Line 717 Sent Fairytale1.41]: [L4 Morpho feature-value-unknown] Value EMPTY is not documented for feature Tense in language [el].
+[Line 717 Sent Fairytale1.41]: [L4 Morpho feature-value-unknown] Value EMPTY is not documented for feature VerbForm in language [el].
+[Line 717 Sent Fairytale1.41]: [L4 Morpho feature-value-unknown] Value EMPTY is not documented for feature Voice in language [el].
+[Line 722 Sent Fairytale1.41]: [L4 Morpho feature-upos-not-permitted] Feature Definite is not permitted with UPOS PRON in language [el].
+[Line 712 Sent Fairytale1.41]: [L2 Metadata missing-spaceafter] 'SpaceAfter=No' is missing in the MISC field of node #3 because the text is 'σο ▒\udc81ουσί, χ▒[...]'.
+[Line 719 Sent Fairytale1.41]: [L2 Metadata missing-spaceafter] 'SpaceAfter=No' is missing in the MISC field of node #10 because the text is 'σο σπήλο του.'.
+[Line 715 Sent Fairytale1.41 Node 6]: [L3 Syntax punct-causes-nonproj] Punctuation must not cause non-projectivity of nodes [7]
+[Line 717 Sent Fairytale1.41 Node 8]: [L5 Morpho aux-lemma] 'να' is not an auxiliary in language [el]
+[Line 729 Sent Fairytale1.42]: [L4 Morpho feature-value-unknown] Value EMPTY is not documented for feature Aspect in language [el].
+[Line 729 Sent Fairytale1.42]: [L4 Morpho feature-value-unknown] Value EMPTY is not documented for feature Mood in language [el].
+[Line 729 Sent Fairytale1.42]: [L4 Morpho feature-value-unknown] Value EMPTY is not documented for feature Number in language [el].
+[Line 729 Sent Fairytale1.42]: [L4 Morpho feature-value-unknown] Value EMPTY is not documented for feature Person in language [el].
+[Line 729 Sent Fairytale1.42]: [L4 Morpho feature-value-unknown] Value EMPTY is not documented for feature Tense in language [el].
+[Line 729 Sent Fairytale1.42]: [L4 Morpho feature-value-unknown] Value EMPTY is not documented for feature VerbForm in language [el].
+[Line 729 Sent Fairytale1.42]: [L4 Morpho feature-value-unknown] Value EMPTY is not documented for feature Voice in language [el].
+[Line 730 Sent Fairytale1.42]: [L1 Format number-of-columns] The line has 1 columns but 10 are expected. The contents of the columns will not be checked.
+[Line 731 Sent Fairytale1.42]: [L1 Format number-of-columns] The line has 7 columns but 10 are expected. The contents of the columns will not be checked.
+[Line 737 Sent Fairytale1.42]: [L1 Format number-of-columns] The line has 9 columns but 10 are expected. The contents of the columns will not be checked.
+[Line 738 Sent Fairytale1.42]: [L1 Format number-of-columns] The line has 9 columns but 10 are expected. The contents of the columns will not be checked.
+[Line 739 Sent Fairytale1.42]: [L2 Syntax invalid-deprel] Invalid DEPREL value '_'.
+[Line 739 Sent Fairytale1.42]: [L4 Syntax unknown-deprel] Unknown DEPREL label: '_'
+
+The following 43 relations are currently permitted in language [el]:
+acl, acl:relcl, advcl, advmod, amod, appos, aux, case, cc, ccomp, clf, compound, conj, cop, csubj, csubj:pass, dep, det, discourse, dislocated, expl, fixed, flat, goeswith, iobj, list, mark, nmod, nsubj, nsubj:outer, nsubj:pass, nummod, obj, obl, obl:agent, obl:arg, orphan, parataxis, punct, reparandum, root, vocative, xcomp
+If a language needs a relation subtype that is not documented in the universal guidelines, the relation
+must have a language-specific documentation page in a prescribed format.
+See https://universaldependencies.org/contributing_language_specific.html for further guidelines.
+Documented dependency relations can be specifically turned on/off for each language in which they are used.
+See https://quest.ms.mff.cuni.cz/udvalidator/cgi-bin/unidep/langspec/specify_deprel.pl for details.
+
+[Line 761 Sent Fairytale1.44]: [L1 Format number-of-columns] The line has 9 columns but 10 are expected. The contents of the columns will not be checked.
+[Line 762 Sent Fairytale1.44]: [L1 Format number-of-columns] The line has 9 columns but 10 are expected. The contents of the columns will not be checked.
+[Line 797 Sent Fairytale1.47]: [L1 Format number-of-columns] The line has 2 columns but 10 are expected. The contents of the columns will not be checked.
+[Line 798 Sent Fairytale1.47]: [L1 Format number-of-columns] The line has 9 columns but 10 are expected. The contents of the columns will not be checked.
+[Line 832 Sent Fairytale1.49]: [L1 Format number-of-columns] The line has 9 columns but 10 are expected. The contents of the columns will not be checked.
+[Line 837 Sent Fairytale1.49]: [L1 Format extra-empty-line] Spurious empty line. Only one empty line is expected after every sentence.
+[Line 837 Sent Fairytale1.49]: [L1 Format non-unix-newline] Only the unix-style LF line terminator is allowed.
+[Line 837 Sent Fairytale1.49]: [L3 Enhanced edeps-identical-to-basic-trees] Enhanced graphs are copies of basic trees in the entire dataset. This can happen for some simple sentences where there is nothing to enhance, but not for all sentences. If none of the enhancements from the guidelines (https://universaldependencies.org/u/overview/enhanced-syntax.html) are annotated, the DEPS should be left unspecified
+Enhanced errors: 1
+Format errors: 53
+Metadata errors: 9
+Morpho errors: 58
+Syntax errors: 4
+*** FAILED *** with 125 errors
+The language-specific file C:\Users\eleni\Desktop\tools\data\tokens_w_space.el does not exist.
+
+eleni@LAPTOP-EJF4JSI1 MINGW64 ~/Desktop/tools (master)
+$ cat AnnotationsFinal_Eleni.conllu | python validate.py --lang el --max-err=0
