@@ -1,0 +1,18 @@
+                                     Evaluation notes
+
+This file will be used for the evaulation section for our term paper. These are some notes from the 12 first sentences. 
+
+
+1. 
+** Node 6 :I connected the CConj with node 7 but Inessa with 4. 
+Γενικα παρατηρησα οτι παντα συνδεεται με το δευτερο μερος του και, αυτου που συνδεει.
+** 'τι: Is it a pronoun or the SCONJ for imported speech in Turkish ? We need to discuss it
+
+2.
+** Node 2: Inessa noted it as a INJ with relation: vocative. However, me, having a look at the resources i put it asa particale and with relation discourse
+Compared example: Όχι , η υπηρεσία αυτή συγκροτήθηκε για να ελέγχει ακριβώς τέτοιες επικρίσεις !
+
+3.
+** Node 4: Again the 'τι
+
+4.
