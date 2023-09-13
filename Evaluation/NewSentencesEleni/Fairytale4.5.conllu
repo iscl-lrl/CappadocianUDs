@@ -10,5 +10,5 @@
 10	γω	_	PRON	_	_	12	nsubj	12:nsubj	_
 11	τζο	_	PART	_	_	12	advmod	12:advmod	_
 12	χαρίζω	_	VERB	_	4	conj	4:conj	_
-13	σε	_	PRON	_	_	12	obj	12:obj	_
+13	σε	_	PRON	_	_	12	iobj	12:iobj	_
 14	!	_	PUNCT	_	_	4	punct	4:punct	_

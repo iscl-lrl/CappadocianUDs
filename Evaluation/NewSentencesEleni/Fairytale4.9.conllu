@@ -6,7 +6,7 @@
 6	πέσου	_	_	_	_	_	_	_	_
 7	νεκρώστην	_	VERB	_	_	0	root	0:root	_
 8	αν	_	DET	_	_	11	det	11:det	_
-9	πολύ	_	ADJ	_	_	11	amod	11:amod	_
+9	πολύ	_	ADJ	_	_	10	amod	10:amod	_
 10	γλυτζή	_	ADJ	_	_	11	amod	11:amod	_
 11	λαλία	_	NOUN	_	_	7	obj	7:obj	_
 12	νος	_	DET	_	_	13	det	13:det	_
