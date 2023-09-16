@@ -5,7 +5,7 @@
 2	,	_	PUNCT	_	_	1	punct	1:punct	_
 3	ήγρεψε	_	VERB	_	_	1	conj	1:conj	_
 4	κι	_	CCONJ	_	_	1	cc	1:cc	_
-5	,	_	PUNCT	_	_	1	punct	1:punct	_
+5	,	_	PUNCT	_	_	3	punct	3:punct	_
 6	σ	_	ADP	_	_	8	mark	8:mark	_
 7	ο	_	DET	_	_	8	det	8:det	_
 8	τάλι	_	NOUN	_	_	10	obl	10:obl	_

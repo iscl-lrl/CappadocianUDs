@@ -14,7 +14,7 @@
 11	καπάνι	_	NOUN	_	_	9	obj	9:obj	_
 12	τζ΄	_	CCONJ	_	_	9	cc	9:cc	_
 13	ήρτε	_	VERB	_	_	9	conj	9:conj	_
-14	,	_	PUNCT	_	_	4	punct	4:punct	_
+14	,	_	PUNCT	_	_	15	punct	15:punct	_
 15	πιέσε	_	VERB	_	_	9	conj	9:conj	_
 16	το	_	DET	_	_	17	det	17:det	_
 17	πουλπούλι	_	NOUN	_	_	15	obj	15:obj	_
