@@ -1,4 +1,4 @@
-                                     Evaluation notes
+                                                                          Evaluation notes
 
 This file will be used for the evaulation section for our term paper. These are some notes from the 12 first sentences comparing Inessas and mines.
 
@@ -16,21 +16,21 @@ Compared example: Όχι , η υπηρεσία αυτή συγκροτήθηκε
 
 4.
 **Node 3 : τζαι. Inessa connects the τζαι with the auxilary, I connect it with the Verb. 
-**Node 7: Inessa put it as a root (I think its correct) I put it as the secodary verb. 
-**Node 6: I think we have to connect it as advcl, bc it usually uses advcl for δευτερευοτσες προτασεις
-**Node 1+9: I connect it with the second verb and not with the verb. (i believe inessas is correct, i was also putting it like that)
+**Node 7: Inessa put it as a root (I think its correct) I put it as the secondary verb. 
+**Node 6: To advcl το βαζουμε για επιρρηματικες. Ccomp για αργκουμεντς οπως υποκειμενο και αντικειμενο. Χcomp θα πρεπει να στεκεται μονο του και ιδιο υποκειμενο. (το λυσαμε)
+**Node 1+9: I connect it with the second verb and not with the verb. (i believe inessa is correct, i was also putting it like that) (το λυσαμε)
 
 5.
-** Node 1+6: Inessa put it as appos, i put it as cop. We need to discuss it, because er had a lot of examples like that
+** Node 1+6: Inessa put it as appos, i put it as cop. We need to discuss it, because er had a lot of examples like that (το λυσαμε)
 https://universaldependencies.org/treebanks/el_gdt/el_gdt-dep-cop.html
 ** Node 5: Problem with τζαι.I connect it with 
-** Node 11 (Εγω δεν το χωρισα σε αντωνυμια) Δεν ξερω αν χωριζεται σε αντωνυμια.
-** Node 12 or 13: Inessa puts it as root ( i believe its correct)
+** Node 11 (Εγω δεν το χωρισα σε αντωνυμια) Δεν ξερω αν χωριζεται σε αντωνυμια. ειναι η αρνηση (λυθηκε)
+** Node 12 or 13: Inessa puts it as root  (its correct)
 ** Node 14 ή 15 we connect it with the root but we put annotate different verbs as roots.
 
 6
-** Νode 1: I put it as root (I believe this one is correct). Inessa put as root node 7.
-** Node 2+3: Inessa puts it as advcl. I annotated as case. it needs further discussion. Το σημειωσα σαν εμπροθετο προσδιορισμο. 
+** Νode 1: I put it as root (is correct). Inessa put as root node 7.
+** Node 2+3: Inessa puts it as advcl. I annotated as case. it needs further discussion. Το σημειωσα σαν εμπροθετο προσδιορισμο. Θα το κρατησουμε σαν εμπρθετο 
 ** Node 5 : is auxilary θα. So its aux as a relation to node 7.
 ** Differences in punctuation as we marked different verbs as roots
 
@@ -40,33 +40,34 @@ https://universaldependencies.org/treebanks/el_gdt/el_gdt-dep-cop.html
 
 8
 ** Node 2: τζαι inessa connects it with the root and i connected to the second verb.
-** Node 5+9: As its metaphorical i put it as det. Inessa puts it as num
+** Node 5+9: As its metaphorical i put it as det. Inessa puts it as num. Μπανει σαν det αυτο
 ** Node 7+8 : I put it as τελικος συνδεσμος (ξαπλωνω για να παρω εναν υπνο), inessa as xcomp and aux. 
-****Μαλλον οτι βαζω σαν aux να πρεπει μετα να βαζω xcomp*****
+Σωστο της Ινεσσας.
+
 ** Node 11: I didnt marked as anything. Inessa annotated as INTJ. We need to discuss it.
 
 9
 ** Node 5+6 : We follow the structure of Inessa
-** Node 12: Επειδη ειναι αοριστο το εβαλα εγω det. Inessa marked it again as NUM.
+** Node 12: Επειδη ειναι αοριστο το εβαλα εγω det. Inessa marked it again as NUM. Inessa is correct. 
 
 10
 ** Node 2 + 5: We are connecting the punctuation things differently.
 ** Node 4: I connect the CConj with the 3rd Verb, node 10 and inessa with the first verb (the root).
 **Node 6: Why mark? Its preposition Προθεση.
-** Node 9: Inessa connects it to the noun, me to the verb (10)
-** Node 14: Inessa as ccomp, me as advcl because its δευτερευουσα προταση.
-aDVMOD το ενα στο ουσιαστικο εγω στο ρημα! ( Νομιζω η Ινεσσα σωστα)
+** Node 9: Inessa connects it to the noun, me to the verb (10). Σωστα.
+** Node 14: Inessa as ccomp, me as advcl because ειναι δευτερευουσα προταση. Ειναι advcl.
+aDVMOD το ενα στο ουσιαστικο εγω στο ρημα! (Νομιζω η Ινεσσα σωστα)
 
 11
 ** Node 1 + 2 + 3: Blank. 
 ** Node 8+ 14
-** Node 10: I put it as Number. Inessa as Det.
-** Node 12: I connect it with the verb. Inessa with the previous verb (node 9)
-** Node 13: I connect it with node 4, inessa with node 9
+** Node 10: I put it as Number. Inessa as Det. Ειναι ναμπερ.
+** Node 12: I connect it with the verb. Inessa with the previous verb (node 9) 
+** Node 13: I connect it with node 4, inessa with node 9 το διορθωσα
 
 12
-** Node 2: I connect it with the second verb node 3, inessa with the first one node 1
-** Node 6: Inessa as mark, Me as preposition as case.
+** Node 2: I connect it with the second verb node 3, inessa with the first one node 1. το δικο μου 
+** Node 6: Inessa as mark, Me as preposition as case. Το δικο μου 
 
 
 Γενικα - επαναλαμβανόμενα προβλήματα
@@ -76,5 +77,6 @@ aDVMOD το ενα στο ουσιαστικο εγω στο ρημα! ( Νομ�
 Conj vx advcl
 xcomp+ ccomp
 
+Ειχαμε τα ιδια προβληματα πανω κατω! 
 
 
