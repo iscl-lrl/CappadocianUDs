@@ -82,5 +82,5 @@ def analyze_conllu_file(conllu_file):
     print(f"Out of the above, {len(shared_lemmas)} lemmas occurred sometimes as PRON and sometimes as DET: {', '.join(shared_lemmas)}")
 
 if __name__ == "__main__":
-    conllu_file = "C:\\Users\iness\\Desktop\\LRL\\CappadocianUDs\\AnnotationsFinal\\AnnotationsFinal.conllu"
+    conllu_file = "C:\\Users\\eleni\\Desktop\\Project Tools\\CappadocianUDs\\AnnotationsFinal\\AnnotationsFinal.conllu"
     analyze_conllu_file(conllu_file)
