@@ -10,3 +10,4 @@ The structure of the repository is the following:
   5. Folder containing the resources used for the annotation of the sentences called Sources.
   6. Folder containing notes on decisions taken when doing the annotations called Notes.
   7. Folder containing evaluation sentences for the evaluation of the treebank.
+  8. Folder containing scripts for getting statistics on the Treebank.
