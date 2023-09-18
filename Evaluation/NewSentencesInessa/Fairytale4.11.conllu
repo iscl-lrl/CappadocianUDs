@@ -1,12 +1,12 @@
-# sent_id = Fairytale 4.10
+# sent_id = Fairytale 4.11
 # text = «Ό,τι τζαι να µε ειπείς ‘πέ µε!
-# text_en = 
+# text_en = "Αnything you tell me, you tell me!
 1	«	«	PUNCT	PUNCT	_	7	punct	7:punct	_
-2	Ότι	Ότι	PRON	PRON	_	6	obj	6:obj	_
+2	Ότι	Ότι	PRON	PRON	Case=Acc|Gender=Neut|Number=Sing	6	obj	6:obj	_
 3	τζαι	jαι	CCONJ	CCONJ	_	7	cc	7:cc	_
 4	να	να	AUX	AUX	_	6	aux	6:aux	_
-5	µε	εγώ	PRON	PRON	_	6	iobj	6:iobj	_
-6	ειπείς	λαλώ	VERB	VERB	_	7	conj	7:conj	_
-7	‘πέ	λαλώ	VERB	VERB	_	0	root	0:root	_
-8	µε	εγώ	PRON	PRON	_	7	iobj	7:iobj	_
+5	µε	εγώ	PRON	PRON	Case=Acc|Gender=Neut|Number=Sing|Person=1	6	iobj	6:iobj	_
+6	ειπείς	λαλώ	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	7	xcomp	7:xcomp	_
+7	‘πέ	λαλώ	VERB	VERB	Aspect=Perf|Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	_
+8	µε	εγώ	PRON	PRON	Case=Acc|Gender=Neut|Number=Sing|Person=1	7	iobj	7:iobj	SpaceAfter=No
 9	!	!	PUNCT	PUNCT	_	7	punct	7:punct	_

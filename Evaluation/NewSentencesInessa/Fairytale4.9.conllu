@@ -1,8 +1,8 @@
 # sent_id = Fairytale 4.9
 # text = «Ούµα είµαι!»
-# text_en = «Ούµα είµαι!»
+# text_en = «Yes I am!»
 1	«	«	PUNCT	PUNCT	_	3	punct	3:punct	SpaceAfter=No_
-2	Ούµα	Ούµα	INTJ	INTJ	_	3	vocative	3:vocative	_
-3	είµαι	είµαι	VERB	VERB	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	«Ούµα είµαι!»
+2	Ούµα	Ούµα	PART	PART	_	3	discourse	3:discourse	_
+3	είµαι	είµαι	VERB	VERB	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	
 4	!	!	PUNCT	PUNCT	_	3	punct	3:punct	SpaceAfter=No
 5	»	»	PUNCT	PUNCT	_	3	punct	3:punct	_
