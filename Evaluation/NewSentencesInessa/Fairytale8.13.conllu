@@ -1,17 +1,17 @@
 # sent_id = Fairytale8.13
 # text = Ο νοµάτ φήτζεν το πουλπούλι τζ΄ τζείνο πέττασεν πα σ΄ε ψεό τάλι.
-# text_en = 
-1	Ο	_	DET	_	_	2	det	2:det	_
-2	νοµάτ	_	NOUN	_	_	3	nsubj	3:nsubj	_
-3	φήτζεν	_	VERB	_	_	0	root	0:root	_
-4	το	_	DET	_	_	5	det	5:det	_
-5	πουλπούλι	_	NOUN	_	_	3	obj	3:obj	_
-6	τζ΄	_	CCONJ	_	_	3	cc	3:cc	_
-7	τζείνο	_	PRON	_	_	8	nsubj	8:nsubj	_
-8	πέττασεν	_	VERB	_	_	3	conj	3:conj	_
-9	πα	_	INTJ	_	_	8	advcl	8:advcl	_
-10	σ΄	_	ADP	_	_	13	mark	13:mark	_
-11	ε	_	NUM	_	_	13	nummod	13:nummod	_
-12	ψεό	_	ADJ	_	_	13	amod	13:amod	_
-13	τάλι	_	NOUN	_	_	8	obl	8:obl	_
-14	.	_	PUNCT	_	_	3	punct	3:punct	_
+# text_en = The man released the nightingale and it flew onto a high branch.
+1	Ο	ο	DET	DET	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	2:det	_
+2	νοµάτ	νοµάτης	NOUN	NOUN	Case=Nom|Gender=Masc|Number=Sing	3	nsubj	3:nsubj	_
+3	φήτζεν	αφήνω	VERB	VERB	Aspect=Perf|Mood=Imp|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	_
+4	το	το	DET	DET	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	5	det	5:det	_
+5	πουλπούλι	πουλπούλι	NOUN	NOUN	Case=Acc|Gender=Neut|Number=Sing	3	obj	3:obj	_
+6	τζ΄	jαι	CCONJ	CCONJ	_	8	cc	8:cc	_
+7	τζείνο	εκείνο	PRON	PRON	Case=Nom|Number=Sing|PronType=Dem	8	nsubj	8:nsubj	_
+8	πέττασεν	πετώ	VERB	VERB	Aspect=Perf|Mood=Imp|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	conj	3:conj	_
+9	πα	επάνω	INTJ	INTJ	_	8	advcl	8:advcl	_
+10	σ΄	σε	ADP	ADP	_	13	mark	13:mark	_
+11	ε	ένα	NUM	NUM	Case=Acc|Gender=Neut|Number=Sing|NumType=Card	13	det	13:det	_
+12	ψεό	υψηλός	ADJ	ADJ	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	13	amod	13:amod	_
+13	τάλι	(χαλί)	NOUN	NOUN	Case=Acc|Gender=Neut|Number=Sing	8	obl	8:obl	_
+14	.	.	PUNCT	PUNCT	_	3	punct	3:punct	_

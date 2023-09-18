@@ -1683,4 +1683,75 @@
 8	µε	εγώ	PRON	PRON	Case=Acc|Gender=Neut|Number=Sing|Person=1	7	iobj	7:iobj	SpaceAfter=No
 9	!	!	PUNCT	PUNCT	_	7	punct	7:punct	_
 
+# sent_id = Fairytale8.8
+# text = «Α σα θέκω σ΄ε καφέσι πέσου», είπεν τι ο νοµάτ, “τάιµα να κούω τα τραγώδε σου».
+# text_en = "I'll put you in a cage so I can always hear your songs!" said the man.
+1	«	«	PUNCT	PUNCT	_	4	punct	4:punct	SpaceAfter=No
+2	Α	_α	AUX	AUX	_	4	aux	4:aux	_
+3	σα	εσύ	PRON	PRON	Case=Acc|Number=Sing|PronType=Prs	4	obj	4:obj	_
+4	θέκω	θέκνω	VERB	VERB	Aspect=Perf|Mood=Imp|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	11	parataxis	11:parataxis	_
+5	σ΄	σε	ADP	ADP	_	7	case	7:case	_
+6	ε	ένα	NUM	NUM	Case=Acc|Gender=Neut|Number=Sing|NumType=Card	7	nummod	7:nummod	_
+7	καφέσι	καφέσι	NOUN	NOUN	Case=Acc|Gender=Neut|Number=Sing	4	obl	4:obl	_
+8	πέσου	πέσου	ADV	ADV	_	4	advmod	4:advmod	SpaceAfter=No
+9	»	»	PUNCT	PUNCT	_	4	punct	4:punct	SpaceAfter=No
+10	,	,	PUNCT	PUNCT	_	11	punct	11:punct	_
+11	είπεν	λαλώ	VERB	VERB	Aspect=Perf|Mood=Imp|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	_
+12	τι	τι	PRON	PRON	Case=Acc|Number=Sing|PronType=Ind	11	obj	11:obj	_
+13	ο	ο	DET	DET	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	14	det	14:det	_
+14	νομάτ	νομάτης	NOUN	NOUN	Case=Nom|Gender=Masc|Number=Sing	11	nsubj	11:nsubj	SpaceAfter=No
+15	,	,	PUNCT	PUNCT	_	19	punct	19:punct	_
+16	“	“	PUNCT	PUNCT	_	19	punct	19:punct	SpaceAfter=No
+17	τάιμα	τάιμα	ADV	ADV	_	19	advmod	19:advmod	_
+18	να	να	SCONJ	SCONJ	_	19	mark	19:mark	_
+19	κούω	ακούω	VERB	VERB	Aspect=Imp|Mood=Imp|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	11	parataxis	11:parataxis	_
+20	τα	το	DET	DET	_	21	det	21:det	_
+21	τραγώδε	τραγούδι	NOUN	NOUN	Case=Acc|Gender=Neut|Number=Plur	19	obj	19:obj	_
+22	σου	εσύ	PRON	PRON	Case=Gen|Number=Sing|Poss=Yes|PronType=Prs	21	nmod	21:nmod	SpaceAfter=No
+23	»	»	PUNCT	PUNCT	_	19	punct	19:punct	SpaceAfter=No
+24	.	.	PUNCT	PUNCT	_	11	punct	11:punct	_
+
+# sent_id = Fairytale8.9
+# text = «Ερ να µε θέκ σο χαπίσι», είπεν τι το πουλπούλι, «γω γάτιεν τζο τραγωδώ».
+# text_en = "If you imprison me," said the nightingale, "I will never sing."
+1	«	«	PUNCT	PUNCT	_	5	punct	5:punct	SpaceAfter=No
+2	Ερ	eyer	INTJ	INTJ	_	5	vocative	5:vocative	_
+3	να	να	AUX	AUX	_	5	mark	5:mark	_
+4	µε	εγώ	PRON	PRON	Case=Acc|Number=Sing|PronType=Prs	5	obj	5:obj	_
+5	θέκ	θέκνω	VERB	VERB	Aspect=Perf|Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	11	parataxis	11:parataxis	_
+6	σ	σε	ADP	ADP	_	8	case	8:case	_
+7	ο	το	DET	DET	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	8	det	8:det	_
+8	χαπίσι	χαπίσι	NOUN	NOUN	Case=Acc|Gender=Neut|Number=Sing	5	obl	5:obl	SpaceAfter=No
+9	»	»	PUNCT	PUNCT	_	5	punct	5:punct	SpaceAfter=No
+10	,	,	PUNCT	PUNCT	_	5	punct	5:punct	_
+11	είπεν	λαλώ	VERB	VERB	Aspect=Perf|Mood=Imp|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	_
+12	τι	τι	PRON	PRON	Case=Acc|Number=Sing|PronType=Ind	11	obj	11:obj	_
+13	το	το	DET	DET	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	14	det	14:det	_
+14	πουλπούλι	πουλπούλι	NOUN	NOUN	Case=Acc|Gender=Neut|Number=Sing	11	nsubj	11:nsubj	SpaceAfter=No
+15	,	,	PUNCT	PUNCT	_	20	punct	20:punct	_
+16	«	«	PUNCT	PUNCT	_	20	punct	20:punct	SpaceAfter=No
+17	γω	εγώ	PRON	PRON	Case=Nom|Number=Sing|PronType=Prs	20	nsubj	20:nsubj	_
+18	γάτιεν	γάτιεν	ADV	ADV	_	20	advmod	20:advmod	_
+19	τζο	τζο	PART	PART	_	20	advmod	20:advmod	_
+20	τραγωδώ	τραγουδώ	VERB	VERB	Aspect=Imp|Mood=Imp|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	11	parataxis	11:parataxis	SpaceAfter=No
+21	»	»	PUNCT	PUNCT	_	20	punct	20:punct	SpaceAfter=No
+22	.	.	PUNCT	PUNCT	_	11	punct	11:punct	_
+
+# sent_id = Fairytale8.13
+# text = Ο νοµάτ φήτζεν το πουλπούλι τζ΄ τζείνο πέττασεν πα σ΄ε ψεό τάλι.
+# text_en = The man released the nightingale and it flew onto a high branch.
+1	Ο	ο	DET	DET	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	2:det	_
+2	νοµάτ	νοµάτης	NOUN	NOUN	Case=Nom|Gender=Masc|Number=Sing	3	nsubj	3:nsubj	_
+3	φήτζεν	αφήνω	VERB	VERB	Aspect=Perf|Mood=Imp|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	_
+4	το	το	DET	DET	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	5	det	5:det	_
+5	πουλπούλι	πουλπούλι	NOUN	NOUN	Case=Acc|Gender=Neut|Number=Sing	3	obj	3:obj	_
+6	τζ΄	jαι	CCONJ	CCONJ	_	8	cc	8:cc	_
+7	τζείνο	εκείνο	PRON	PRON	Case=Nom|Number=Sing|PronType=Dem	8	nsubj	8:nsubj	_
+8	πέττασεν	πετώ	VERB	VERB	Aspect=Perf|Mood=Imp|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	conj	3:conj	_
+9	πα	επάνω	INTJ	INTJ	_	8	advcl	8:advcl	_
+10	σ΄	σε	ADP	ADP	_	13	mark	13:mark	_
+11	ε	ένα	NUM	NUM	Case=Acc|Gender=Neut|Number=Sing|NumType=Card	13	det	13:det	_
+12	ψεό	υψηλός	ADJ	ADJ	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	13	amod	13:amod	_
+13	τάλι	(χαλί)	NOUN	NOUN	Case=Acc|Gender=Neut|Number=Sing	8	obl	8:obl	SpaceAfter=No
+14	.	.	PUNCT	PUNCT	_	3	punct	3:punct	_
 
