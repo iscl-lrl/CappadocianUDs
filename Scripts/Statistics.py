@@ -4,7 +4,7 @@ def analyze_conllu_file(conllu_file):
     # Create dictionaries to store information about root relations and other specified features
     root_as_verb_count = 0
     root_as_other_count = 0
-    cconj_count = 0
+    conj_count = 0
     apposition_count = 0
     mediator_count = 0
     right_subject_count = 0
@@ -45,8 +45,8 @@ def analyze_conllu_file(conllu_file):
                     root_as_other_count += 1
 
             # Check for other specified features
-            if deprel == 'cconj':
-                cconj_count += 1
+            if deprel == 'conj':
+                conj_count += 1
 
             if deprel == 'appos':
                 apposition_count += 1
@@ -68,7 +68,7 @@ def analyze_conllu_file(conllu_file):
     # Calculate percentages
     root_as_verb_percentage = (root_as_verb_count / total_sentences) * 100
     root_as_other_percentage = (root_as_other_count / total_sentences) * 100
-    cconj_percentage = (cconj_count / total_sentences) * 100
+    conj_percentage = (conj_count / total_sentences) * 100
     apposition_percentage = (apposition_count / total_sentences) * 100
     mediator_percentage = (mediator_count / total_sentences) * 100
     right_subject_percentage = (right_subject_count / total_sentences) * 100
@@ -78,7 +78,7 @@ def analyze_conllu_file(conllu_file):
     # Print the results
     print(f"Percentage of root as VERB: {root_as_verb_percentage:.2f}%")
     print(f"Percentage of root as OTHER: {root_as_other_percentage:.2f}%")
-    print(f"Percentage of cconj dependency: {cconj_percentage:.2f}%")
+    print(f"Percentage of conj dependency: {conj_percentage:.2f}%")
     print(f"Percentage of appos dependency: {apposition_percentage:.2f}%")
     print(f"Percentage of mediator (ADP or SCONJ): {mediator_percentage:.2f}%")
     print(f"Percentage of right subjects: {right_subject_percentage:.2f}%")
