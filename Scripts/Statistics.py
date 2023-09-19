@@ -10,12 +10,14 @@ def analyze_conllu_file(conllu_file):
     right_subject_count = 0
     dependent_subject_count = 0
     left_object_count = 0
+    total_token_count = 0
 
     with open(conllu_file, 'r', encoding='utf-8') as f:
         # Split the file into sentences
         sentences = f.read().strip().split('\n\n')
 
     for sentence in sentences:
+        flag = False
         lines = sentence.split('\n')
 
         # Process each line in the sentence
@@ -37,6 +39,8 @@ def analyze_conllu_file(conllu_file):
             # Extract the dependency relationship (the 7th field)
             deprel = fields[7]
 
+
+            total_token_count += 1
             # Check if the word is a root
             if deprel == 'root':
                 if upos == 'VERB':
@@ -52,12 +56,17 @@ def analyze_conllu_file(conllu_file):
                 apposition_count += 1
 
             if upos in ['ADP', 'SCONJ']:
-                mediator_count += 1
+                if flag:
+                    continue
+                else:
+                    mediator_count += 1
+                    flag = True
 
             if deprel == 'nsubj':
                 if fields[6] != '0':
                     dependent_subject_count += 1
                 else:
+                    # It goes here if there is a relation of root to nsubj
                     right_subject_count += 1
 
             if deprel == 'obj' and upos != 'PRON':
@@ -70,6 +79,7 @@ def analyze_conllu_file(conllu_file):
     root_as_other_percentage = (root_as_other_count / total_sentences) * 100
     conj_percentage = (conj_count / total_sentences) * 100
     apposition_percentage = (apposition_count / total_sentences) * 100
+    # mediator_percentage = (mediator_count / total_token_count) * 100
     mediator_percentage = (mediator_count / total_sentences) * 100
     right_subject_percentage = (right_subject_count / total_sentences) * 100
     dependent_subject_percentage = (dependent_subject_count / total_sentences) * 100
