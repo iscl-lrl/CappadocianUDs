@@ -55,9 +55,9 @@
 4	:	:	PUNCT	PUNCT	_	1	punct	1:punct	_
 
 # sent_id = Fairytale1.5
-# text = « πα ποίκουμε να γλιτώσουμε στου νοματίουν το τζυνή’ι».
+# text = «πα ποίκουμε να γλιτώσουμε στου νοματίουν το τζυνή’ι».
 # text_en = "something to do to escape the hunting of humans".
-1	«	«	PUNCT	PUNCT	_	3	punct	3:punct	_
+1	«	«	PUNCT	PUNCT	_	3	punct	3:punct	SpaceAfter=No
 2	πα	ba	PRON	PRON	Case=Nom|Gender=Neut|Number=Sing	3	obj	3:obj	_
 3	ποίκουμε	οίκ	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	_
 4	να	να	SCONJ	SCONJ	_	5	mark	5:mark	_
@@ -245,16 +245,16 @@
 # sent_id = Fairytale1.14
 # text =  «Ατό το μέτρο το κετσίμι, κετσίμι τζό ‘νι.
 # text_en = “This life of ours, life is not.
-1	«	«	PUNCT	PUNCT	_	10	punct	10:punct	_
+1	«	«	PUNCT	PUNCT	_	8	punct	8:punct	SpaceAfter=No
 2	Ατό	αὐτό	DET	DET	Case=Nom|Definite=Def|Gender=Neut|Number=Sing	4	det	4:det	_
 3	το	το	DET	DET	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	4	det	4:det	_
 4	μέτρο	(μέτρο)	PRON	PRON	Case=Nom|Gender=Neut|Number=Sing|Poss=Yes	6	amod	6:amod	_
 5	το	το	DET	DET	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	6	det	6:det	_
-6	κετσίμι	κετσίμι(geçim)	NOUN	NOUN	Case=Nom|Gender=Neut|Number=Sing	10	cop	10:cop	SpaceAfter=No
+6	κετσίμι	κετσίμι(geçim)	NOUN	NOUN	Case=Nom|Gender=Neut|Number=Sing	8	nsubj	8:nsubj	SpaceAfter=No
 7	,	,	PUNCT	PUNCT	_	8	punct	8:punct	_
-8	κετσίμι	κετσίμι(geçim)	NOUN	NOUN	Case=Nom|Gender=Neut|Number=Sing	6	conj	6:conj	_
-9	τζό	τζο	PART	PART	_	10	advmod	10:advmod	_
-10	‘νι	είμαι	VERB	VERB	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	SpaceAfter=No
+8	κετσίμι	κετσίμι(geçim)	NOUN	NOUN	Case=Nom|Gender=Neut|Number=Sing	0	root	0:root	_
+9	τζό	τζο	PART	PART	_	8	advmod	8:advmod	_
+10	‘νι	είμαι	AUX	AUX	_	8	cop	8:cop	SpaceAfter=No
 11	.	.	PUNCT	PUNCT	_	10	punct	10:punct	_
 
 # sent_id = Fairytale1.15
@@ -319,12 +319,12 @@
 2	το	το	DET	DET	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	3	det	3:det	_
 3	μέτρο	(μέτρο)	PRON	PRON	Case=Nom|Gender=Neut|Number=Sing|Poss=Yes	5	amod	5:amod	_
 4	το	το	DET	DET	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	5	det	5:det	_
-5	κετσίμι	κετσίμι(geçim)	NOUN	NOUN	Case=Nom|Gender=Neut|Number=Sing	9	cop	9:cop	SpaceAfter=No
+5	κετσίμι	κετσίμι(geçim)	NOUN	NOUN	Case=Nom|Gender=Neut|Number=Sing	7	nsubj	7:nsubj	SpaceAfter=No
 6	,	,	PUNCT	PUNCT	_	5	punct	5:punct	_
-7	κετσίμι	κετσίμι(geçim)	NOUN	NOUN	Case=Nom|Gender=Neut|Number=Sing	5	conj	5:conj	_
-8	τζό	τζο	PART	PART	_	9	advmod	9:advmod	_
-9	‘νι	είμαι	VERB	VERB	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	SpaceAfter=No
-10	.	.	PUNCT	PUNCT	_	9	punct	9:punct	_
+7	κετσίμι	κετσίμι(geçim)	NOUN	NOUN	Case=Nom|Gender=Neut|Number=Sing	0	root	0:root	_
+8	τζό	τζο	PART	PART	_	7	advmod	7:advmod	_
+9	‘νι	είμαι	AUX	AUX	_	7	cop	7:cop	SpaceAfter=No
+10	.	.	PUNCT	PUNCT	_	7	punct	7:punct	_
 
 # sent_id = Fairytale1.20
 # text = Πα ποίκομε να γλιτώσουμε ‘π’ ατό το σεφιλλίκι;»
@@ -362,18 +362,18 @@
 # sent_id = Fairytale1.23
 # text = «Με μεις, το μέτρο το σεφιλλίκι ένι τζάβου ζόρι.
 # text_en = But us? Οur suffering is worse.
-1	«	«	PUNCT	PUNCT	_	9	punct	9:punct	SpaceAfter=No
+1	«	«	PUNCT	PUNCT	_	11	punct	11:punct	SpaceAfter=No
 2	Με	μα	INTJ	INTJ	_	3	vocative	3:vocative	_
 3	μεις	εγω	PRON	PRON	Case=Nom|Gender=Neut|Number=Plur|Person=1	9	discourse	9:discourse	SpaceAfter=No
-4	,	,	PUNCT	PUNCT	_	9	punct	9:punct	_
+4	,	,	PUNCT	PUNCT	_	8	punct	8:punct	_
 5	το	το	DET	DET	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	6	det	6:det	_
 6	μέτρο	μέτρο	PRON	PRON	Case=Nom|Gender=Neut|Number=Sing|Poss=Yes	8	amod	8:amod	_
 7	το	το	DET	DET	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	8	det	8:det	_
-8	σεφιλλίκι	σεφιλλίκι,sefilik	NOUN	NOUN	Case=Nom|Gender=Neut|Number=Sing	9	nsubj	9:nsubj	_
-9	ένι	είμαι	VERB	VERB	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	_
-10	τζάβου	jαι-αβ	ADV	ADV	_	9	advmod	9:advmod	_
-11	ζόρι	ζόρι	NOUN	NOUN	Case=Nom|Gender=Neut|Number=Sing	9	cop	9:cop	SpaceAfter=No
-12	.	.	PUNCT	PUNCT	_	9	punct	9:punct	_
+8	σεφιλλίκι	σεφιλλίκι,sefilik	NOUN	NOUN	Case=Nom|Gender=Neut|Number=Sing	11	nsubj	0:nsubj	_
+9	ένι	είμαι	AUX	AUX	_	11	cop	11:cop	_
+10	τζάβου	jαι-αβ	ADV	ADV	_	11	advmod	11:advmod	_
+11	ζόρι	ζόρι	NOUN	NOUN	Case=Nom|Gender=Neut|Number=Sing	0	root	0:root	SpaceAfter=No
+12	.	.	PUNCT	PUNCT	_	11	punct	11:punct	_
 
 # sent_id = Fairytale1.24
 # text = Χεμ ’αμναίνουμε την Άνοιξη τζαι το Μαθόπωρο τα χωράφα τουν, χεμ ταβρούμε το τουκάνι σ’ αώνι σ’ον τεμίση πέσου, χεμ κουβαλαίνουμε σου σειμού το τουφάνι ξύα στο ορμάνι.
@@ -471,7 +471,7 @@
 # text = ‘Ινεται τελέφι το δέρμα μας σ' η στράτα.
 # text_en =  It melts our skin on the road.
 1	‘Ινεται	(γ)ίνομαι	VERB	VERB	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	0:root	_
-2	τελέφι	τελέφι	NOUN	NOUN	Case=Nom|Gender=Neut|Number=Sing	1	cop	1:cop	_
+2	τελέφι	τελέφι	NOUN	NOUN	Case=Nom|Gender=Neut|Number=Sing	1	xcomp	1:xcomp	_
 3	το	το	DET	DET	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	4	det	4:det	_
 4	δέρμα	δέρμα	NOUN	NOUN	Case=Nom|Gender=Neut|Number=Sing	1	nsubj	1:nsubj	_
 5	μας	εγω	PRON	PRON	Case=Gen|Gender=Neut|Number=Plur|Person=1|Poss=Yes	4	nmod	4:nmod	_
@@ -487,12 +487,12 @@
 2	το	το	DET	DET	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	3	det	3:det	_
 3	μέτρο	(μέτρο)	PRON	PRON	Case=Nom|Gender=Neut|Number=Sing|Poss=Yes	5	amod	5:amod	_
 4	το	το	DET	DET	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	5	det	5:det	_
-5	κετσίμι	κετσίμι(geçim)	NOUN	NOUN	Case=Nom|Gender=Neut|Number=Sing	9	cop	9:cop	SpaceAfter=No
-6	,	,	PUNCT	PUNCT	_	5	punct	5:punct	_
-7	κετσίμι	κετσίμι(geçim)	NOUN	NOUN	Case=Nom|Gender=Neut|Number=Sing	5	conj	5:conj	_
-8	τζό	τζο	PART	PART	_	9	advmod	9:advmod	_
-9	‘νι	είμαι	VERB	VERB	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	SpaceAfter=No
-10	.	.	PUNCT	PUNCT	_	9	punct	9:punct	_
+5	κετσίμι	κετσίμι(geçim)	NOUN	NOUN	Case=Nom|Gender=Neut|Number=Sing	7	nsubj	7:nsubj	SpaceAfter=No
+6	,	,	PUNCT	PUNCT	_	7	punct	7:punct	_
+7	κετσίμι	κετσίμι(geçim)	NOUN	NOUN	Case=Nom|Gender=Neut|Number=Sing	0	root	0:root	_
+8	τζό	τζο	PART	PART	_	7	advmod	7:advmod	_
+9	‘νι	είμαι	AUX	AUX	_	7	cop	7:cop	SpaceAfter=No
+10	.	.	PUNCT	PUNCT	_	7	punct	7:punct	_
 
 # sent_id = Fairytale1.30
 # text = Να νάβρουμε αν τσαρές να γλιτώσουμε».
@@ -526,13 +526,13 @@
 # sent_id = Fairytale1.32
 # text = «Ε dόστοι, είστε χαχλούδες.
 # text_en =  "He comrades, you are right.
-1	«	«	PUNCT	PUNCT	_	5	punct	5:punct	SpaceAfter=No
-2	Ε	Ε	INTJ	INTJ	_	5	discourse	5:discourse	_
-3	dόστοι	dόστη	NOUN	NOUN	Case=Nom|Gender=Masc|Number=Plur	5	vocative	5:vocative	SpaceAfter=No
-4	,	,	PUNCT	PUNCT	_	5	punct	5:punct	_
-5	είστε	είμαι	VERB	VERB	_	0	root	0:root	_
-6	χαχλούδες	χαχλούς	ADJ	ADJ	Case=Nom|Gender=Masc|Number=Plur	5	cop	5:cop	SpaceAfter=No
-7	.	.	PUNCT	PUNCT	_	5	punct	5:punct	_
+1	«	«	PUNCT	PUNCT	_	6	punct	6:punct	SpaceAfter=No
+2	Ε	Ε	INTJ	INTJ	_	6	discourse	6:discourse	_
+3	dόστοι	dόστη	NOUN	NOUN	Case=Nom|Gender=Masc|Number=Plur	6	vocative	6:vocative	SpaceAfter=No
+4	,	,	PUNCT	PUNCT	_	3	punct	3:punct	_
+5	είστε	είμαι	VERB	VERB	_	6	cop	6:cop	_
+6	χαχλούδες	χαχλούς	ADJ	ADJ	Case=Nom|Gender=Masc|Number=Plur	0	root	0:root	SpaceAfter=No
+7	.	.	PUNCT	PUNCT	_	6	punct	6:punct	_
 
 # sent_id = Fairytale1.33
 # text = Οι νομάτοι σκοτώνουν του ρουσού τα τζαναβάρα τσαι φσάζουν τα χαϊβάνα.
@@ -684,7 +684,7 @@
 # sent_id = Fairytale1.39
 # text = «Τεμέκ πω λέτε dόστοι;
 # text_en = “So what do you say comrades?
-1	«Τεμέκ	τεμέκ	CCONJ	CCONJ	_	3	cc	3:cc	_
+1	«Τεμέκ	τεμέκ	CCONJ	CCONJ	_	3	cc	3:cc	SpaceAfter=No
 2	πω	bα	PRON	PRON	_	3	obj	3:obj	_
 3	λέτε	λέγω	VERB	VERB	Aspect=Imp|Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	_
 4	dόστοι	dόστη	NOUN	NOUN	Case=Voc|Gender=Masc|Number=Plur	3	vocative	3:vocative	SpaceAfter=No
@@ -795,7 +795,7 @@
 # sent_id = Fairytale1.47
 # text = « Αμέτε, τα τζαναβάρα χέρκες σο σπήλο του τζαι τα χαϊβάνα σο παχνί τουνε».
 # text_en = "Take each ,the wild ones in their cave and the beasts to their manger".
-1	«	«	PUNCT	PUNCT	_	2	punct	2:punct	_
+1	«	«	PUNCT	PUNCT	_	2	punct	2:punct	SpaceAfter=No
 2	Αμέτε	πηγαίνω	VERB	VERB	Aspect=Imp|Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	SpaceAfter=No
 3	,	,	PUNCT	PUNCT	_	2	punct	2:punct	_
 4	τα	το	DET	DET	Case=Acc|Definite=Def|Gender=Neut|Number=Plur|PronType=Art	5	det	5:det	_
@@ -986,7 +986,7 @@
 10	αχίλι	αχίλι	NOUN	NOUN	Case=Acc|Gender=Neut|Number=Sing	11	obl	11:obl	_
 11	ίνεσαι	γίνομαι	VERB	VERB	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	3	conj	3:conj	_
 12	κουµασού	κουµάσι	NOUN	NOUN	Case=Gen|Gender=Neut|Number=Sing	13	nmod	13:nmod	_
-13	αφτέν	αυθέντης	NOUN	NOUN	Case=Nom|Gender=Masc|Number=Sing	11	cop	11:cop	_
+13	αφτέν	αυθέντης	NOUN	NOUN	Case=Nom|Gender=Masc|Number=Sing	11	xcomp	11:xcomp	_
 14	τζαι	jαι	CCONJ	CCONJ	_	16	cc	16:cc	_
 15	'ρνιθίουν	ρνίθι	NOUN	NOUN	Case=Gen|Gender=Neut|Number=Plur	16	nmod	16:nmod	_
 16	τσουφαλάς	τσουφαλάς	NOUN	NOUN	Case=Nom|Gender=Masc|Number=Sing	13	conj	13:conj	SpaceAfter=No
@@ -1112,11 +1112,11 @@
 13	µε	μα	INTJ	_	_	20	vocative	20:vocative	_
 14	‘γω	ἐγώ	PRON	PRON	Case=Nom|Number=Sing	20	nsubj	20:nsubj	_
 15	κουµασού	κουμάσι	NOUN	NOUN	Case=Gen|Gender=Neut|Number=Sing	16	nmod	16:nmod	_
-16	αφτέν	αυθέντης	NOUN	NOUN	Case=Nom|Gender=Masc|Number=Sing	_	_	_	_
+16	αφτέν	αυθέντης	NOUN	NOUN	Case=Nom|Gender=Masc|Number=Sing	20	xcomp	20:xcomp	_
 17	τζαι	jαι	CCONJ	CCONJ	_	19	cc	19:cc	_
 18	'ρνιθίουν	ρνίθι	NOUN	NOUN	Case=Gen|Gender=Neut|Number=Plur	19	nmod	19:nmod	_
 19	τσουφαλάς	τσουφαλάς	NOUN	NOUN	Case=Nom|Gender=Masc|Number=Sing	16	conj	16:conj	_
-20	ίνοµαι	γίνομαι	AUX	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Pass	16	cop	16:cop	SpaceAfter=No
+20	ίνοµαι	γίνομαι	AUX	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Pass	6	parataxis	6:parataxis	SpaceAfter=No
 21	;	;	PUNCT	PUNCT	_	6	punct	6:punct	_
 
 # sent_id = Fairytale3.20
@@ -1673,7 +1673,7 @@
 # sent_id = Fairytale4.11
 # text = «Ό,τι τζαι να µε ειπείς ‘πέ µε!
 # text_en = "Αnything you tell me, you tell me!
-1	«	«	PUNCT	PUNCT	_	7	punct	7:punct	_
+1	«	«	PUNCT	PUNCT	_	7	punct	7:punct	SpaceAfter=No
 2	Ότι	Ότι	PRON	PRON	Case=Acc|Gender=Neut|Number=Sing	6	obj	6:obj	_
 3	τζαι	jαι	CCONJ	CCONJ	_	7	cc	7:cc	_
 4	να	να	AUX	AUX	_	6	aux	6:aux	_
