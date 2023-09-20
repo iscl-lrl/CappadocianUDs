@@ -315,7 +315,7 @@
 # sent_id = Fairytale1.19
 # text = Ατό το μέτρο το κετσίμι, κετσίμι τζό ‘νι.
 # text_en = “This life of ours, life is not.
-1	Ατό	αὐτό	DET	DET	Case=Nom|Definite=Def|Gender=Neut|Number=Sing	3	det	3:det	_
+1	Ατό	αυτό	DET	DET	Case=Nom|Definite=Def|Gender=Neut|Number=Sing	3	det	3:det	_
 2	το	το	DET	DET	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	3	det	3:det	_
 3	μέτρο	(μέτρο)	PRON	PRON	Case=Nom|Gender=Neut|Number=Sing|Poss=Yes	5	amod	5:amod	_
 4	το	το	DET	DET	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	5	det	5:det	_
