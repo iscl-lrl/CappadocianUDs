@@ -1123,7 +1123,7 @@
 # text = Γω είµαι άλεϊ φυακιάρ’.
 # text_en = I'm a simple guardian.
 1	Γω	εγώ	PRON	PRON	Case=Nom|Number=Sing	2	nsubj	2:nsubj	_
-2	είµαι	είµαι_	AUX	VERB	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	4	cop	4:cop	_
+2	είµαι	είµαι	AUX	AUX	_	4	cop	4:cop	_
 3	άλεϊ	άλεϊ(ς)	ADJ	ADJ	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	4	nmod	4:nmod	_
 4	φυακιάρ’	φυακιάρης	NOUN	NOUN	Case=Nom|Gender=Masc|Number=Sing	0	root	0:root	SpaceAfter=No
 5	.	.	PUNCT	PUNCT	_	4	punct	4:punct	_
@@ -1134,7 +1134,7 @@
 1	Αφτέν	αυθέντης	NOUN	NOUN	Case=Nom|Gender=Masc|Number=Sing	0	root	0:root	_
 2	του	το	DET	DET	Case=Gen|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	3	det	3:det	_
 3	κουµασού	κουμάσι	NOUN	NOUN	Case=Gen|Gender=Neut|Number=Sing	1	nmod	1:nmod	_
-4	είσαι	είµαι	AUX	VERB	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	1	cop	1:cop	_
+4	είσαι	είµαι	AUX	AUX	_	1	cop	1:cop	_
 5	συ	εσύ	PRON	PRON	Case=Nom|Number=Sing	1	dislocated	1:dislocated	SpaceAfter=No
 6	.	.	PUNCT	PUNCT	_	1	punct	1:punct	_
 
@@ -1593,7 +1593,7 @@
 # text = Πώτς έν’ ατέ το κουκούλι σο τζουφάλι σου;
 # text_en = What is that hood on your head?
 1	Πώτς	πώτς	PRON	PRON	_	5	dislocated	5:dislocated	_
-2	έν’	είμαι	AUX	VERB	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	cop	5:cop	_
+2	έν’	είμαι	AUX	AUX	_	5	cop	5:cop	_
 3	ατέ	ατό	PRON	PRON	_	5	dislocated	5:dislocated	_
 4	το	το	DET	DET	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	5	dep	5:dep	_
 5	κουκούλι	κουκούλι	NOUN	NOUN	Case=Nom|Gender=Neut|Number=Sing	0	root	0:root	_
@@ -1607,7 +1607,7 @@
 # text = Μην είσαι ζαπίτ’ς του Γενιτζερίουν;
 # text_en = Are you rank bearer of the Janissaries?
 1	Μην	μην	PART	PART	_	3	vocative	3:vocative	_
-2	είσαι	είμαι	AUX	VERB	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	3	cop	3:cop	_
+2	είσαι	είμαι	AUX	AUX	_	3	cop	3:cop	_
 3	ζαπίτ’ς	(ζαπίτης)	NOUN	NOUN	Case=Nom|Gender=Masc|Number=Sing	0	root	0:root	_
 4	του	το	DET	DET	Case=Gen|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	5	det	5:det	_
 5	Γενιτζερίουν	Γενιτζερί	PROPN	PROPN	Case=Gen|Gender=Neut|Number=Sing	3	nmod	3:nmod	SpaceAfter=No
@@ -1687,7 +1687,7 @@
 # text = «Α σα θέκω σ΄ε καφέσι πέσου», είπεν τι ο νοµάτ, “τάιµα να κούω τα τραγώδε σου».
 # text_en = "I'll put you in a cage so I can always hear your songs!" said the man.
 1	«	«	PUNCT	PUNCT	_	4	punct	4:punct	SpaceAfter=No
-2	Α	_α	AUX	AUX	_	4	aux	4:aux	_
+2	Α	α	AUX	AUX	_	4	aux	4:aux	_
 3	σα	εσύ	PRON	PRON	Case=Acc|Number=Sing|PronType=Prs	4	obj	4:obj	_
 4	θέκω	θέκνω	VERB	VERB	Aspect=Perf|Mood=Imp|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	11	parataxis	11:parataxis	_
 5	σ΄	σε	ADP	ADP	_	7	case	7:case	_
