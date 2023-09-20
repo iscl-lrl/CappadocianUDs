@@ -1112,31 +1112,31 @@
 13	µε	μα	INTJ	_	_	20	vocative	20:vocative	_
 14	‘γω	ἐγώ	PRON	PRON	Case=Nom|Number=Sing	20	nsubj	20:nsubj	_
 15	κουµασού	κουμάσι	NOUN	NOUN	Case=Gen|Gender=Neut|Number=Sing	16	nmod	16:nmod	_
-16	αφτέν	αυθέντης	NOUN	NOUN	Case=Nom|Gender=Masc|Number=Sing	20	cop	20:cop	_
+16	αφτέν	αυθέντης	NOUN	NOUN	Case=Nom|Gender=Masc|Number=Sing	_	_	_	_
 17	τζαι	jαι	CCONJ	CCONJ	_	19	cc	19:cc	_
 18	'ρνιθίουν	ρνίθι	NOUN	NOUN	Case=Gen|Gender=Neut|Number=Plur	19	nmod	19:nmod	_
 19	τσουφαλάς	τσουφαλάς	NOUN	NOUN	Case=Nom|Gender=Masc|Number=Sing	16	conj	16:conj	_
-20	ίνοµαι	γίνομαι	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Pass	6	parataxis	6:parataxis	SpaceAfter=No
+20	ίνοµαι	γίνομαι	AUX	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Pass	16	cop	16:cop	SpaceAfter=No
 21	;	;	PUNCT	PUNCT	_	6	punct	6:punct	_
 
 # sent_id = Fairytale3.20
 # text = Γω είµαι άλεϊ φυακιάρ’.
 # text_en = I'm a simple guardian.
 1	Γω	εγώ	PRON	PRON	Case=Nom|Number=Sing	2	nsubj	2:nsubj	_
-2	είµαι	είµαι_	VERB	VERB	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	_
+2	είµαι	είµαι_	AUX	VERB	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	4	cop	4:cop	_
 3	άλεϊ	άλεϊ(ς)	ADJ	ADJ	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	4	nmod	4:nmod	_
-4	φυακιάρ’	φυακιάρης	NOUN	NOUN	Case=Nom|Gender=Masc|Number=Sing	2	cop	2:cop	SpaceAfter=No
-5	.	.	PUNCT	PUNCT	_	2	punct	2:punct	_
+4	φυακιάρ’	φυακιάρης	NOUN	NOUN	Case=Nom|Gender=Masc|Number=Sing	0	root	0:root	SpaceAfter=No
+5	.	.	PUNCT	PUNCT	_	4	punct	4:punct	_
 
 # sent_id = Fairytale3.21
 # text = Αφτέν του κουµασού είσαι συ.
 # text_en = TODO
-1	Αφτέν	αυθέντης	NOUN	NOUN	Case=Nom|Gender=Masc|Number=Sing	4	cop	4:cop	_
+1	Αφτέν	αυθέντης	NOUN	NOUN	Case=Nom|Gender=Masc|Number=Sing	0	root	0:root	_
 2	του	το	DET	DET	Case=Gen|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	3	det	3:det	_
 3	κουµασού	κουμάσι	NOUN	NOUN	Case=Gen|Gender=Neut|Number=Sing	1	nmod	1:nmod	_
-4	είσαι	είµαι	VERB	VERB	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	_
-5	συ	εσύ	PRON	PRON	Case=Nom|Number=Sing	4	nsubj	4:nsubj	SpaceAfter=No
-6	.	.	PUNCT	PUNCT	_	4	punct	4:punct	_
+4	είσαι	είµαι	AUX	VERB	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	1	cop	1:cop	_
+5	συ	εσύ	PRON	PRON	Case=Nom|Number=Sing	1	dislocated	1:dislocated	SpaceAfter=No
+6	.	.	PUNCT	PUNCT	_	1	punct	1:punct	_
 
 # sent_id = Fairytale3.22
 # text = Χα τιδέ είπα σε τ’ αβούτζι αν ασλανίχι να ‘ουµε π’ α µε ποικ τεϊ».
@@ -1592,36 +1592,36 @@
 # sent_id = Fairytale4.3
 # text = Πώτς έν’ ατέ το κουκούλι σο τζουφάλι σου;
 # text_en = What is that hood on your head?
-1	Πώτς	πώτς	PRON	PRON	_	2	obj	2:obj	_
-2	έν’	είμαι	VERB	VERB	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	_
+1	Πώτς	πώτς	PRON	PRON	_	5	dislocated	5:dislocated	_
+2	έν’	είμαι	AUX	VERB	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	cop	5:cop	_
 3	ατέ	ατό	PRON	PRON	_	5	dislocated	5:dislocated	_
 4	το	το	DET	DET	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	5	dep	5:dep	_
-5	κουκούλι	κουκούλι	NOUN	NOUN	Case=Nom|Gender=Neut|Number=Sing	2	cop	2:cop	_
+5	κουκούλι	κουκούλι	NOUN	NOUN	Case=Nom|Gender=Neut|Number=Sing	0	root	0:root	_
 6	σ	σε	ADP	ADP	_	8	case	8:case	SpaceAfter=No
 7	ο	το	DET	DET	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	8	det	8:det	_
-8	τζουφάλι	τζουφάλι	NOUN	NOUN	Case=Acc|Gender=Neut|Number=Sing	2	obl	2:obl	_
+8	τζουφάλι	τζουφάλι	NOUN	NOUN	Case=Acc|Gender=Neut|Number=Sing	5	obl	5:obl	_
 9	σου	εσύ	PRON	PRON	Case=Gen|Number=Sing|Poss=Yes|PronType=Prs	8	nmod	8:nmod	SpaceAfter=No
-10	;	;	PUNCT	PUNCT	_	2	punct	2:punct	_
+10	;	;	PUNCT	PUNCT	_	5	punct	5:punct	_
 
 # sent_id = Fairytale4.4
 # text = Μην είσαι ζαπίτ’ς του Γενιτζερίουν;
 # text_en = Are you rank bearer of the Janissaries?
-1	Μην	μην	PART	PART	_	2	vocative	2:vocative	_
-2	είσαι	είμαι	VERB	VERB	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	_
-3	ζαπίτ’ς	(ζαπίτης)	NOUN	NOUN	Case=Nom|Gender=Masc|Number=Sing	2	cop	2:cop	_
+1	Μην	μην	PART	PART	_	3	vocative	3:vocative	_
+2	είσαι	είμαι	AUX	VERB	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	3	cop	3:cop	_
+3	ζαπίτ’ς	(ζαπίτης)	NOUN	NOUN	Case=Nom|Gender=Masc|Number=Sing	0	root	0:root	_
 4	του	το	DET	DET	Case=Gen|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	5	det	5:det	_
 5	Γενιτζερίουν	Γενιτζερί	PROPN	PROPN	Case=Gen|Gender=Neut|Number=Sing	3	nmod	3:nmod	SpaceAfter=No
-6	;	;	PUNCT	PUNCT	_	2	punct	2:punct	_
+6	;	;	PUNCT	PUNCT	_	3	punct	3:punct	_
 
 # sent_id = Fairytale4.5
 # text = Συ τελλάλ είσαι τζαι ‘ξωµατικός;
 # text_en = Are you both a preacher and an officer?
-1	Συ	εσύ	PRON	PRON	Case=Nom|Number=Sing	3	nsubj	3:nsubj	_
-2	τελλάλ	τελλάλ	NOUN	NOUN	Case=Nom|Gender=Masc|Number=Sing	3	cop	3:cop	_
-3	είσαι	είμαι	VERB	VERB	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	_
+1	Συ	εσύ	PRON	PRON	Case=Nom|Number=Sing	2	dislocated	2:dislocated	_
+2	τελλάλ	τελλάλ	NOUN	NOUN	Case=Nom|Gender=Masc|Number=Sing	0	root	0:root	_
+3	είσαι	είμαι	AUX	VERB	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	2	cop	2:cop	_
 4	τζαι	jαι	CCONJ	CCONJ	_	5	cc	5:cc	_
-5	‘ξωµατικός	(αξωματικός)	NOUN	NOUN	Case=Nom|Gender=Masc|Number=Sing	3	cop	3:cop	SpaceAfter=No
-6	;	;	PUNCT	PUNCT	_	3	punct	3:punct	_
+5	‘ξωµατικός	(αξωματικός)	NOUN	NOUN	Case=Nom|Gender=Masc|Number=Sing	2	conj	2:conj	SpaceAfter=No
+6	;	;	PUNCT	PUNCT	_	2	punct	2:punct	_
 
 # sent_id = Fairytale4.6
 # text = Τζαι τσιράς νυέχτα τζαι ηµέρα;
@@ -1754,5 +1754,4 @@
 12	ψεό	υψηλός	ADJ	ADJ	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	13	amod	13:amod	_
 13	τάλι	(χαλί)	NOUN	NOUN	Case=Acc|Gender=Neut|Number=Sing	8	obl	8:obl	SpaceAfter=No
 14	.	.	PUNCT	PUNCT	_	3	punct	3:punct	_
-
 
