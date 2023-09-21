@@ -12,6 +12,7 @@ def analyze_conllu_file(conllu_file):
     left_object_count = 0
     total_token_count = 0
 
+
     with open(conllu_file, 'r', encoding='utf-8') as f:
         # Split the file into sentences
         sentences = f.read().strip().split('\n\n')
