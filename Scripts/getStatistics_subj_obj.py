@@ -8,11 +8,13 @@ def analyze_conllu_file(conllu_file_path):
     # Parse the CoNLL-U data
     sentences = conllu.parse(data)
 
-    # Initialize counts
+    # Initialize counts and lists for examples
     total_subjects = 0
     subjects_to_right = 0
     total_objects = 0
     objects_to_left = 0
+    subject_examples = []
+    object_examples = []
 
     # Iterate through sentences
     for sentence in sentences:
@@ -21,10 +23,16 @@ def analyze_conllu_file(conllu_file_path):
                 total_subjects += 1
                 if token["head"] < token["id"]:
                     subjects_to_right += 1
+                    # Get the form of the parent token
+                    head_token = sentence[token["head"] - 1]  # Note the -1 since token["head"] is 1-based
+                    subject_examples.append((token["form"], head_token["form"], token["id"]))
             elif token["deprel"] == "obj":
                 total_objects += 1
                 if token["head"] > token["id"]:
                     objects_to_left += 1
+                    # Get the form of the parent token
+                    head_token = sentence[token["head"] - 1]  # Note the -1 since token["head"] is 1-based
+                    object_examples.append((token["form"], head_token["form"], token["id"]))
 
     # Calculate the percentages
     if total_subjects > 0:
@@ -43,6 +51,17 @@ def analyze_conllu_file(conllu_file_path):
     print(f"Total objects: {total_objects}")
     print(f"Objects to the left of their parent: {objects_to_left}")
     print(f"Percentage objects to the left: {percentage_objects_to_left:.2f}%")
+
+    # Print examples
+    if subject_examples:
+        print("\nExamples of nsubjects to the right of their parent:")
+        for form, head_form, id in subject_examples:
+            print(f"ID: {id}, Form: {form}, Parent Form: {head_form}")
+    
+    if object_examples:
+        print("\nExamples of objects to the left of their parent:")
+        for form, head_form, id in object_examples:
+            print(f"ID: {id}, Form: {form}, Parent Form: {head_form}")
 
 if __name__ == "__main__":
     conllu_file = "C:\\Users\\eleni\\Desktop\\Project Tools\\CappadocianUDs\\AnnotationsFinal\\AnnotationsFinal.conllu"
