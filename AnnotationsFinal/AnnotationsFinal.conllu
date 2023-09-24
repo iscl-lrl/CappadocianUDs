@@ -800,7 +800,7 @@
 3	,	,	PUNCT	PUNCT	_	2	punct	2:punct	_
 4	τα	το	DET	DET	Case=Acc|Definite=Def|Gender=Neut|Number=Plur|PronType=Art	5	det	5:det	_
 5	τζαναβάρα	jαναβάρι	NOUN	NOUN	Case=Acc|Gender=Neut|Number=Plur	2	nsubj	6:nsubj	_
-6	χέρκες	χερκές	PRON	PRON	Case=Nom|Gender=Neut|Number=Sing	5	appos	2:appos	_
+6	χέρκες	χερκές	PRON	PRON	Case=Nom|Gender=Neut|Number=Sing	2	dislocated	2:dislocated	_
 7	σ	σε	ADP	ADP	_	9	case	9:case	_
 8	ο	το	DET	DET	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	9:det	_
 9	σπήλο	σπήλος	NOUN	NOUN	Case=Acc|Gender=Masc|Number=Sing	2	obl	2:obl	_
@@ -1665,8 +1665,8 @@
 # text = «Ούµα είµαι!»
 # text_en = «Yes I am!»
 1	«	«	PUNCT	PUNCT	_	3	punct	3:punct	SpaceAfter=No
-2	Ούµα	Ούµα	PART	PART	_	0	root	0:root	_
-3	είµαι	είµαι	AUX	AUX	_	2	aux	2:aux	SpaceAfter=No
+2	Ούµα	Ούµα	PART	PART	_	3	discourse	3:discourse	_
+3	είµαι	είµαι	VERB	VERB	Aspect=Perf|Mood=Imp|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	SpaceAfter=No
 4	!	!	PUNCT	PUNCT	_	3	punct	3:punct	SpaceAfter=No
 5	»	»	PUNCT	PUNCT	_	3	punct	3:punct	_
 
