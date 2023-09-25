@@ -329,7 +329,7 @@
 # sent_id = Fairytale1.20
 # text = Πα ποίκομε να γλιτώσουμε ‘π’ ατό το σεφιλλίκι;»
 # text_en = What will we do for escape this wretchedness?'
-1	Πα	πό	PRON	PRON	_	2	nsubj	2:nsubj	_
+1	Πα	πό	PRON	PRON	_	2	obj	2:obj	_
 2	ποίκομε	ποιώ	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|VerbForm=Fin|Voice=Act	0	root	0:root	_
 3	να	να	SCONJ	SCONJ	_	4	mark	4:mark	_
 4	γλιτώσουμε	γλυτώνω	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	2	advcl	2:advcl	_
@@ -738,7 +738,7 @@
 10	πελάς	(πελάς)	NOUN	NOUN	Case=Nom|Gender=Masc|Number=Sing	12	nsubj	12:nsubj	_
 11	α	θα	AUX	AUX	_	12	aux	12:aux	_
 12	νάρτει	έρχομαι	VERB	VERB	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	_
-13	σ	σε	ADP	ADP	_	15	mark	15:mark	SpaceAfter=No
+13	σ	σε	ADP	ADP	_	15	case	15:case	SpaceAfter=No
 14	ο	το	DET	DET	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	15	det	15:det	SpaceAfter=No
 15	τσουφάλι	çουφάλι	NOUN	NOUN	Case=Acc|Gender=Neut|Number=Sing	12	obl	12:obl	_
 16	μας	εγω	PRON	PRON	Case=Gen|Gender=Neut|Number=Plur|Person=1|Poss=Yes	15	nmod	15:nmod	SpaceAfter=No
