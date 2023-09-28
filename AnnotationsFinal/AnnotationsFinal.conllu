@@ -1658,7 +1658,7 @@
 5	τζογάπην	(τζογάπη)	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Plur	4	obj	4:obj	_
 6	τζ’	jαι	CCONJ	CCONJ	_	7	cc	7:cc	_
 7	είπεν	λαλώ	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	4	conj	4:conj	_
-8	‘τι	ο	PRON	PRON	_	7	obj	7:obj	SpaceAfter=No
+8	‘τι	ο	PRON	PRON	Case=Acc|Number=Sing|PronType=Ind	7	obj	7:obj	SpaceAfter=No
 9	:	:	PUNCT	PUNCT	_	4	punct	4:punct	_
 
 # sent_id = Fairytale4.9
@@ -1674,13 +1674,13 @@
 # text = «Ό,τι τζαι να µε ειπείς ‘πέ µε!
 # text_en = "Αnything you tell me, you tell me!
 1	«	«	PUNCT	PUNCT	_	7	punct	7:punct	SpaceAfter=No
-2	Ότι	Ότι	PRON	PRON	Case=Acc|Gender=Neut|Number=Sing	6	obj	6:obj	_
+2	Ότι	Ότι	PRON	PRON	Case=Acc|Gender=Neut|Number=Sing|PronType=Rel	6	obj	6:obj	_
 3	τζαι	jαι	CCONJ	CCONJ	_	7	cc	7:cc	_
 4	να	να	AUX	AUX	_	6	aux	6:aux	_
-5	µε	εγώ	PRON	PRON	Case=Acc|Gender=Neut|Number=Sing|Person=1	6	iobj	6:iobj	_
+5	µε	εγώ	PRON	PRON	Case=Acc|Gender=Neut|Number=Sing|Person=1|PronType=Prs	6	iobj	6:iobj	_
 6	ειπείς	λαλώ	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	7	xcomp	7:xcomp	_
 7	‘πέ	λαλώ	VERB	VERB	Aspect=Perf|Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	_
-8	µε	εγώ	PRON	PRON	Case=Acc|Gender=Neut|Number=Sing|Person=1	7	iobj	7:iobj	SpaceAfter=No
+8	µε	εγώ	PRON	PRON	Case=Acc|Gender=Neut|Number=Sing|Person=1|PronType=Prs	7	iobj	7:iobj	SpaceAfter=No
 9	!	!	PUNCT	PUNCT	_	7	punct	7:punct	_
 
 # sent_id = Fairytale8.8
