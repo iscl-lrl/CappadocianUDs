@@ -88,7 +88,7 @@
 13	dουν	dους	PRON	PRON	Case=Gen|Gender=Neut|Number=Plur|Poss=Yes|PronType=Prs1	12	nmod	12:nmod	_
 14	μο	με	ADP	ADP	_	16	case	16:case	_
 15	τις	οι	DET	DET	Case=Acc|Definite=Def|Gender=Masc|Number=Plur|PronType=Art	16	det	16:det	_
-16	χωρώτοι	(χωρώτοι)	NOUN	NOUN	Case=Acc|Gender=Masc|Number=Plur	8	obl	8:obl	SpaceAfter=No
+16	χωρώτοι	χωρώτ	NOUN	NOUN	Case=Acc|Gender=Masc|Number=Plur	8	obl	8:obl	SpaceAfter=No
 17	.	.	PUNCT	PUNCT	_	1	punct	1:punct	_
 
 # sent_id = Fairytale1.7
@@ -733,7 +733,7 @@
 5	μουχαρεπέ	μουχαρεπές	NOUN	NOUN	Case=Acc|Gender=Masc|Number=Sing	3	obj	3:obj	_
 6	μο	με	ADP	ADP	_	8	case	8:case	_
 7	τις	ο	DET	DET	Case=Acc|Definite=Def|Gender=Masc|Number=Plur|PronType=Art	8	det	8:det	_
-8	χωρότοι	χωρότης	NOUN	NOUN	Case=Nom|Gender=Masc|Number=Plur	3	obl	3:obl	SpaceAfter=No
+8	χωρότοι	χωρότ	NOUN	NOUN	Case=Nom|Gender=Masc|Number=Plur	3	obl	3:obl	SpaceAfter=No
 9	,	,	PUNCT	PUNCT	_	12	punct	12:punct	_
 10	πελάς	(πελάς)	NOUN	NOUN	Case=Nom|Gender=Masc|Number=Sing	12	nsubj	12:nsubj	_
 11	α	θα	AUX	AUX	_	12	aux	12:aux	_
@@ -766,7 +766,7 @@
 5	μεις	εγω	PRON	PRON	Case=Nom|Gender=Neut|Number=Plur|Person=1|PronType=Prs	3	nsubj	3:nsubj	_
 6	σ	σε	ADP	ADP	_	8	case	8:case	SpaceAfter=No
 7	ις	ο	DET	DET	Case=Acc|Definite=Def|Gender=Masc|Number=Plur|PronType=Art	8	det	8:det	_
-8	χωρότοι	χωροτός	NOUN	NOUN	Case=Acc|Gender=Masc|Number=Plur	3	obl	3:obl	_
+8	χωρότοι	χωρότ	NOUN	NOUN	Case=Acc|Gender=Masc|Number=Plur	3	obl	3:obl	_
 9	μας	εγω	PRON	PRON	Case=Gen|Gender=Neut|Number=Plur|Person=1|Poss=Yes|PronType=Prs	8	nmod	8:nmod	_
 10	κοντά	κοντά	ADV	ADV	_	3	advmod	3:advmod	SpaceAfter=No
 11	.	.	PUNCT	PUNCT	_	3	punct	3:punct	_
@@ -884,7 +884,7 @@
 # sent_id = Fairytale3.3
 # text = Στάθη το λαχτόρι σον αωπό γνέντα.
 # text_en = The rooster stood opposite the fox.
-1	Στάθη	στέκω	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	_
+1	Στάθη	στέκουμαι	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	_
 2	το	το	DET	DET	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	3	det	3:det	_
 3	λαχτόρι	λαχτόρι	NOUN	NOUN	Case=Nom|Gender=Neut|Number=Sing	1	nsubj	1:nsubj	_
 4	σ	σε	ADP	ADP	_	6	case	6:case	SpaceAfter=No
@@ -1368,7 +1368,7 @@
 4	κοντά	κοντά	ADV	ADV	_	1	advmod	1:advmod	_
 5	του	ο	PRON	PRON	Case=Gen|Number=Sing	1	obl	1:obl	SpaceAfter=No
 6	,	,	PUNCT	PUNCT	_	7	punct	7:punct	_
-7	στάθη	(στέκουμαι)	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	1	conj	1:conj	_
+7	στάθη	στέκουμαι	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	1	conj	1:conj	_
 8	παρέκει	παρέκει	ADV	ADV	_	7	advmod	7:advmod	SpaceAfter=No
 9	.	.	PUNCT	PUNCT	_	1	punct	1:punct	_
 
