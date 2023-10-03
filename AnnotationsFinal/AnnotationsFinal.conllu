@@ -1361,7 +1361,7 @@
 
 # sent_id = Fairytale3.34
 # text = Ήρτε τζ’ αωπός κοντά του, στάθη παρέκει.
-# text_en = The fox also came close το him, stood by.
+# text_en = The fox also came close to him, stood by.
 1	Ήρτε	έρχομαι	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	_
 2	τζ’	τζ	CCONJ	CCONJ	_	1	conj	1:conj	_
 3	αωπός	απός	NOUN	NOUN	Case=Nom|Gender=Masc|Number=Sing	1	nsubj	1:nsubj	_
