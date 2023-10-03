@@ -222,7 +222,7 @@
 5	τζαναβάρα	jαναβάρι	NOUN	NOUN	Case=Nom|Gender=Neut|Number=Plur	7	nsubj	7:nsubj	SpaceAfter=No
 6	,	,	PUNCT	PUNCT	_	7	punct	7:punct	_
 7	έβγκαλαν	βγάζω	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	_
-8	τσουφαλάς	çουφαλάς	ADJ	ADJ	Case=Acc|Gender=Masc|Number=Sing	11	appos	11:appos	_
+8	τσουφαλάς	(τσουφαλάς)	ADJ	ADJ	Case=Acc|Gender=Masc|Number=Sing	11	appos	11:appos	_
 9	τουνε	το	PRON	PRON	Case=Gen|Gender=Neut|Number=Plur|Poss=Yes|PronType=Prs	8	nmod	8:nmod	_
 10	τον	ο	DET	DET	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	11:det	_
 11	αωπό	αωπός	NOUN	NOUN	Case=Acc|Gender=Masc|Number=Sing	7	obj	7:obj	SpaceAfter=No
