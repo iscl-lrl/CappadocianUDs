@@ -1,0 +1,16 @@
+1	Σηκώθην	_	VERB	_	_	0	root	0:root	_
+2	,	_	PUNCT	_	_	1	punct	1:punct	_
+3	ήγρεψε	_	VERB	_	_	1	conj	1:conj	_
+4	κι	_	CCONJ	_	_	10	cc	10:cc	_
+5	,	_	PUNCT	_	_	3	punct	3:punct	_
+6	σ	_	ADP	_	_	8	case	8:case	_
+7	ο	_	DET	_	_	8	det	8:det	_
+8	τάλι	_	NOUN	_	_	10	obl	10:obl	_
+9	πάνου	_	ADV	_	_	10	advmod	10:advmod	_
+10	ένι	_	VERB	_	_	1	conj	1:conj	_
+11	αν	_	NUM	_	_	12	nummod	12:nummod	_
+12	πουλούλι	_	NOUN	_	_	10	obj	10:obj	_
+13	του	_	SCONJ	_	_	14	mark	14:mark	_
+14	λαλεί	_	VERB	_	_	10	advcl	10:advcl	_
+15	ζόρε	_	ADV	_	_	14	advmod	14:advmod	_
+16	.	_	PUNCT	_	_	1	punct	1:punct	_

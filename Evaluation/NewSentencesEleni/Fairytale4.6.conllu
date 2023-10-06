@@ -1,9 +1,0 @@
-1	Ήρτες	_	VERB	_	_	0	root	0:root	_
-2	μπρο	_	ADP	_	_	3	case	3:case	_
-3	μου	_	PRON	_	_	1	obl	1:obl	_
-4	,	_	PUNCT	_	_	7	punct	1:punct	_
-5	α	_	AUX	_	_	7	aux	7:aux	_
-6	σε	_	PRON	_	_	7	iobj	7:iobj	_
-7	φάγω	_	VERB	_	_	1	conj	1:conj	_
-8	!	_	PUNCT	_	_	1	punct	1:punct	_
-9	»	_	PUNCT	_	_	1	punct	1:punct	_
