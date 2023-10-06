@@ -954,12 +954,12 @@
 # text_en = This house of hens is mine and I am in charge of the chickens.
 1	Ατό	αυτό	DET	DET	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	3	det	3:det	_
 2	το	το	DET	DET	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	3	det	3:det	_
-3	κουμάσι	κουμάσι	NOUN	NOUN	Case=Nom|Gender=Neut|Number=Sing	4	nsubj	4:nsubj	_
+3	κουμάσι	κουμάσι	NOUN	NOUN	Case=Nom|Gender=Neut|Number=Sing	6	dislocated	6:dislocated	_
 4	εν	είμαι	AUX	AUX	_	6	cop	6:cop	_
 5	το	το	DET	DET	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	6	det	6:det	_
 6	μόνα	μόνα	PRON	PRON	Case=Nom|Gender=Neut|Number=Sing|PronType=Prs	0	root	0:root	_
 7	τζαι	jαι	CCONJ	CCONJ	_	13	cc	13:cc	_
-8	γω	γω	PRON	PRON	Case=Nom|Gender=Masc|Number=Sing|PronType=Prs	9	nsubj	9:nsubj	_
+8	γω	γω	PRON	PRON	Case=Nom|Gender=Masc|Number=Sing|PronType=Prs	13	dislocated	13:dislocated	_
 9	είμαι	είμαι	AUX	AUX	_	13	cop	13:cop	_
 10	των	το	DET	DET	Case=Gen|Definite=Def|Gender=Neut|Number=Plur|PronType=Art	11	det	11:det	_
 11	'ρνιθίουν	ρνίθι	NOUN	NOUN	Case=Gen|Gender=Neut|Number=Plur	13	nmod	13:nmod	_
