@@ -3,7 +3,7 @@
 # text_en = "Αnything you tell me, you tell me!
 1	«	«	PUNCT	PUNCT	_	7	punct	7:punct	_
 2	Ότι	Ότι	PRON	PRON	Case=Acc|Gender=Neut|Number=Sing	6	obj	6:obj	_
-3	τζαι	jαι	CCONJ	CCONJ	_	7	cc	7:cc	_
+3	τζαι	jαι	CCONJ	CCONJ	_	4	cc	4:cc	_
 4	να	να	AUX	AUX	_	6	aux	6:aux	_
 5	µε	εγώ	PRON	PRON	Case=Acc|Gender=Neut|Number=Sing|Person=1	6	iobj	6:iobj	_
 6	ειπείς	λαλώ	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	7	xcomp	7:xcomp	_
