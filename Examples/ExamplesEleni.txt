@@ -68,7 +68,7 @@ Head + complements
 
 
 RelCl = Relative Clauses
-We have some examples, but do we want 
+We have some examples, but they not contradict Modern Greek
 
 
 
@@ -120,5 +120,5 @@ In Pharasiot
 Τα μεγάλα ζώα είπαν μεταξύ τους:
 
 
-
+Maybe annotations is Missing??
 
