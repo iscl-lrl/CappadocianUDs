@@ -103,12 +103,12 @@
 6	εβίτζα	(εβίτζα)	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Sing	4	appos	4:appos	SpaceAfter=No
 7	,	,	PUNCT	PUNCT	_	1	punct	1:punct	_
 8-9	σου	_	_	_	_	_	_	_	_
-8	σ	σε	ADP	ADP	_	10	case	10:case	_
+8	σ	σε	ADP	ADP	_	12	case	12:case	_
 9	ου	ο	DET	DET	Case=Gen|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	10:det	_
 10	Καβάρη	Kαβάρη	PROPN	PROPN	Case=Gen|Gender=Fem|Number=Sing	12	nmod	12:nmod	_
 11	το	το	DET	DET	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	12	det	12:det	_
 12	κάτζι	κάτζιν	NOUN	NOUN	Case=Acc|Gender=Neut|Number=Sing	1	obl	1:obl	_
-13	μπρο	μπρο	ADV	ADV	_	12	advmod	12:advmod	SpaceAfter=No
+13	μπρο	μπρο	ADP	ADP	_	12	case	12:case	SpaceAfter=No
 14	.	.	PUNCT	PUNCT	_	1	punct	1:punct	_
 
 # sent_id = Fairytale1.8
@@ -185,7 +185,7 @@
 
 # sent_id = Fairytale1.10
 # text = Ήρταν τζαι στο ορμάνι ατόνε τα ’πομεινά του ρουσού τα χαϊβανόκκα.
-# text_en = Some other remaing mountain animals also came from the forest.
+# text_en = Some other remaing mountain animals also came to the forest.
 1	Ήρταν	ἒρχουμι	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	0	root	0:root	_
 2	τζαι	jαι	CCONJ	CCONJ	_	1	cc	1:cc	_
 3-4	στο	_	_	_	_	_	_	_	_
@@ -227,7 +227,7 @@
 5	τζαναβάρα	jαναβάρι	NOUN	NOUN	Case=Nom|Gender=Neut|Number=Plur	7	nsubj	7:nsubj	SpaceAfter=No
 6	,	,	PUNCT	PUNCT	_	7	punct	7:punct	_
 7	έβγκαλαν	βγάζω	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	_
-8	τσουφαλάς	(τσουφαλάς)	ADJ	ADJ	Case=Acc|Gender=Masc|Number=Sing	11	appos	11:appos	_
+8	τσουφαλάς	(τσουφαλάς)	ADJ	ADJ	Case=Acc|Gender=Masc|Number=Sing	11	amod	11:amod	_
 9	τουνε	το	PRON	PRON	Case=Gen|Gender=Neut|Number=Plur|Poss=Yes|PronType=Prs	8	nmod	8:nmod	_
 10	τον	ο	DET	DET	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	11:det	_
 11	αωπό	αωπός	NOUN	NOUN	Case=Acc|Gender=Masc|Number=Sing	7	obj	7:obj	SpaceAfter=No
@@ -680,7 +680,7 @@
 4	αωπού	αωπός	NOUN	NOUN	Case=Gen|Gender=Neut|Number=Sing	6	nmod	6:nmod	_
 5	το	το	DET	DET	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	6	det	6:det	_
 6	κατζί	κάτζιν	NOUN	NOUN	Case=Acc|Gender=Neut|Number=Sing	9	obl	9:obl	_
-7	πάνου	πάνου	ADV	ADV	_	6	advmod	6:advmod	SpaceAfter=No
+7	πάνου	πάνου	ADP	ADP	_	6	case	6:case	SpaceAfter=No
 8	,	,	PUNCT	PUNCT	_	9	punct	9:punct	_
 9	είπανε	λέγω	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	_
 10	τζαι	jαι	CCONJ	CCONJ	_	16	cc	16:cc	_
@@ -784,7 +784,7 @@
 7	ις	ο	DET	DET	Case=Acc|Definite=Def|Gender=Masc|Number=Plur|PronType=Art	8	det	8:det	_
 8	χωρότοι	χωρότ	NOUN	NOUN	Case=Acc|Gender=Masc|Number=Plur	3	obl	3:obl	_
 9	μας	εγω	PRON	PRON	Case=Gen|Gender=Neut|Number=Plur|Person=1|Poss=Yes|PronType=Prs	8	nmod	8:nmod	_
-10	κοντά	κοντά	ADV	ADV	_	3	advmod	3:advmod	SpaceAfter=No
+10	κοντά	κοντά	ADP	ADP	_	8	case	8:case	SpaceAfter=No
 11	.	.	PUNCT	PUNCT	_	3	punct	3:punct	_
 
 # sent_id = Fairytale1.45
@@ -924,7 +924,7 @@
 4	σ	σε	ADP	ADP	_	6	case	6:case	_
 5	ον	ο	DET	DET	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	6:det	_
 6	αωπό	απός	NOUN	NOUN	Case=Acc|Gender=Masc|Number=Sing	1	obl	1:obl	_
-7	γνέντα	γνέντα	ADV	ADV	_	1	advmod	1:advmod	SpaceAfter=No
+7	γνέντα	γνέντα	ADP	ADP	_	6	case	6:case	SpaceAfter=No
 8	.	.	PUNCT	PUNCT	_	1	punct	1:punct	_
 
 # sent_id = Fairytale3.4
@@ -1034,7 +1034,7 @@
 2	αωπός	απός	NOUN	NOUN	Case=Nom|Gender=Masc|Number=Sing	1	nsubj	1:nsubj	_
 3	σο	σε	ADP	ADP	_	4	case	4:case	_
 4	λαχτόρι	λαχτόρι	NOUN	NOUN	Case=Acc|Gender=Neut|Number=Sing	1	obl	1:obl	_
-5	πανου	πάνου	ADP	ADP	_	1	amod	1:amod	_
+5	πανου	πάνου	ADP	ADP	_	1	case	1:case	_
 6	τζαι	jαι	CCONJ	CCONJ	_	7	cc	7:cc	_
 7	πίεσεν	πιένω	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	1	conj	1:conj	_
 8	τα	το	DET	DET	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	7	obj	7:obj	_
@@ -1727,11 +1727,11 @@
 # text_en = "Αnything you tell me, you tell me!
 # TODO: double check token #2
 1	«	«	PUNCT	PUNCT	_	7	punct	7:punct	SpaceAfter=No
-2	Ό,τι	Ότι	PRON	PRON	Case=Acc|Gender=Neut|Number=Sing|PronType=Rel	6	obj	6:obj	_
+2	Ό,τι	Ότι	PRON	PRON	Case=Acc|Gender=Neut|Number=Sing|PronType=Rel	6	xcomp	6:xcomp	_
 3	τζαι	jαι	CCONJ	CCONJ	_	7	cc	7:cc	_
 4	να	να	AUX	AUX	_	6	aux	6:aux	_
 5	με	εγώ	PRON	PRON	Case=Acc|Gender=Neut|Number=Sing|Person=1|PronType=Prs	6	iobj	6:iobj	_
-6	ειπείς	λαλώ	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	7	xcomp	7:xcomp	_
+6	ειπείς	λαλώ	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	7	advcl	7:advcl	_
 7	‘πέ	λαλώ	VERB	VERB	Aspect=Perf|Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	_
 8	με	εγώ	PRON	PRON	Case=Acc|Gender=Neut|Number=Sing|Person=1|PronType=Prs	7	iobj	7:iobj	SpaceAfter=No
 9	!	!	PUNCT	PUNCT	_	7	punct	7:punct	_
