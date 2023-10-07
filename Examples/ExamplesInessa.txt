@@ -1,0 +1,8 @@
+In 1.17, "τζαι πιένουν μες αρά" has a different syntax than Greek. In greek the sentence corresponds to: "Και μας πιάνουν ζωντανούς." where the object "μας" (us) is positioned before the verb while in Pharasiot the object is positioned after the verb. (source: Andriotis)[It is matches also the 6.1.3 from Prokopidis since the nominal complements are after the verb which they define]
+
+3.12 again example where the object (pronoun) is positioned after the verb. Greek example: "Και τον άρπαξε από τον λαιμό να τον πνιξει" (where the greek "τον" is the Pharasiot "τα" and the greek "ton" is the Pharasiot "τει" 
+
+In 3.5 the peculiar syntax with the "κι" is not found in Greek. This ki functions as a weak that even though there exists already a that in the sentence. More on that phenomenon can be found inside the term paper in the Language Structure-Syntax section. The syntax in greek would be: "Είπε ότι:"
+
+In pharasiot the verb "tell" gets an object in accusative. In greek "tell" gets an object in genitive. For example greek: "Πές μου, να δούμε τι θα μου πείς" corresponds to the syntax in 3.18. 
+
