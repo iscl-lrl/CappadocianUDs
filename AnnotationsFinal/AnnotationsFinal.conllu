@@ -537,7 +537,7 @@
 # text_en =  "He comrades, you are right.
 1	«	«	PUNCT	PUNCT	_	6	punct	6:punct	SpaceAfter=No
 2	Ε	Ε	INTJ	INTJ	_	6	discourse	6:discourse	_
-3	dόστοι	dόστη	NOUN	NOUN	Case=Nom|Gender=Masc|Number=Plur	6	vocative	6:vocative	SpaceAfter=No
+3	dόστοι	dόστη	NOUN	NOUN	Case=Voc|Gender=Masc|Number=Plur	6	vocative	6:vocative	SpaceAfter=No
 4	,	,	PUNCT	PUNCT	_	3	punct	3:punct	_
 5	είστε	είμαι	AUX	AUX	_	6	cop	6:cop	_
 6	χαχλούδες	χαχλούς	ADJ	ADJ	Case=Nom|Gender=Masc|Number=Plur	0	root	0:root	SpaceAfter=No
@@ -1593,7 +1593,7 @@
 1-2	Σον	_	_	_	_	_	_	_	_
 1	Σ	σε	ADP	ADP	_	3	case	3:case	_
 2	ον	ο	DET	DET	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	3:det	_
-3	παλό	(παλιός)	ADJ	ADJ	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	5	amod	5:amod	_
+3	παλό	παλαιός	ADJ	ADJ	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	5	amod	5:amod	_
 4	τον	ο	DET	DET	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	5:det	_
 5	ταρό	ταρός	NOUN	NOUN	Case=Acc|Gender=Masc|Number=Sing	11	obl	11:obl	SpaceAfter=No
 6	,	,	PUNCT	PUNCT	_	11	punct	11:punct	_
