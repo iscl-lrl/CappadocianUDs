@@ -1,0 +1,4 @@
+Notes: Generally, it was a little faster than annotating the sentences manually. The reason was that adding the features and the other columns on one's own takes a lot of time
+    1. when the word is non-greek or a non usual form of Greek the parser gave wrong POS always.
+    2. The parser could not identify all the words that should be splitted. For example it had no problem with στον but could not work with σο. 
+    3. No use of the parataxis relationship while we use it.
