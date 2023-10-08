@@ -46,17 +46,21 @@
 9	χωρίσουν	χωρίζω	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|VerbForm=Fin|Voice=Act	7	csubj	_	TokenRange=195:203
 10	το	ο	DET	DET	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	11	det	_	TokenRange=204:206
 11	χαβλού	χαβλού	NOUN	NOUN	Case=Acc|Gender=Neut|Number=Sing	9	obj	_	SpacesAfter=\r\n|TokenRange=207:213
-12	τουν	μου	DET	DET	Case=Gen|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	11	det	_	TokenRange=215:219
+12	τουν	μου	DET	DET	Case=Gen|Definite=Def|Gender=Neut|Number=Sing|Poss=Yes|PronType=Art	11	det	_	TokenRange=215:219
 13	τζαι	τζαι	NOUN	NOUN	Case=Acc|Gender=Neut|Number=Sing	9	obj	_	TokenRange=220:224
 14	το	ο	DET	DET	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	15	det	_	TokenRange=225:227
 15	τζυνή’ι	τζυνή’ι	NOUN	NOUN	Case=Acc|Gender=Neut|Number=Sing	9	obj	_	TokenRange=228:235
 16	τουν	μου	PRON	PRON	Case=Gen|Gender=Masc|Number=Plur|Person=3|Poss=Yes|PronType=Prs	15	nmod	_	TokenRange=236:240
-17	σο	σο	ADP	ADP	_	18	case	_	TokenRange=241:243
-18	ρουσί	ρουσί	NOUN	NOUN	Case=Acc|Gender=Neut|Number=Sing	15	nmod	_	TokenRange=244:249
-19	τζαι	τζαι	NOUN	NOUN	Case=Acc|Gender=Neut|Number=Sing	18	nmod	_	TokenRange=250:254
-20	σο	σο	ADP	ADP	_	21	case	_	TokenRange=255:257
-21	ορµάνι	ορµάνι	NOUN	NOUN	Case=Acc|Gender=Neut|Number=Sing	18	nmod	_	SpaceAfter=No|TokenRange=258:264
-22	.	.	PUNCT	PUNCT	_	1	punct	_	TokenRange=264:265
+17-18	σο	_	_	_	_	_	_	_	_
+17	σ	σε	ADP	ADP	_	19	case	_	TokenRange=241:243
+18	ο	ο	DET	DET	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	13	det	13:det	_
+19	ρουσί	ρουσί	NOUN	NOUN	Case=Acc|Gender=Neut|Number=Sing	15	nmod	_	TokenRange=244:249
+20	τζαι	τζαι	NOUN	NOUN	Case=Acc|Gender=Neut|Number=Sing	18	nmod	_	TokenRange=250:254
+20-21	σο	_	_	_	_	_	_	_	_
+20	σ	σε	ADP	ADP	_	21	case	_	TokenRange=255:257
+21	ο	ο	DET	DET	Case=Nom|Definite=Def|Gender=Masc|Number=Plur|PronType=Art	22	det	22:det	_
+22	ορµάνι	ορµάνι	NOUN	NOUN	Case=Acc|Gender=Neut|Number=Sing	18	nmod	_	SpaceAfter=No|TokenRange=258:264
+23	.	.	PUNCT	PUNCT	_	1	punct	_	TokenRange=264:265
 
 # sent_id = 3
 # text = Σηκώθην τζαι είπεν τι κι τζ’ αωπός: «Ε dόστοι, τε µπρο να βγκάλουµε τον τσουφαλά µας σο µεντζιλίσι».

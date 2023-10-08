@@ -1,0 +1,40 @@
+This file explains the differences between the manual annotation and parser. I note what is diffence when it comes the parsers' result
+
+**Generally, The English translation is missing. So for every sent_id, I added the english translation.
+**The lemma was not accurate, as we had to do with a Greek Parser and it couldnt recognize most of the words.
+**It couldn't distinguish between AUX and VERB and all of the cases of είμαι were automatically annotated as VERB.
+Instances of ειμαι, πρεπει recognized as Verbs
+**It was a faster procedure, however I had to change a lot of PosTags which means that I also had to change the UD relations.
+**Often observation was that it also could distinguish well between Aspect= Perf and Imp (είδα was annotated as Imp) and also I had to change many times the Gender (which is normal I think bc we are annotating Pharasiot and not Modern Greek)
+** It didn't split the sentences in a way that we did. We followed the: every verb a sentence (except of subordinate clause it has to stay together)
+So we splitted the sentences differently
+** Splitted the multitwords. For example σα into σ α. 
+** It couldnt recognize some letter and we needed to add them like αντιτζοί and the original was παντιτζοί.
+** I didnt change so much the punctuation and it was helpful having the skeleton for the features.
+** We also didnt put these notations TokenRange=24:31
+
+In the end, I think, the results were quite different, as it is a tool for Modern Greek and not for dialects influenced by Language contact.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
