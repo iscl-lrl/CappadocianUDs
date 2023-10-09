@@ -1,6 +1,7 @@
 # sent_id = Fairytale 4.12
 # text = Χαχλούς πάλι να είσαι τζαι χαχτσούζης να είσαι, γω τζο χαρίζω σε!
 # text_en = 
+# xaxlous from turkish haqq which mean truth, justice
 1	Χαχλούς	_	NOUN	_	_	4	appos	4:appos	_
 2	πάλι	_	ADV	_	_	4	advmod	4:advmod	_
 3	να	_	AUX	_	_	4	aux	4:aux	_
@@ -17,4 +18,3 @@
 14	σε	_	PRON	_	_	13	iobj	13:iobj	_
 15	!	_	PUNCT	_	_	13	punct	13:punct	_
 
-# xaxlous from turkish haqq which mean truth, justice

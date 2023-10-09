@@ -6,9 +6,11 @@
 6	χαχτσούζης	_	ADJ	_	_	8	cop	8:cop	_
 7	να	_	AUX	_	_	8	aux	8:aux	_
 8	είσαι	_	VERB	_	_	4	conj	4:conj	_
-9	,	_	PUNCT	_	_	12	punct	12:punct	_
-10	γω	_	PRON	_	_	12	nsubj	12:nsubj	_
-11	τζο	_	PART	_	_	12	advmod	12:advmod	_
-12	χαρίζω	_	VERB	_	4	conj	4:conj	_
-13	σε	_	PRON	_	_	12	iobj	12:iobj	_
-14	!	_	PUNCT	_	_	4	punct	4:punct	_
+9	,	_	PUNCT	_	_	13	punct	12:punct	_
+10	γω	_	PRON	_	_	13	nsubj	12:nsubj	_
+11	τζο	_	PART	_	_	13	advmod	12:advmod	_
+12	ο	_	DET	_	_	14	obj	13:obj	_
+13	χαρίζω	_	VERB	_	_	4	conj	4:conj	_
+14	σε	_	PRON	_	_	13	iobj	12:iobj	_
+15	!	_	PUNCT	_	_	4	punct	4:punct	_
+
