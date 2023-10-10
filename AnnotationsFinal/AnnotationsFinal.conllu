@@ -2131,8 +2131,8 @@
 20	.	.	PUNCT	PUNCT	_	3	punct	3:punct	_
 
 # sent_id = Fairytale2.16
-# text = Είπεν dι τζαι το σοιρίδι κι: 
-# text_en = The pig said: 
+# text = Είπεν dι τζαι το σοιρίδι κι:
+# text_en = The pig said:
 1	Είπεν	λαλώ	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	_
 2	dι	di	SCONJ	SCONJ	_	1	mark	1:mark	_
 3	τζαι	τζαι	CCONJ	CCONJ	_	1	cc	1:cc	_
