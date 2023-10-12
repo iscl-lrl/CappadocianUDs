@@ -126,12 +126,14 @@ class Sentence(object):
             comment - the pre-sentence comments
     """
 
-    __slots__ = ('nodes', 'empty', 'multi', 'comment')
+    __slots__ = ('nodes', 'empty', 'multi', 'id', 'text', 'comment')
 
     def __init__(self, instr=None, stream=None):
         self.nodes = [Node(index=0)] # initialize with the dummy root node
         self.multi = dict()
         self.empty = dict()
+        self.id = None
+        self.text = None
         self.comment = []
 
         if stream:
@@ -147,6 +149,10 @@ class Sentence(object):
                 assert len(self.nodes) == 1,\
                        "Comments are allowed only at the beginning"
                 self.comment.append(line)
+                if line.startswith('# sent_id = '):
+                    self.id = line[12:]
+                elif line.startswith('# text = '):
+                    self.text = line[9:]
             else:
                 node = Node.from_str(line)
                 if node.multi:
@@ -195,7 +201,7 @@ class Sentence(object):
                 tokens[i] = None
         return [x for x in tokens if x is not None]
 
-    def text(self):
+    def get_text(self):
         tokens = []
         last_tok = len(self.nodes) - 2
         for i, node in enumerate(self.nodes[1:]):
@@ -323,6 +329,33 @@ class Sentence(object):
             if line.startswith('# sent_id = '):
                 return line.replace('# sent_id = ', '')
         return None
+
+    def to_latex(self, comments=True):
+        lt, ldep = [], []
+        lt.append(r"% \include{tikz-dependency}")
+        lt.append(f"% sent_id = {self.id}")
+        if comments:
+            for c in self.comment:
+                lt.append(f"%%{c[1:]}")
+        lt.append(r"\begin{tikzpicture}[]")
+        lf, lp = [], []
+        for n in self.nodes[1:]:
+            lf.append(n.form)
+            lp.append(n.upos)
+            if n.head == 0:
+                ldep.append(r"  \deproot{" f"{n.index}" r"}{root}")
+            else:
+                ldep.append(
+                    f"  \depedge{{{n.head}}}{{{n.index}}}{{{n.deprel}}}")
+        lt.append(r" \begin{deptext}")
+        lt.append(r"\& ".join(lf) + r"\\")
+        lt.append(r"\& ".join(lp) + r"\\")
+        lt.append(r" \end{deptext}")
+        lt.extend(ldep)
+        lt.append(r"\end{tikzpicture}")
+#        print(lt)
+        print('\n'.join(lt))
+
 
 def conllu_sentences(f):
     if isinstance(f, str):
