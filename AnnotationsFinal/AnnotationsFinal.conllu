@@ -1,5 +1,6 @@
 # sent_id = Fairytale1.0Title
 # text = Των τζαναβαρίων το μεντζιλίσι.
+# translit =  Ton tzanavarion to mentzilisi.
 # text_en = The meeting of the wild beasts.
 1	Των	το	DET	DET	Case=Gen|Gender=Neut|Number=Plur|PronType=Art	2	det	2:det	_
 2	τζαναβαρίων	jαναβάρι	NOUN	NOUN	Case=Gen|Gender=Neut|Number=Plur	4	nmod	4:nmod	_
@@ -9,6 +10,7 @@
 
 # sent_id = Fairytale1.1
 # text = Σηκώθην τζαι πα σηκώθη.
+# translit =  Sikothin tzai pa sikothi.
 # text_en = He rose and rose.
 1	Σηκώθην	σηκούμαι	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	0	root	0:root	_
 2	τζαι	jαι	CCONJ	CCONJ	_	4	cc	4:cc	_
@@ -18,6 +20,7 @@
 
 # sent_id = Fairytale1.2
 # text = Σα μπρο τον ταρό, του ρουσού τα τζναβάρα νανόστανε κι:
+# translit =  Sa bro ton taro, toy roysoy ta tznavara nanostane ki:
 # text_en = In the first time, the wild beasts of the mountain thought:
 1	Σα	σε	ADP	ADP	_	4	case	4:case	_
 2	μπρο	μπρο	ADJ	ADJ	Case=Acc|Gender=Masc|Number=Sing|NumType=Ord	4	amod	4:amod	_
@@ -34,6 +37,7 @@
 
 # sent_id = Fairytale1.3
 # text = «Να σωρευτούμε α ημέρα ‘ς α μεντζιλίσι».
+# translit =  «Na soreutoyme a imera ‘s a mentzilisi».
 # text_en = " Let us gather one day in a meeting"
 1	«	«	PUNCT	PUNCT	_	3	punct	3:punct	SpaceAfter=No
 2	Να	να	AUX	AUX	_	3	aux	3:aux	_
@@ -48,6 +52,7 @@
 
 # sent_id = Fairytale1.4
 # text = Είπαν dι κι:
+# translit =  Eipan di ki:
 # text_en = and they said.
 1	Είπαν	λέγω	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	_
 2	dι	di	SCONJ	SCONJ	_	1	mark	1:mark	_
@@ -56,6 +61,7 @@
 
 # sent_id = Fairytale1.5
 # text = «πα ποίκουμε να γλιτώσουμε στου νοματίουν το τζυνή’ι».
+# translit =  «pa poikoyme na glitosoyme stoy nomatioyn to tzuni’i».
 # text_en = "something to do to escape the hunting of humans".
 1	«	«	PUNCT	PUNCT	_	3	punct	3:punct	SpaceAfter=No
 2	πα	ba	PRON	PRON	Case=Nom|Gender=Neut|Number=Sing|PronType=Ind	3	obj	3:obj	_
@@ -73,6 +79,7 @@
 
 # sent_id = Fairytale1.6
 # text = Στρίγξαν τζαι του χωρού τα χαϊβάνα να ειπούν τζαι τζείνα το κετσίμιν dουν μο τις χωρώτοι.
+# translit =  Strigchan tzai toy choroy ta chaivana na eipoyn tzai tzeina to ketsimin doyn mo tis chorotoi.
 # text_en = They also invited the animals of the village to say their lives them with the villagers.
 1	Στρίγξαν	στρινgάγω	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	_
 2	τζαι	jαι	CCONJ	CCONJ	_	6	cc	6:cc	_
@@ -94,6 +101,7 @@
 
 # sent_id = Fairytale1.7
 # text = Σωρεύτανε, αν Τζερετζή την εβίτζα, σου Καβάρη το κάτζι μπρο.
+# translit =  Soreytane, an Tzeretzi tin evitza, soy Kavari to katzi bro.
 # text_en = They gathered one Sunday morning, in front of the rock Cavari
 1	Σωρεύτανε	σωρέβου	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	0	root	0:root	SpaceAfter=No
 2	,	,	PUNCT	PUNCT	_	1	punct	1:punct	_
@@ -113,6 +121,7 @@
 
 # sent_id = Fairytale1.8
 # text = Ήρτανε, κάτσανε ‘ς όινα τη μερέ του ’ρουσού τα τζαναβάρα: ο ασλάνος, το καπλάνι, το ’ρκούδι, ο λύκος, ο αωπός, η ’γρουκάτα.
+# translit =  Ήrtane, katsane ‘s oina ti mere toy ’roysoy ta tzanavara: o aslanos, to kaplani, to ’rkoydi, o lykos, o aopos, i ’groykata.
 # text_en = They came, sat down at one aside the wild beasts of the mountain: the lion, the tiger, the bear, the wolf, the fox, the wildcat.
 1	Ήρτανε	έρχουμι	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	0	root	0:root	SpaceAfter=No
 2	,	,	PUNCT	PUNCT	_	3	punct	3:punct	_
@@ -147,6 +156,7 @@
 
 # sent_id = Fairytale1.9
 # text = Στ' άβο τη μερέ ήρταν κάτσαν του χωρού τα χαϊβάνα: τ’ άβουγο, το βουρτόνι, το γαϊρίδι, το βόιδι, το γουβάλι, το πρόβατο, το σοιρίδι.
+# translit =  St' avo ti mere irtan katsan toy choroy ta chaivana: t’ avoygo, to voyrtoni, to gairidi, to voidi, to goyvali, to provato, to soiridi.
 # text_en = They came and sat down on the other side village animals: the horse, the mule, the donkey, the ox, the buffalo, the sheep, the pig.
 1-2	Στ'	_	_	_	_	_	_	_	_
 1	Σ	σε	ADV	ADV	_	3	case	3:case	_
@@ -185,6 +195,7 @@
 
 # sent_id = Fairytale1.10
 # text = Ήρταν τζαι στο ορμάνι ατόνε τα ’πομεινά του ρουσού τα χαϊβανόκκα.
+# translit =  Ήrtan tzai sto ormani atone ta ’pomeina toy roysoy ta chaivanokka.
 # text_en = Some other remaing mountain animals also came to the forest.
 1	Ήρταν	ἒρχουμι	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	0	root	0:root	_
 2	τζαι	jαι	CCONJ	CCONJ	_	1	cc	1:cc	_
@@ -203,6 +214,7 @@
 
 # sent_id = Fairytale1.11
 # text = Πουστιέσαν παρέτζει: το ζαρκάδι, ο πουρτσούχος, τζ’αγός.
+# translit =  Poystiesan paretzei: to zarkadi, o poyrtsoychos, tz’agos.
 # text_en = Crouched bit further: the deer, the ferret, the rabbit.
 1	Πουστιέσαν	πουστιέγω	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	_
 2	παρέτζει	bαρεçεί	ADV	ADV	_	1	advmod	1:advmod	SpaceAfter=No
@@ -218,6 +230,7 @@
 
 # sent_id = Fairytale1.12
 # text =  Σο μεντζιλίσι τα τζαναβάρα, έβγκαλαν τσουφαλάς τουνε τον αωπό.
+# translit =   So mentzilisi ta tzanavara, evgkalan tsoyfalas toyne ton aopo.
 # text_en = At the meeting the wild beasts took the fox as their leader.
 1-2	Σο	_	_	_	_	_	_	_	_
 1	Σ	σε	ADP	ADP	_	3	case	3:case	_
@@ -235,6 +248,7 @@
 
 # sent_id = Fairytale1.13
 # text =  Είπαν dι κι πενεντάβου τουνε τα δρα τα τζαναβάρα:
+# translit =   Eipan di ki penentavoy toyne ta dra ta tzanavara:
 # text_en = The big beasts said among themselves:
 1	Είπαν	λέγω	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	_
 2	dι	di	SCONJ	PART	_	1	mark	1:mark	_
@@ -249,6 +263,7 @@
 
 # sent_id = Fairytale1.14
 # text =  «Ατό το μέτρο το κετσίμι, κετσίμι τζό ‘νι.
+# translit =   «Ato to metro to ketsimi, ketsimi tzo ‘ni.
 # text_en = “This life of ours, life is not.
 1	«	«	PUNCT	PUNCT	_	8	punct	8:punct	SpaceAfter=No
 2	Ατό	αὐτό	DET	DET	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Dem	4	det	4:det	_
@@ -264,6 +279,7 @@
 
 # sent_id = Fairytale1.15
 # text =  Κάτα ημέρα έρχονται οι τζυνη'οί τζαι μες σκοτώνουν τζάπου να μες εύρουν.
+# translit =   Kata imera erchontai oi tzuni'oi tzai mes skotonoyn tzapoy na mes eyroyn.
 # text_en = Every day the hunters come and kill us everywhere find us.
 1	Κάτα	κάτα/κάτε/κάdε	DET	DET	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Ind	2	det	2:det	_
 2	ημέρα	(η)μέρα	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Sing	3	obl	3:obl	_
@@ -281,6 +297,7 @@
 
 # sent_id = Fairytale1.16
 # text =  Μες συραίνουν μο τον τσιφτέ τζαι μες καρφώνουν μο το τσίκκι.
+# translit =   Mes surainoyn mo ton tsifte tzai mes karfonoyn mo to tsikki.
 # text_en = They shoot us with the double barrel or impale us with the bows.
 1	Μες	ἐγώ	PRON	PRON	Case=Acc|Gender=Neut|Number=Plur|Person=1|PronType=Prs	2	iobj	2:iobj	_
 2	συραίνουν	συραίνω	VERB	VERB	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	_
@@ -297,6 +314,7 @@
 
 # sent_id = Fairytale1.17
 # text = Τάημισα οι νομάτοι θέκνουν μέγκενε τζαι πιένουν μες αρά.
+# translit =  Taimisa oi nomatoi theknoyn megkene tzai pienoyn mes ara.
 # text_en = Some people set traps and catch us alive.
 1	Τάημισα	τάημισα	DET	DET	Case=Nom|Gender=Masc|Number=Plur|PronType=Ind	3	det	3:det	_
 2	οι	ο	DET	DET	Case=Nom|Definite=Def|Gender=Masc|Number=Plur|PronType=Art	3	det	3:det	_
@@ -311,6 +329,7 @@
 
 # sent_id = Fairytale1.18
 # text = Φταίνουν μες τελέφι.
+# translit =  Ftainoyn mes telefi.
 # text_en = They are retailing us.
 1	Φταίνουν	φταίνω	VERB	VERB	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	_
 2	μες	εγώ	PRON	PRON	Case=Acc|Gender=Neut|Number=Plur|Person=1|PronType=Prs	1	iobj	1:iobj	_
@@ -319,6 +338,7 @@
 
 # sent_id = Fairytale1.19
 # text = Ατό το μέτρο το κετσίμι, κετσίμι τζό ‘νι.
+# translit =  Ato to metro to ketsimi, ketsimi tzo ‘ni.
 # text_en = “This life of ours, life is not.
 1	Ατό	αυτό	DET	DET	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Dem	3	det	3:det	_
 2	το	το	DET	DET	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	3	det	3:det	_
@@ -333,6 +353,7 @@
 
 # sent_id = Fairytale1.20
 # text = Πα ποίκομε να γλιτώσουμε ‘π’ ατό το σεφιλλίκι;»
+# translit =  Pa poikome na glitosoyme ‘p’ ato to sefilliki;»
 # text_en = What will we do for escape this wretchedness?'
 1	Πα	πό	PRON	PRON	Case=Acc|Gender=Neut|Number=Sing|PronType=Ind	2	obj	2:obj	_
 2	ποίκομε	ποιώ	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|VerbForm=Fin|Voice=Act	0	root	0:root	_
@@ -347,6 +368,7 @@
 
 # sent_id = Fairytale1.21
 # text = Κάτζιψαν τζαι του χωρού τα χαϊβάνα.
+# translit =  Katzipsan tzai toy choroy ta chaivana.
 # text_en = The animals of the village also spoke.
 1	Κάτζιψαν	κατζεύω	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	_
 2	τζαι	jαι	CCONJ	CCONJ	_	6	cc	6:cc	_
@@ -358,6 +380,7 @@
 
 # sent_id = Fairytale1.22
 # text = Είπαν dι κι:
+# translit =  Eipan di ki:
 # text_en = and they said.
 1	Είπαν	λέγω	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	_
 2	dι	di	SCONJ	SCONJ	_	1	mark	1:mark	_
@@ -366,6 +389,7 @@
 
 # sent_id = Fairytale1.23
 # text = «Με μεις, το μέτρο το σεφιλλίκι ένι τζάβου ζόρι.
+# translit =  «Me meis, to metro to sefilliki eni tzavoy zori.
 # text_en = But us? Οur suffering is worse.
 1	«	«	PUNCT	PUNCT	_	11	punct	11:punct	SpaceAfter=No
 2	Με	μα	INTJ	INTJ	_	3	vocative	3:vocative	_
@@ -382,6 +406,7 @@
 
 # sent_id = Fairytale1.24
 # text = Χεμ ’αμναίνουμε την Άνοιξη τζαι το Μαθόπωρο τα χωράφα τουν, χεμ ταβρούμε το τουκάνι σ’ αώνι σ’ον τεμίση πέσου, χεμ κουβαλαίνουμε σου σειμού το τουφάνι ξύα στο ορμάνι.
+# translit =  Chem ’amnainoyme tin Άnoixi tzai to Mathoporo ta chorafa toyn, chem tavroyme to toykani s’ aoni s’on temisi pesoy, chem koyvalainoyme soy seimoy to toyfani xya sto ormani.
 # text_en = We plow the Spring and the Autumn their fields, and we crawl into the heat of summer the sheaf into the threshing floor, and we carry through the windstorm of snow, wood from the forest.
 1	Χεμ	χέμ	CCONJ	CCONJ	_	2	cc	2:cc	_
 2	’αμναίνουμε	λάμνω	VERB	VERB	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	_
@@ -423,6 +448,7 @@
 
 # sent_id = Fairytale1.25
 # text = Τζαι ουστουνέ, κοπανίζουν μες μο το ραβdί, τζεντάν μες μο το βουτζέντρι.
+# translit =  Tzai oystoyne, kopanizoyn mes mo to ravdi, tzentan mes mo to voytzentri.
 # text_en =  They also beat us with the stick, they embroider us with the bukendra.
 1	Τζαι	jαι	CCONJ	CCONJ	_	2	cc	2:cc	_
 2	ουστουνέ	ουστουνέ	ADV	ADV	_	4	advmod	4:advmod	SpaceAfter=No
@@ -442,6 +468,7 @@
 
 # sent_id = Fairytale1.26
 # text = Τε στέρου πάλι τάημισα φήνουν μες νηστικά σα οράνα τζαι τάημισα φσάκνουν μες.
+# translit =  Te steroy pali taimisa finoyn mes nistika sa orana tzai taimisa fsaknoyn mes.
 # text_en =  And later, some of us they leave us fasting in the deserts and some of us are slaughtered.
 1	Τε	Τε	PART	PART	_	2	cc	2:cc	_
 2	στέρου	στέρου	ADV	ADV	_	5	advmod	5:advmod	_
@@ -462,6 +489,7 @@
 
 # sent_id = Fairytale1.27
 # text = Τρων το κρες μας τζαι μο το πόστι μας φταίνουν τσαρούχα.
+# translit =  Tron to kres mas tzai mo to posti mas ftainoyn tsaroycha.
 # text_en =  They eat our meat and with the skin they make shoes(tsarouchia).
 1	Τρων	τρώγω	VERB	VERB	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	_
 2	το	το	DET	DET	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	3	det	3:det	_
@@ -478,6 +506,7 @@
 
 # sent_id = Fairytale1.28
 # text = ‘Ινεται τελέφι το δέρμα μας σ' η στράτα.
+# translit =  ‘Inetai telefi to derma mas s' i strata.
 # text_en =  It melts our skin on the road.
 1	‘Ινεται	γίνομαι	VERB	VERB	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	0:root	_
 2	τελέφι	τελέφι	NOUN	NOUN	Case=Nom|Gender=Neut|Number=Sing	1	xcomp	1:xcomp	_
@@ -491,6 +520,7 @@
 
 # sent_id = Fairytale1.29
 # text = Ατό το μέτρο το κετσίμι, κετσίμι τζό ‘νι.
+# translit =  Ato to metro to ketsimi, ketsimi tzo ‘ni.
 # text_en = “This life of ours, life is not.
 1	Ατό	αὐτό	DET	DET	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Dem	3	det	3:det	_
 2	το	το	DET	DET	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	3	det	3:det	_
@@ -505,6 +535,7 @@
 
 # sent_id = Fairytale1.30
 # text = Να νάβρουμε αν τσαρές να γλιτώσουμε».
+# translit =  Na navroyme an tsares na glitosoyme».
 # text_en =  Let's find a way to escape".
 1	Να	να	AUX	AUX	_	2	aux	2:aux	_
 2	νάβρουμε	βρίσκω	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	_
@@ -517,6 +548,7 @@
 
 # sent_id = Fairytale1.31
 # text = Είπεν τι κι τζ’ αωπός, ο Μουdούρης, σ ο μεντζιλίσι:
+# translit =  Eipen ti ki tz’ aopos, o Moydoyris, s o mentzilisi:
 # text_en =  Then the fox, who was President of the meeting, said:
 1	Είπεν	λέγω	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	_
 2	τι	di	SCONJ	SCONJ	_	1	mark	1:mark	_
@@ -534,6 +566,7 @@
 
 # sent_id = Fairytale1.32
 # text = «Ε dόστοι, είστε χαχλούδες.
+# translit =  «E dostoi, eiste chachloydes.
 # text_en =  "He comrades, you are right.
 1	«	«	PUNCT	PUNCT	_	6	punct	6:punct	SpaceAfter=No
 2	Ε	Ε	INTJ	INTJ	_	6	discourse	6:discourse	_
@@ -545,6 +578,7 @@
 
 # sent_id = Fairytale1.33
 # text = Οι νομάτοι σκοτώνουν του ρουσού τα τζαναβάρα τσαι φσάζουν τα χαϊβάνα.
+# translit =  Oi nomatoi skotonoyn toy roysoy ta tzanavara tsai fsazoyn ta chaivana.
 # text_en =  Humans kill wild animals of the mountain and slaughter the animals.
 1	Οι	ο	DET	DET	Case=Nom|Definite=Def|Gender=Masc|Number=Plur|PronType=Art	2	det	2:det	_
 2	νομάτοι	νομάτης	NOUN	NOUN	Case=Nom|Gender=Masc|Number=Plur	3	nsubj	3:nsubj	_
@@ -561,6 +595,7 @@
 
 # sent_id = Fairytale1.34
 # text = Με νανόστετε σοτίπος φταίνουν τα αούτζι;
+# translit =  Me nanostete sotipos ftainoyn ta aoytzi;
 # text_en = But have you thought why they behave like this?
 1	Με	μα	INTJ	INTJ	_	2	vocative	2:vocative	_
 2	νανόστετε	νανουμαι	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Plur|Person=2|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	_
@@ -572,6 +607,7 @@
 
 # sent_id = Fairytale1.35
 # text = Μεις, οι αωποί, κλέφτουμε τα ’ρνίθε τουν, τα ’ρκούδε αχτούνε τα μελίσα τουν τζαι τρων το μέλι, ο λύκος τρω τα πρόβατα τζαι τα γίδε, ο ασλάνος παρτσαλατίζει τα μουσκάρα τζαι τα γαϊρίδε.
+# translit =  Meis, oi aopoi, kleftoyme ta ’rnithe toyn, ta ’rkoyde achtoyne ta melisa toyn tzai tron to meli, o lykos tro ta provata tzai ta gide, o aslanos partsalatizei ta moyskara tzai ta gairide.
 # text_en =  We, the foxes, steal their hens, the bears kick the bees and eat their honey, the wolf eats the sheep and the goats, the lion devours the calves and donkeys.
 1	Μεις	εγω	PRON	PRON	Case=Nom|Gender=Neut|Number=Plur|Person=1|Poss=Yes|PronType=Prs	6	nsubj	6:nsubj	SpaceAfter=No
 2	,	,	PUNCT	PUNCT	_	1	punct	1:punct	_
@@ -615,6 +651,7 @@
 
 # sent_id = Fairytale1.36
 # text = Σεις πάλι του χωρού τα χαϊβάνα πα ποίτζετε δεχούς την παχνή του αυτέdη σας;
+# translit =  Seis pali toy choroy ta chaivana pa poitzete dechoys tin pachni toy autedi sas;
 # text_en = You again, the animals of the village, what will you do without the crib your master's?
 1	Σεις	εγω	PRON	PRON	Case=Nom|Gender=Neut|Number=Plur|Person=2|PronType=Prs	8	nsubj	8:nsubj	_
 2	πάλι	πάλι-bάλι	ADV	ADV	_	8	advmod	8:advmod	_
@@ -634,6 +671,7 @@
 
 # sent_id = Fairytale1.37
 # text = Τούς ‘χα κετσιντήσετε σα ρουσία δεχούς σταύκο σο τουφάνι πέσου, δεχούς άσερο, δεχούς χορτάρι τζαι πασκά τουρλού ταγΐ το σειμό, δεχούς τ’ αφτέντη σας το σαγιά;»
+# translit =  Toys ‘cha ketsintisete sa roysia dechoys stayko so toyfani pesoy, dechoys asero, dechoys chortari tzai paska toyrloy tagi to seimo, dechoys t’ aftenti sas to sagia;»
 # text_en = How will you go in the mountains, without a stable in the windstorm, without stubble, without hay and various other foods in winter, without the protection of your master?'
 1	Τούς	το	PRON	PRON	Case=Acc|Gender=Neut|Number=Plur|PronType=Art	3	obj	3:obj	_
 2	‘χα	χα	AUX	AUX	_	3	aux	3:aux	_
@@ -673,6 +711,7 @@
 
 # sent_id = Fairytale1.38
 # text = Αδού, σ’ αωπού το κατζί πάνου, είπανε τζαι τα ’πομεινά του ρουσού τα τζαναβάρα:
+# translit =  Adoy, s’ aopoy to katzi panoy, eipane tzai ta ’pomeina toy roysoy ta tzanavara:
 # text_en = Here, upon the rock of the fox, and other beasts also spoke mountain:
 1	Αδού	αδέ	ADV	ADV	_	9	advmod	9:advmod	SpaceAfter=No
 2	,	,	PUNCT	PUNCT	_	1	punct	1:punct	_
@@ -694,6 +733,7 @@
 
 # sent_id = Fairytale1.39
 # text = «Τεμέκ πω λέτε dόστοι;
+# translit =  «Temek po lete dostoi;
 # text_en = “So what do you say comrades?
 1	«	«	PUNCT	PUNCT	_	4	punct	4:punct	SpaceAfter=No
 2	Τεμέκ	τεμέκ	CCONJ	CCONJ	_	4	cc	4:cc	_
@@ -704,6 +744,7 @@
 
 # sent_id = Fairytale1.40
 # text = Απιδού στέρου να ‘υριστούμε τζας είμεστε σ η φωλέ μας:
+# translit =  Apidoy steroy na ‘uristoyme tzas eimeste s i fole mas:
 # text_en = Fron now on let's go back as we are in our nest:
 1	Απιδού	απιδού	ADP	ADP	_	2	case	4:case	_
 2	στέρου	στέρου	ADV	ADV	_	4	obl	4:obl	_
@@ -719,6 +760,7 @@
 
 # sent_id = Fairytale1.41
 # text = Τα τζαναβάρα σο ρουσί, χερκές να υπά σο σπήλο του.
+# translit =  Ta tzanavara so roysi, cherkes na upa so spilo toy.
 # text_en = The wild animals on the mountain, everyone to go to his cave.
 1	Τα	το	DET	DET	Case=Nom|Definite=Def|Gender=Neut|Number=Plur|PronType=Art	2	det	2:det	_
 2	τζαναβάρα	jαναβάρι	NOUN	NOUN	Case=Nom|Gender=Neut|Number=Plur	9	nsubj	9:nsubj	_
@@ -739,6 +781,7 @@
 
 # sent_id = Fairytale1.42
 # text = Ερ να πασλατίσουμε χαρέτζα μουχαρεπέ μο τις χωρότοι, πελάς α νάρτει σο τσουφάλι μας».
+# translit =  Er na paslatisoyme charetza moycharepe mo tis chorotoi, pelas a nartei so tsoyfali mas».
 # text_en = If we start a war with the villagers now trouble will come upon us."
 1	Ερ	ερ	SCONJ	SCONJ	_	3	mark	3:mark	_
 2	να	να	AUX	AUX	_	3	aux	3:aux	_
@@ -762,6 +805,7 @@
 
 # sent_id = Fairytale1.43
 # text = Είπανε τζαι του χωρού τα χαϊβάνα:
+# translit =  Eipane tzai toy choroy ta chaivana:
 # text_en = They animals of the village also said: 
 1	Είπανε	λέγω	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	_
 2	τζαι	jαι	CCONJ	CCONJ	_	6	cc	6:cc	_
@@ -773,6 +817,7 @@
 
 # sent_id = Fairytale1.44
 # text = «Να υπάμε τζαι μεις σις χωρότοι μας κοντά.
+# translit =  «Na upame tzai meis sis chorotoi mas konta.
 # text_en = "Let also go close to our villagers,
 1	«	«	PUNCT	PUNCT	_	3	punct	3:punct	SpaceAfter=No
 2	Να	να	AUX	AUX	_	3	aux	3:aux	_
@@ -789,6 +834,7 @@
 
 # sent_id = Fairytale1.45
 # text = Χέρκες σ' αφτέdη του το σταύκο».
+# translit =  Cherkes s' aftedi toy to stayko».
 # text_en = Each at his master's stable."
 1	Χέρκες	χερκές	PRON	PRON	Case=Nom|Gender=Neut|Number=Sing|PronType=Ind	0	root	0:root	_
 2	σ'	σε	ADP	ADP	_	6	case	6:case	_
@@ -801,6 +847,7 @@
 
 # sent_id = Fairytale1.46
 # text = Αωπός είπεν dι κι:
+# translit =  Aopos eipen di ki:
 # text_en = The fox said:
 1	Αωπός	αωπός	NOUN	NOUN	Case=Nom|Gender=Masc|Number=Sing	2	nsubj	2:nsubj	_
 2	είπεν	λέγω	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	_
@@ -810,6 +857,7 @@
 
 # sent_id = Fairytale1.47
 # text = «Αμέτε, τα τζαναβάρα χέρκες σο σπήλο του τζαι τα χαϊβάνα σο παχνί τουνε».
+# translit =  «Amete, ta tzanavara cherkes so spilo toy tzai ta chaivana so pachni toyne».
 # text_en = "Take each ,the wild ones in their cave and the beasts to their manger".
 1	«	«	PUNCT	PUNCT	_	2	punct	2:punct	SpaceAfter=No
 2	Αμέτε	πηγαίνω	VERB	VERB	Aspect=Imp|Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	SpaceAfter=No
@@ -835,6 +883,7 @@
 
 # sent_id = Fairytale1.48
 # text = Των τζαναβαρίων το μεντζιλίσι χως αδού ήτουνε.
+# translit =  Ton tzanavarion to mentzilisi chos adoy itoyne.
 # text_en = The meeting of the wild beasts so far it was.
 1	Των	το	DET	DET	Case=Gen|Gender=Neut|Number=Plur|PronType=Art	2	det	2:det	_
 2	τζαναβαρίων	jαναβάρι	NOUN	NOUN	Case=Gen|Gender=Neut|Number=Plur	4	nmod	4:nmod	_
@@ -847,6 +896,7 @@
 
 # sent_id = Fairytale1.49
 # text = Χωρίστανε, πηάγανε.
+# translit =  Choristane, piagane.
 # text_en = They scattered, they went.
 1	Χωρίστανε	χωρίζω	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	SpaceAfter=No
 2	,	,	PUNCT	PUNCT	_	3	punct	3:punct	_
@@ -855,6 +905,7 @@
 
 # sent_id = Fairytale1.50
 # text = Έφαγαν, έπαν, έφτασαν σα μουράτε τουν.
+# translit =  Έfagan, epan, eftasan sa moyrate toyn.
 # text_en = They ate, they drank, they lived happily ever after.
 1	Έφαγαν	τρώγω	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	SpaceAfter=No
 2	,	,	PUNCT	PUNCT	_	3	punct	3:punct	_
@@ -870,6 +921,7 @@
 
 # sent_id = Fairytale3.0(Title)
 # text = Αωπός τζαι το λαχτόρι.
+# translit =  Aopos tzai to lachtori.
 # text_en = The fox and the rooster.
 1	Αωπός	απός	NOUN	NOUN	Case=Nom|Gender=Masc|Number=Sing	0	root	0:root	_
 2	τζαι	jαι	CCONJ	CCONJ	_	4	cc	4:cc	_
@@ -879,6 +931,7 @@
 
 # sent_id = Fairytale3.1
 # text = Σα μπρο τον ταρό, ‘ς εν κουμάσι ήσαντε λια 'ρνίθε τζαι α ζόρι λαχτόρι.
+# translit =  Sa bro ton taro, ‘s en koymasi isante lia 'rnithe tzai a zori lachtori.
 # text_en = In the old days, there were a few hens and a brave rooster in a hen house.
 1	Σα	σε	ADP	ADP	_	4	case	4:case	_
 2	μπρο	μπρο	ADJ	ADJ	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	4	amod	4:amod	_
@@ -899,6 +952,7 @@
 
 # sent_id = Fairytale3.2
 # text = Τόινα τη μία έμπ’ αν αωπός σο κουμάσι να φα τα 'ρνίθε.
+# translit =  Toina ti mia eb’ an aopos so koymasi na fa ta 'rnithe.
 # text_en = Once a fox entered the hen house to eat the hens.
 1	Τόινα	Τόινα	NOUN	NOUN	Case=Nom|Gender=Fem|Number=Sing	4	obl	4:obl	_
 2	τη	ή	DET	DET	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	1	det	1:det	_
@@ -916,6 +970,7 @@
 
 # sent_id = Fairytale3.3
 # text = Στάθη το λαχτόρι σον αωπό γνέντα.
+# translit =  Stathi to lachtori son aopo gnenta.
 # text_en = The rooster stood opposite the fox.
 1	Στάθη	στέκουμαι	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	_
 2	το	το	DET	DET	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	3	det	3:det	_
@@ -929,6 +984,7 @@
 
 # sent_id = Fairytale3.4
 # text = Μη τα φήτζει να πνίξει τα ρνίθε.
+# translit =  Mi ta fitzei na pnixei ta rnithe.
 # text_en = Not to let her drown the hens
 1	Μη	μη	PART	ADV	_	3	advmod	3:advmod	_
 2	τα	ο	DET	DET	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	obj	3:obj	_
@@ -941,6 +997,7 @@
 
 # sent_id = Fairytale3.5
 # text = Είπεν ‘τι κι:
+# translit =  Eipen ‘ti ki:
 # text_en = He said to it:
 1	Είπεν	λαλώ	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	_
 2	‘τι	di	SCONJ	SCONJ	_	1	mark	1:mark	_
@@ -949,6 +1006,7 @@
 
 # sent_id = Fairytale3.6
 # text = «Ε 'ρνιθού κλέφτη.
+# translit =  «E 'rnithoy klefti.
 # text_en = Eh, thief of hens
 1	«	«	PUNCT	PUNCT	_	4	punct	4:punct	SpaceAfter=No
 2	Ε	ε	INTJ	INTJ	_	4	vocative	4:vocative	_
@@ -958,6 +1016,7 @@
 
 # sent_id = Fairytale3.7
 # text = Πώς ‘υρεύεις αδού.
+# translit =  Pos ‘ureyeis adoy.
 # text_en = What are you doing here.
 1	Πώς	πώς	ADV	ADV	_	2	advmod	2:advmod	_
 2	‘υρεύεις	γυρεύω	VERB	VERB	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	_
@@ -966,6 +1025,7 @@
 
 # sent_id = Fairytale3.8
 # text = Ατό το κουμάσι εν το μόνα τζαι γω είμαι των 'ρνιθίουν ο τσουφαλάς».
+# translit =  Ato to koymasi en to mona tzai go eimai ton 'rnithioyn o tsoyfalas».
 # text_en = This house of hens is mine and I am in charge of the chickens.
 1	Ατό	αυτό	DET	DET	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	3	det	3:det	_
 2	το	το	DET	DET	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	3	det	3:det	_
@@ -985,6 +1045,7 @@
 
 # sent_id = Fairytale3.9
 # text = Είπεν ‘τι κι τζ’ αωπός:
+# translit =  Eipen ‘ti ki tz’ aopos:
 # text_en = The fox said too:
 1	Είπεν	λαλώ	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	_
 2	‘τι	di	SCONJ	SCONJ	_	1	mark	1:mark	_
@@ -995,6 +1056,7 @@
 
 # sent_id = Fairytale3.10
 # text = «Ατέ το κουμάσι εν το μόνα.
+# translit =  «Ate to koymasi en to mona.
 # text_en = This house of hens if mine.
 1	«	«	PUNCT	PUNCT	_	7	punct	7:punct	SpaceAfter=No
 2	Ατέ	αυτό	DET	DET	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	4	det	4:det	_
@@ -1007,6 +1069,7 @@
 
 # sent_id = Fairytale3.11
 # text = Συ τίς είσαι τζαι μο το λειψό σου τ’ αχίλι ίνεσαι κουμασού αφτέν τζαι 'ρνιθίουν τσουφαλάς».
+# translit =  Su tis eisai tzai mo to leipso soy t’ achili inesai koymasoy aften tzai 'rnithioyn tsoyfalas».
 # text_en = Who are you and with your "missing" mind, you become the boss of the house of hens and head of the of chickens
 1	Συ	εσύ	PRON	PRON	Case=Nom|Gender=Masc|Number=Sing	11	nsubj	11:nsubj	_
 2	τίς	τίς	PRON	PRON	Case=Nom|Gender=Masc|Number=Sing|PronType=Int	1	dislocated	1:dislocated	_
@@ -1029,6 +1092,7 @@
 
 # sent_id = Fairytale3.12
 # text = Πέττασεν αωπός σο λαχτόρι πανου τζαι πίεσεν τα στο γουργούρι ντα πνίξει τεϊ.
+# translit =  Pettasen aopos so lachtori panoy tzai piesen ta sto goyrgoyri nta pnixei tei.
 # text_en = The fox jumped on the rooster and grabbed him by the throat to choke him.
 1	Πέττασεν	πετώ	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	_
 2	αωπός	απός	NOUN	NOUN	Case=Nom|Gender=Masc|Number=Sing	1	nsubj	1:nsubj	_
@@ -1049,6 +1113,7 @@
 
 # sent_id = Fairytale3.13
 # text = Είδεν το λαχτόρι κι πνίγεται.
+# translit =  Eiden to lachtori ki pnigetai.
 # text_en = The rooster saw that he was drowning
 1	Είδεν	θεωρώ	VERB	VERB	Aspect=Imp|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	_
 2	το	το	DET	DET	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	3	det	3:det	_
@@ -1059,6 +1124,7 @@
 
 # sent_id = Fairytale3.14
 # text = Νανόστε να νάβρει α δεβοσύνη, να κομπώσει τον αωπό.
+# translit =  Nanoste na navrei a devosyni, na kobosei ton aopo.
 # text_en = he thought of finding a trick to trick the fox.
 1	Νανόστε	νανούμαι	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	_
 2	να	να	AUX	AUX	_	3	aux	3:aux	_
@@ -1074,6 +1140,7 @@
 
 # sent_id = Fairytale3.15
 # text = Είπεν ‘τι κι:
+# translit =  Eipen ‘ti ki:
 # text_en = TODO
 1	Είπεν	λαλώ	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	_
 2	‘τι	di	SCONJ	SCONJ	_	1	mark	1:mark	_
@@ -1082,6 +1149,7 @@
 
 # sent_id = Fairytale3.16
 # text = «Έ ντόστη, άφτσε με τζαι μή με πνίξεις, τζαι ‘γω να σα υπώ αν αχιλλούς κατζί».
+# translit =  «Έ ntosti, aftse me tzai mi me pnixeis, tzai ‘go na sa upo an achilloys katzi».
 # text_en = Hey friend, let me go and don't smother me and I will tell you a wise advise.
 1	«	«	PUNCT	PUNCT	_	5	punct	5:punct	SpaceAfter=No
 2	Έ	ε	INTJ	INTJ	_	5	vocative	5:vocative	_
@@ -1107,6 +1175,7 @@
 
 # sent_id = Fairytale3.17
 # text = Λέ’ ‘τι τζ’ αωπός:
+# translit =  Le’ ‘ti tz’ aopos:
 # text_en = The fox says:
 1	Λέ’	λαλώ	VERB	VERB	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	_
 2	‘τι	di	SCONJ	SCONJ	_	1	mark	1:mark	_
@@ -1116,6 +1185,7 @@
 
 # sent_id = Fairytale3.18
 # text = «Πέ με να ‘ούμε π’ α μα ειπείς».
+# translit =  «Pe me na ‘oyme p’ a ma eipeis».
 # text_en = "Tell me and let's see what you have to say."
 1	«	«	PUNCT	PUNCT	_	2	punct	2:punct	SpaceAfter=No
 2	Πέ	λαλώ	VERB	VERB	Aspect=Perf|Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	_
@@ -1131,6 +1201,7 @@
 
 # sent_id = Fairytale3.19
 # text = «Έ ντόστη», λέ ‘τι κι το λαχτόρι, «με ‘γω κουμασού αφτέν τζαι 'ρνιθίουν τσουφαλάς ίνομαι;
+# translit =  «Έ ntosti», le ‘ti ki to lachtori, «me ‘go koymasoy aften tzai 'rnithioyn tsoyfalas inomai;
 # text_en = "Hey friend," says the rooster: "Can I be the boss in the henhouse and head of the hens?
 1	«	«	PUNCT	PUNCT	_	6	punct	6:punct	SpaceAfter=No
 2	Έ	ε	INTJ	INTJ	_	6	vocative	6:vocative	_
@@ -1156,6 +1227,7 @@
 
 # sent_id = Fairytale3.20
 # text = Γω είμαι άλεϊ φυακιάρ’.
+# translit =  Go eimai alei fuakiar’.
 # text_en = I'm a simple guardian.
 1	Γω	εγώ	PRON	PRON	Case=Nom|Number=Sing|PronType=Prs	4	nsubj	4:nsubj	_
 2	είμαι	είμαι	AUX	AUX	_	4	cop	4:cop	_
@@ -1165,6 +1237,7 @@
 
 # sent_id = Fairytale3.21
 # text = Αφτέν του κουμασού είσαι συ.
+# translit =  Aften toy koymasoy eisai su.
 # text_en = You are the head of the hens. 
 1	Αφτέν	αυθέντης	NOUN	NOUN	Case=Nom|Gender=Masc|Number=Sing	0	root	0:root	_
 2	του	το	DET	DET	Case=Gen|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	3	det	3:det	_
@@ -1175,6 +1248,7 @@
 
 # sent_id = Fairytale3.22
 # text = Χα τιδέ είπα σε τ’ αβούτζι αν ασλανίχι να ‘ουμε π’ α με ποικ τεϊ».
+# translit =  Cha tide eipa se t’ avoytzi an aslanichi na ‘oyme p’ a me poik tei».
 # text_en = Yes, I told you one joke to see what you will do to me»
 1	Χα	χα	INTJ	INTJ	_	3	vocative	3:vocative	_
 2	τιδέ	τιδέ	ADV	ADV	_	3	advmod	3:advmod	_
@@ -1196,6 +1270,7 @@
 
 # sent_id = Fairytale3.23
 # text = Λε’ ‘τι τζ’ απός κι:
+# translit =  Le’ ‘ti tz’ apos ki:
 # text_en = And the fox says:
 1	Λε’	λαλώ	VERB	VERB	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	_
 2	‘τι	di	SCONJ	SCONJ	_	1	mark	1:mark	_
@@ -1206,6 +1281,7 @@
 
 # sent_id = Fairytale3.24
 # text = «Ματέμ κι ‘ύρεψες να με ζαναχέπ’ πίσι λαχτόρι ραδέ, εμ μπρο αρέ να σε πνίξω, να σε παρτσαλατίσω τζαι τε στέρου να σε ποίκω α ζόρι φάεμα».
+# translit =  «Matem ki ‘yrepses na me zanachep’ pisi lachtori rade, em bro are na se pnixo, na se partsalatiso tzai te steroy na se poiko a zori faema».
 # text_en = "After so you wanted to make fun of me, you dirty rooster, first, now I will smother you, devour you and make you a wonderful meal."
 1	«	«	PUNCT	PUNCT	_	4	punct	4:punct	SpaceAfter=No
 2	Ματέμ	(Ματέμ)	ADP	ADP	_	4	mark	4:mark	_
@@ -1242,6 +1318,7 @@
 
 # sent_id = Fairytale3.25
 # text = Είπεν τι τζαι το λαχτόρι κι:
+# translit =  Eipen ti tzai to lachtori ki:
 # text_en = And the rooster said: 
 1	Είπεν	λαλώ	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	_
 2	τι	di	SCONJ	SCONJ	_	1	mark	1:mark	_
@@ -1253,6 +1330,7 @@
 
 # sent_id = Fairytale3.26
 # text = «Γροίξα τα κι στα σέρα σου κατιέν τζο γλιτώνω.
+# translit =  «Groixa ta ki sta sera soy katien tzo glitono.
 # text_en = "I understood that from your hands I an not escaping with no power.
 1	«	«	PUNCT	PUNCT	_	2	punct	2:punct	SpaceAfter=No
 2	Γροίξα	αγροικώ	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	_
@@ -1270,6 +1348,7 @@
 
 # sent_id = Fairytale3.27
 # text = Α με φας α υπά.
+# translit =  A me fas a upa.
 # text_en = You will eat me and go.
 1	Α	α	AUX	AUX	_	3	aux	3:aux	_
 2	με	εγώ	PRON	PRON	Case=Acc|Gender=Neut|Number=Sing|PronType=Prs	3	obj	3:obj	_
@@ -1280,6 +1359,7 @@
 
 # sent_id = Fairytale3.28
 # text = Πιρ μη με φας, να γαπάς το Θεό σου, άφτσε με να βκώ ‘τζα σο δώμα πάνω ν’ αλήσω στερνά δύο τρία φορέδες, να πητάξω σελάμι σις χωρώτοι.
+# translit =  Pir mi me fas, na gapas to Theo soy, aftse me na vko ‘tza so doma pano n’ aliso sterna dyo tria foredes, na pitaxo selami sis chorotoi.
 # text_en = But before you eat me, if you love your God, let me go up to the roof and sing for the last time two or three times, to send greetings to the villagers.
 1	Πιρ	(Πιρ)	ADP	ADP	_	4	mark	4:mark	_
 2	μη	μη	CCONJ	CCONJ	_	4	cc	4:cc	_
@@ -1320,6 +1400,7 @@
 
 # sent_id = Fairytale3.29
 # text = Τζαι στέρου ποικ το κέιφι σου τζαι φα με μο το χουζούρι σου.
+# translit =  Tzai steroy poik to keifi soy tzai fa me mo to choyzoyri soy.
 # text_en = And then have fun and eat me in peace.
 1	Τζαι	jαι	CCONJ	CCONJ	_	3	cc	3:cc	_
 2	στέρου	στέρου	ADV	ADV	Degree=Pos	3	advmod	3:advmod	_
@@ -1338,6 +1419,7 @@
 
 # sent_id = Fairytale3.30
 # text = Εδώ τζαι συ ντάμα μου να σεριανείς του χωρού τα κουμάσα».
+# translit =  Edo tzai su ntama moy na serianeis toy choroy ta koymasa».
 # text_en = Come with me to serge the henhouses of the village"
 1	Εδώ	εδώ	ADV	ADV	_	7	advmod	7:advmod	_
 2	τζαι	jαι	CCONJ	CCONJ	_	7	cc	7:cc	_
@@ -1355,6 +1437,7 @@
 
 # sent_id = Fairytale3.31
 # text = Είπεν ‘τι τζ’ απός κι:
+# translit =  Eipen ‘ti tz’ apos ki:
 # text_en = And the fox says:
 1	Είπεν	λαλώ	VERB	VERB	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	_
 2	‘τι	di	SCONJ	SCONJ	_	1	mark	1:mark	_
@@ -1365,6 +1448,7 @@
 
 # sent_id = Fairytale3.32
 # text = «Χύτα να βκούμε σο δώμα, να 'ινεί το στερνό σου το χατίρι».
+# translit =  «Chyta na vkoyme so doma, na 'inei to sterno soy to chatiri».
 # text_en = "Run, let's go out on the roof, let's fulfill your last wish".
 1	«	«	PUNCT	PUNCT	_	2	punct	2:punct	SpaceAfter=No
 2	Χύτα	(χυτώ)	VERB	VERB	Aspect=Perf|Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	_
@@ -1387,6 +1471,7 @@
 
 # sent_id = Fairytale3.33
 # text = Πέττασεν το λαχτόρι, έβκη σο δώμα.
+# translit =  Pettasen to lachtori, evki so doma.
 # text_en = The rooster jumped, went out on the roof.
 1	Πέττασεν	πετώ	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	_
 2	το	το	DET	DET	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	3	det	3:det	_
@@ -1401,6 +1486,7 @@
 
 # sent_id = Fairytale3.34
 # text = Ήρτε τζ’ αωπός κοντά του, στάθη παρέκει.
+# translit =  Ήrte tz’ aopos konta toy, stathi parekei.
 # text_en = The fox also came close to him, stood by.
 1	Ήρτε	έρχομαι	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	_
 2	τζ’	τζ	CCONJ	CCONJ	_	1	conj	1:conj	_
@@ -1414,6 +1500,7 @@
 
 # sent_id = Fairytale3.35
 # text = Αωπός μετρά του χωρού τα κουμάσα, σαίρεται τα πουά 'ρνίθα του χα φα.
+# translit =  Aopos metra toy choroy ta koymasa, sairetai ta poya 'rnitha toy cha fa.
 # text_en = The fox counts the chicken coops of the village, gets excited about the many hens he will eat.
 1	Αωπός	απός	NOUN	NOUN	Case=Nom|Gender=Masc|Number=Sing	2	nsubj	2:nsubj	_
 2	μετρά	μετρώ	VERB	VERB	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	_
@@ -1433,6 +1520,7 @@
 
 # sent_id = Fairytale3.36
 # text = Το λαχτόρι άλτσε δύο τρία φορές.
+# translit =  To lachtori altse dyo tria fores.
 # text_en = The rooster crowed two three times.
 1	Το	το	DET	DET	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	2	det	2:det	_
 2	λαχτόρι	λαχτόρι	NOUN	NOUN	Case=Nom|Gender=Neut|Number=Sing	3	nsubj	3:nsubj	_
@@ -1444,6 +1532,7 @@
 
 # sent_id = Fairytale3.37
 # text = Τε στέρου σιτσιράτσεν σ’ απού τη χαραή, τσιρμαλάτσεν τα, έβκαλεν τα φτάλμε του ποίτζεν dα κοριένι.
+# translit =  Te steroy sitsiratsen s’ apoy ti charai, tsirmalatsen ta, evkalen ta ftalme toy poitzen da korieni.
 # text_en = And then it jumped to the fox's face, it scratched it, gouged out its eyes, it blinded it.
 1	Τε	de	PART	PART	_	3	discourse	3:discourse	_
 2	στέρου	(στέρου)	ADV	ADV	_	3	advmod	3:advmod	_
@@ -1467,6 +1556,7 @@
 
 # sent_id = Fairytale3.38
 # text = Αωπός ενότουν πουσμάνι.
+# translit =  Aopos enotoyn poysmani.
 # text_en = The fox regretted it.
 1	Αωπός	απός	NOUN	NOUN	Case=Nom|Gender=Masc|Number=Sing	2	nsubj	2:nsubj	_
 2	ενότουν	νανούμαι	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	_
@@ -1475,6 +1565,7 @@
 
 # sent_id = Fairytale3.39
 # text = Νανόστε κι:
+# translit =  Nanoste ki:
 # text_en = Thought that:
 1	Νανόστε	νανούμαι	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	_
 2	κι	ki	SCONJ	SCONJ	_	1	mark	1:mark	SpaceAfter=No
@@ -1482,6 +1573,7 @@
 
 # sent_id = Fairytale3.40
 # text = «Απιδέ στέρου να νάχω τ’ αχίλι μου σο τσουφάλι μου, τζαι αβούτζι να μη με ζαναχεύει αν πίσι λαχτόρι.
+# translit =  «Apide steroy na nacho t’ achili moy so tsoyfali moy, tzai avoytzi na mi me zanacheyei an pisi lachtori.
 # text_en = "From now on, I should have my mind in my head, so I won't be mocked by a dumb, dirty rooster.
 1	«	«	PUNCT	PUNCT	_	5	punct	5:punct	SpaceAfter=No
 2	Απιδέ	απιδού	ADV	ADV	_	5	advmod	5:advmod	_
@@ -1510,6 +1602,7 @@
 
 # sent_id = Fairytale3.41
 # text = Ήτουν σα σέρε μου, κέσκε ντα φάω τσας τα είχα σα σέρε μου».
+# translit =  Ήtoyn sa sere moy, keske nta fao tsas ta eicha sa sere moy».
 # text_en = He was in my hands, I wish I could eat him when I had him in my hands".
 1	Ήτουν	είμαι	AUX	AUX	_	4	cop	4:cop	_
 2-3	σα	_	_	_	_	_	_	_	_
@@ -1536,6 +1629,7 @@
 
 # sent_id = Fairytale3.42
 # text = Σ'του λαχτορού το λάληλα ξύπνησαν οι χωρότοι ήρταν, πιέσαν τον κιορ αωπό, κόνσαν τα σον dερέ.
+# translit =  S'toy lachtoroy to lalila xypnisan oi chorotoi irtan, piesan ton kior aopo, konsan ta son dere.
 # text_en = The crowing of the rooster woke up the villagers, they came, caught the blind fox, threw it into the stream.
 1-2	Σ'του	_	_	_	_	_	_	_	_
 1	Σ'	σε	ADP	ADP	_	3	case	3:case	_
@@ -1563,6 +1657,7 @@
 
 # sent_id = Fairytale3.43
 # text = Έφαγαν, έπαν, έφτασαν σα μουράτε τουν.
+# translit =  Έfagan, epan, eftasan sa moyrate toyn.
 # text_en = They ate, they drank, they lived happily ever after.
 1	Έφαγαν	τρώγω	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	SpaceAfter=No
 2	,	,	PUNCT	PUNCT	_	3	punct	3:punct	_
@@ -1578,6 +1673,7 @@
 
 # sent_id = Fairytale4.0(Title)
 # text = Αωπός τζαι το λαχτόρι. Β
+# translit =  Aopos tzai to lachtori. V
 # text_en = The fox and the rooster.
 # TODO: better annotation of 'B' 
 1	Αωπός	απός	NOUN	NOUN	Case=Nom|Gender=Masc|Number=Sing	0	root	0:root	_
@@ -1589,6 +1685,7 @@
 
 # sent_id = Fairytale4.1
 # text = Σον παλό τον ταρό, α φορά αν αωπός πιέσεν α λαχτόρι ν’ τα φα, τζ’ είπεν ‘τι:
+# translit =  Son palo ton taro, a fora an aopos piesen a lachtori n’ ta fa, tz’ eipen ‘ti:
 # text_en = Once upon a time, a fox caught a rooster to eat it, and says to him:
 1-2	Σον	_	_	_	_	_	_	_	_
 1	Σ	σε	ADP	ADP	_	3	case	3:case	_
@@ -1615,6 +1712,7 @@
 
 # sent_id = Fairytale4.2
 # text =  «Ε λαχτόρι, συ πώτ’ς είσαι τζαι αντί πέγος - αβγάτ’ς, φοραίνεις τζαι τζισμέδε αβγάτη σα ποδάρε σου;
+# translit =   «E lachtori, su pot’s eisai tzai anti pegos - avgat’s, foraineis tzai tzismede avgati sa podare soy;
 # text_en = "Hey, rooster, what are you and like a (bey) -knight, do you also wear knight's spurs on your feet?
 1	«	«	PUNCT	PUNCT	_	6	punct	6:punct	SpaceAfter=No
 2	Ε	ε	INTJ	INTJ	_	6	vocative	6:vocative	_
@@ -1642,6 +1740,7 @@
 
 # sent_id = Fairytale4.3
 # text = Πώτς έν’ ατέ το κουκούλι σο τζουφάλι σου;
+# translit =  Pots en’ ate to koykoyli so tzoyfali soy;
 # text_en = What is that hood on your head?
 1	Πώτς	πώτς	PRON	PRON	Case=Nom|Number=Sing	0	root	0:root	_
 2	έν’	είμαι	AUX	AUX	_	1	cop	1:cop	_
@@ -1657,6 +1756,7 @@
 
 # sent_id = Fairytale4.4
 # text = Μην είσαι ζαπίτ’ς του Γενιτζερίουν;
+# translit =  Min eisai zapit’s toy Genitzerioyn;
 # text_en = Are you rank bearer of the Janissaries?
 1	Μην	μην	PART	PART	_	3	vocative	3:vocative	_
 2	είσαι	είμαι	AUX	AUX	_	3	cop	3:cop	_
@@ -1667,6 +1767,7 @@
 
 # sent_id = Fairytale4.5
 # text = Συ τελλάλ είσαι τζαι ‘ξωματικός;
+# translit =  Su tellal eisai tzai ‘xomatikos;
 # text_en = Are you both a preacher and an officer?
 1	Συ	εσύ	PRON	PRON	Case=Nom|Number=Sing|PronType=Prs	2	nsubj	2:nsubj	_
 2	τελλάλ	τελλάλ	NOUN	NOUN	Case=Nom|Gender=Masc|Number=Sing	0	root	0:root	_
@@ -1677,6 +1778,7 @@
 
 # sent_id = Fairytale4.6
 # text = Τζαι τσιράς νυέχτα τζαι ημέρα;
+# translit =  Tzai tsiras nuechta tzai imera;
 # text_en = And you yell night and day?
 1	Τζαι	jαι	CCONJ	CCONJ	_	2	cc	2:cc	_
 2	τσιράς	τσιρίζω	VERB	VERB	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	_
@@ -1687,6 +1789,7 @@
 
 # sent_id = Fairytale4.7
 # text = Τζαι αλείς αντί πέγος, δεχούς μάνα τζαι ‘δελφές!»
+# translit =  Tzai aleis anti pegos, dechoys mana tzai ‘delfes!»
 # text_en = And you speak like a bey without a mother and sisters!"
 1	Τζαι	jαι	CCONJ	CCONJ	_	2	cc	2:cc	_
 2	αλείς	λαλώ	VERB	VERB	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	_
@@ -1702,6 +1805,7 @@
 
 # sent_id = Fairytale4.8
 # text = Το λαχτόρι πάλι δώτζεν τζογάπην τζ’ είπεν ‘τι:
+# translit =  To lachtori pali dotzen tzogapin tz’ eipen ‘ti:
 # text_en = And you speak like a bey without a mother and sisters!"
 1	Το	το	DET	DET	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	2	det	2:det	_
 2	λαχτόρι	λαχτόρι	NOUN	NOUN	Case=Nom|Gender=Neut|Number=Sing	4	nsubj	4:nsubj	_
@@ -1715,6 +1819,7 @@
 
 # sent_id = Fairytale4.9
 # text = «Ούμα είμαι!»
+# translit =  «Oyma eimai!»
 # text_en = «Yes I am!»
 1	«	«	PUNCT	PUNCT	_	3	punct	3:punct	SpaceAfter=No
 2	Ούμα	Ούμα	PART	PART	_	3	discourse	3:discourse	_
@@ -1724,6 +1829,7 @@
 
 # sent_id = Fairytale4.11
 # text = «Ό,τι τζαι να με ειπείς ‘πέ με!
+# translit =  «Ό,ti tzai na me eipeis ‘pe me!
 # text_en = "Αnything you tell me, you tell me!
 # TODO: double check token #2
 1	«	«	PUNCT	PUNCT	_	7	punct	7:punct	SpaceAfter=No
@@ -1738,6 +1844,7 @@
 
 # sent_id = Fairytale8.8
 # text = «Α σα θέκω σ΄ε καφέσι πέσου», είπεν τι ο νομάτ, “τάιμα να κούω τα τραγώδε σου».
+# translit =  «A sa theko s΄e kafesi pesoy», eipen ti o nomat, “taima na koyo ta tragode soy».
 # text_en = "I'll put you in a cage so I can always hear your songs!" said the man.
 1	«	«	PUNCT	PUNCT	_	4	punct	4:punct	SpaceAfter=No
 2	Α	α	AUX	AUX	_	4	aux	4:aux	_
@@ -1767,6 +1874,7 @@
 
 # sent_id = Fairytale8.9
 # text = «Ερ να με θέκ σο χαπίσι», είπεν τι το πουλπούλι, «γω γάτιεν τζο τραγωδώ».
+# translit =  «Er na me thek so chapisi», eipen ti to poylpoyli, «go gatien tzo tragodo».
 # text_en = "If you imprison me," said the nightingale, "I will never sing."
 1	«	«	PUNCT	PUNCT	_	5	punct	5:punct	SpaceAfter=No
 2	Ερ	eyer	INTJ	INTJ	_	5	vocative	5:vocative	_
@@ -1794,6 +1902,7 @@
 
 # sent_id = Fairytale8.13
 # text = Ο νομάτ φήτζεν το πουλπούλι τζ΄ τζείνο πέττασεν πα σ΄ε ψεό τάλι.
+# translit =  O nomat fitzen to poylpoyli tz΄ tzeino pettasen pa s΄e pseo tali.
 # text_en = The man released the nightingale and it flew onto a high branch.
 1	Ο	ο	DET	DET	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	2:det	_
 2	νομάτ	νομάτης	NOUN	NOUN	Case=Nom|Gender=Masc|Number=Sing	3	nsubj	3:nsubj	_
@@ -1813,6 +1922,7 @@
 
 # sent_id = Fairytale2.1
 # text = Σα παλέ τις χρόνες τζας ήσανται τα καμήλε τελλάλοι τζ’ οι παντιτζοί ξουριστέροι, του ρουσού τα τζαναβάρα ποίκαν α μεντζιλίσι να ιδούν το κετζίμι τουν.
+# translit =  Sa pale tis chrones tzas isantai ta kamile tellaloi tz’ oi pantitzoi xoyristeroi, toy roysoy ta tzanavara poikan a mentzilisi na idoyn to ketzimi toyn.
 # text_en = In the old days when there were bellman camels and the barber mice, the wild of the mountain made a meeting to see how they will fare.
 1-2	Σα	_	_	_	_	_	_	_	_
 1	Σ	σε	ADP	ADP	_	5	case	5:case	_
@@ -1846,6 +1956,7 @@
 
 # sent_id = Fairytale2.2
 # text = Πασλάτσαν να τζαναβαρίζουν, τους α 'ινεί να χωρίσουν το χαβλού τουν τζαι το τζυνή’ι τουν σο ρουσί τζαι σο ορμάνι.
+# translit =  Paslatsan na tzanavarizoyn, toys a 'inei na chorisoyn to chavloy toyn tzai to tzuni’i toyn so roysi tzai so ormani.
 # text_en = They started chatting, how will be done to define their court and their hunting in the mountain and in the forest.
 1	Πασλάτσαν	πασλώ	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	_
 2	να	να	AUX	AUX	_	3	aux	3:aux	_
@@ -1876,6 +1987,7 @@
 
 # sent_id = Fairytale2.3
 # text = Σηκώθην τζαι είπεν τι κι τζ’ αωπός:
+# translit =  Sikothin tzai eipen ti ki tz’ aopos:
 # text_en =The fox stood up and said:
 1	Σηκώθην	σηκούμαι	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	0	root	0:root	_
 2	τζαι	jαι	CCONJ	CCONJ	_	3	cc	3:cc	_
@@ -1888,6 +2000,7 @@
 
 # sent_id = Fairytale2.4
 # text = «Ε dόστοι, τε μπρο να βγκάλουμε τον τσουφαλά μας σο μεντζιλίσι».
+# translit =  «E dostoi, te bro na vgkaloyme ton tsoyfala mas so mentzilisi».
 # text_en ="Comrades, first let's vote the leader out of the assembly."
 1	«	«	PUNCT	PUNCT	_	8	punct	8:punct	SpaceAfter=No
 2	Ε	Ε	INTJ	INTJ	_	8	discourse	8:discourse	_
@@ -1909,6 +2022,7 @@
 
 # sent_id = Fairytale2.5
 # text = Είπεν τι κι τζ’ ο ασλάνος χέμεν:
+# translit =  Eipen ti ki tz’ o aslanos chemen:
 # text_en =Immediately the lion said:
 1	Είπεν	λέγω	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	_
 2	τι	τι	SCONJ	PRON	_	1	mark	1:mark	_
@@ -1921,6 +2035,7 @@
 
 # sent_id = Fairytale2.6
 # text = «Γω είμαι ο πατισάχος τσιπ του ρουσού τζαι του ορμανού των τζαναβαρίουν, πρέφτει με να ’ινώ γω ο τσουφαλάς σο μεντζιλίσι».
+# translit =  «Go eimai o patisachos tsip toy roysoy tzai toy ormanoy ton tzanavarioyn, preftei me na ’ino go o tsoyfalas so mentzilisi».
 # text_en ="I am the king of all of the wild beasts of the mountain and the forest, I must become president in the meeting".
 1	«	«	PUNCT	PUNCT	_	18	punct	18:punct	SpaceAfter=No
 2	Γω	εγω	PRON	PRON	Case=Nom|Gender=Masc|Number=Sing|Person=1|PronType=Prs	5	nsubj	5:nsubj	_
@@ -1952,6 +2067,7 @@
 
 # sent_id = Fairytale2.7
 # text = Σηκώθην τζαι το σοιρίδι τζαι είπεν dι κι:
+# translit =  Sikothin tzai to soiridi tzai eipen di ki:
 # text_en = The pig stood up and said:
 1	Σηκώθην	σηκούμαι	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	0	root	0:root	_
 2	τζαι	jαι	CCONJ	CCONJ	_	1	cc	1:cc	_
@@ -1965,6 +2081,7 @@
 
 # sent_id = Fairytale2.8
 # text = «Ο ασλάνος ένι βυνατό τζαναβάρι, με τ’ αχίλι του ένι λειψό.
+# translit =  «O aslanos eni vunato tzanavari, me t’ achili toy eni leipso.
 # text_en = "The lion is powerful beast, but his mind is lacking.
 1	«	«	PUNCT	PUNCT	_	6	punct	6:punct	SpaceAfter=No
 2	Ο	ο	DET	DET	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	3:det	_
@@ -1983,6 +2100,7 @@
 
 # sent_id = Fairytale2.9
 # text = Να ποίκουμε το ’ρκούδι τσουφαλά μας, τσούγκι χεμ πολύ αχιλλούς ένι, χέμ κατέσει παιξήματα τζαι ινσανού τερτίπε».
+# translit =  Na poikoyme to ’rkoydi tsoyfala mas, tsoygki chem poly achilloys eni, chem katesei paiximata tzai insanoy tertipe».
 # text_en = Let's make the bear our president. Because she is also very intelligent and knows dances and human behaviors".
 1	Να	να	AUX	AUX	_	2	aux	2:aux	_
 2	ποίκουμε	ποίκω	VERB	VERB	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	_
@@ -2008,6 +2126,7 @@
 
 # sent_id = Fairytale2.10
 # text = Ο ασλάνος χολιέστι μο το του σοιριδού το κατσί.
+# translit =  O aslanos choliesti mo to toy soiridoy to katsi.
 # text_en = The lion got angry at this speech of the pig.
 1	Ο	ο	DET	DET	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	2:det	_
 2	ασλάνος	ασλάνος	NOUN	NOUN	Case=Nom|Gender=Masc|Number=Sing	3	nsubj	3:nsubj	_
@@ -2022,6 +2141,7 @@
 
 # sent_id = Fairytale2.11
 # text = Τε στέρου, τζας όρσανε τ’ αβτζιλίκι τουνε, το ‘ρκούδι ποσάλτσεν το μεντζιλίσι.
+# translit =  Te steroy, tzas orsane t’ avtziliki toyne, to ‘rkoydi posaltsen to mentzilisi.
 # text_en = In the end, after they had designated their hunting area, the bear broke up the assembly
 1	Τε	τε	PART	PART	_	2	discourse	2:discourse	_
 2	στέρου	στέρου	ADV	ADV	_	5	advmod	5:advmod	SpaceAfter=No
@@ -2042,6 +2162,7 @@
 
 # sent_id = Fairytale2.12
 # text = Το σοιρίδι τζας δεβαίγκε στον ασλάνο μπρο, υρίστη τον κων του τζ’ έκκουασεν σο μυτί του γνέντα.
+# translit =  To soiridi tzas devaigke ston aslano bro, uristi ton kon toy tz’ ekkoyasen so muti toy gnenta.
 # text_en = The pig, as he passed in front of the lion, turned his back and farted against his nose.
 1	Το	ο	DET	DET	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	2	det	2:det	_
 2	σοιρίδι	χοιρίδι(ον)	NOUN	NOUN	Case=Nom|Gender=Neut|Number=Sing	4	nsubj	4:nsubj	_
@@ -2069,6 +2190,7 @@
 
 # sent_id = Fairytale2.13
 # text = Ο ασλάνος χολιέστην, σηκώθαν του γουργουρού του τα τσάρε, με ντράπη ν’ τα σπαράξει σο μεντζιλίσι πέσου.
+# translit =  O aslanos choliestin, sikothan toy goyrgoyroy toy ta tsare, me ntrapi n’ ta sparaxei so mentzilisi pesoy.
 # text_en = The lion became angry, the hairs on his mane stood up, but he was ashamed to ravage the pig within the assembly.
 1	Ο	ο	DET	DET	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	2:det	_
 2	ασλάνος	ασλάνος	NOUN	NOUN	Case=Nom|Gender=Masc|Number=Sing	3	nsubj	3:nsubj	_
@@ -2095,6 +2217,7 @@
 
 # sent_id = Fairytale2.14
 # text = Είπεν τι κι σο σοιρίδι:
+# translit =  Eipen ti ki so soiridi:
 # text_en = He said to the pig: 
 1	Είπεν	λαλώ	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	_
 2	τι	di	SCONJ	SCONJ	_	1	mark	1:mark	_
@@ -2107,6 +2230,7 @@
 
 # sent_id = Fairytale2.15
 # text = «Να κρατεί ο κω σου, εδώ την εβή αδέ σου Καβάρη το κάτζι να μετρηθούμε».
+# translit =  «Na kratei o ko soy, edo tin evi ade soy Kavari to katzi na metrithoyme».
 # text_en = If you have the guts, come tomorrow to the Kavari rock to fight.
 1	«	«	PUNCT	PUNCT	_	3	punct	3:punct	SpaceAfter=No
 2	Να	να	AUX	AUX	_	3	aux	3:aux	_
@@ -2132,6 +2256,7 @@
 
 # sent_id = Fairytale2.16
 # text = Είπεν dι τζαι το σοιρίδι κι:
+# translit =  Eipen di tzai to soiridi ki:
 # text_en = The pig said:
 1	Είπεν	λαλώ	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	_
 2	dι	di	SCONJ	SCONJ	_	1	mark	1:mark	_
@@ -2143,6 +2268,7 @@
 
 # sent_id = Fairytale2.17
 # text = «Χα νάρτου».
+# translit =  «Cha nartoy».
 # text_en = I will come.
 1	«	«	PUNCT	PUNCT	_	3	punct	3:punct	SpaceAfter=No
 2	Χα	χα	AUX	AUX	_	3	aux	3:aux	_
@@ -2152,6 +2278,7 @@
 
 # sent_id = Fairytale2.18
 # text = Πην το σοιρίδι σο κουμάσι, είπεν τι σ’η ’ναίκα του κι:
+# translit =  Pin to soiridi so koymasi, eipen ti s’i ’naika toy ki:
 # text_en = The pig went home and said to his wife: 
 1	Πην	πηγαίνω	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	_
 2	το	το	DET	DET	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	3	det	3:det	_
@@ -2173,6 +2300,7 @@
 
 # sent_id = Fairytale2.19
 # text = «Την εβή χα υπάω να μετρηθώ μο τον ασλάνο σου Καβάρη το κάτζι».
+# translit =  «Tin evi cha upao na metritho mo ton aslano soy Kavari to katzi».
 # text_en = Tomorrow I will go fight the lion at the Kavari rock.
 1	«	«	PUNCT	PUNCT	_	5	punct	5:punct	SpaceAfter=No
 2	Την	η	DET	DET	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	3:det	_
@@ -2195,6 +2323,7 @@
 
 # sent_id = Fairytale2.20
 # text = Τρόμαξεν η σκρόφα, πασλάτσεν να τζαναβαρίζει:
+# translit =  Tromaxen i skrofa, paslatsen na tzanavarizei:
 # text_en = The pig was startled and started to scream.
 1	Τρόμαξεν	τρομάζω	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	_
 2	η	ο	DET	DET	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	3:det	_
