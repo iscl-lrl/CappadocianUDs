@@ -712,7 +712,7 @@
 # sent_id = Fairytale1.38
 # text = Αδού, σ’ αωπού το κατζί πάνου, είπανε τζαι τα ’πομεινά του ρουσού τα τζαναβάρα:
 # translit =  Adoy, s’ aopoy to katzi panoy, eipane tzai ta ’pomeina toy roysoy ta tzanavara:
-# text_en = Here, upon the rock of the fox, and other beasts also spoke mountain:
+# text_en = Here, above the rock of the fox, and other beasts also spoke mountain:
 1	Αδού	αδέ	ADV	ADV	_	9	advmod	9:advmod	SpaceAfter=No
 2	,	,	PUNCT	PUNCT	_	1	punct	1:punct	_
 3	σ’	σε	ADP	ADP	_	6	case	6:case	_
@@ -934,7 +934,7 @@
 # translit =  Sa bro ton taro, ‘s en koymasi isante lia 'rnithe tzai a zori lachtori.
 # text_en = In the old days, there were a few hens and a brave rooster in a hen house.
 1	Σα	σε	ADP	ADP	_	4	case	4:case	_
-2	μπρο	μπρο	ADJ	ADJ	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	4	amod	4:amod	_
+2	μπρο	μπρο	ADJ	ADJ	Case=Acc|Gender=Masc|Number=Sing	4	amod	4:amod	_
 3	τον	ο	DET	DET	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	4:det	_
 4	ταρό	ταρός	NOUN	NOUN	Case=Acc|Gender=Masc|Number=Sing	9	obl	9:obl	SpaceAfter=No
 5	,	,	PUNCT	PUNCT	_	9	punct	9:punct	_
@@ -946,7 +946,7 @@
 11	'ρνίθε	ρνίθι	NOUN	NOUN	Case=Nom|Gender=Neut|Number=Sing	9	nsubj	9:nsubj	_
 12	τζαι	jαι	CCONJ	CCONJ	_	15	cc	15:cc	_
 13	α	α	DET	DET	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing|PronType=Ind	15	det	15:det	_
-14	ζόρι	ζόρι	ADJ	ADJ	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	15	amod	15:amod	_
+14	ζόρι	ζόρι	ADJ	ADJ	Case=Nom|Gender=Neut|Number=Sing	15	amod	15:amod	_
 15	λαχτόρι	λαχτόρι	NOUN	NOUN	Case=Nom|Gender=Neut|Number=Sing	9	conj	9:conj	SpaceAfter=No
 16	.	.	PUNCT	PUNCT	_	9	punct	9:punct	_
 
@@ -960,13 +960,15 @@
 4	έμπ’	baš	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	_
 5	αν	α	NUM	NUM	Case=Acc|Gender=Masc|Number=Sing	6	nummod	6:nummod	_
 6	αωπός	απός	NOUN	NOUN	Case=Acc|Gender=Masc|Number=Sing	4	nsubj	4:nsubj	_
-7	σο	σε	ADP	ADP	_	8	case	8:case	_
-8	κουμάσι	κουμάσι	NOUN	NOUN	Case=Acc|Gender=Neut|Number=Sing	4	obl	4:obl	_
-9	να	να	SCONJ	SCONJ	_	10	mark	10:mark	_
-10	φα	φάω	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	4	advcl	4:advcl	_
-11	τα	το	DET	DET	Case=Acc|Definite=Def|Gender=Neut|Number=Plur|PronType=Art	12	det	12:det	_
-12	'ρνίθε	ρνίθι	NOUN	NOUN	Case=Acc|Gender=Neut|Number=Plur	10	obj	10:obj	SpaceAfter=No
-13	.	.	PUNCT	PUNCT	_	4	punct	4:punct	_
+7-8	σο	_	_	_	_	_	_	_	_
+7	σο	σε	ADP	ADP	_	9	mark	9:mark	_
+8	ο	το	DET	DET	_	9	det	9:det	_
+9	κουμάσι	κουμάσι	NOUN	NOUN	Case=Acc|Gender=Neut|Number=Sing	4	obl	4:obl	_
+10	να	να	SCONJ	SCONJ	_	11	mark	11:mark	_
+11	φα	φάω	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	4	advcl	4:advcl	_
+12	τα	το	DET	DET	Case=Acc|Definite=Def|Gender=Neut|Number=Plur|PronType=Art	13	det	13:det	_
+13	'ρνίθε	ρνίθι	NOUN	NOUN	Case=Acc|Gender=Neut|Number=Plur	11	obj	11:obj	SpaceAfter=No
+14	.	.	PUNCT	PUNCT	_	4	punct	4:punct	_
 
 # sent_id = Fairytale3.3
 # text = Στάθη το λαχτόρι σον αωπό γνέντα.
@@ -986,7 +988,7 @@
 # text = Μη τα φήτζει να πνίξει τα ρνίθε.
 # translit =  Mi ta fitzei na pnixei ta rnithe.
 # text_en = Not to let her drown the hens
-1	Μη	μη	PART	ADV	_	3	advmod	3:advmod	_
+1	Μη	μη	PART	PART	_	3	advmod	3:advmod	_
 2	τα	ο	DET	DET	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	obj	3:obj	_
 3	φήτζει	φήνω	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	_
 4	να	να	AUX	AUX	_	5	aux	5:aux	_
@@ -1077,7 +1079,7 @@
 4	τζαι	jαι	CCONJ	CCONJ	_	13	cc	13:cc	_
 5	μο	με	ADP	ADP	_	10	case	10:case	_
 6	το	το	DET	DET	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	7	det	7:det	_
-7	λειψό	λειψός	ADJ	ADJ	Degree=Pos|Gender=Neut|Number=Sing	10	amod	10:amod	_
+7	λειψό	λειψός	ADJ	ADJ	Case=Acc|Gender=Neut|Number=Sing	10	amod	10:amod	_
 8	σου	σου	PRON	PRON	Case=Acc|Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	10	nmod	10:nmod	_
 9	τ’	το	DET	DET	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	10	det	10:det	_
 10	αχίλι	αχίλι	NOUN	NOUN	Case=Acc|Gender=Neut|Number=Sing	11	obl	11:obl	_
@@ -1101,14 +1103,14 @@
 5	πανου	πάνου	ADP	ADP	_	1	case	1:case	_
 6	τζαι	jαι	CCONJ	CCONJ	_	7	cc	7:cc	_
 7	πίεσεν	πιένω	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	1	conj	1:conj	_
-8	τα	το	DET	DET	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	7	obj	7:obj	_
+8	τα	το	PRON	PRON	Case=Acc|Gender=Neut|Number=Sing	7	obj	7:obj	_
 9-10	στο	_	_	_	_	_	_	_	_
 9	σ	σε	ADP	ADP	_	11	case	11:case	_
 10	το	το	DET	DET	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	11	det	11:det	_
 11	γουργούρι	γουργούρι	NOUN	NOUN	Case=Acc|Gender=Neut|Number=Sing	7	obl	7:obl	_
 12	ντα	να	SCONJ	SCONJ	_	13	mark	13:mark	_
 13	πνίξει	πνίγω	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Inf|Voice=Act	7	advcl	7:advcl	_
-14	τεϊ	το	DET	DET	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	13	obj	13:obj	SpaceAfter=No
+14	τεϊ	το	PRON	PRON	Case=Acc|Gender=Neut|Number=Sing	13	obj	13:obj	SpaceAfter=No
 15	.	.	PUNCT	PUNCT	_	1	punct	1:punct	_
 
 # sent_id = Fairytale3.13
@@ -1133,7 +1135,7 @@
 5	δεβοσύνη	δεβοσύνη	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Sing	3	obj	3:obj	SpaceAfter=No
 6	,	,	PUNCT	PUNCT	_	8	punct	8:punct	_
 7	να	να	AUX	AUX	_	8	aux	8:aux	_
-8	κομπώσει	(κομώνω)	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	3	conj	3:conj	_
+8	κομπώσει	(κομώνω)	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	5	acl	5:acl	_
 9	τον	ο	DET	DET	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	10:det	_
 10	αωπό	απός	NOUN	NOUN	Case=Acc|Gender=Masc|Number=Sing	8	obj	8:obj	SpaceAfter=No
 11	.	.	PUNCT	PUNCT	_	1	punct	1:punct	_
@@ -1231,7 +1233,7 @@
 # text_en = I'm a simple guardian.
 1	Γω	εγώ	PRON	PRON	Case=Nom|Number=Sing|PronType=Prs	4	nsubj	4:nsubj	_
 2	είμαι	είμαι	AUX	AUX	_	4	cop	4:cop	_
-3	άλεϊ	άλεϊ(ς)	ADJ	ADJ	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	4	amod	4:amod	_
+3	άλεϊ	άλεϊ(ς)	ADJ	ADJ	Case=Nom|Gender=Masc|Number=Sing	4	amod	4:amod	_
 4	φυακιάρ’	φυακιάρης	NOUN	NOUN	Case=Nom|Gender=Masc|Number=Sing	0	root	0:root	SpaceAfter=No
 5	.	.	PUNCT	PUNCT	_	4	punct	4:punct	_
 
@@ -1258,8 +1260,8 @@
 6	αβούτζι	αβούτζι	ADV	ADV	_	3	advmod	3:advmod	_
 7	αν	αν	NUM	NUM	Case=Acc|Gender=Neut|Number=Sing	8	nummod	8:nummod	_
 8	ασλανίχι	ασλανίχι	NOUN	NOUN	Case=Acc|Gender=Neut|Number=Sing	3	obj	3:obj	_
-9	να	να	SCONJ	SCONJ	_	10	mark	10:mark	_
-10	‘ουμε	θεωρώ	VERB	VERB	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|VerbForm=Fin|Voice=Act	3	advcl	3:advcl	_
+9	να	να	AUX	AUX	_	10	aux	10:aux	_
+10	‘ουμε	θεωρώ	VERB	VERB	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|VerbForm=Fin|Voice=Act	8	acl	8:acl	_
 11	π’	πα	PRON	PRON	Case=Acc|Gender=Neut|PronType=Int	14	obj	14:obj	_
 12	α	α	AUX	AUX	_	14	aux	14:aux	_
 13	με	εγώ	PRON	PRON	Case=Acc|Gender=Neut|Number=Sing|PronType=Prs	14	iobj	14:iobj	_
@@ -1284,19 +1286,19 @@
 # translit =  «Matem ki ‘yrepses na me zanachep’ pisi lachtori rade, em bro are na se pnixo, na se partsalatiso tzai te steroy na se poiko a zori faema».
 # text_en = "After so you wanted to make fun of me, you dirty rooster, first, now I will smother you, devour you and make you a wonderful meal."
 1	«	«	PUNCT	PUNCT	_	4	punct	4:punct	SpaceAfter=No
-2	Ματέμ	(Ματέμ)	ADP	ADP	_	4	mark	4:mark	_
+2	Ματέμ	(Ματέμ)	INTJ	INTJ	_	4	vocative	4:vocative	_
 3	κι	κι	CCONJ	CCONJ	_	4	cc	4:cc	_
 4	‘ύρεψες	γυρεύω	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=2|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	_
 5	να	να	AUX	AUX	_	7	aux	7:aux	_
 6	με	εγώ	PRON	PRON	Case=Acc|Gender=Neut|Number=Sing|PronType=Prs	7	obj	7:obj	_
 7	ζαναχέπ’	(ζαναχέπω)	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=2|Tense=Past|VerbForm=Fin|Voice=Act	4	ccomp	4:ccomp	_
-8	πίσι	pis	ADJ	ADJ	Case=Voc|Degree=Pos|Gender=Neut|Number=Sing	9	amod	9:amod	_
+8	πίσι	pis	ADJ	ADJ	Case=Voc|Gender=Neut|Number=Sing	9	amod	9:amod	_
 9	λαχτόρι	λαχτόρι	NOUN	NOUN	Case=Voc|Gender=Neut|Number=Sing	7	appos	7:appos	_
 10	ραδέ	ραδή	ADJ	ADJ	Case=Voc|Gender=Neut|Number=Sing	9	amod	9:amod	SpaceAfter=No
 11	,	,	PUNCT	PUNCT	_	17	punct	17:punct	_
 12	εμ	εμ	INTJ	INTJ	_	17	vocative	17:vocative	_
-13	μπρο	μπρο	ADV	ADV	Degree=Pos	17	advmod	17:advmod	_
-14	αρέ	αρέ	ADV	ADV	Degree=Pos	17	advmod	17:advmod	_
+13	μπρο	μπρο	ADV	ADV	_	17	advmod	17:advmod	_
+14	αρέ	αρέ	ADV	ADV	_	17	advmod	17:advmod	_
 15	να	να	AUX	AUX	_	17	aux	17:aux	_
 16	σε	εσύ	PRON	PRON	Case=Acc|Gender=Neut|Number=Sing|PronType=Prs	17	obj	17:obj	_
 17	πνίξω	πνίγω	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|VerbForm=Fin|Voice=Act	4	xcomp	4:xcomp	SpaceAfter=No
@@ -1306,7 +1308,7 @@
 21	παρτσαλατίσω	(παρτσαλώ)	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|VerbForm=Fin|Voice=Act	17	conj	17:conj	_
 22	τζαι	jαι	CCONJ	CCONJ	_	27	cc	27:cc	_
 23	τε	de	PART	PART	_	27	discourse	27:discourse	_
-24	στέρου	στέρου	ADV	ADV	Degree=Pos	27	advmod	27:advmod	_
+24	στέρου	στέρου	ADV	ADV	_	27	advmod	27:advmod	_
 25	να	να	AUX	AUX	_	27	aux	27:aux	_
 26	σε	εσύ	PRON	PRON	Case=Acc|Gender=Neut|Number=Sing|PronType=Prs	27	iobj	27:iobj	_
 27	ποίκω	ποιώ	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|VerbForm=Fin|Voice=Act	21	conj	21:conj	_
@@ -1334,7 +1336,7 @@
 # text_en = "I understood that from your hands I an not escaping with no power.
 1	«	«	PUNCT	PUNCT	_	2	punct	2:punct	SpaceAfter=No
 2	Γροίξα	αγροικώ	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	_
-3	τα	τα	DET	DET	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	2	obj	2:obj	_
+3	τα	τα	PRON	PRON	Case=Acc|Gender=Neut|Number=Sing	2	obj	2:obj	_
 4	κι	κι	SCONJ	SCONJ	_	11	mark	11:mark	_
 5-6	στα	_	_	_	_	_	_	_	_
 5	σ	σε	ADP	ADP	_	7	case	7:case	_
@@ -1372,25 +1374,25 @@
 9	Θεό	Θεός	NOUN	NOUN	Case=Acc|Gender=Masc|Number=Sing	7	obj	7:obj	_
 10	σου	εσύ	PRON	PRON	Case=Gen|Number=Sing|Poss=Yes|PronType=Prs	9	nmod	9:nmod	SpaceAfter=No
 11	,	,	PUNCT	PUNCT	_	12	punct	12:punct	_
-12	άφτσε	αφήνω	VERB	VERB	Aspect=Perf|Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	4	conj	4:conj	_
+12	άφτσε	αφήνω	VERB	VERB	Aspect=Perf|Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	4	parataxis	4:parataxis	_
 13	με	εγώ	PRON	PRON	Case=Acc|Number=Sing|PronType=Prs	12	obj	12:obj	_
 14	να	να	AUX	AUX	_	15	aux	15:aux	_
-15	βκώ	βγαίνω	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|VerbForm=Fin|Voice=Act	12	xcomp	12:xcomp	_
-16	‘τζα	τζα	NUM	NUM	Case=Nom|Number=Sing|NumType=Card	15	acl	15:acl	_
+15	βκώ	βγαίνω	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|VerbForm=Fin|Voice=Act	12	ccomp	12:ccomp	_
+16	‘τζα	τζα	NUM	NUM	Case=Nom|Number=Sing|NumType=Card	15	nummod	15:nummod	_
 17-18	σο	_	_	_	_	_	_	_	_
 17	σ	σε	ADP	ADP	_	19	mark	19:mark	_
 18	ο	ο	DET	DET	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	19	det	19:det	_
 19	δώμα	δώμα	NOUN	NOUN	Case=Acc|Gender=Neut|Number=Sing	22	obl	22:obl	_
 20	πάνω	πάνω	ADV	ADV	_	19	advmod	19:advmod	_
 21	ν’	να	AUX	AUX	_	22	aux	22:aux	_
-22	αλήσω	λαλώ	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|VerbForm=Fin|Voice=Act	15	xcomp	15:xcomp	_
+22	αλήσω	λαλώ	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|VerbForm=Fin|Voice=Act	15	ccomp	15:ccomp	_
 23	στερνά	στερνός	ADV	ADV	_	22	advmod	22:advmod	_
 24	δύο	δύο	NUM	NUM	Case=Acc|Gender=Neut|Number=Plur|NumType=Card	26	nummod	26:nummod	_
 25	τρία	τρία	NUM	NUM	Case=Acc|Gender=Neut|Number=Plur|NumType=Card	26	nummod	26:nummod	_
 26	φορέδες	φορά	NOUN	NOUN	Case=Acc|Gender=Neut|Number=Plur	22	nmod	22:nmod	SpaceAfter=No
 27	,	,	PUNCT	PUNCT	_	29	punct	29:punct	_
 28	να	να	AUX	AUX	_	29	aux	29:aux	_
-29	πητάξω	πετώ	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|VerbForm=Fin|Voice=Act	15	xcomp	15:xcomp	_
+29	πητάξω	πετώ	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|VerbForm=Fin|Voice=Act	15	ccomp	15:ccomp	_
 30	σελάμι	selam	NOUN	NOUN	Case=Acc|Gender=Neut|Number=Sing	29	obj	29:obj	_
 31-32	σις	_	_	_	_	_	_	_	_
 31	σ	σε	ADP	ADP	_	33	case	33:case	_
@@ -1403,7 +1405,7 @@
 # translit =  Tzai steroy poik to keifi soy tzai fa me mo to choyzoyri soy.
 # text_en = And then have fun and eat me in peace.
 1	Τζαι	jαι	CCONJ	CCONJ	_	3	cc	3:cc	_
-2	στέρου	στέρου	ADV	ADV	Degree=Pos	3	advmod	3:advmod	_
+2	στέρου	στέρου	ADV	ADV	_	3	advmod	3:advmod	_
 3	ποικ	ποιώ	VERB	VERB	Aspect=Perf|Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	_
 4	το	το	DET	DET	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	5	det	5:det	_
 5	κέιφι	kef	NOUN	NOUN	Case=Acc|Gender=Neut|Number=Sing	3	obj	3:obj	_
@@ -1462,7 +1464,7 @@
 9	να	να	SCONJ	SCONJ	_	10	mark	10:mark	_
 10	'ινεί	γίνομαι	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	2	advcl	2:advcl	_
 11	το	το	DET	DET	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	12	det	12:det	_
-12	στερνό	στερνός	ADJ	ADJ	_	15	amod	15:amod	_
+12	στερνό	στερνός	ADJ	ADJ	Case=Acc|Gender=Neut|Number=Sing	15	amod	15:amod	_
 13	σου	εσύ	PRON	PRON	Case=Gen|Number=Sing|Poss=Yes|PronType=Prs	15	nmod	15:nmod	_
 14	το	το	DET	DET	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	15	det	15:det	_
 15	χατίρι	χατίρι	NOUN	NOUN	Case=Acc|Gender=Neut|Number=Sing	10	nsubj	10:nsubj	SpaceAfter=No
@@ -1511,11 +1513,11 @@
 7	,	,	PUNCT	PUNCT	_	8	punct	8:punct	_
 8	σαίρεται	χαίρομαι	VERB	VERB	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	2	conj	2:conj	_
 9	τα	το	DET	DET	Case=Acc|Definite=Def|Gender=Neut|Number=Plur|PronType=Art	11	det	11:det	_
-10	πουά	πολλά	ADJ	ADJ	Case=Acc|Degree=Pos|Gender=Neut|Number=Plur	11	nmod	11:nmod	_
-11	'ρνίθα	ρνίθι	NOUN	NOUN	Case=Acc|Gender=Neut|Number=Plur	14	obj	14:obj	_
-12	του	του	ADP	ADP	_	14	case	14:case	_
+10	πουά	πολλά	ADJ	ADJ	Case=Acc|Gender=Neut|Number=Plur	11	nmod	11:nmod	_
+11	'ρνίθα	ρνίθι	NOUN	NOUN	Case=Acc|Gender=Neut|Number=Plur	8	obj	8:obj	_
+12	του	του	ADP	ADP	_	14	obl	14:obl	_
 13	χα	χα	AUX	AUX	_	14	aux	14:aux	_
-14	φα	φάω	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|VerbForm=Fin|Voice=Act	8	xcomp	8:xcomp	SpaceAfter=No
+14	φα	φάω	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|VerbForm=Fin|Voice=Act	11	acl:relcl	11:acl:relcl	SpaceAfter=No
 15	.	.	PUNCT	PUNCT	_	2	punct	2:punct	_
 
 # sent_id = Fairytale3.36
@@ -1535,21 +1537,21 @@
 # translit =  Te steroy sitsiratsen s’ apoy ti charai, tsirmalatsen ta, evkalen ta ftalme toy poitzen da korieni.
 # text_en = And then it jumped to the fox's face, it scratched it, gouged out its eyes, it blinded it.
 1	Τε	de	PART	PART	_	3	discourse	3:discourse	_
-2	στέρου	(στέρου)	ADV	ADV	_	3	advmod	3:advmod	_
+2	στέρου	στέρου	ADV	ADV	_	3	advmod	3:advmod	_
 3	σιτσιράτσεν	(σιτσιράτσω)	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	_
 4	σ’	σε	ADP	ADP	_	7	mark	7:mark	_
 5	απού	απός	NOUN	NOUN	Case=Gen|Gender=Masc|Number=Sing	7	nmod	7:nmod	_
 6	τη	η	DET	DET	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	7:det	_
 7	χαραή	χαραή	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Sing	3	obl	3:obl	SpaceAfter=No
 8	,	,	PUNCT	PUNCT	_	9	punct	9:punct	_
-9	τσιρμαλάτσεν	(τσιρμαλάτσω)	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	3	conj	3:conj	_
+9	τσιρμαλάτσεν	(τσιρμαλάτσω)	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	3	parataxis	3:parataxis	_
 10	τα	ο	NOUN	NOUN	Case=Acc|Gender=Masc|Number=Sing	9	obj	9:obj	SpaceAfter=No
 11	,	,	PUNCT	PUNCT	_	12	punct	12:punct	_
-12	έβκαλεν	βγαίνω	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	3	conj	3:conj	_
+12	έβκαλεν	βγαίνω	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	9	parataxis	9:parataxis	_
 13	τα	οι	DET	DET	Case=Acc|Definite=Def|Gender=Masc|Number=Plur|PronType=Art	14	det	14:det	_
 14	φτάλμε	οθφαλμός	NOUN	NOUN	Case=Acc|Gender=Masc|Number=Plur	12	obj	12:obj	_
 15	του	ο	DET	DET	Case=Gen|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	14	nmod	14:nmod	_
-16	ποίτζεν	ποιώ	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	3	conj	3:conj	_
+16	ποίτζεν	ποιώ	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	12	parataxis	12:parataxis	_
 17	dα	το	DET	DET	Case=Acc|Definite=Def|Gender=Neut|Number=Plur|PronType=Art	18	det	18:det	_
 18	κοριένι	(κοριέν)	NOUN	NOUN	Case=Acc|Gender=Neut|Number=Plur	16	obj	16:obj	SpaceAfter=No
 19	.	.	PUNCT	PUNCT	_	3	punct	3:punct	_
@@ -1596,7 +1598,7 @@
 18	με	εγώ	PRON	PRON	Case=Acc|Number=Sing|PronType=Prs	19	obj	19:obj	_
 19	ζαναχεύει	ζαναχέπω	VERB	VERB	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|VerbForm=Fin|Voice=Act	5	conj	5:conj	_
 20	αν	αν	NUM	NUM	Case=Nom|Gender=Neut|Number=Sing	22	nummod	22:nummod	_
-21	πίσι	pis	ADJ	ADJ	_	22	amod	22:amod	_
+21	πίσι	pis	ADJ	ADJ	Case=Nom|Gender=Neut|Number=Sing	22	amod	22:amod	_
 22	λαχτόρι	λαχτόρι	NOUN	NOUN	Case=Nom|Gender=Neut|Number=Sing	19	nsubj	19:nsubj	SpaceAfter=No
 23	.	.	PUNCT	PUNCT	_	5	punct	5:punct	_
 
@@ -1614,10 +1616,10 @@
 7	κέσκε	keske	PART	PART	_	10	vocative	10:vocative	_
 8-9	ντα	_	_	_	_	_	_	_	_
 8	ν	να	AUX	AUX	_	10	aux	10:aux	_
-9	τα	το	DET	DET	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	10	obj	10:obj	_
+9	τα	το	PRON	PRON	Case=Acc|Gender=Neut|Number=Sing	10	obj	10:obj	_
 10	φάω	τρώγω	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|VerbForm=Fin|Voice=Act	4	xcomp	4:xcomp	_
 11	τσας	τσας	ADV	ADV	_	10	advmod	10:advmod	_
-12	τα	το	DET	DET	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	13	obj	13:obj	_
+12	τα	το	PRON	PRON	Case=Acc|Gender=Neut|Number=Sing	13	obj	13:obj	_
 13	είχα	έχω	VERB	VERB	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	4	xcomp	4:xcomp	_
 14-15	σα	_	_	_	_	_	_	_	_
 14	σ	σε	ADP	ADP	_	16	case	16:case	_
@@ -1644,11 +1646,11 @@
 10	,	,	PUNCT	PUNCT	_	11	punct	11:punct	_
 11	πιέσαν	πιάνω	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	6	conj	6:conj	_
 12	τον	ο	DET	DET	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	14	det	14:det	_
-13	κιορ	κιορ	ADJ	ADJ	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	14	amod	14:amod	_
+13	κιορ	κιορ	ADJ	ADJ	Case=Acc|Gender=Masc|Number=Sing	14	amod	14:amod	_
 14	αωπό	απός	NOUN	NOUN	Case=Acc|Gender=Masc|Number=Sing	11	obj	11:obj	SpaceAfter=No
 15	,	,	PUNCT	PUNCT	_	16	punct	16:punct	_
 16	κόνσαν	κολώ	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	6	conj	6:conj	_
-17	τα	ο	DET	DET	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	16	obj	16:obj	_
+17	τα	ο	PRON	PRON	Case=Acc|Gender=Masc|Number=Sing|PronType=Art	16	obj	16:obj	_
 18-19	σον	_	_	_	_	_	_	_	_
 18	σ	σε	ADP	ADP	_	20	mark	20:mark	_
 19	ον	o	DET	DET	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	20	det	20:det	_
@@ -1690,7 +1692,7 @@
 1-2	Σον	_	_	_	_	_	_	_	_
 1	Σ	σε	ADP	ADP	_	3	case	3:case	_
 2	ον	ο	DET	DET	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	3:det	_
-3	παλό	παλαιός	ADJ	ADJ	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	5	amod	5:amod	_
+3	παλό	παλαιός	ADJ	ADJ	Case=Acc|Gender=Masc|Number=Sing	5	amod	5:amod	_
 4	τον	ο	DET	DET	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	5:det	_
 5	ταρό	ταρός	NOUN	NOUN	Case=Acc|Gender=Masc|Number=Sing	11	obl	11:obl	SpaceAfter=No
 6	,	,	PUNCT	PUNCT	_	11	punct	11:punct	_
@@ -1723,7 +1725,7 @@
 7	είσαι	είμαι	AUX	AUX	_	6	cop	6:cop	_
 8	τζαι	jαι	CCONJ	CCONJ	_	14	cc	14:cc	_
 9	αντί	αντί	SCONJ	SCONJ	_	12	mark	12:mark	_
-10	πέγος	(πέγος)	ADJ	ADJ	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	12	amod	12:amod	_
+10	πέγος	(πέγος)	ADJ	ADJ	Case=Nom|Gender=Masc|Number=Sing	12	amod	12:amod	_
 11	-	-	PUNCT	PUNCT	_	12	punct	12:punct	_
 12	αβγάτ’ς	(αβγάτης)	NOUN	NOUN	Case=Nom|Gender=Masc|Number=Sing	14	obl	14:obl	SpaceAfter=No
 13	,	,	PUNCT	PUNCT	_	14	punct	14:punct	_
@@ -1796,7 +1798,7 @@
 3	αντί	αντί	SCONJ	SCONJ	_	4	mark	4:mark	_
 4	πέγος	πέγος	NOUN	NOUN	Case=Nom|Gender=Masc|Number=Sing	2	obl	2:obl	SpaceAfter=No
 5	,	,	PUNCT	PUNCT	_	2	punct	2:punct	_
-6	δεχούς	δεχούς	SCONJ	SCONJ	_	7	mark	7:mark	_
+6	δεχούς	δεχούς	ADP	ADP	_	7	mark	7:mark	_
 7	μάνα	μάνα	NOUN	NOUN	Case=Gen|Gender=Fem|Number=Sing	2	obl	2:obl	_
 8	τζαι	jαι	CCONJ	CCONJ	_	9	cc	9:cc	_
 9	‘δελφές	ἀδελφή	NOUN	NOUN	Case=Gen|Gender=Fem|Number=Plur	7	conj	7:conj	SpaceAfter=No
@@ -1806,7 +1808,7 @@
 # sent_id = Fairytale4.8
 # text = Το λαχτόρι πάλι δώτζεν τζογάπην τζ’ είπεν ‘τι:
 # translit =  To lachtori pali dotzen tzogapin tz’ eipen ‘ti:
-# text_en = And you speak like a bey without a mother and sisters!"
+# text_en = The rooster gave an answer and said: 
 1	Το	το	DET	DET	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	2	det	2:det	_
 2	λαχτόρι	λαχτόρι	NOUN	NOUN	Case=Nom|Gender=Neut|Number=Sing	4	nsubj	4:nsubj	_
 3	πάλι	πάλι	ADV	ADV	_	4	advmod	4:advmod	_
@@ -1854,7 +1856,7 @@
 5	σ΄	σε	ADP	ADP	_	7	case	7:case	_
 6	ε	ένα	NUM	NUM	Case=Acc|Gender=Neut|Number=Sing|NumType=Card	7	nummod	7:nummod	_
 7	καφέσι	καφέσι	NOUN	NOUN	Case=Acc|Gender=Neut|Number=Sing	4	obl	4:obl	_
-8	πέσου	πέσου	ADV	ADV	_	4	advmod	4:advmod	SpaceAfter=No
+8	πέσου	πέσου	ADP	ADP	_	7	mark	7:mark	SpaceAfter=No
 9	»	»	PUNCT	PUNCT	_	4	punct	4:punct	SpaceAfter=No
 10	,	,	PUNCT	PUNCT	_	11	punct	11:punct	_
 11	είπεν	λαλώ	VERB	VERB	Aspect=Perf|Mood=Imp|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	_
@@ -1916,7 +1918,7 @@
 10-11	σ΄ε	_	_	_	_	_	_	_	_
 10	σ΄	σε	ADP	ADP	_	13	mark	13:mark	_
 11	ε	ένα	DET	DET	Case=Acc|Gender=Neut|Number=Sing	13	det	13:det	_
-12	ψεό	υψηλός	ADJ	ADJ	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	13	amod	13:amod	_
+12	ψεό	υψηλός	ADJ	ADJ	Case=Acc|Gender=Neut|Number=Sing	13	amod	13:amod	_
 13	τάλι	(χαλί)	NOUN	NOUN	Case=Acc|Gender=Neut|Number=Sing	8	obl	8:obl	SpaceAfter=No
 14	.	.	PUNCT	PUNCT	_	3	punct	3:punct	_
 
@@ -2027,7 +2029,7 @@
 1	Είπεν	λέγω	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	_
 2	τι	τι	SCONJ	PRON	_	1	mark	1:mark	_
 3	κι	και	SCONJ	CCONJ	_	1	mark	1:mark	_
-4	τζ’	τζ’	CCONJ	ADV	_	6	cc	6:cc	_
+4	τζ’	τζ’	CCONJ	CCONJ	_	6	cc	6:cc	_
 5	ο	ο	DET	DET	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	6:det	_
 6	ασλάνος	ασλάνος	NOUN	NOUN	Case=Nom|Gender=Masc|Number=Sing	1	nsubj	1:nsubj	_
 7	χέμεν	χέμω	ADV	ADV	_	1	advmod	1:advmod	SpaceAfter=No
@@ -2086,7 +2088,7 @@
 1	«	«	PUNCT	PUNCT	_	6	punct	6:punct	SpaceAfter=No
 2	Ο	ο	DET	DET	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	3:det	_
 3	ασλάνος	ασλάνος	NOUN	NOUN	Case=Nom|Gender=Masc|Number=Sing	6	nsubj	6:nsubj	_
-4	ένι	ένι	AUX	ADV	_	6	cop	6:cop	_
+4	ένι	ένι	AUX	AUX	_	6	cop	6:cop	_
 5	βυνατό	βυνατός	ADJ	ADJ	Case=Nom|Gender=Neut|Number=Sing	6	amod	6:amod	_
 6	τζαναβάρι	τζαναβάρι	NOUN	NOUN	Case=Nom|Gender=Neut|Number=Sing	0	root	0:root	SpaceAfter=No
 7	,	,	PUNCT	PUNCT	_	6	punct	6:punct	_
@@ -2095,7 +2097,7 @@
 10	αχίλι	αχίλι	NOUN	NOUN	Case=Nom|Gender=Neut|Number=Sing	13	nsubj	13:nsubj	_
 11	του	μου	PRON	PRON	Case=Gen|Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	10	nmod	10:nmod	_
 12	ένι	ένι	AUX	AUX	_	13	cop	13:cop	_
-13	λειψό	λειψός	ADJ	NOUN	Case=Nom|Gender=Masc|Number=Sing	6	conj	6:conj	SpaceAfter=No
+13	λειψό	λειψός	ADJ	ADJ	Case=Nom|Gender=Masc|Number=Sing	6	conj	6:conj	SpaceAfter=No
 14	.	.	PUNCT	PUNCT	_	6	punct	6:punct	_
 
 # sent_id = Fairytale2.9
@@ -2177,7 +2179,7 @@
 10	υρίστη	γυρίζω	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	7	parataxis	7:parataxis	_
 11	τον	ο	DET	DET	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	det	12:det	_
 12	κων	κώλος	NOUN	NOUN	Case=Acc|Gender=Masc|Number=Sing	10	obj	10:obj	_
-13	του	ο	DET	DET	Case=Gen|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	12	nmod	12:nmod	_
+13	του	ο	PRON	PRON	Case=Gen|Gender=Neut|Number=Sing	12	nmod	12:nmod	_
 14	τζ’	jαι	CCONJ	CONJ	_	15	cc	15:cc	_
 15	έκκουασεν	κλάνω	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	10	conj	10:conj	_
 16-17	σο	_	_	_	_	_	_	_	_
@@ -2211,7 +2213,7 @@
 17-18	σο	_	_	_	_	_	_	_	_
 17	σ	σε	ADP	ADP	_	19	case	19:case	_
 18	ο	το	DET	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Art	_	19	det	19:det	_
-19	μεντζιλίσι	menjουλίσι	NOUN	NOUN	Case=Acc|Gender=Neut|Number=Sing	16	obl	16:obl	_
+19	μεντζιλίσι	menjουλίσι	NOUN	NOUN	Case=Acc|Gender=Neut|Number=Sing	16	xcomp	16:xcomp	_
 20	πέσου	πέσου	ADP	ADP	_	19	case	19:case	SpaceAfter=No
 21	.	.	PUNCT	PUNCT	_	3	punct	3:punct	_
 
