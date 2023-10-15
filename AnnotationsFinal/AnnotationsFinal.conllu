@@ -2436,7 +2436,7 @@
 # text = Τα σοιριδόκα πασλάτσαν να βουρκανίζουν:
 # text_en = The little pigs began to grunt:
 1	Τα	το	DET	DET	Case=Nom|Definite=Def|Gender=Neut|Number=Plur|PronType=Art	3	det	3:det	_
-2	σοιριδόκα	χοιρίδι(ον)	NOUN	NOUN	Case=Nom|Gender=Neut|Number=Plur	4	nsubj	4:nsubj	_
+2	σοιριδόκα	χοιρίδι(ον)	NOUN	NOUN	Case=Nom|Gender=Neut|Number=Plur	3	nsubj	3:nsubj	_
 3	πασλάτσαν	πασλατίσκην>başlamak	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	_
 4	να	να	AUX	AUX	_	5	aux	5:aux	_
 5	βουρκανίζουν	βουρκανίζω	VERB	VERB	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	xcomp	3:xcomp	SpaceAfter=No
