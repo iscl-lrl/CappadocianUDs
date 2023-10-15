@@ -2141,7 +2141,7 @@
 9	κατσί	κατζίν	NOUN	NOUN	Case=Acc|Gender=Neut|Number=Sing	3	obl	3:obl	SpaceAfter=No
 10	.	.	PUNCT	PUNCT	_	3	punct	3:punct	_
 
-# sent_id = Fairytale2.11
+# sent_id = Fairytale2.14
 # text = Τε στέρου, τζας όρσανε τ’ αβτζιλίκι τουνε, το ‘ρκούδι ποσάλτσεν το μεντζιλίσι.
 # translit =  Te steroy, tzas orsane t’ avtziliki toyne, to ‘rkoydi posaltsen to mentzilisi.
 # text_en = In the end, after they had designated their hunting area, the bear broke up the assembly
@@ -2162,7 +2162,7 @@
 15	μεντζιλίσι	menjουλίσι	NOUN	NOUN	Case=Acc|Gender=Neut|Number=Sing	13	obj	13:obj	SpaceAfter=No
 16	.	.	PUNCT	PUNCT	_	5	punct	5:punct	_
 
-# sent_id = Fairytale2.12
+# sent_id = Fairytale2.15
 # text = Το σοιρίδι τζας δεβαίγκε στον ασλάνο μπρο, υρίστη τον κων του τζ’ έκκουασεν σο μυτί του γνέντα.
 # translit =  To soiridi tzas devaigke ston aslano bro, uristi ton kon toy tz’ ekkoyasen so muti toy gnenta.
 # text_en = The pig, as he passed in front of the lion, turned his back and farted against his nose.
@@ -2190,7 +2190,7 @@
 20	γνέντα	γνέντα	ADP	ADP	_	18	case	18:case	SpaceAfter=No
 21	.	.	PUNCT	PUNCT	_	4	punct	4:punct	_
 
-# sent_id = Fairytale2.13
+# sent_id = Fairytale2.16
 # text = Ο ασλάνος χολιέστην, σηκώθαν του γουργουρού του τα τσάρε, με ντράπη ν’ τα σπαράξει σο μεντζιλίσι πέσου.
 # translit =  O aslanos choliestin, sikothan toy goyrgoyroy toy ta tsare, me ntrapi n’ ta sparaxei so mentzilisi pesoy.
 # text_en = The lion became angry, the hairs on his mane stood up, but he was ashamed to ravage the pig within the assembly.
@@ -2217,7 +2217,7 @@
 20	πέσου	πέσου	ADP	ADP	_	19	case	19:case	SpaceAfter=No
 21	.	.	PUNCT	PUNCT	_	3	punct	3:punct	_
 
-# sent_id = Fairytale2.14
+# sent_id = Fairytale2.17
 # text = Είπεν τι κι σο σοιρίδι:
 # translit =  Eipen ti ki so soiridi:
 # text_en = He said to the pig: 
@@ -2230,7 +2230,7 @@
 6	σοιρίδι	χοιρίδι(ον)	NOUN	NOUN	Case=Acc|Gender=Neut|Number=Sing	1	obl	1:obl	SpaceAfter=No
 7	:	:	PUNCT	PUNCT	_	1	punct	1:punct	_
 
-# sent_id = Fairytale2.15
+# sent_id = Fairytale2.18
 # text = «Να κρατεί ο κω σου, εδώ την εβή αδέ σου Καβάρη το κάτζι να μετρηθούμε».
 # translit =  «Na kratei o ko soy, edo tin evi ade soy Kavari to katzi na metrithoyme».
 # text_en = If you have the guts, come tomorrow to the Kavari rock to fight.
@@ -2256,7 +2256,7 @@
 19	»	»	PUNCT	PUNCT	_	18	punct	18:punct	SpaceAfter=No
 20	.	.	PUNCT	PUNCT	_	3	punct	3:punct	_
 
-# sent_id = Fairytale2.16
+# sent_id = Fairytale2.19
 # text = Είπεν dι τζαι το σοιρίδι κι:
 # translit =  Eipen di tzai to soiridi ki:
 # text_en = The pig said:
@@ -2268,7 +2268,7 @@
 6	κι	ki	SCONJ	SCONJ	_	1	mark	1:mark	SpaceAfter=No
 7	:	:	PUNCT	PUNCT	_	1	punct	1:punct	_
 
-# sent_id = Fairytale2.17
+# sent_id = Fairytale2.20
 # text = «Χα νάρτου».
 # translit =  «Cha nartoy».
 # text_en = I will come.
@@ -2278,7 +2278,7 @@
 4	»	»	PUNCT	PUNCT	_	3	punct	3:punct	SpaceAfter=No
 5	.	.	PUNCT	PUNCT	_	3	punct	3:punct	_
 
-# sent_id = Fairytale2.18
+# sent_id = Fairytale2.21
 # text = Πην το σοιρίδι σο κουμάσι, είπεν τι σ’η ’ναίκα του κι:
 # translit =  Pin to soiridi so koymasi, eipen ti s’i ’naika toy ki:
 # text_en = The pig went home and said to his wife: 
@@ -2300,7 +2300,7 @@
 14	κι	ki	SCONJ	SCONJ	_	8	mark	8:mark	SpaceAfter=No
 15	:	:	PUNCT	PUNCT	_	1	punct	1:punct	_
 
-# sent_id = Fairytale2.19
+# sent_id = Fairytale2.22
 # text = «Την εβή χα υπάω να μετρηθώ μο τον ασλάνο σου Καβάρη το κάτζι».
 # translit =  «Tin evi cha upao na metritho mo ton aslano soy Kavari to katzi».
 # text_en = Tomorrow I will go fight the lion at the Kavari rock.
@@ -2323,7 +2323,7 @@
 16	»	»	PUNCT	PUNCT	_	7	punct	7:punct	SpaceAfter=No
 17	.	.	PUNCT	PUNCT	_	5	punct	5:punct	_
 
-# sent_id = Fairytale2.20
+# sent_id = Fairytale2.23
 # text = Τρόμαξεν η σκρόφα, πασλάτσεν να τζαναβαρίζει:
 # translit =  Tromaxen i skrofa, paslatsen na tzanavarizei:
 # text_en = The pig was startled and started to scream.
@@ -2335,4 +2335,252 @@
 6	να	να	AUX	AUX	_	7	aux	7:aux	_
 7	τζαναβαρίζει	jαναβαρίζω	VERB	VERB	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	ccomp	5:ccomp	SpaceAfter=No
 8	:	:	PUNCT	PUNCT	_	1	punct	1:punct	_
+
+# sent_id = Fairytale2.36
+# text = Ήτουν ντάµα τουν τζαι αωπός µεχτάρης τζαι τοκτόρης.
+# text_en = The fox was their company, a secretary and a doctor.
+1	Ήτουν	είμαι	AUX	AUX	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	2	cop	2:cop	_
+2	ντάµα	ντάµα	NOUN	NOUN	Case=Nom|Gender=Neut|Number=Sing	0	root	0:root	_
+3	τουν	ο	DET	DET	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	nmod	5:nmod	_
+4	τζαι	jαι	CCONJ	CCONJ	_	5	cc	5:cc	_
+5	αωπός	αωπός	NOUN	NOUN	Case=Nom|Gender=Masc|Number=Sing	2	nsubj	2:nsubj	_
+6	µεχτάρης	µεχτάρης	NOUN	NOUN	Case=Gen|Gender=Masc|Number=Sing	5	dislocated	5:dislocated	_
+7	τζαι	jαι	CCONJ	CCONJ	_	8	cc	8:cc	_
+8	τοκτόρης	τοκτόρης	NOUN	NOUN	Case=Gen|Gender=Masc|Number=Sing	6	conj	6:conj	SpaceAfter=No
+9	.	.	PUNCT	PUNCT	_	2	punct	2:punct	_
+
+# sent_id = Fairytale2.37
+# text = Τζας γιαναστέσαν το σοιρίδι µο το γουβάλι σα κάκα πέσου, τα πεµεινά τζο πόρκαν να κρατήσουν το σολούχι τουν στη βρώµα του φερήγκην άνεµους.
+# text_en = As the pig and the bull came close, filled with feeces, the others could not hold their breath from the stink that the wind brought
+1	Τζας	τζας	ADV	ADV	_	2	advmod	2:advmod	_
+2	γιαναστέσαν	yanασώ	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	_
+3	το	ο	DET	DET	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	4	det	4:det	_
+4	σοιρίδι	χοιρίδι(ον)	NOUN	NOUN	Case=Nom|Gender=Neut|Number=Sing	2	nsubj	2:nsubj	_
+5	µο	µε	ADP	ADP	_	7	case	7:case	_
+6	το	ο	DET	DET	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	7	det	7:det	_
+7	γουβάλι	γουβάλι	NOUN	NOUN	Case=Acc|Gender=Neut|Number=Sing	4	obl	4:obl	_
+8-9	σα	_	_	_	_	_	_	_	_
+8	σ	σε	ADP	ADP	_	10	case	10:case	_
+9	α	α	PRON	PRON	_	10	det	10:det	_
+10	κάκα	κάκα	NOUN	NOUN	Case=Acc|Gender=Neut|Number=Plur	2	obl	2:obl	_
+11	πέσου	πέσου	ADV	ADV	_	10	advmod	10:advmod	SpaceAfter=No
+12	,	,	PUNCT	PUNCT	_	16	punct	16:punct	_
+13	τα	ο	DET	DET	Case=Nom|Definite=Def|Gender=Neut|Number=Plur|PronType=Art	14	det	14:det	_
+14	πεµεινά	πεµεινός	ADJ	ADJ	Case=Nom|Gender=Neut|Number=Plur	16	nsubj	16:nsubj	_
+15	τζο	τζο	PART	PART	_	16	advmod	16:advmod	_
+16	πόρκαν	πορκάω	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	2	parataxis	2:parataxis	_
+17	να	να	AUX	AUX	_	18	aux	18:aux	_
+18	κρατήσουν	κρατώ	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|VerbForm=Fin|Voice=Act	16	xcomp	16:xcomp	_
+19	το	το	DET	DET	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	20	det	20:det	_
+20	σολούχι	σολούχι	NOUN	NOUN	Case=Acc|Gender=Neut|Number=Sing	18	obj	18:obj	_
+21	τουν	μου	PRON	PRON	Case=Gen|Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	20	nmod	20:nmod	_
+22-23	στη	_	_	_	_	_	_	_	_
+22	σ	σε	ADP	ADP	_	24	case	24:case	_
+23	τη	η	DET	DET	Case=Acc|Gender=Fem|Number=Sing	24	det	24:det	_
+24	βρώµα	βρώµα	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Sing	18	obl	18:obl	_
+25	του	του	PRON	PRON	Case=Gen|Gender=Masc|Number=Sing|PronType=Prs	26	obl	26:obl	_
+26	φερήγκην	φέρνω	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	24	acl:relcl	24:acl:relcl	_
+27	άνεµους	άνεµος	NOUN	NOUN	Case=Gen|Gender=Neut|Number=Sing	26	nsubj	26:nsubj	SpaceAfter=No
+28	.	.	PUNCT	PUNCT	_	2	punct	2:punct	_
+
+# sent_id = Fairytale2.38
+# text = Ο ασλάνος πήρεν το καπλάνι τζαι χύτσαν, έφυαν µακρά.
+# text_en = The lion took the tiger and they run, left far away.
+1	Ο	ο	DET	DET	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	2:det	_
+2	ασλάνος	ασλάνος	NOUN	NOUN	Case=Nom|Gender=Masc|Number=Sing	3	nsubj	3:nsubj	_
+3	πήρεν	παίρνω	VERB	VERB	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	_
+4	το	το	DET	DET	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	5	det	5:det	_
+5	καπλάνι	qaplan	NOUN	NOUN	Case=Acc|Gender=Neut|Number=Sing	3	obj	3:obj	_
+6	τζαι	jαι	CCONJ	CCONJ	_	7	cc	7:cc	_
+7	χύτσαν	(χυτώ)	VERB	VERB	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	3	conj	3:conj	SpaceAfter=No
+8	,	,	PUNCT	PUNCT	_	9	punct	9:punct	_
+9	έφυαν	φεύγω	VERB	VERB	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	7	parataxis	7:parataxis	_
+10	µακρά	µακρά	ADV	ADV	_	9	advmod	9:advmod	SpaceAfter=No
+11	.	.	PUNCT	PUNCT	_	3	punct	3:punct	_
+
+# sent_id = Fairytale2.39
+# text = Ο αωπός, του ήτουν ατζεί µεχτάρ τζαι τοκτόρ, πόµεινην λέικο.
+# text_en = The fox, that was a secretary and a doctor, stayed a little.
+1	Ο	ο	DET	DET	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	2:det	_
+2	αωπός	αωπός	NOUN	NOUN	Case=Nom|Gender=Masc|Number=Sing	11	nsubj	11:nsubj	SpaceAfter=No
+3	,	,	PUNCT	PUNCT	_	7	punct	7:punct	_
+4	του	του	PRON	PRON	_	7	obl	7:obl	_
+5	ήτουν	είμαι	AUX	AUX	_	7	cop	7:cop	_
+6	ατζεί	ατζεί	ADV	ADV	_	7	advmod	7:advmod	_
+7	µεχτάρ	µεχτάρ	NOUN	NOUN	Case=Nom|Gender=Masc|Number=Sing	2	acl:relcl	2:acl:relcl	_
+8	τζαι	τζαι	CCONJ	CCONJ	_	9	cc	9:cc	_
+9	τοκτόρ	τοκτόρ	NOUN	NOUN	Foreign=Yes	7	conj	7:conj	SpaceAfter=No
+10	,	,	PUNCT	PUNCT	_	11	punct	11:punct	_
+11	πόµεινην	απομένω	VERB	VERB	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	_
+12	λέικο	ολίγος	ADV	ADV	_	11	advmod	11:advmod	SpaceAfter=No
+13	.	.	PUNCT	PUNCT	_	11	punct	11:punct	_
+
+# sent_id = Fairytale2.40
+# text = Πιέσην το µυτί του, έθιτζιν τα κοζλούχα σα φτάλµε του.
+# text_en = It closed its nose, put on its glasses.
+1	Πιέσην	πιέζω	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	_
+2	το	ο	DET	DET	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	3	det	3:det	_
+3	µυτί	µύτη	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Sing	1	obj	1:obj	_
+4	του	μου	PRON	PRON	Case=Gen|Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	3	nmod	3:nmod	SpaceAfter=No
+5	,	,	PUNCT	PUNCT	_	6	punct	6:punct	_
+6	έθιτζιν	θέκνω	VERB	VERB	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	parataxis	1:parataxis	_
+7	τα	ο	DET	DET	Case=Acc|Definite=Def|Gender=Neut|Number=Plur|PronType=Art	8	det	8:det	_
+8	κοζλούχα	gözlük	NOUN	NOUN	Case=Acc|Gender=Neut|Number=Plur	6	obj	6:obj	_
+9-10	σα	_	_	_	_	_	_	_	_
+9	σ	σε	ADP	ADP	_	11	case	11:case	_
+10	α	το	DET	DET	Case=Acc|Definite=Def|Gender=Neut|Number=Plur|PronType=Art	11	det	11:det	_
+11	φτάλµε	οθφαλμός	NOUN	NOUN	Case=Acc|Gender=Neut|Number=Plur	6	obl	6:obl	_
+12	του	μου	PRON	PRON	Case=Gen|Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	11	nmod	11:nmod	SpaceAfter=No
+13	.	.	PUNCT	PUNCT	_	1	punct	1:punct	_
+
+# sent_id = Fairytale2.41
+# text = Έγραψεν σο τεφτέρι του κι:
+# text_en = It wrote in its notepad:
+1	Έγραψεν	γράφω	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	_
+2-3	σο	_	_	_	_	_	_	_	_
+2	σ	σε	ADP	ADP	_	4	case	4:case	_
+3	ο	το	DET	DET	Case=Acc|Definite=Def|Gender=Neut|Number=Plur|PronType=Art	4	det	4:det	_
+4	τεφτέρι	defter	NOUN	NOUN	Case=Acc|Gender=Neut|Number=Sing	1	obl	1:obl	_
+5	του	μου	PRON	PRON	Case=Gen|Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	4	nmod	4:nmod	_
+6	κι	και	SCONJ	CCONJ	_	1	mark	1:mark	SpaceAfter=No
+7	:	:	PUNCT	PUNCT	_	1	punct	1:punct	_
+
+# sent_id = Fairytale2.42
+# text = «Ο ασλάνος έφυν, πόµεινεν παλικάρι το σοιρίδι».
+# text_en = The lion left, the pig is the winner.
+1	«	«	PUNCT	PUNCT	_	4	punct	4:punct	SpaceAfter=No
+2	Ο	ο	DET	DET	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	3:det	_
+3	ασλάνος	ασλάνος	NOUN	NOUN	Case=Nom|Gender=Masc|Number=Sing	4	nsubj	4:nsubj	_
+4	έφυν	φεύγω	VERB	VERB	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	SpaceAfter=No
+5	,	,	PUNCT	PUNCT	_	6	punct	6:punct	_
+6	πόµεινεν	απομένω	VERB	VERB	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	4	parataxis	4:parataxis	_
+7	παλικάρι	παλικάρι	NOUN	NOUN	Case=Nom|Gender=Masc|Number=Sing	9	dislocated	9:dislocated	_
+8	το	ο	DET	DET	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	9	det	9:det	_
+9	σοιρίδι	χοιρίδι(ον)	NOUN	NOUN	Case=Nom|Gender=Neut|Number=Sing	6	nsubj	6:nsubj	SpaceAfter=No
+10	»	»	PUNCT	PUNCT	_	4	punct	4:punct	SpaceAfter=No
+11	.	.	PUNCT	PUNCT	_	4	punct	4:punct	_
+
+# sent_id = Fairytale2.43
+# text = ∆ώτζεν το χαρτίο σο σοιρίδι τζαι χύτσεν ο αωπός σον ασλάνο κοντά.
+# text_en = The fox gave the paper to the pig and run close to the lion.
+1	∆ώτζεν	δίνω	VERB	VERB	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	_
+2	το	ο	DET	DET	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	3	det	3:det	_
+3	χαρτίο	χαρτί	NOUN	NOUN	Case=Acc|Gender=Neut|Number=Sing	1	obj	1:obj	_
+4-5	σο	_	_	_	_	_	_	_	_
+4	σ	σε	ADP	ADP	_	6	case	6:case	_
+5	ο	το	DET	DET	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	6	det	6:det	_
+6	σοιρίδι	χοιρίδι(ον)	NOUN	NOUN	Case=Acc|Gender=Neut|Number=Sing	1	obl	1:obl	_
+7	τζαι	jαι	CCONJ	CCONJ	_	8	cc	8:cc	_
+8	χύτσεν	(χυτώ)	VERB	VERB	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	1	conj	1:conj	_
+9	ο	ο	DET	DET	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	10:det	_
+10	αωπός	αωπός	NOUN	NOUN	Case=Nom|Gender=Masc|Number=Sing	8	nsubj	8:nsubj	_
+11-12	σον	_	_	_	_	_	_	_	_
+11	σ	σε	ADP	ADP	_	13	case	13:case	_
+12	ο	το	DET	DET	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	13	det	13:det	_
+13	ασλάνο	ασλάνος	NOUN	NOUN	Case=Acc|Gender=Masc|Number=Sing	8	obl	8:obl	_
+14	κοντά	κοντά	ADV	ADV	_	8	advmod	8:advmod	SpaceAfter=No
+15	.	.	PUNCT	PUNCT	_	1	punct	1:punct	_
+
+# sent_id = Fairytale2.44
+# text = ’Υρίστην το σοιρίδι σο κουµάσι, δώτζην το χαρτίο σ’η ’ναίκα του.
+# text_en = The pig returned home, gave the paper to his wife.
+1	’Υρίστην	γυρίζω	VERB	VERB	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	_
+2	το	το	DET	DET	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	3	det	3:det	_
+3	σοιρίδι	χοιρίδι(ον)	NOUN	NOUN	Case=Acc|Gender=Neut|Number=Sing	1	nsubj	1:nsubj	_
+4-5	σο	_	_	_	_	_	_	_	_
+4	σ	σε	ADP	ADP	_	6	case	6:case	_
+5	ο	το	DET	DET	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	6	det	6:det	_
+6	κουµάσι	κουµάσι	NOUN	NOUN	Case=Acc|Gender=Neut|Number=Sing	1	obl	1:obl	SpaceAfter=No
+7	,	,	PUNCT	PUNCT	_	8	punct	8:punct	_
+8	δώτζην	δίνω	VERB	VERB	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	parataxis	1:parataxis	_
+9	το	το	DET	DET	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	10	det	10:det	_
+10	χαρτίο	χαρτί	NOUN	NOUN	Case=Acc|Gender=Neut|Number=Sing	8	obj	8:obj	_
+11-12	σ’η	_	_	_	_	_	_	_	_
+11	σ’	σε	ADP	ADP	_	13	case	13:case	_
+12	η	η	DET	DET	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	13	dep	13:dep	_
+13	’ναίκα	γυναίκα	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Sing	8	obl	8:obl	_
+14	του	μου_	PRON	PRON	Case=Gen|Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	13	nmod	13:nmod	SpaceAfter=No
+15	.	.	PUNCT	PUNCT	_	1	punct	1:punct	_
+
+# sent_id = Fairytale2.45
+# text = Χάρην η σκρόφα.
+# text_en = The wife was happy.
+1	Χάρην	χαίρομαι	VERB	VERB	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	_
+2	η	η	DET	DET	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	3:det	_
+3	σκρόφα	σκρόφα	NOUN	NOUN	Case=Nom|Gender=Fem|Number=Sing	1	nsubj	1:nsubj	SpaceAfter=No
+4	.	.	PUNCT	PUNCT	_	1	punct	1:punct	_
+
+# sent_id = Fairytale2.46
+# text = Πέττασαν στη χαρά τουν τα σοιριδόκα.
+# text_en = The pigglets were dancing from happiness.
+1	Πέττασαν	πετάω	VERB	VERB	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	_
+2-3	στη	_	_	_	_	_	_	_	_
+2	σ	σε	ADP	ADP	_	4	case	4:case	_
+3	τη	ο	DET	DET	Case=Acc|Gender=Fem|Number=Sing	4	det	4:det	_
+4	χαρά	χαρά	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Sing	1	obl	1:obl	_
+5	τουν	μου	PRON	PRON	Case=Gen|Gender=Masc|Number=Plur|Person=3|Poss=Yes|PronType=Prs	4	nmod	4:nmod	_
+6	τα	το	DET	DET	Case=Acc|Definite=Def|Gender=Neut|Number=Plur|PronType=Art	7	det	7:det	_
+7	σοιριδόκα	χοιρίδι(ον)	NOUN	NOUN	Case=Acc|Gender=Neut|Number=Plur	1	nsubj	1:nsubj	SpaceAfter=No
+8	.	.	PUNCT	PUNCT	_	1	punct	1:punct	_
+
+# sent_id = Fairytale2.47
+# text = Το σχοιρίδι δέβην πάνου σον ασλάνο πιρ µου τα γουτσαχλατίσει!
+# text_en = The pig won the lion without touching him!
+1	Το	ο	DET	DET	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	2	det	2:det	_
+2	σχοιρίδι	χοιρίδι(ον)	NOUN	NOUN	Case=Nom|Gender=Neut|Number=Sing	3	nsubj	3:nsubj	_
+3	δέβην	διαβαίνω	VERB	VERB	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	_
+4	πάνου	πάνου	ADV	ADV	_	3	advmod	3:advmod	_
+5-6	σον	_	_	_	_	_	_	_	_
+5	σ	σ	ADP	ADP	_	7	case	7:case	_
+6	ον	ο	DET	DET	_	7	det	7:det	_
+7	ασλάνο	ασλάνος	NOUN	NOUN	Case=Acc|Gender=Neut|Number=Sing	3	obl	3:obl	_
+8	πιρ	πιρ	ADV	ADV	_	11	advmod	11:advmod	_
+9	µου	εγώ	INTJ	INTJ	_	11	vocative	11:vocative	_
+10	τα	ο	PRON	PRON	Case=Acc|Gender=Neut|Number=Plur|Person=3|PronType=Prs	11	obj	11:obj	_
+11	γουτσαχλατίσει	(γουτσαχλατίζω)	VERB	VERB	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|VerbForm=Fin|Voice=Act	3	advcl	3:advcl	SpaceAfter=No
+12	!	!	PUNCT	PUNCT	_	3	punct	3:punct	_
+
+# sent_id = Fairytale2.48
+# text = Έφαγαν, έπαν, έφτασαν σα μουράτε τουν.
+# translit =  Έfagan, epan, eftasan sa moyrate toyn.
+# text_en = They ate, they drank, they lived happily ever after.
+1	Έφαγαν	τρώγω	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	SpaceAfter=No
+2	,	,	PUNCT	PUNCT	_	3	punct	3:punct	_
+3	έπαν	πίνω	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	1	conj	1:conj	SpaceAfter=No
+4	,	,	PUNCT	PUNCT	_	5	punct	5:punct	_
+5	έφτασαν	φτάνω	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	1	conj	1:conj	_
+6-7	σα	_	_	_	_	_	_	_	_
+6	σ	σε	ADP	ADP	_	8	case	8:case	_
+7	α	το	DET	DET	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	8	det	8:det	_
+8	μουράτε	murad	NOUN	NOUN	Case=Acc|Gender=Neut|Number=Sing	5	obl	5:obl	_
+9	τουν	το	PRON	PRON	Case=Gen|Number=Sing|PronType=Art	8	nmod	8:nmod	SpaceAfter=No
+10	.	.	PUNCT	PUNCT	_	1	punct	1:punct	_
+
+# sent_id = Fairytale2.49
+# text = Ντεµέκ: «Σο σοιρίδι µη πουλαστές, α ινείς περπάτι.
+# text_en = Like we say: Don't bother with the pig, you will get dirty.
+1	Ντεµέκ	Ντεμέκ	INTJ	INTJ	_	8	vocative	8:vocative	SpaceAfter=No
+2	:	:	PUNCT	PUNCT	_	1	punct	1:punct	_
+3	«	«	PUNCT	PUNCT	_	8	punct	8:punct	SpaceAfter=No
+4-5	Σο	_	_	_	_	_	_	_	_
+4	Σ	σε	ADP	ADP	_	6	case	6:case	_
+5	ο	το	DET	DET	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	6	det	6:det	_
+6	σοιρίδι	χοιρίδι(ον)	NOUN	NOUN	Case=Nom|Gender=Neut|Number=Sing	8	obl	8:obl	_
+7	µη	µη	PART	PART	_	8	advmod	8:advmod	_
+8	πουλαστές	(πουλαίνομαι)	VERB	VERB	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	SpaceAfter=No
+9	,	,	PUNCT	PUNCT	_	11	punct	11:punct	_
+10	α	α	AUX	AUX	_	11	aux	11:aux	_
+11	ινείς	γίνομαι	VERB	AUX	_	8	parataxis	8:parataxis	_
+12	περπάτι	(περπάτι)	NOUN	NOUN	Case=Nom|Gender=Neut|Number=Sing	11	dislocated	11:dislocated	SpaceAfter=No
+13	.	.	PUNCT	PUNCT	_	8	punct	8:punct	_
+
+# sent_id = Fairytale2.50
+# text = Τζαι 'τζείνο σαίρεται».
+# text_en = And it will be happy.
+1	Τζαι	jαι	CCONJ	CCONJ	_	4	cc	4:cc	_
+2	'	'	PUNCT	PUNCT	_	3	punct	3:punct	SpaceAfter=No
+3	τζείνο	τζείνο	PRON	PRON	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	4	nsubj	4:nsubj	_
+4	σαίρεται	χαίρομαι	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	0:root	SpaceAfter=No
+5	»	»	PUNCT	PUNCT	_	4	punct	4:punct	SpaceAfter=No
+6	.	.	PUNCT	PUNCT	_	4	punct	4:punct	SpaceAfter=No
 
