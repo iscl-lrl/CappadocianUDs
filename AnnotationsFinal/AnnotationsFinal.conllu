@@ -158,6 +158,7 @@
 # text = Στ' άβο τη μερέ ήρταν κάτσαν του χωρού τα χαϊβάνα: τ’ άβουγο, το βουρτόνι, το γαϊρίδι, το βόιδι, το γουβάλι, το πρόβατο, το σοιρίδι.
 # translit =  St' avo ti mere irtan katsan toy choroy ta chaivana: t’ avoygo, to voyrtoni, to gairidi, to voidi, to goyvali, to provato, to soiridi.
 # text_en = They came and sat down on the other side village animals: the horse, the mule, the donkey, the ox, the buffalo, the sheep, the pig.
+# TODO: Σ here is most probably ADP, not ADV.
 1-2	Στ'	_	_	_	_	_	_	_	_
 1	Σ	σε	ADV	ADV	_	3	case	3:case	_
 2	τ'	η	DET	DET	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	3:det	_
