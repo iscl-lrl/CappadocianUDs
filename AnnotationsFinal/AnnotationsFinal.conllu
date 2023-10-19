@@ -252,8 +252,8 @@
 # translit =   Eipan di ki penentavoy toyne ta dra ta tzanavara:
 # text_en = The big beasts said among themselves:
 1	Είπαν	λέγω	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	_
-2	dι	di	SCONJ	PART	_	1	mark	1:mark	_
-3	κι	κι	SCONJ	PART	_	1	mark	1:mark	_
+2	dι	di	SCONJ	SCONJ	_	1	mark	1:mark	_
+3	κι	κι	SCONJ	SCONJ	_	1	mark	1:mark	_
 4	πενεντάβου	πενενdάβου	ADP	ADP	_	5	case	5:case	_
 5	τουνε	το	PRON	PRON	Case=Gen|Gender=Neut|Number=Plur|PronType=Prs	1	obl	1:obl	_
 6	τα	το	DET	DET	Case=Nom|Definite=Def|Gender=Neut|Number=Plur|PronType=Art	7	det	7:det	_
@@ -293,7 +293,7 @@
 9	τζάπου	τζάπου	ADV	ADV	_	12	advmod	12:advmod	_
 10	να	να	AUX	AUX	_	12	aux	12:aux	_
 11	μες	εγω	PRON	PRON	Case=Acc|Gender=Neut|Number=Plur|Person=1|PronType=Prs	12	iobj	12:iobj	_
-12	εύρουν	ευρίσκω	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	8	xcomp	8:xcomp	SpaceAfter=No
+12	εύρουν	ευρίσκω	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	8	ccomp	8:ccomp	SpaceAfter=No
 13	.	.	PUNCT	PUNCT	_	3	punct	3:punct	_
 
 # sent_id = Fairytale1.16
@@ -1996,7 +1996,7 @@
 2	τζαι	jαι	CCONJ	CCONJ	_	3	cc	3:cc	_
 3	είπεν	λέγω	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	1	conj	1:conj	_
 4	τι	τι	SCONJ	SCONJ	_	3	mark	3:mark	_
-5	κι	και	CCONJ	CCONJ	_	3	mark	3:mark	_
+5	κι	και	SCONJ	SCONJ	_	3	mark	3:mark	_
 6	τζ’	jαι	CCONJ	CCONJ	_	7	cc	7:cc	_
 7	αωπός	αωπός	NOUN	NOUN	Case=Nom|Gender=Masc|Number=Sing	1	nsubj:pass	1:nsubj:pass	SpaceAfter=No
 8	:	:	PUNCT	PUNCT	_	1	punct	1:punct	_
