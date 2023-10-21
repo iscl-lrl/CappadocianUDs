@@ -977,7 +977,7 @@
 # text_en = The rooster stood opposite the fox.
 1	Στάθη	στέκουμαι	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	_
 2	το	το	DET	DET	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	3	det	3:det	_
-3	λαχτόρι	λαχτόρι	NOUN	NOUN	Case=Nom|Gender=Neut|Number=Sing	1	nsubj	1:nsubj	_
+3	λαχτόρι	λαχτόρι	NOUN	NOUN	Case=Nom|Gender=Neut|Number=Sing	1	nsubj:pass	1:nsubj:pass	_
 4-5	σον	_	_	_	_	_	_	_	_
 4	σ	σε	ADP	ADP	_	6	case	6:case	_
 5	ον	ο	DET	DET	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	6:det	_
@@ -1004,7 +1004,7 @@
 # text_en = He said to it:
 1	Είπεν	λαλώ	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	_
 2	‘τι	di	SCONJ	SCONJ	_	1	mark	1:mark	_
-3	κι	ki	PART	PART	_	1	mark	1:mark	SpaceAfter=No
+3	κι	ki	SCONJ	SCONJ	_	1	mark	1:mark	SpaceAfter=No
 4	:	:	PUNCT	PUNCT	_	1	punct	1:punct	_
 
 # sent_id = Fairytale3.6
@@ -1052,7 +1052,7 @@
 # text_en = The fox said too:
 1	Είπεν	λαλώ	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	_
 2	‘τι	di	SCONJ	SCONJ	_	1	mark	1:mark	_
-3	κι	ki	PART	PART	_	1	mark	1:mark	_
+3	κι	ki	SCONJ	SCONJ	_	1	mark	1:mark	_
 4	τζ’	o	DET	DET	_	5	det	5:det	_
 5	αωπός	απός	NOUN	NOUN	Case=Nom|Gender=Masc|Number=Sing	1	nsubj	1:nsubj	SpaceAfter=No
 6	:	:	PUNCT	PUNCT	_	1	punct	1:punct	_
@@ -1147,7 +1147,7 @@
 # text_en = TODO
 1	Είπεν	λαλώ	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	_
 2	‘τι	di	SCONJ	SCONJ	_	1	mark	1:mark	_
-3	κι	ki	PART	PART	_	1	mark	1:mark	SpaceAfter=No
+3	κι	ki	SCONJ	SCONJ	_	1	mark	1:mark	SpaceAfter=No
 4	:	:	PUNCT	PUNCT	_	1	punct	1:punct	_
 
 # sent_id = Fairytale3.16
@@ -1446,7 +1446,7 @@
 2	‘τι	di	SCONJ	SCONJ	_	1	mark	1:mark	_
 3	τζ’	jαι	CCONJ	CCONJ	_	1	conj	1:conj	_
 4	απός	απός	NOUN	NOUN	Case=Nom|Gender=Masc|Number=Sing	1	nsubj	1:nsubj	_
-5	κι	ki	PART	PART	_	1	mark	1:mark	SpaceAfter=No
+5	κι	ki	SCONJ	SCONJ	_	1	mark	1:mark	SpaceAfter=No
 6	:	_	PUNCT	PUNCT	_	1	punct	1:punct	_
 
 # sent_id = Fairytale3.32
@@ -1840,7 +1840,7 @@
 3	τζαι	jαι	CCONJ	CCONJ	_	7	cc	7:cc	_
 4	να	να	AUX	AUX	_	6	aux	6:aux	_
 5	με	εγώ	PRON	PRON	Case=Acc|Gender=Neut|Number=Sing|Person=1|PronType=Prs	6	iobj	6:iobj	_
-6	ειπείς	λαλώ	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	7	acl:recl	7:acl:recl	_
+6	ειπείς	λαλώ	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	7	acl:relcl	7:acl:relcl	_
 7	‘πέ	λαλώ	VERB	VERB	Aspect=Perf|Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	_
 8	με	εγώ	PRON	PRON	Case=Acc|Gender=Neut|Number=Sing|Person=1|PronType=Prs	7	iobj	7:iobj	SpaceAfter=No
 9	!	!	PUNCT	PUNCT	_	7	punct	7:punct	_
@@ -2192,7 +2192,7 @@
 1	Τε	τε	PART	PART	_	2	discourse	2:discourse	_
 2	στέρου	στέρου	ADV	ADV	_	5	advmod	5:advmod	SpaceAfter=No
 3	,	,	PUNCT	PUNCT	_	2	punct	2:punct	_
-4	τζας	τζας	ADV	ADV	_	5	advmod	5:advmod	_
+4	τζας	cas/jas	SCONJ	SCONJ	_	5	mark	5:mark	_
 5	όρσανε	ορίζω	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	_
 6	τ’	το	DET	DET	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	7	det	7:det	_
 7	αβτζιλίκι	αβτζιλίκι	NOUN	NOUN	Case=Acc|Gender=Neut|Number=Sing	5	obj	5:obj	_
@@ -2212,7 +2212,7 @@
 # text_en = The pig, as he passed in front of the lion, turned his back and farted against his nose.
 1	Το	ο	DET	DET	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	2	det	2:det	_
 2	σοιρίδι	χοιρίδι(ον)	NOUN	NOUN	Case=Nom|Gender=Neut|Number=Sing	4	nsubj	4:nsubj	_
-3	τζας	τζας	ADV	ADV	_	2	advmod	2:advmod	_
+3	τζας	cas/jas	SCONJ	SCONJ	_	4	mark	4:mark	_
 4	δεβαίγκε	διαβαίνω	VERB	VERB	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	_
 5-6	στον	_	_	_	_	_	_	_	_
 5	σ	σε	ADP	ADP	_	7	case	7:case	_
@@ -2564,7 +2564,7 @@
 # sent_id = Fairytale2.37
 # text = Τζας γιαναστέσαν το σοιρίδι µο το γουβάλι σα κάκα πέσου, τα πεµεινά τζο πόρκαν να κρατήσουν το σολούχι τουν στη βρώµα του φερήγκην άνεµους.
 # text_en = As the pig and the bull came close, filled with feeces, the others could not hold their breath from the stink that the wind brought
-1	Τζας	τζας	ADV	ADV	_	2	advmod	2:advmod	_
+1	Τζας	cas/jas	SCONJ	SCONJ	_	2	mark	2:mark	_
 2	γιαναστέσαν	yanασώ	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	_
 3	το	ο	DET	DET	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	4	det	4:det	_
 4	σοιρίδι	χοιρίδι(ον)	NOUN	NOUN	Case=Nom|Gender=Neut|Number=Sing	2	nsubj	2:nsubj	_
@@ -2575,7 +2575,7 @@
 8	σ	σε	ADP	ADP	_	10	case	10:case	_
 9	α	α	PRON	PRON	_	10	det	10:det	_
 10	κάκα	κάκα	NOUN	NOUN	Case=Acc|Gender=Neut|Number=Plur	2	obl	2:obl	_
-11	πέσου	πέσου	ADV	ADV	_	10	advmod	10:advmod	SpaceAfter=No
+11	πέσου	πέσου	ADP	ADV	_	10	case	10:case	SpaceAfter=No
 12	,	,	PUNCT	PUNCT	_	16	punct	16:punct	_
 13	τα	ο	DET	DET	Case=Nom|Definite=Def|Gender=Neut|Number=Plur|PronType=Art	14	det	14:det	_
 14	πεµεινά	πεµεινός	ADJ	ADJ	Case=Nom|Gender=Neut|Number=Plur	16	nsubj	16:nsubj	_
@@ -2654,7 +2654,7 @@
 3	ο	το	DET	DET	Case=Acc|Definite=Def|Gender=Neut|Number=Plur|PronType=Art	4	det	4:det	_
 4	τεφτέρι	defter	NOUN	NOUN	Case=Acc|Gender=Neut|Number=Sing	1	obl	1:obl	_
 5	του	μου	PRON	PRON	Case=Gen|Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	4	nmod	4:nmod	_
-6	κι	και	SCONJ	CCONJ	_	1	mark	1:mark	SpaceAfter=No
+6	κι	και	SCONJ	SCONJ	_	1	mark	1:mark	SpaceAfter=No
 7	:	:	PUNCT	PUNCT	_	1	punct	1:punct	_
 
 # sent_id = Fairytale2.42
