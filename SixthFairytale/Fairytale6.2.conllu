@@ -1,0 +1,13 @@
+# sent_id = Fairytale6.2
+# text = 'Σ αμ πώτο ζαμάνι ήτουνε τέσσερα νομάτοι.
+# translit =  'S am poto zamani itoune tessera nomatoi
+# text_en =In the old days it was four people.
+1	'	'	PUNCT	PUNCT	_	2	punct	2:punct	SpaceAfter=No
+2	Σ	σε	ADP	ADP	_	5	case	5:case	_
+3	αμ	αμ	DET	DET	Case=Acc|Gender=Neut|Number=Sing	5	det	5:det	_
+4	πώτο	πρώτο	ADJ	ADJ	Case=Acc|Gender=Neut|Number=Sing|NumType=Ord	4	det	_	_
+5	ζαμάνι	ζαμάν(ι)	NOUN	NOUN	Case=Acc|Gender=Neut|Number=Sing	8	obl	8:obl	_
+6	ήτουνε	είμαι	AUX	AUX	_	8	cop	8:cop	_
+7	τέσσερα	τέσερα	NUM	NUM	Case=Nom|Gender=Masc|Number=Plur|NumType=Card	8	nummod	8:nummod	_
+8	νομάτοι	νομάτης	NOUN	NOUN	Case=Nom|Gender=Masc|Number=Plur	0	root	0:root	SpaceAfter=No
+9	.	.	PUNCT	PUNCT	_	8	punct	8:punct	_
