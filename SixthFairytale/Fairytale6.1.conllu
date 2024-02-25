@@ -1,0 +1,9 @@
+# sent_id = Fairytale6.1
+# text = Σηκώθην jαι bά σηκώθη.
+# translit =  Sikothin jai ba sikothi.
+# text_en = He rose and rose.
+1	Σηκώθην	σηκούμαι	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	0	root	0:root	_
+2	jαι	jαι	CCONJ	CCONJ	_	4	cc	4:cc	_
+3	bά	bά	ADV	ADV	_	4	advmod	4:advmod	_
+4	σηκώθη	σηκούμαι	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	1	conj	1:conj	SpaceAfter=No
+5	.	.	PUNCT	PUNCT	_	1	punct	1:punct	_
