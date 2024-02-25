@@ -14,26 +14,63 @@
 9	τζ΄	jαι	CCONJ	CCONJ	_	12	cc	12:cc	_
 10	είσεν	είμαι	AUX	AUX	_	12	cop	12:cop	_
 11	τρία	τρείς	NUM	NUM	Case=Nom|Gender=Masc|Number=Plur	12	nummod	12:nummod	_
-12	γιοί	γιός	NOUN	NOUN	Case=Nom|Gender=Masc|Number=Plur	8	conj	8:conj	_
+12	γιοί	γιός	NOUN	NOUN	Case=Nom|Gender=Masc|Number=Plur	8	conj	8:conj	SpaceAfter=No
 13	.	.	PUNCT	PUNCT	_	8	punct	8:punct	_
 
 # sent_id = Fairytale5.2
 # text = Σ' η βασιλεία του πέσου κορίτσε σα παλικάρα του γκιορέ τζο βρισκούσαντε.
 # translit =  
 # text_en = 
-1	Σ	σε	ADP	ADP	_	4	case	4:case	_
-2	'	'	PUNCT	PUNCT	_	4	punct	4:punct	_
-3	η	η	DET	DET	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	4:det	_
-4	βασιλεία	βασιλεία_	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Sing	14	obl	14:obl	_
-5	του	ο	DET	DET	Case=Gen|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	nmod	4:nmod	_
-6	πέσου	πέσου	ADP	_	_	4	mark	4:mark	_
-7	κορίτσε	κορίτσι	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Sing	14	obj	14:obj	_
-8	σ	σε	ADP	_	_	10	case	10:case	_
-9	α	το	DET	DET	Case=Acc|Definite=Def|Gender=Neut|Number=Plur|PronType=Art	10	det	10:det	_
-10	παλικάρα	παλικάρι	NOUN	NOUN	Case=Acc|Gender=Neut|Number=Plur	14	obl	14:obl	_
-11	του	ο	DET	DET	Case=Gen|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	nmod	10:nmod	_
-12	γκιορέ	_	ADJ	ADJ	Case=Acc|Gender=Fem|Number=Plur	7	amod	7:amod	_
-13	τζο	τζο	PART	_	_	14	advmod	14:advmod	_
-14	βρισκούσαντε	ευρίσκω	VERB	VERB	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	_
-15	.	.	PUNCT	PUNCT	_	14	punct	14:punct	_
+1	Σ'	σε	ADP	ADP	_	3	case	3:case	SpaceAfter=No
+2	η	η	DET	DET	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	3:det	_
+3	βασιλεία	βασιλεία_	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Sing	13	obl	13:obl	_
+4	του	ο	DET	DET	Case=Gen|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	nmod	3:nmod	_
+5	πέσου	πέσου	ADP	_	_	3	mark	3:mark	_
+6	κορίτσε	κορίτσι	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Sing	13	obj	13:obj	_
+7	σ	σε	ADP	_	_	9	case	9:case	_
+8	α	το	DET	DET	Case=Acc|Definite=Def|Gender=Neut|Number=Plur|PronType=Art	9	det	9:det	_
+9	παλικάρα	παλικάρι	NOUN	NOUN	Case=Acc|Gender=Neut|Number=Plur	13	obl	13:obl	_
+10	του	ο	DET	DET	Case=Gen|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	nmod	9:nmod	_
+11	γκιορέ	_	ADJ	ADJ	Case=Acc|Gender=Fem|Number=Plur	6	amod	6:amod	_
+12	τζο	τζο	PART	_	_	13	advmod	13:advmod	_
+13	βρισκούσαντε	ευρίσκω	VERB	VERB	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	SpaceAfter=No
+14	.	.	PUNCT	PUNCT	_	13	punct	13:punct	_
 
+# sent_id = Fairytale5.3
+# text = Α ηµέρα, τα φσάχα ποίκαν το κατζί, να υπάν’ σ’ εν άβου χώρας τόπος να ‘ναύρουν νυφάδες.
+# translit =  
+# text_en = 
+1	Α	α	DET	DET	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	2:det	_
+2	ηµέρα	ηµέρα	NOUN	NOUN	Case=Nom|Gender=Fem|Number=Sing	6	obl	6:obl	SpaceAfter=No
+3	,	,	PUNCT	PUNCT	_	2	punct	2:punct	_
+4	τα	ὁ	DET	DET	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	5:det	_
+5	φσάχα	φσάχ	NOUN	NOUN	Case=Acc|Gender=Masc|Number=Plur	6	nsubj	6:nsubj	_
+6	ποίκαν	ποιώ	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	_
+7	το	το	DET	DET	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	8	det	8:det	_
+8	κατζί	κατζί	NOUN	NOUN	Case=Acc|Gender=Neut|Number=Sing	6	obj	6:obj	SpaceAfter=No
+9	,	,	PUNCT	PUNCT	_	6	punct	6:punct	_
+10	να	να	AUX	AUX	_	11	aux	11:aux	_
+11	υπάν’	πηγαίνω	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	6	ccomp	6:ccomp	_
+12	σ’	σε	ADP	ADP	_	16	case	16:case	_
+13	εν	εν	DET	DET	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	16	det	16:det	_
+14	άβου	άβ	ADJ	ADJ	Case=Gen|Gender=Fem|Number=Sing	15	amod	15:amod	_
+15	χώρας	χώρα	NOUN	NOUN	Case=Gen|Gender=Fem|Number=Sing	16	nmod	16:nmod	_
+16	τόπος	τόπος	NOUN	NOUN	Case=Nom|Gender=Masc|Number=Sing	11	obl	11:obl	_
+17	να	να	AUX	AUX	_	18	aux	18:aux	_
+18	‘ναύρουν	βρίσκω	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	11	parataxis	11:parataxis	_
+19	νυφάδες	νύφη	NOUN	NOUN	Case=Nom|Gender=Fem|Number=Plur	18	obj	18:obj	SpaceAfter=No
+20	.	.	PUNCT	PUNCT	_	6	punct	6:punct	_
+
+# sent_id = Fairytale5.4
+# text = Γαλίτζεψαν τ’ άβγα τουν, τζ’ έβκαν ση στράτα.
+1	Γαλίτζεψαν	(γαλιτσεύω)	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	_
+2	τ’	το	DET	DET	Case=Acc|Definite=Def|Gender=Masc|Number=Plur|PronType=Art	3	det	3:det	_
+3	άβγα	άβγο	NOUN	NOUN	Case=Acc|Gender=Neut|Number=Plur	1	obj	1:obj	_
+4	τουν	ο	DET	DET	Case=Gen|Definite=Def|Gender=Masc|Number=Plur|PronType=Art	3	nummod	3:nummod	_
+5	,	,	PUNCT	PUNCT	_	1	punct	1:punct	_
+6	τζ’	jαι	CCONJ	CCONJ	_	7	cc	7:cc	_
+7	έβκαν	βγαίνω	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	1	conj	1:conj	_
+8	σ	σε	ADP	ADP	_	10	mark	10:mark	_
+9	η	η	DET	DET	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	dep	10:dep	_
+10	στράτα	στράτα	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Sing	7	obl	7:obl	_
+11	.	.	PUNCT	PUNCT	_	1	punct	1:punct	_
