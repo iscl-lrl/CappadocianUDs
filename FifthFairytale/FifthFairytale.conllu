@@ -75,6 +75,8 @@
 
 # sent_id = Fairytale5.4
 # text = Γαλίτζεψαν τ’ άβγα τουν, τζ’ έβκαν ση στράτα.
+# translit =  
+# text_en = 
 1	Γαλίτζεψαν	(γαλιτσεύω)	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	_
 2	τ’	το	DET	DET	Case=Acc|Definite=Def|Gender=Masc|Number=Plur|PronType=Art	3	det	3:det	_
 3	άβγα	άβγο	NOUN	NOUN	Case=Acc|Gender=Neut|Number=Plur	1	obj	1:obj	_
@@ -86,3 +88,35 @@
 9	η	η	DET	DET	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	dep	10:dep	_
 10	στράτα	στράτα	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Sing	7	obl	7:obl	_
 11	.	.	PUNCT	PUNCT	_	1	punct	1:punct	_
+
+# sent_id = Fairytale5.5
+# text = Πηάγαν, πηάγαν, δέβαν ρουσία τζαι χαΐτζοι, τζ’ ήρταν ‘σ εν πεγάιδι η ράστα.
+# translit =  
+# text_en = 
+1	Πηάγαν	πηγαίνω	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	_
+2	,	,	PUNCT	PUNCT	_	3	punct	3:punct	_
+3	πηάγαν	πηγαίνω	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	1	conj	1:conj	_
+4	,	,	PUNCT	PUNCT	_	5	punct	5:punct	_
+5	δέβαν	διαβαίνω	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	3	conj	3:conj	_
+6	ρουσία	ρουσί	NOUN	NOUN	Case=Acc|Gender=Neut|Number=Plur	5	obj	5:obj	_
+7	τζαι	jαι	CCONJ	CCONJ	_	8	cc	8:cc	_
+8	χαΐτζοι	(χαΐτζοι)	NOUN	NOUN	Case=Acc|Gender=Neut|Number=Plur	6	conj	6:conj	_
+9	,	,	PUNCT	PUNCT	_	8	punct	8:punct	_
+10	τζ’	jαι	CCONJ	CCONJ	_	11	cc	11:cc	_
+11	ήρταν	'ερχομαι	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	5	conj	5:conj	_
+12	‘σ	σε	ADP	ADP	_	14	mark	14:mark	_
+13	εν	ένα	DET	DET	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	14	det	14:det	_
+14	πεγάιδι	πεγάδι	NOUN	NOUN	Case=Acc|Gender=Neut|Number=Sing	11	obl	11:obl	_
+15	η	η	DET	DET	_	16	vocative	16:vocative	_
+16	ράστα	rast	ADV	ADV	_	14	nmod	14:nmod	_
+17	.	.	PUNCT	PUNCT	_	1	punct	1:punct	_
+
+# sent_id = Fairytale5.6
+# text = Ατζεί χωριζούσαντε τρία στράτες.
+# translit =  
+# text_en = 
+1	Ατζεί	ατζεί	ADV	ADV	_	2	advmod	2:advmod	_
+2	χωριζούσαντε	χωρίζω	VERB	VERB	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	0	root	0:root	_
+3	τρία	τρείς	NUM	NUM	Case=Acc|Gender=Fem|Number=Plur|NumType=Card	4	nummod	4:nummod	_
+4	στράτες	στράτα	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Plur	2	obj	2:obj	_
+5	.	.	PUNCT	PUNCT	_	2	punct	2:punct	_
