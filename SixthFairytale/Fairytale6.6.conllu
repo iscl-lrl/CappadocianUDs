@@ -1,0 +1,7 @@
+# sent_id = Fairytale6.6
+# text = çαι σκούνdαι.
+# translit = tse skoundai
+# text_en = And they are afraid.
+1	çαι	jαι	CCONJ	CCONJ	_	2	cc	2:cc	_
+2	σκούνdαι	σκούνdαι	VERB	VERB	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	0:root	SpaceAfter=No
+3	.	.	PUNCT	PUNCT	_	2	punct	2:punct	_

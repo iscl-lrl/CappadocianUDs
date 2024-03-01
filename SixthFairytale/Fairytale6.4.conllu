@@ -1,0 +1,9 @@
+# sent_id = Fairytale6.4
+# text = Πηάγανε ς’ αν ορμάνι.
+# translit = Piagane s’ an ormani.
+# text_en = They went to a forest.
+1	Πηάγανε	πηγαίνω	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+2	ς’	σε	ADP	ADP	_	4	case	_	_
+3	αν	α	DET	DET	Case=Acc|Definite=Ind|Gender=Neut|Number=Sing|PronType=Art	4	det	_	_
+4	ορμάνι	ορμάν(ι)	NOUN	NOUN	Case=Acc|Gender=Neut|Number=Sing	1	obl	_	SpaceAfter=No
+5	.	.	PUNCT	PUNCT	_	1	punct	_	_

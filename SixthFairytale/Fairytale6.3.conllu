@@ -1,0 +1,21 @@
+# sent_id = Fairytale6.3
+# text = Τ’ ένα ήτουνε qουγιουμτζής, jαι τ’ ένα τερζής, jαι τ’ ένα καό Θεού νομάτ.
+# translit = T’ ena itoune qumgioutzis, jai, t’ ena terzis, jai t’ ena kao Theou nomat.
+# text_en = There was a tailor and a jeweler, and a good man of God.
+1	Τ’	τε	PART	PART	_	4	cc	4:cc	_
+2	ένα	ένας	DET	DET	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	4	det	4:det	_
+3	ήτουνε	είμαι	AUX	AUX	_	4	cop	4:cop	_
+4	qουγιουμτζής	qουγιουμjης	NOUN	NOUN	Case=Nom|Gender=Masc|Number=Sing	0	root	0:root	SpaceAfter=No
+5	,	,	PUNCT	PUNCT	_	9	punct	9:punct	_
+6	jαι	jαι	CCONJ	CCONJ	_	9	cc	9:cc	_
+7	τ’	τε	PART	PART	_	9	cc	9:cc	_
+8	ένα	ένας	DET	DET	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	9	det	9:det	_
+9	τερζής	τερ(d)ζής	NOUN	NOUN	Case=Nom|Gender=Masc|Number=Sing	4	conj	4:conj	SpaceAfter=No
+10	,	,	PUNCT	PUNCT	_	16	punct	16:punct	_
+11	jαι	jαι	CCONJ	CCONJ	_	16	cc	16:cc	_
+12	τ’	τε	PART	PART	_	16	cc	16:cc	_
+13	ένα	ένας	DET	DET	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	16	det	16:det	_
+14	καό	κα(λ)ός	ADJ	ADJ	Case=Nom|Gender=Masc|Number=Sing	16	amod	16:amod	_
+15	Θεού	Θεός		NOUN	NOUN	Case=Gen|Gender=Masc|Number=Sing	16	nmod	16:nmod	_
+16	νομάτ	νομάτης	NOUN	NOUN	Case=Nom|Gender=Masc|Number=Sing	4	conj	4:conj	SpaceAfter=No
+17	.	.	PUNCT	PUNCT	_	4	punct	4:punct	_
