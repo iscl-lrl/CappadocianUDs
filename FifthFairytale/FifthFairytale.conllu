@@ -190,7 +190,41 @@
 10	!	!	PUNCT	PUNCT	_	3	punct	3:punct	_
 11	»	»	PUNCT	PUNCT	_	3	punct	3:punct	_
 
-# sent_id = Fairytale5.11
+# sent_id = Fairytale5.12
 # text = Το µέγο τουν αδεφός έµπη σο πρώτον τη στράτα, ‘σ µέσης τουν έµπην σο δεύτερο τη στράτα τζαι το µιτσίκκο αδεφός έµπην σο τρίτον τη στράτα.
 # translit =  
-# text_en = 
+# text_en = The elder brother entered the first road, the middle one entered the second road. And the youngest brother entered the third road.
+1	Το	το	DET	DET	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	4	expl	4:expl	_
+2	µέγο	μέγας	ADJ	ADJ	Case=Nom|Gender=Neut|Number=Sing	4	amod	4:amod	_
+3	τουν	ο	DET	DET	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	4:det	_
+4	αδεφός	αδερφός	NOUN	NOUN	Case=Nom|Gender=Masc|Number=Sing	5	nsubj	5:nsubj	_
+5	έµπη	μπαίνω	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	_
+6-7	Σο	_	_	_	_	_	_	_	_
+6	σ	σε	ADP	ADP	_	10	mark	10:mark	_
+7	ο	ο	DET	DET	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	10:det	_
+8	πρώτον	πρώτος	NUM	NUM	Case=Nom|Gender=Masc|Number=Sing	10	nummod	10:nummod	_
+9	τη	η	DET	DET	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	expl	10:expl	_
+10	στράτα	στράτα	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Sing	5	obl	5:obl	_
+11	,	,	PUNCT	PUNCT	_	15	punct	15:punct	_
+12	‘σ	σ	ADP	ADP_	_	15	vocative	15:vocative	_
+13	µέσης	μέσος	NOUN	NOUN	Case=Nom|Gender=Masc|Number=Sing	15	nsubj	15:nsubj	_
+14	τουν	ο	DET	DET	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	13	det	13:det	_
+15	έµπην	μπαίνω	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	5	parataxis	5:parataxis	_
+16-17	Σο	_	_	_	_	_	_	_	_
+16	σ	σε	ADP	ADP	_	20	mark	20:mark	_
+17	ο	ο	DET	DET	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	20	det	20:det	_
+18	δεύτερο	_	NUM	NUM	Case=Nom|Gender=Masc|Number=Sing	20	nummod	20:nummod	_
+19	τη	η	DET	DET	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	20	expl	20:expl	_
+20	στράτα	στράτα	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Sing	15	obl	15:obl	_
+21	τζαι	jαι	CCONJ	CCONJ	_	25	cc	25:cc	_
+22	το	ο	DET	DET	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	24	dep	24:dep	_
+23	µιτσίκκο	µιτσίκκο	ADJ	ADJ	Case=Nom|Gender=Neut|Number=Sing	24	amod	24:amod	_
+24	αδεφός	αδερφός	NOUN	NOUN	Case=Nom|Gender=Masc|Number=Sing	25	nsubj	25:nsubj	_
+25	έµπην	μπαίνω	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	20	conj	20:conj	_
+26-27	Σο	_	_	_	_	_	_	_	_
+26	σ	σε	ADP	ADP	_	30	mark	30:mark	_
+27	ο	ο	DET	DET	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	30	det	30:det	_
+28	τρίτον	τρίτος	NUM	NUM	Case=Nom|Gender=Masc|Number=Sing	30	nummod	30:nummod	_
+29	τη	η	DET	DET	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	30	expl	30:expl	_
+30	στράτα	στράτα	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Sing	25	obl	25:obl	_
+31	.	.	PUNCT	PUNCT	_	5	punct	5:punct	_
