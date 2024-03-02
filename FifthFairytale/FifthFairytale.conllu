@@ -1,7 +1,7 @@
 # sent_id = Fairytale5.0
 # text = Του Βασιλό τα φσάχα τζ' οι Ντιλπέρτσες
-# translit =  
-# text_en = 
+# translit = 
+# text_en = The kings children and the beauties. 
 1	Του	ο	DET	DET	Case=Gen|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	2:det	_
 2	Βασιλό	βασιλιάς	NOUN	NOUN	Case=Acc|Gender=Nom|Number=Sing	4	nummod	4:nummod	_
 3	τα	το	DET	DET	Case=Acc|Gender=Masc|Number=Plur	4	det	4:det	_
@@ -12,8 +12,8 @@
 
 # sent_id = Fairytale5.1
 # text = Σον παλό τον ταρό ήτουν α βασιλός τζ΄ είσεν τρία γιοί.
-# translit =  
-# text_en = 
+# translit =
+# text_en = Once upon a time there was a king and he had 3 sons. 
 1-2	Σον	_	_	_	_	_	_	_	_
 1	Σ	σε	ADP	ADP	_	5	case	5:case	_
 2	ον	ο	DET	DET	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	3:det	_
@@ -31,8 +31,8 @@
 
 # sent_id = Fairytale5.2
 # text = Σ' η βασιλεία του πέσου κορίτσε σα παλικάρα του γκιορέ τζο βρισκούσαντε.
-# translit =  
-# text_en = 
+# translit =
+# text_en = Within his kingdom there were no girls suitable for his sons. 
 1	Σ'	σε	ADP	ADP	_	3	case	3:case	SpaceAfter=No
 2	η	η	DET	DET	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	3:det	_
 3	βασιλεία	βασιλεία_	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Sing	13	obl	13:obl	_
@@ -50,8 +50,8 @@
 
 # sent_id = Fairytale5.3
 # text = Α ηµέρα, τα φσάχα ποίκαν το κατζί, να υπάν’ σ’ εν άβου χώρας τόπος να ‘ναύρουν νυφάδες.
-# translit =  
-# text_en = 
+# translit =
+# text_en = One day, the boys agreed to go to other lands to find suitable brides.
 1	Α	α	DET	DET	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	2:det	_
 2	ηµέρα	ηµέρα	NOUN	NOUN	Case=Nom|Gender=Fem|Number=Sing	6	obl	6:obl	SpaceAfter=No
 3	,	,	PUNCT	PUNCT	_	2	punct	2:punct	_
@@ -75,8 +75,8 @@
 
 # sent_id = Fairytale5.4
 # text = Γαλίτζεψαν τ’ άβγα τουν, τζ’ έβκαν ση στράτα.
-# translit =  
-# text_en = 
+# translit =
+# text_en = They mounted their horses and went out into the road.
 1	Γαλίτζεψαν	(γαλιτσεύω)	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	_
 2	τ’	το	DET	DET	Case=Acc|Definite=Def|Gender=Masc|Number=Plur|PronType=Art	3	det	3:det	_
 3	άβγα	άβγο	NOUN	NOUN	Case=Acc|Gender=Neut|Number=Plur	1	obj	1:obj	_
@@ -91,8 +91,8 @@
 
 # sent_id = Fairytale5.5
 # text = Πηάγαν, πηάγαν, δέβαν ρουσία τζαι χαΐτζοι, τζ’ ήρταν ‘σ εν πεγάιδι η ράστα.
-# translit =  
-# text_en = 
+# translit =
+# text_en = They went, they went, they crossed mountains and valleys, and they arrived in front of a well. 
 1	Πηάγαν	πηγαίνω	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	_
 2	,	,	PUNCT	PUNCT	_	3	punct	3:punct	_
 3	πηάγαν	πηγαίνω	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	1	conj	1:conj	_
@@ -107,16 +107,90 @@
 12	‘σ	σε	ADP	ADP	_	14	mark	14:mark	_
 13	εν	ένα	DET	DET	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	14	det	14:det	_
 14	πεγάιδι	πεγάδι	NOUN	NOUN	Case=Acc|Gender=Neut|Number=Sing	11	obl	11:obl	_
-15	η	η	DET	DET	_	16	vocative	16:vocative	_
+15	η	η	DET	DET	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	16	vocative	16:vocative	_
 16	ράστα	rast	ADV	ADV	_	14	nmod	14:nmod	_
 17	.	.	PUNCT	PUNCT	_	1	punct	1:punct	_
 
 # sent_id = Fairytale5.6
 # text = Ατζεί χωριζούσαντε τρία στράτες.
-# translit =  
-# text_en = 
+# translit =
+# text_en = There the road went 3 ways.
 1	Ατζεί	ατζεί	ADV	ADV	_	2	advmod	2:advmod	_
 2	χωριζούσαντε	χωρίζω	VERB	VERB	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	0	root	0:root	_
 3	τρία	τρείς	NUM	NUM	Case=Acc|Gender=Fem|Number=Plur|NumType=Card	4	nummod	4:nummod	_
 4	στράτες	στράτα	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Plur	2	obj	2:obj	_
 5	.	.	PUNCT	PUNCT	_	2	punct	2:punct	_
+
+# sent_id =  Fairytale5.7
+# text = Τό ινα η στράτα λένκεν ‘τι:
+# translit =
+# text_en = One road said:
+1	Τό	το	DET	DET	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	4	expl	4:expl	_
+2	ινα	ένα	DET	DET	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	4	det	4:det	_
+3	η	η	DET	DET	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	4	det	4:det	_
+4	στράτα	στράτα	NOUN	NOUN	Case=Nom|Gender=Fem|Number=Sing	5	nsubj	5:nsubj	_
+5	λένκεν	λέγω	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	_
+6	‘τι	τι	SCONJ	SCONJ	_	5	mark	5:mark	_
+7	:	:	PUNCT	PUNCT	_	5	punct	5:punct	_
+
+# sent_id =  Fairytale5.8
+# text = «Α υπάς τζαι α ‘υριστείς ξοπίσου».
+# translit =
+# text_en = "You will go and come back".
+1	«	«	PUNCT	PUNCT	_	3	punct	3:punct	_
+2	Α	α	AUX	AUX	_	3	aux	3:aux	_
+3	υπάς	πηγαίνω	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	_
+4	τζαι	jαι	CCONJ	CCONJ	_	6	cc	6:cc	_
+5	α	α	AUX	AUX	_	6	aux	6:aux	_
+6	‘υριστείς	γυρίζω	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	3	conj	3:conj	_
+7	ξοπίσου	ξοπίσου	ADV	ADV	_	6	advmod	6:advmod	_
+8	»	»	PUNCT	PUNCT	_	3	punct	3:punct	_
+9	.	.	PUNCT	PUNCT	_	3	punct	3:punct	_
+
+# sent_id = Fairytale5.9
+# text = Το δεύτερο η στράτα πάλι είπεν dα αβούτσι.
+# translit =
+# text_en = The second road said the same.
+1	Το	το	DET	DET	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	4	expl	4:expl	_
+2	δεύτερο	δεύτερος	NUM	NUM	Case=Nom|Gender=Neut|Number=Sing	4	nummod	4:nummod	_
+3	η	η	DET	DET	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	4:det	_
+4	στράτα	στράτα	NOUN	NOUN	Case=Nom|Gender=Fem|Number=Sing	6	nsubj	6:nsubj	_
+5	πάλι	πάλι	ADV	ADV	_	6	advmod	6:advmod	_
+6	είπεν	λέγω	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	_
+7	dα	το	DET	DET	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	8	det	8:det	_
+8	αβούτσι	αβούτσι	PRON	PRON	Case=Nom|Gender=Neut|Number=Sing	6	obj	6:obj	_
+9	.	.	PUNCT	PUNCT	_	6	punct	6:punct	_
+
+# sent_id = Fairytale5.10
+# text = Το τρίτον η στράτα λέγκεν ‘τι κι:
+# translit =
+# text_en = The third road said:
+1	Το	το	DET	DET	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	expl	4:expl	_
+2	τρίτον	τρίτο	NUM	NUM	Case=Nom|Gender=Neut|Number=Sing	4	nmod	4:nmod	_
+3	η	η	DET	DET	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	4:det	_
+4	στράτα	στράτα	NOUN	NOUN	Case=Nom|Gender=Fem|Number=Sing	5	nsubj	5:nsubj	_
+5	λέγκεν	λέγω	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	_
+6	‘τι	τι	SCONJ	SCONJ	_	5	mark	5:mark	_
+7	κι	κι	SCONJ	SCONJ	_	5	mark	5:mark	_
+8	:	:	PUNCT	PUNCT	_	5	punct	5:punct	_
+
+# sent_id = Fairytale5.11
+# text = «Α υπάς για, τζ’ α ‘υριστείς ξοπίσω!»
+# translit =
+# text_en = "You will go but you will not return".
+1	«	«	PUNCT	PUNCT	_	3	punct	3:punct	_
+2	Α	α	AUX	AUX	_	3	aux	3:aux	_
+3	υπάς	πηγαίνω	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	_
+4	για	για	ADV	ADV	_	3	advmod	3:advmod	_
+5	,	,	PUNCT	PUNCT	_	8	punct	8:punct	_
+6	τζ’	τζο	PART	PART	_	8	advmod	8:advmod	_
+7	α	α_	AUX	AUX	_	8	aux	8:aux	_
+8	‘υριστείς	γυρίζω	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	3	parataxis	3:parataxis	_
+9	ξοπίσω	ξοπίσω	ADV	ADV	_	8	advmod	8:advmod	_
+10	!	!	PUNCT	PUNCT	_	3	punct	3:punct	_
+11	»	»	PUNCT	PUNCT	_	3	punct	3:punct	_
+
+# sent_id = Fairytale5.11
+# text = Το µέγο τουν αδεφός έµπη σο πρώτον τη στράτα, ‘σ µέσης τουν έµπην σο δεύτερο τη στράτα τζαι το µιτσίκκο αδεφός έµπην σο τρίτον τη στράτα.
+# translit =  
+# text_en = 
