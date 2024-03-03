@@ -80,27 +80,27 @@
 1	Γαλίτζεψαν	(γαλιτσεύω)	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	_
 2	τ’	το	DET	DET	Case=Acc|Definite=Def|Gender=Masc|Number=Plur|PronType=Art	3	det	3:det	_
 3	άβγα	άβγο	NOUN	NOUN	Case=Acc|Gender=Neut|Number=Plur	1	obj	1:obj	_
-4	τουν	ο	DET	DET	Case=Gen|Definite=Def|Gender=Masc|Number=Plur|PronType=Art	3	nummod	3:nummod	_
+4	τουν	ο	DET	DET	Case=Gen|Definite=Def|Gender=Masc|Number=Plur|PronType=Art	3	nummod	3:nummod	SpaceAfter=No
 5	,	,	PUNCT	PUNCT	_	1	punct	1:punct	_
 6	τζ’	jαι	CCONJ	CCONJ	_	7	cc	7:cc	_
 7	έβκαν	βγαίνω	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	1	conj	1:conj	_
 8	σ	σε	ADP	ADP	_	10	mark	10:mark	_
 9	η	η	DET	DET	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	dep	10:dep	_
-10	στράτα	στράτα	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Sing	7	obl	7:obl	_
+10	στράτα	στράτα	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Sing	7	obl	7:obl	SpaceAfter=No
 11	.	.	PUNCT	PUNCT	_	1	punct	1:punct	_
 
 # sent_id = Fairytale5.5
 # text = Πηάγαν, πηάγαν, δέβαν ρουσία τζαι χαΐτζοι, τζ’ ήρταν ‘σ εν πεγάιδι η ράστα.
 # translit =
 # text_en = They went, they went, they crossed mountains and valleys, and they arrived in front of a well. 
-1	Πηάγαν	πηγαίνω	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	_
+1	Πηάγαν	πηγαίνω	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	SpaceAfter=No
 2	,	,	PUNCT	PUNCT	_	3	punct	3:punct	_
-3	πηάγαν	πηγαίνω	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	1	conj	1:conj	_
+3	πηάγαν	πηγαίνω	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	1	conj	1:conj	SpaceAfter=No
 4	,	,	PUNCT	PUNCT	_	5	punct	5:punct	_
 5	δέβαν	διαβαίνω	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	3	conj	3:conj	_
 6	ρουσία	ρουσί	NOUN	NOUN	Case=Acc|Gender=Neut|Number=Plur	5	obj	5:obj	_
 7	τζαι	jαι	CCONJ	CCONJ	_	8	cc	8:cc	_
-8	χαΐτζοι	(χαΐτζοι)	NOUN	NOUN	Case=Acc|Gender=Neut|Number=Plur	6	conj	6:conj	_
+8	χαΐτζοι	(χαΐτζo)	NOUN	NOUN	Case=Acc|Gender=Neut|Number=Plur	6	conj	6:conj	SpaceAfter=No
 9	,	,	PUNCT	PUNCT	_	8	punct	8:punct	_
 10	τζ’	jαι	CCONJ	CCONJ	_	11	cc	11:cc	_
 11	ήρταν	'ερχομαι	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	5	conj	5:conj	_
@@ -108,7 +108,7 @@
 13	εν	ένα	DET	DET	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	14	det	14:det	_
 14	πεγάιδι	πεγάδι	NOUN	NOUN	Case=Acc|Gender=Neut|Number=Sing	11	obl	11:obl	_
 15	η	η	DET	DET	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	16	vocative	16:vocative	_
-16	ράστα	rast	ADV	ADV	_	14	nmod	14:nmod	_
+16	ράστα	rast	ADV	ADV	_	14	nmod	14:nmod	SpaceAfter=No
 17	.	.	PUNCT	PUNCT	_	1	punct	1:punct	_
 
 # sent_id = Fairytale5.6
@@ -118,7 +118,7 @@
 1	Ατζεί	ατζεί	ADV	ADV	_	2	advmod	2:advmod	_
 2	χωριζούσαντε	χωρίζω	VERB	VERB	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	0	root	0:root	_
 3	τρία	τρείς	NUM	NUM	Case=Acc|Gender=Fem|Number=Plur|NumType=Card	4	nummod	4:nummod	_
-4	στράτες	στράτα	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Plur	2	obj	2:obj	_
+4	στράτες	στράτα	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Plur	2	obj	2:obj	SpaceAfter=No
 5	.	.	PUNCT	PUNCT	_	2	punct	2:punct	_
 
 # sent_id =  Fairytale5.7
@@ -130,21 +130,21 @@
 3	η	η	DET	DET	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	4	det	4:det	_
 4	στράτα	στράτα	NOUN	NOUN	Case=Nom|Gender=Fem|Number=Sing	5	nsubj	5:nsubj	_
 5	λένκεν	λέγω	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	_
-6	‘τι	τι	SCONJ	SCONJ	_	5	mark	5:mark	_
+6	‘τι	τι	SCONJ	SCONJ	_	5	mark	5:mark	SpaceAfter=No
 7	:	:	PUNCT	PUNCT	_	5	punct	5:punct	_
 
 # sent_id =  Fairytale5.8
 # text = «Α υπάς τζαι α ‘υριστείς ξοπίσου».
 # translit =
 # text_en = "You will go and come back".
-1	«	«	PUNCT	PUNCT	_	3	punct	3:punct	_
+1	«	«	PUNCT	PUNCT	_	3	punct	3:punct	SpaceAfter=No
 2	Α	α	AUX	AUX	_	3	aux	3:aux	_
 3	υπάς	πηγαίνω	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	_
 4	τζαι	jαι	CCONJ	CCONJ	_	6	cc	6:cc	_
 5	α	α	AUX	AUX	_	6	aux	6:aux	_
 6	‘υριστείς	γυρίζω	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	3	conj	3:conj	_
-7	ξοπίσου	ξοπίσου	ADV	ADV	_	6	advmod	6:advmod	_
-8	»	»	PUNCT	PUNCT	_	3	punct	3:punct	_
+7	ξοπίσου	ξοπίσου	ADV	ADV	_	6	advmod	6:advmod	SpaceAfter=No
+8	»	»	PUNCT	PUNCT	_	3	punct	3:punct	SpaceAfter=No
 9	.	.	PUNCT	PUNCT	_	3	punct	3:punct	_
 
 # sent_id = Fairytale5.9
@@ -158,7 +158,7 @@
 5	πάλι	πάλι	ADV	ADV	_	6	advmod	6:advmod	_
 6	είπεν	λέγω	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	_
 7	dα	το	DET	DET	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	8	det	8:det	_
-8	αβούτσι	αβούτσι	PRON	PRON	Case=Nom|Gender=Neut|Number=Sing	6	obj	6:obj	_
+8	αβούτσι	αβούτσι	PRON	PRON	Case=Nom|Gender=Neut|Number=Sing	6	obj	6:obj	SpaceAfter=No
 9	.	.	PUNCT	PUNCT	_	6	punct	6:punct	_
 
 # sent_id = Fairytale5.10
@@ -171,14 +171,14 @@
 4	στράτα	στράτα	NOUN	NOUN	Case=Nom|Gender=Fem|Number=Sing	5	nsubj	5:nsubj	_
 5	λέγκεν	λέγω	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	_
 6	‘τι	τι	SCONJ	SCONJ	_	5	mark	5:mark	_
-7	κι	κι	SCONJ	SCONJ	_	5	mark	5:mark	_
+7	κι	κι	SCONJ	SCONJ	_	5	mark	5:mark	SpaceAfter=No
 8	:	:	PUNCT	PUNCT	_	5	punct	5:punct	_
 
 # sent_id = Fairytale5.11
 # text = «Α υπάς για, τζ’ α ‘υριστείς ξοπίσω!»
 # translit =
 # text_en = "You will go but you will not return".
-1	«	«	PUNCT	PUNCT	_	3	punct	3:punct	_
+1	«	«	PUNCT	PUNCT	_	3	punct	3:punct	SpaceAfter=No
 2	Α	α	AUX	AUX	_	3	aux	3:aux	_
 3	υπάς	πηγαίνω	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	_
 4	για	για	ADV	ADV	_	3	advmod	3:advmod	_
@@ -186,8 +186,8 @@
 6	τζ’	τζο	PART	PART	_	8	advmod	8:advmod	_
 7	α	α_	AUX	AUX	_	8	aux	8:aux	_
 8	‘υριστείς	γυρίζω	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	3	parataxis	3:parataxis	_
-9	ξοπίσω	ξοπίσω	ADV	ADV	_	8	advmod	8:advmod	_
-10	!	!	PUNCT	PUNCT	_	3	punct	3:punct	_
+9	ξοπίσω	ξοπίσω	ADV	ADV	_	8	advmod	8:advmod	SpaceAfter=No
+10	!	!	PUNCT	PUNCT	_	3	punct	3:punct	SpaceAfter=No
 11	»	»	PUNCT	PUNCT	_	3	punct	3:punct	_
 
 # sent_id = Fairytale5.12
@@ -204,7 +204,7 @@
 7	ο	ο	DET	DET	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	10:det	_
 8	πρώτον	πρώτος	NUM	NUM	Case=Nom|Gender=Masc|Number=Sing	10	nummod	10:nummod	_
 9	τη	η	DET	DET	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	expl	10:expl	_
-10	στράτα	στράτα	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Sing	5	obl	5:obl	_
+10	στράτα	στράτα	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Sing	5	obl	5:obl	SpaceAfter=No
 11	,	,	PUNCT	PUNCT	_	15	punct	15:punct	_
 12	‘σ	σ	ADP	ADP_	_	15	vocative	15:vocative	_
 13	µέσης	μέσος	NOUN	NOUN	Case=Nom|Gender=Masc|Number=Sing	15	nsubj	15:nsubj	_
@@ -221,12 +221,12 @@
 23	µιτσίκκο	µιτσίκκο	ADJ	ADJ	Case=Nom|Gender=Neut|Number=Sing	24	amod	24:amod	_
 24	αδεφός	αδερφός	NOUN	NOUN	Case=Nom|Gender=Masc|Number=Sing	25	nsubj	25:nsubj	_
 25	έµπην	μπαίνω	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	20	conj	20:conj	_
-26-27	Σο	_	_	_	_	_	_	_	_
+26-27	σο	_	_	_	_	_	_	_	_
 26	σ	σε	ADP	ADP	_	30	mark	30:mark	_
 27	ο	ο	DET	DET	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	30	det	30:det	_
 28	τρίτον	τρίτος	NUM	NUM	Case=Nom|Gender=Masc|Number=Sing	30	nummod	30:nummod	_
 29	τη	η	DET	DET	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	30	expl	30:expl	_
-30	στράτα	στράτα	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Sing	25	obl	25:obl	_
+30	στράτα	στράτα	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Sing	25	obl	25:obl	SpaceAfter=No
 31	.	.	PUNCT	PUNCT	_	5	punct	5:punct	_
 
 # sent_id = Fairytale5.13
@@ -239,7 +239,7 @@
 4-5	σις	_	_	_	_	_	_	_	_
 4	σ	σε	ADP	ADP	_	6	mark	6:mark	_
 5	ις	η	DET	DET	Case=Acc|Definite=Def|Gender=Fem|Number=Plur|PronType=Art	6	det	6:det	_
-6	στράτες	στράτα	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Plur	3	obl	3:obl	_
+6	στράτες	στράτα	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Plur	3	obl	3:obl	SpaceAfter=No
 7	,	,	PUNCT	_	_	8	punct	8:punct	_
 8	έθακαν	θέτω	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	_
 9	τα	το	DET	DET	Case=Acc|Definite=Def|Gender=Neut|Number=Plur|PronType=Art	10	det	10:det	_
@@ -250,27 +250,71 @@
 14	θάλιν	λιθάρι	NOUN	NOUN	Case=Acc|Gender=Neut|Number=Sing	8	obl	8:obl	_
 15-16	πουκάτου	_	_	_	_	_	_	_	_
 15	που	_	ADP	ADV	_	16	mark	16:mark	_
-16	κάτου	_	ADV	ADV	_	14	advmod	14:advmod	_
+16	κάτου	_	ADV	ADV	_	14	advmod	14:advmod	SpaceAfter=No
 17	,	,	PUNCT	PUNCT	_	19	punct	19:punct	_
 18	τζ΄	_	CCONJ	CCONJ	_	19	cc	19:cc	_
 19	είπαν	_	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	8	conj	8:conj	_
-20	‘τι	_	SCONJ	SCONJ	_	19	mark	19:mark	_
+20	‘τι	_	SCONJ	SCONJ	_	19	mark	19:mark	SpaceAfter=No
 21	:	_	PUNCT	PUNCT	_	19	punct	19:punct	_
 
 # sent_id = Fairytale5.14
 # text = «Ότις ‘α προµπήσει, ‘α φυάξει αδού ΄ς ως του να νάρτουν τζαι τα πεµεινά µας».
 # translit =  
 # text_en = Whoever comes back first, will wait here until the others come as well.
+1	«	«	PUNCT	PUNCT	_	4	punct	4:punct	_
+2	Ότις	_	PRON	PRON	Case=Nom|Gender=Masc|Number=Sing|PronType=Ind	4	nsubj	4:nsubj	_
+3	‘α	α	AUX	AUX	_	4	aux	4:aux	_
+4	προµπήσει	_	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	_
+5	,	,	PUNCT	PUNCT	_	7	punct	7:punct	_
+6	‘α	α	AUX	AUX	_	7	aux	7:aux	_
+7	φυάξει	φυλάγνω	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	4	advcl	4:advcl	_
+8	αδού	αδού	ADV	ADV	_	7	advmod	7:advmod	_
+9	΄ς	ς	ADP	ADP	_	13	vocative	13:vocative	_
+10	ως	έως	ADP	ADP	_	13	mark	13:mark	_
+11	του	ότου	PRON	PRON	_	13	advmod	13:advmod	_
+12	να	να	AUX	AUX	_	13	aux	13:aux	_
+13	νάρτουν	έρχομαι	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	7	advcl	7:advcl	_
+14	τζαι	jαι	CCONJ	CCONJ	_	16	cc	16:cc	_
+15	τα	το	DET	DET	Case=Nom|Definite=Def|Gender=Neut|Number=Plur|PronType=Art	16	det	16:det	_
+16	πεµεινά	απομένω	NOUN	NOUN	Case=Nom|Gender=Neut|Number=Plur	13	nsubj	13:nsubj	_
+17	µας	εγώ	PRON	PRON	Case=Nom|Gender=Neut|Number=Sing	16	nmod	16:nmod	_
+18	»	»	PUNCT	PUNCT	_	13	punct	13:punct	_
+19	.	.	PUNCT	PUNCT	_	4	punct	4:punct	_
 
 # sent_id = Fairytale5.15
 # text = Πήραν τζαι µασία.
 # translit =  
-# text_en =
+# text_en = They even took an oath.
+1	Πήραν	παίρνω	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	_
+2	τζαι	jαι	CCONJ	CCONJ	_	3	cc	3:cc	_
+3	µασία	ομασά	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Sing	1	obj	1:obj	_
+4	.	.	PUNCT	PUNCT	_	1	punct	1:punct	_
 
 # sent_id = Fairytale5.16
 # text = Τα πρωτινά τουν τα δύο γιοι, πηάγαν λέικο σ΄η στράτα, τζ’ ‘υρίσταν ξοπίσω σο πεγάιδι.
 # translit =  
 # text_en =
+1	Τα	το	DET	DET	Case=Nom|Definite=Def|Gender=Neut|Number=Plur|PronType=Art	2	det	2:det	_
+2	πρωτινά	πρώτο	NUM	NUM	Case=Nom|Definite=Def|Gender=Neut|Number=Plur	6	expl	6:expl	_
+3	τουν	ο	DET	DET	Case=Gen|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	nmod	6:nmod	_
+4	τα	το	DET	DET	Case=Nom|Definite=Def|Gender=Neut|Number=Plur|PronType=Art	5	det	5:det	_
+5	δύο	δύο	NUM	NUM	Case=Nom|Definite=Def|Gender=Neut|Number=Plur	6	nummod	6:nummod	_
+6	γιοι	γιός	NOUN	NOUN	Case=Nom|Gender=Masc|Number=Sing	8	nsubj	8:nsubj	_
+7	,	,	PUNCT	PUNCT	_	8	punct	8:punct	_
+8	πηάγαν	πηγαίνω	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	_
+9	λέικο	ολίγος	ADV	ADV	_	8	advmod	8:advmod	_
+10	σ΄	σε	ADP	ADP	_	12	mark	12:mark	_
+11	η	η	DET	DET	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	12	det	12:det	_
+12	στράτα	στράτα	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Sing	8	obl	8:obl	_
+13	,	,	PUNCT	PUNCT	_	15	punct	15:punct	_
+14	τζ’	jαι	CCONJ	CCONJ	_	15	cc	15:cc	_
+15	‘υρίσταν	γυρίζω	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	8	conj	8:conj	_
+16	ξοπίσω	ξοπίσω	ADV	ADV	_	15	advmod	15:advmod	_
+17-18	σο	_	_	_	_	_	_	_	_
+17	σ	σε	ADP	ADP	_	19	mark	19:mark	_
+18	ο	το	DET	DET	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	19	det	19:det	_
+19	πεγάιδι	πεγάδι	NOUN	NOUN	Case=Acc|Gender=Neut|Number=Sing	15	obl	15:obl	_
+20	.	.	PUNCT	PUNCT	_	8	punct	8:punct	_
 
 # sent_id = Fairytale5.17
 # text = Το µιτσίκκο τουν πάλι πήρεν τη στράτα µπρο του τζαι πααίνει.
