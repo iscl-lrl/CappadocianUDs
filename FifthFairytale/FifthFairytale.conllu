@@ -228,3 +228,66 @@
 29	τη	η	DET	DET	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	30	expl	30:expl	_
 30	στράτα	στράτα	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Sing	25	obl	25:obl	_
 31	.	.	PUNCT	PUNCT	_	5	punct	5:punct	_
+
+# sent_id = Fairytale5.13
+# text = Πίρ µη µπούν σις στράτες, έθακαν τα δαχτυλίδε τουν σ’ ε θάλιν πουκάτου, τζ΄είπαν ‘τι:
+# translit =  
+# text_en = Before they begin, they put their rings under a rock and said:
+1	Πίρ	πίρ	ADV	ADV	_	3	advmod	3:advmod	_
+2	µη	µη	ADP	ADP	_	3	vocative	3:vocative	_
+3	µπούν	εμβαίνω	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	8	advcl	8:advcl	_
+4-5	σις	_	_	_	_	_	_	_	_
+4	σ	σε	ADP	ADP	_	6	mark	6:mark	_
+5	ις	η	DET	DET	Case=Acc|Definite=Def|Gender=Fem|Number=Plur|PronType=Art	6	det	6:det	_
+6	στράτες	στράτα	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Plur	3	obl	3:obl	_
+7	,	,	PUNCT	_	_	8	punct	8:punct	_
+8	έθακαν	θέτω	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	_
+9	τα	το	DET	DET	Case=Acc|Definite=Def|Gender=Neut|Number=Plur|PronType=Art	10	det	10:det	_
+10	δαχτυλίδε	δαχτυλίδι	NOUN	NOUN	Case=Acc|Gender=Neut|Number=Plur	8	obj	8:obj	_
+11	τουν	ο	DET	DET	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	nmod	10:nmod	_
+12	σ’	σε	ADP	ADP	_	14	mark	14:mark	_
+13	ε	ένα	NUM	NUM	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Card	14	nummod	14:nummod	_
+14	θάλιν	λιθάρι	NOUN	NOUN	Case=Acc|Gender=Neut|Number=Sing	8	obl	8:obl	_
+15-16	πουκάτου	_	_	_	_	_	_	_	_
+15	που	_	ADP	ADV	_	16	mark	16:mark	_
+16	κάτου	_	ADV	ADV	_	14	advmod	14:advmod	_
+17	,	,	PUNCT	PUNCT	_	19	punct	19:punct	_
+18	τζ΄	_	CCONJ	CCONJ	_	19	cc	19:cc	_
+19	είπαν	_	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	8	conj	8:conj	_
+20	‘τι	_	SCONJ	SCONJ	_	19	mark	19:mark	_
+21	:	_	PUNCT	PUNCT	_	19	punct	19:punct	_
+
+# sent_id = Fairytale5.14
+# text = «Ότις ‘α προµπήσει, ‘α φυάξει αδού ΄ς ως του να νάρτουν τζαι τα πεµεινά µας».
+# translit =  
+# text_en = Whoever comes back first, will wait here until the others come as well.
+
+# sent_id = Fairytale5.15
+# text = Πήραν τζαι µασία.
+# translit =  
+# text_en =
+
+# sent_id = Fairytale5.16
+# text = Τα πρωτινά τουν τα δύο γιοι, πηάγαν λέικο σ΄η στράτα, τζ’ ‘υρίσταν ξοπίσω σο πεγάιδι.
+# translit =  
+# text_en =
+
+# sent_id = Fairytale5.17
+# text = Το µιτσίκκο τουν πάλι πήρεν τη στράτα µπρο του τζαι πααίνει.
+# translit =  
+# text_en =
+
+# sent_id = Fairytale5.18
+# text = ‘Σ τ’ εν ταρός ‘στέρου θωρεί ‘τι κι, γνέντα του ένι αν κάπνη τζαι απή τζει ήρτεν αν τσίκνα σο µυτήν του.
+# translit =  
+# text_en =
+
+# sent_id = Fairytale5.19
+# text = Πήεν να ‘υρέψει ψωµί να φα.
+# translit =  
+# text_en =
+
+# sent_id = Fairytale5.20
+# text = Έµπην σο σπίτιν πέσου τζαι θωρεί ‘τι κι!
+# translit =  
+# text_en =
