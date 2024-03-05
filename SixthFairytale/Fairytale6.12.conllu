@@ -1,0 +1,10 @@
+# sent_id = Fairytale6.12
+# text = Σηκώθην, έκοψεν το ξύο.
+# translit =  Sikothin, ekopsen to xio
+# text_en = He rose up, he cut the tree.
+1	Σηκώθην	σηκούμαι	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	0	root	0:root	SpaceAfter=No
+2	,	,	PUNCT	PUNCT	_	3	punct	3:punct	_
+3	έκοψεν	κόφτω	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	1	conj	1:conj	_
+4	το	τό	DET	DET	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	5	det	5:det	_
+5	ξύο	ξύο	NOUN	NOUN	Case=Acc|Gender=Neut|Number=Sing	3	obj	3:obj	SpaceAfter=No
+6	.	.	PUNCT	PUNCT	_	1	punct	1:punct	_

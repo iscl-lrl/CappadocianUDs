@@ -1,0 +1,9 @@
+# sent_id = Fairytale6.11
+# text = Είδεν α μέγα ξύο.
+# translit = Iden a mega xio.
+# text_en = He saw a big tree.
+1	Είδεν	θεωρώ	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	_
+2	α	α	DET	DET	Case=Acc|Definite=Ind|Gender=Neut|Number=Sing|PronType=Art	4	det	4:det	_
+3	μέγα	μέγας	ADJ	ADJ	Case=Acc|Gender=Neut|Number=Sing	4	amod	4:amod	_
+4	ξύο	ξύο	NOUN	NOUN	Case=Acc|Gender=Neut|Number=Sing	1	obj	1:obj	SpaceAfter=No
+5	.	.	PUNCT	PUNCT	_	1	punct	1:punct	_

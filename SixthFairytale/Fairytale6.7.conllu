@@ -1,0 +1,7 @@
+# sent_id = Fairytale6.7
+# text = Είπαν dι κι
+# translit =  Eipan di ki
+# text_en = and they said
+1	Είπαν	λέγω	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+2	dι	di	SCONJ	SCONJ	_	1	mark	_	_
+3	κι	ki	SCONJ	SCONJ	_	1	mark	_	_

@@ -1,0 +1,12 @@
+# sent_id = Fairytale6.8
+# text = «Να πνώσωμε με dο νοbάτι.»
+# translit =  «Na pnosome me do nobati.»
+# text_en = "Lets sleep with one person."
+1	«	«	PUNCT	PUNCT	_	3	punct	3:punct	SpaceAfter=No
+2	Να	να	AUX	AUX	_	3	aux	3:aux	_
+3	πνώσωμε	 πνώνω	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|VerbForm=Fin|Voice=Pass	0	root	0:root	_
+4	με	με	ADP	ADP	_	6	case	6:case	_
+5	dο	ο	DET	DET	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	6:det	_
+6	νοbάτι	νομάτης	NOUN	NOUN	Case=Acc|Gender=Masc|Number=Sing	3	obl	3:obl	SpaceAfter=No
+7	.	.	PUNCT	PUNCT	_	3	punct	3:punct	SpaceAfter=No
+8	»	»	PUNCT	PUNCT	_	3	punct	3:punct	_

@@ -1,0 +1,15 @@
+# sent_id = Fairytale6.13
+# text = Ήφαρέν dα, ποίτζεν dα α νομάτ, τίπκε νομάτ.
+# translit =  Ιfaren da pitzen da a nomat tipke nomat.
+# text_en = He brought it, he made it into a human being,exactly a human being.
+1	Ήφαρέν	φέρνω	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	_
+2	dα	το	PRON	PRON	Case=Acc|Gender=Neut|Number=Plur|Person=3|PronType=Prs	1	obj	1:obj	SpaceAfter=No
+3	,	,	PUNCT	PUNCT	_	4	punct	4:punct	_
+4	ποίτζεν	ποιώ	VERB	VERB	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	1	conj	1:conj	_
+5	dα	το	PRON	PRON	Case=Acc|Gender=Neut|Number=Plur|Person=3|PronType=Prs	4	obj	4:obj	_
+6	α	α	DET	DET	Case=Acc|Definite=Ind|Gender=Neut|Number=Sing|PronType=Art	7	det	7:det	_
+7	νομάτ	νομάτης	NOUN	NOUN	Case=Acc|Gender=Masc|Number=Sing	4	obj	4:obj	SpaceAfter=No
+8	,	,	PUNCT	PUNCT	_	10	punct	10:punct	_
+9	τίπκε	τίπκε	ADJ	ADJ	Case=Acc|Gender=Masc|Number=Sing	10	amod	10:amod	_
+10	νομάτ	νομάτης	NOUN	NOUN	Case=Acc|Gender=Masc|Number=Sing	7	nmod	7:nmod	_
+11	.	.	PUNCT	PUNCT	_	1	punct	1:punct	SpaceAfter=No
