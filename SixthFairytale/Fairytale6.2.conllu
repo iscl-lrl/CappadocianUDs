@@ -4,7 +4,7 @@
 # text_en =In the old days it was four people.
 1	'	'	PUNCT	PUNCT	_	2	punct	2:punct	SpaceAfter=No
 2	Σ	σε	ADP	ADP	_	5	case	5:case	_
-3	αμ	αμ	DET	DET	Case=Acc|Gender=Neut|Number=Sing	5	det	5:det	_
+3	αμ	α	DET	DET	Case=Acc|Gender=Neut|Number=Sing	5	det	5:det	_
 4	πώτο	πρώτο	ADJ	ADJ	Case=Acc|Gender=Neut|Number=Sing|NumType=Ord	4	det	_	_
 5	ζαμάνι	ζαμάν(ι)	NOUN	NOUN	Case=Acc|Gender=Neut|Number=Sing	8	obl	8:obl	_
 6	ήτουνε	είμαι	AUX	AUX	_	8	cop	8:cop	_
