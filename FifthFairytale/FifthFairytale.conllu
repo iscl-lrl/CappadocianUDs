@@ -3,7 +3,7 @@
 # translit = 
 # text_en = The kings children and the beauties. 
 1	Του	ο	DET	DET	Case=Gen|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	2:det	_
-2	Βασιλό	βασιλιάς	NOUN	NOUN	Case=Acc|Gender=Masc|Number=Sing	4	nummod	4:nummod	_
+2	Βασιλό	βασιλιάς	NOUN	NOUN	Case=Acc|Gender=Masc|Number=Sing	4	nmod	4:nmod	_
 3	τα	το	DET	DET	Case=Acc|Gender=Masc|Number=Plur	4	det	4:det	_
 4	φσάχα	φσάχ	NOUN	NOUN	Case=Nom|Gender=Masc|Number=Plur	0	root	0:root	_
 5	τζ'	jαι	CCONJ	CCONJ	_	7	cc	7:cc	_
@@ -37,7 +37,7 @@
 2	η	η	DET	DET	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	3:det	_
 3	βασιλεία	βασιλεία_	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Sing	13	obl	13:obl	_
 4	του	ο	DET	DET	Case=Gen|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	nmod	3:nmod	_
-5	πέσου	πέσου	ADP	_	_	3	mark	3:mark	_
+5	πέσου	πέσου	ADP	_	_	3	case	3:case	_
 6	κορίτσε	κορίτσι	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Sing	13	obj	13:obj	_
 7-8	σα	_	_	_	_	_	_	_	_
 7	σ	σε	ADP	_	_	9	case	9:case	_
@@ -129,7 +129,7 @@
 # text_en = One road said:
 1	Τό	το	DET	DET	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	4	expl	4:expl	_
 2	ινα	ένα	DET	DET	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	4	det	4:det	_
-3	η	η	DET	DET	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	4	det	4:det	_
+3	η	η	DET	DET	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	4:det	_
 4	στράτα	στράτα	NOUN	NOUN	Case=Nom|Gender=Fem|Number=Sing	5	nsubj	5:nsubj	_
 5	λένκεν	λέγω	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	_
 6	‘τι	τι	SCONJ	SCONJ	_	5	mark	5:mark	SpaceAfter=No
@@ -167,7 +167,7 @@
 # text = Το τρίτον η στράτα λέγκεν ‘τι κι:
 # translit =
 # text_en = The third road said:
-1	Το	το	DET	DET	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	expl	4:expl	_
+1	Το	το	DET	DET	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	4	expl	4:expl	_
 2	τρίτον	τρίτο	NUM	NUM	Case=Nom|Gender=Neut|Number=Sing	4	nmod	4:nmod	_
 3	η	η	DET	DET	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	4:det	_
 4	στράτα	στράτα	NOUN	NOUN	Case=Nom|Gender=Fem|Number=Sing	5	nsubj	5:nsubj	_
@@ -196,15 +196,15 @@
 # text = Το µέγο τουν αδεφός έµπη σο πρώτον τη στράτα, ‘σ µέσης τουν έµπην σο δεύτερο τη στράτα τζαι το µιτσίκκο αδεφός έµπην σο τρίτον τη στράτα.
 # translit =  
 # text_en = The elder brother entered the first road, the middle one entered the second road. And the youngest brother entered the third road.
-1	Το	το	DET	DET	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	4	expl	4:expl	_
+1	Το	το	DET	DET	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	4	det	4:det	_
 2	µέγο	μέγας	ADJ	ADJ	Case=Nom|Gender=Neut|Number=Sing	4	amod	4:amod	_
 3	τουν	ο	DET	DET	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	4:det	_
 4	αδεφός	αδερφός	NOUN	NOUN	Case=Nom|Gender=Masc|Number=Sing	5	nsubj	5:nsubj	_
 5	έµπη	μπαίνω	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	_
 6-7	σο	_	_	_	_	_	_	_	_
 6	σ	σε	ADP	ADP	_	10	case	10:case	_
-7	ο	ο	DET	DET	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	10:det	_
-8	πρώτον	πρώτος	NUM	NUM	Case=Nom|Gender=Masc|Number=Sing	10	nummod	10:nummod	_
+7	ο	το	DET	DET	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	10	det	10:det	_
+8	πρώτον	πρώτος	NUM	NUM	Case=Acc|Gender=Neut|Number=Sing	10	nummod	10:nummod	_
 9	τη	η	DET	DET	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	expl	10:expl	_
 10	στράτα	στράτα	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Sing	5	obl	5:obl	SpaceAfter=No
 11	,	,	PUNCT	PUNCT	_	15	punct	15:punct	_
@@ -214,8 +214,8 @@
 15	έµπην	μπαίνω	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	5	parataxis	5:parataxis	_
 16-17	σο	_	_	_	_	_	_	_	_
 16	σ	σε	ADP	ADP	_	20	case	20:case	_
-17	ο	ο	DET	DET	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	20	det	20:det	_
-18	δεύτερο	_	NUM	NUM	Case=Nom|Gender=Masc|Number=Sing	20	nummod	20:nummod	_
+17	ο	το	DET	DET	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	20	det	20:det	_
+18	δεύτερο	_	NUM	NUM	Case=Acc|Gender=Neut|Number=Sing	20	nummod	20:nummod	_
 19	τη	η	DET	DET	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	20	expl	20:expl	_
 20	στράτα	στράτα	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Sing	15	obl	15:obl	_
 21	τζαι	jαι	CCONJ	CCONJ	_	25	cc	25:cc	_
@@ -225,8 +225,8 @@
 25	έµπην	μπαίνω	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	20	conj	20:conj	_
 26-27	σο	_	_	_	_	_	_	_	_
 26	σ	σε	ADP	ADP	_	30	case	30:case	_
-27	ο	ο	DET	DET	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	30	det	30:det	_
-28	τρίτον	τρίτος	NUM	NUM	Case=Nom|Gender=Masc|Number=Sing	30	nummod	30:nummod	_
+27	ο	το	DET	DET	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	30	det	30:det	_
+28	τρίτον	τρίτος	NUM	NUM	Case=Nom|Gender=Neut|Number=Sing	30	nummod	30:nummod	_
 29	τη	η	DET	DET	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	30	expl	30:expl	_
 30	στράτα	στράτα	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Sing	25	obl	25:obl	SpaceAfter=No
 31	.	.	PUNCT	PUNCT	_	5	punct	5:punct	_
@@ -236,7 +236,7 @@
 # translit =  
 # text_en = Before they begin, they put their rings under a rock and said:
 1	Πίρ	πίρ	ADV	ADV	_	3	advmod	3:advmod	_
-2	µη	µη	ADP	ADP	_	3	vocative	3:vocative	_
+2	µη	µη	ADP	ADP	_	3	case	3:case	_
 3	µπούν	εμβαίνω	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	8	advcl	8:advcl	_
 4-5	σις	_	_	_	_	_	_	_	_
 4	σ	σε	ADP	ADP	_	6	case	6:case	_
@@ -246,7 +246,7 @@
 8	έθακαν	θέτω	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	_
 9	τα	το	DET	DET	Case=Acc|Definite=Def|Gender=Neut|Number=Plur|PronType=Art	10	det	10:det	_
 10	δαχτυλίδε	δαχτυλίδι	NOUN	NOUN	Case=Acc|Gender=Neut|Number=Plur	8	obj	8:obj	_
-11	τουν	ο	DET	DET	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	nmod	10:nmod	_
+11	τουν	ο	DET	DET	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	10:det	_
 12	σ’	σε	ADP	ADP	_	14	case	14:case	_
 13	ε	ένα	NUM	NUM	Case=Acc|Gender=Neut|Number=Sing	14	nummod	14:nummod	_
 14	θάλιν	λιθάρι	NOUN	NOUN	Case=Acc|Gender=Neut|Number=Sing	8	obl	8:obl	_
@@ -269,7 +269,7 @@
 4	προµπήσει	_	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	SpaceAfter=No
 5	,	,	PUNCT	PUNCT	_	7	punct	7:punct	_
 6	‘α	α	AUX	AUX	_	7	aux	7:aux	_
-7	φυάξει	φυλάγνω	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	4	advcl	4:advcl	_
+7	φυάξει	φυλάγνω	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	4	parataxis	4:parataxis	_
 8	αδού	αδού	ADV	ADV	_	7	advmod	7:advmod	_
 9	΄ς	ς	ADP	ADP	_	13	vocative	13:vocative	_
 10	ως	έως	ADP	ADP	_	11	case	11:case	_
@@ -298,7 +298,7 @@
 # text_en = His first two sons walked the road for a bit and then came back to the wall.
 1	Τα	το	DET	DET	Case=Nom|Definite=Def|Gender=Neut|Number=Plur|PronType=Art	2	det	2:det	_
 2	πρωτινά	πρώτο	NUM	NUM	Case=Nom|Gender=Neut|Number=Plur	6	nummod	6:nummod	_
-3	τουν	ο	DET	DET	Case=Gen|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	nmod	6:nmod	_
+3	τουν	ο	DET	DET	Case=Gen|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	6:det	_
 4	τα	το	DET	DET	Case=Nom|Definite=Def|Gender=Neut|Number=Plur|PronType=Art	5	det	5:det	_
 5	δύο	δύο	NUM	NUM	Case=Nom|Gender=Neut|Number=Plur	6	nummod	6:nummod	_
 6	γιοι	γιός	NOUN	NOUN	Case=Nom|Gender=Masc|Number=Sing	8	nsubj	8:nsubj	SpaceAfter=No
@@ -323,7 +323,7 @@
 # translit =  
 # text_en = His youngest took the road ahead of him and walks.
 1	Το	το	DET	DET	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	2	det	2:det	_
-2	µιτσίκκο	µιτσίκκο	NOUN	NOUN	Case=Nom|Gender=Neut|Number=Sing	5	nsubj	5:nsubj	_
+2	µιτσίκκο	µιτσίκκο	NOUN	ADJ	Case=Nom|Gender=Neut|Number=Sing	5	nsubj	5:nsubj	_
 3	τουν	ο	DET	DET	Case=Gen|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	nmod	2:nmod	_
 4	πάλι	πάλι	ADV	ADV	_	5	advmod	5:advmod	_
 5	πήρεν	παίρνω	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	_
@@ -361,8 +361,8 @@
 20	τσίκνα	τσίκνα	NOUN	NOUN	Case=Nom|Gender=Fem|Number=Sing	18	nsubj	18:nsubj	_
 21-22	σο	_	_	_	_	_	_	_	_
 21	σ	σε	ADP	ADP	_	23	case	23:case	_
-22	ο	η	DET	DET	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	23	det	23:det	_
-23	µυτήν	µυτήν	NOUN	NOUN	Case=Nom|Gender=Neut|Number=Sing	18	obl	18:obl	_
+22	ο	το	DET	DET	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	23	det	23:det	_
+23	µυτήν	μύτη	NOUN	NOUN	Case=Nom|Gender=Fem|Number=Sing	18	obl	18:obl	_
 24	του	ο	DET	DET	Case=Gen|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	23	nmod	23:nmod	SpaceAfter=No
 25	.	.	PUNCT	PUNCT	_	6	punct	6:punct	_
 
