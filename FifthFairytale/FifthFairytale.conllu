@@ -3,7 +3,7 @@
 # translit = 
 # text_en = The kings children and the beauties. 
 1	Του	ο	DET	DET	Case=Gen|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	2:det	_
-2	Βασιλό	βασιλιάς	NOUN	NOUN	Case=Acc|Gender=Nom|Number=Sing	4	nummod	4:nummod	_
+2	Βασιλό	βασιλιάς	NOUN	NOUN	Case=Acc|Gender=Masc|Number=Sing	4	nummod	4:nummod	_
 3	τα	το	DET	DET	Case=Acc|Gender=Masc|Number=Plur	4	det	4:det	_
 4	φσάχα	φσάχ	NOUN	NOUN	Case=Nom|Gender=Masc|Number=Plur	0	root	0:root	_
 5	τζ'	jαι	CCONJ	CCONJ	_	7	cc	7:cc	_
@@ -33,12 +33,13 @@
 # text = Σ' η βασιλεία του πέσου κορίτσε σα παλικάρα του γκιορέ τζο βρισκούσαντε.
 # translit =
 # text_en = Within his kingdom there were no girls suitable for his sons. 
-1	Σ'	σε	ADP	ADP	_	3	case	3:case	SpaceAfter=No
+1	Σ'	σε	ADP	ADP	_	3	case	3:case	_
 2	η	η	DET	DET	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	3:det	_
 3	βασιλεία	βασιλεία_	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Sing	13	obl	13:obl	_
 4	του	ο	DET	DET	Case=Gen|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	nmod	3:nmod	_
 5	πέσου	πέσου	ADP	_	_	3	mark	3:mark	_
 6	κορίτσε	κορίτσι	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Sing	13	obj	13:obj	_
+7-8	σα	_	_	_	_	_	_	_	_
 7	σ	σε	ADP	_	_	9	case	9:case	_
 8	α	το	DET	DET	Case=Acc|Definite=Def|Gender=Neut|Number=Plur|PronType=Art	9	det	9:det	_
 9	παλικάρα	παλικάρι	NOUN	NOUN	Case=Acc|Gender=Neut|Number=Plur	13	obl	13:obl	_
@@ -80,11 +81,12 @@
 1	Γαλίτζεψαν	(γαλιτσεύω)	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	_
 2	τ’	το	DET	DET	Case=Acc|Definite=Def|Gender=Masc|Number=Plur|PronType=Art	3	det	3:det	_
 3	άβγα	άβγο	NOUN	NOUN	Case=Acc|Gender=Neut|Number=Plur	1	obj	1:obj	_
-4	τουν	ο	DET	DET	Case=Gen|Definite=Def|Gender=Masc|Number=Plur|PronType=Art	3	nummod	3:nummod	SpaceAfter=No
+4	τουν	ο	DET	DET	Case=Gen|Definite=Def|Gender=Masc|Number=Plur|PronType=Art	3	det	3:det	SpaceAfter=No
 5	,	,	PUNCT	PUNCT	_	1	punct	1:punct	_
 6	τζ’	jαι	CCONJ	CCONJ	_	7	cc	7:cc	_
 7	έβκαν	βγαίνω	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	1	conj	1:conj	_
-8	σ	σε	ADP	ADP	_	10	mark	10:mark	_
+8-9	ση	_	_	_	_	_	_	_	_
+8	σ	σε	ADP	ADP	_	10	case	10:case	_
 9	η	η	DET	DET	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	dep	10:dep	_
 10	στράτα	στράτα	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Sing	7	obl	7:obl	SpaceAfter=No
 11	.	.	PUNCT	PUNCT	_	1	punct	1:punct	_
@@ -104,7 +106,7 @@
 9	,	,	PUNCT	PUNCT	_	8	punct	8:punct	_
 10	τζ’	jαι	CCONJ	CCONJ	_	11	cc	11:cc	_
 11	ήρταν	'ερχομαι	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	5	conj	5:conj	_
-12	‘σ	σε	ADP	ADP	_	14	mark	14:mark	_
+12	‘σ	σε	ADP	ADP	_	14	case	14:case	_
 13	εν	ένα	DET	DET	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	14	det	14:det	_
 14	πεγάιδι	πεγάδι	NOUN	NOUN	Case=Acc|Gender=Neut|Number=Sing	11	obl	11:obl	_
 15	η	η	DET	DET	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	16	vocative	16:vocative	_
@@ -181,10 +183,10 @@
 1	«	«	PUNCT	PUNCT	_	3	punct	3:punct	SpaceAfter=No
 2	Α	α	AUX	AUX	_	3	aux	3:aux	_
 3	υπάς	πηγαίνω	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	_
-4	για	για	ADV	ADV	_	3	advmod	3:advmod	_
+4	για	για	ADV	ADV	_	3	advmod	3:advmod	SpaceAfter=No
 5	,	,	PUNCT	PUNCT	_	8	punct	8:punct	_
 6	τζ’	τζο	PART	PART	_	8	advmod	8:advmod	_
-7	α	α_	AUX	AUX	_	8	aux	8:aux	_
+7	α	α	AUX	AUX	_	8	aux	8:aux	_
 8	‘υριστείς	γυρίζω	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	3	parataxis	3:parataxis	_
 9	ξοπίσω	ξοπίσω	ADV	ADV	_	8	advmod	8:advmod	SpaceAfter=No
 10	!	!	PUNCT	PUNCT	_	3	punct	3:punct	SpaceAfter=No
@@ -199,8 +201,8 @@
 3	τουν	ο	DET	DET	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	4:det	_
 4	αδεφός	αδερφός	NOUN	NOUN	Case=Nom|Gender=Masc|Number=Sing	5	nsubj	5:nsubj	_
 5	έµπη	μπαίνω	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	_
-6-7	Σο	_	_	_	_	_	_	_	_
-6	σ	σε	ADP	ADP	_	10	mark	10:mark	_
+6-7	σο	_	_	_	_	_	_	_	_
+6	σ	σε	ADP	ADP	_	10	case	10:case	_
 7	ο	ο	DET	DET	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	10:det	_
 8	πρώτον	πρώτος	NUM	NUM	Case=Nom|Gender=Masc|Number=Sing	10	nummod	10:nummod	_
 9	τη	η	DET	DET	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	expl	10:expl	_
@@ -210,8 +212,8 @@
 13	µέσης	μέσος	NOUN	NOUN	Case=Nom|Gender=Masc|Number=Sing	15	nsubj	15:nsubj	_
 14	τουν	ο	DET	DET	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	13	det	13:det	_
 15	έµπην	μπαίνω	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	5	parataxis	5:parataxis	_
-16-17	Σο	_	_	_	_	_	_	_	_
-16	σ	σε	ADP	ADP	_	20	mark	20:mark	_
+16-17	σο	_	_	_	_	_	_	_	_
+16	σ	σε	ADP	ADP	_	20	case	20:case	_
 17	ο	ο	DET	DET	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	20	det	20:det	_
 18	δεύτερο	_	NUM	NUM	Case=Nom|Gender=Masc|Number=Sing	20	nummod	20:nummod	_
 19	τη	η	DET	DET	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	20	expl	20:expl	_
@@ -222,7 +224,7 @@
 24	αδεφός	αδερφός	NOUN	NOUN	Case=Nom|Gender=Masc|Number=Sing	25	nsubj	25:nsubj	_
 25	έµπην	μπαίνω	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	20	conj	20:conj	_
 26-27	σο	_	_	_	_	_	_	_	_
-26	σ	σε	ADP	ADP	_	30	mark	30:mark	_
+26	σ	σε	ADP	ADP	_	30	case	30:case	_
 27	ο	ο	DET	DET	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	30	det	30:det	_
 28	τρίτον	τρίτος	NUM	NUM	Case=Nom|Gender=Masc|Number=Sing	30	nummod	30:nummod	_
 29	τη	η	DET	DET	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	30	expl	30:expl	_
@@ -237,7 +239,7 @@
 2	µη	µη	ADP	ADP	_	3	vocative	3:vocative	_
 3	µπούν	εμβαίνω	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	8	advcl	8:advcl	_
 4-5	σις	_	_	_	_	_	_	_	_
-4	σ	σε	ADP	ADP	_	6	mark	6:mark	_
+4	σ	σε	ADP	ADP	_	6	case	6:case	_
 5	ις	η	DET	DET	Case=Acc|Definite=Def|Gender=Fem|Number=Plur|PronType=Art	6	det	6:det	_
 6	στράτες	στράτα	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Plur	3	obl	3:obl	SpaceAfter=No
 7	,	,	PUNCT	_	_	8	punct	8:punct	_
@@ -245,17 +247,17 @@
 9	τα	το	DET	DET	Case=Acc|Definite=Def|Gender=Neut|Number=Plur|PronType=Art	10	det	10:det	_
 10	δαχτυλίδε	δαχτυλίδι	NOUN	NOUN	Case=Acc|Gender=Neut|Number=Plur	8	obj	8:obj	_
 11	τουν	ο	DET	DET	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	nmod	10:nmod	_
-12	σ’	σε	ADP	ADP	_	14	mark	14:mark	_
-13	ε	ένα	NUM	NUM	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Card	14	nummod	14:nummod	_
+12	σ’	σε	ADP	ADP	_	14	case	14:case	_
+13	ε	ένα	NUM	NUM	Case=Acc|Gender=Neut|Number=Sing	14	nummod	14:nummod	_
 14	θάλιν	λιθάρι	NOUN	NOUN	Case=Acc|Gender=Neut|Number=Sing	8	obl	8:obl	_
 15-16	πουκάτου	_	_	_	_	_	_	_	_
-15	που	_	ADP	ADV	_	16	mark	16:mark	_
-16	κάτου	_	ADV	ADV	_	14	advmod	14:advmod	SpaceAfter=No
+15	που	από	ADP	ADV	_	16	case	16:case	_
+16	κάτου	κάτου	ADV	ADV	_	14	advmod	14:advmod	SpaceAfter=No
 17	,	,	PUNCT	PUNCT	_	19	punct	19:punct	_
-18	τζ΄	_	CCONJ	CCONJ	_	19	cc	19:cc	_
-19	είπαν	_	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	8	conj	8:conj	_
-20	‘τι	_	SCONJ	SCONJ	_	19	mark	19:mark	SpaceAfter=No
-21	:	_	PUNCT	PUNCT	_	19	punct	19:punct	_
+18	τζ΄	jαι	CCONJ	CCONJ	_	19	cc	19:cc	SpaceAfter=No
+19	είπαν	λέγω	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	8	conj	8:conj	_
+20	‘τι	di	SCONJ	SCONJ	_	19	mark	19:mark	SpaceAfter=No
+21	:	:	PUNCT	PUNCT	_	19	punct	19:punct	_
 
 # sent_id = Fairytale5.14
 # text = «Ότις ‘α προµπήσει, ‘α φυάξει αδού ΄ς ως του να νάρτουν τζαι τα πεµεινά µας».
@@ -270,8 +272,8 @@
 7	φυάξει	φυλάγνω	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	4	advcl	4:advcl	_
 8	αδού	αδού	ADV	ADV	_	7	advmod	7:advmod	_
 9	΄ς	ς	ADP	ADP	_	13	vocative	13:vocative	_
-10	ως	έως	ADP	ADP	_	13	mark	13:mark	_
-11	του	ότου	PRON	PRON	_	13	advmod	13:advmod	_
+10	ως	έως	ADP	ADP	_	11	case	11:case	_
+11	του	ότου	PRON	PRON	_	13	obl	13:obl	_
 12	να	να	AUX	AUX	_	13	aux	13:aux	_
 13	νάρτουν	έρχομαι	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	7	advcl	7:advcl	_
 14	τζαι	jαι	CCONJ	CCONJ	_	16	cc	16:cc	_
@@ -291,19 +293,19 @@
 4	.	.	PUNCT	PUNCT	_	1	punct	1:punct	_
 
 # sent_id = Fairytale5.16
-# text = Τα πρωτινά τουν τα δύο γιοι, πηάγαν λέικο σ΄η στράτα, τζ’ ‘υρίσταν ξοπίσω σο πεγάιδι.
+# text = Τα πρωτινά τουν τα δύο γιοι, πηάγαν λέικο σ΄ η στράτα, τζ’ ‘υρίσταν ξοπίσω σο πεγάιδι.
 # translit =  
 # text_en = His first two sons walked the road for a bit and then came back to the wall.
 1	Τα	το	DET	DET	Case=Nom|Definite=Def|Gender=Neut|Number=Plur|PronType=Art	2	det	2:det	_
-2	πρωτινά	πρώτο	NUM	NUM	Case=Nom|Definite=Def|Gender=Neut|Number=Plur	6	expl	6:expl	_
+2	πρωτινά	πρώτο	NUM	NUM	Case=Nom|Gender=Neut|Number=Plur	6	nummod	6:nummod	_
 3	τουν	ο	DET	DET	Case=Gen|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	nmod	6:nmod	_
 4	τα	το	DET	DET	Case=Nom|Definite=Def|Gender=Neut|Number=Plur|PronType=Art	5	det	5:det	_
-5	δύο	δύο	NUM	NUM	Case=Nom|Definite=Def|Gender=Neut|Number=Plur	6	nummod	6:nummod	_
+5	δύο	δύο	NUM	NUM	Case=Nom|Gender=Neut|Number=Plur	6	nummod	6:nummod	_
 6	γιοι	γιός	NOUN	NOUN	Case=Nom|Gender=Masc|Number=Sing	8	nsubj	8:nsubj	SpaceAfter=No
 7	,	,	PUNCT	PUNCT	_	8	punct	8:punct	_
 8	πηάγαν	πηγαίνω	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	_
 9	λέικο	ολίγος	ADV	ADV	_	8	advmod	8:advmod	_
-10	σ΄	σε	ADP	ADP	_	12	mark	12:mark	_
+10	σ΄	σε	ADP	ADP	_	12	case	12:case	_
 11	η	η	DET	DET	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	12	det	12:det	_
 12	στράτα	στράτα	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Sing	8	obl	8:obl	SpaceAfter=No
 13	,	,	PUNCT	PUNCT	_	15	punct	15:punct	_
@@ -311,7 +313,7 @@
 15	‘υρίσταν	γυρίζω	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	8	conj	8:conj	_
 16	ξοπίσω	ξοπίσω	ADV	ADV	_	15	advmod	15:advmod	_
 17-18	σο	_	_	_	_	_	_	_	_
-17	σ	σε	ADP	ADP	_	19	mark	19:mark	_
+17	σ	σε	ADP	ADP	_	19	case	19:case	_
 18	ο	το	DET	DET	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	19	det	19:det	_
 19	πεγάιδι	πεγάδι	NOUN	NOUN	Case=Acc|Gender=Neut|Number=Sing	15	obl	15:obl	SpaceAfter=No
 20	.	.	PUNCT	PUNCT	_	8	punct	8:punct	_
@@ -337,7 +339,7 @@
 # text = ‘Σ τ’ εν ταρός ‘στέρου θωρεί ‘τι κι, γνέντα του ένι αν κάπνη τζαι απή τζει ήρτεν αν τσίκνα σο µυτήν του.
 # translit =  
 # text_en = Some time later he sees opposite of him a chimney and from it a meat-smell came to his nose.
-1	‘Σ	σε	ADP	ADP	_	6	mark	6:mark	_
+1	‘Σ	σε	ADP	ADP	_	6	case	6:case	_
 2	τ’	ο	DET	DET	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	expl	4:expl	_
 3	εν	ένας	DET	DET	Case=Acc|Definite=Def|Gender=Masc|Number=Sing	4	det	4:det	_
 4	ταρός	ταρός	NOUN	NOUN	Case=Acc|Gender=Masc|Number=Sing	6	obl	6:obl	_
@@ -352,13 +354,13 @@
 13	αν	α	DET	DET	Case=Nom|Definite=Def|Gender=Fem|Number=Sing	14	det	14:det	_
 14	κάπνη	κάπνη	NOUN	NOUN	Case=Nom|Gender=Fem|Number=Sing	6	ccomp	6:ccomp	_
 15	τζαι	jαι	CCONJ	CCONJ	_	18	cc	18:cc	_
-16	απή	από	ADP	ADP	_	18	mark	18:mark	_
+16	απή	από	ADP	ADP	_	18	case	18:case	_
 17	τζει	jεί	ADV	ADV	_	18	advmod	18:advmod	_
 18	ήρτεν	έρχομαι	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	14	conj	14:conj	_
 19	αν	α	DET	DET	Case=Nom|Definite=Def|Gender=Fem|Number=Sing	20	det	20:det	_
 20	τσίκνα	τσίκνα	NOUN	NOUN	Case=Nom|Gender=Fem|Number=Sing	18	nsubj	18:nsubj	_
 21-22	σο	_	_	_	_	_	_	_	_
-21	σ	σε	ADP	ADP	_	23	mark	23:mark	_
+21	σ	σε	ADP	ADP	_	23	case	23:case	_
 22	ο	η	DET	DET	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	23	det	23:det	_
 23	µυτήν	µυτήν	NOUN	NOUN	Case=Nom|Gender=Neut|Number=Sing	18	obl	18:obl	_
 24	του	ο	DET	DET	Case=Gen|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	23	nmod	23:nmod	SpaceAfter=No
@@ -372,7 +374,7 @@
 2	να	να	AUX	AUX	_	3	aux	3:aux	_
 3	‘υρέψει	γυρεύω	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	1	xcomp	1:xcomp	_
 4	ψωµί	ψωµί	NOUN	NOUN	Case=Acc|Gender=Neut|Number=Sing	3	obj	3:obj	_
-5	να	να	SCONJ	SCONJ	_	6	aux	6:aux	_
+5	να	να	SCONJ	SCONJ	_	6	mark	6:mark	_
 6	φα	φαω	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	4	advcl	4:advcl	SpaceAfter=No
 7	.	.	PUNCT	PUNCT	_	1	punct	1:punct	_
 
@@ -382,7 +384,7 @@
 # text_en = He goes inside the house and what does he see!
 1	Έµπην	εμβαίνω	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	_
 2-3	σο	_	_	_	_	_	_	_	_
-2	σ	σε	ADP	ADP	_	4	mark	4:mark	_
+2	σ	σε	ADP	ADP	_	4	case	4:case	_
 3	ο	το	DET	DET	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	4	det	4:det	_
 4	σπίτιν	σπίτι	NOUN	NOUN	Case=Acc|Gender=Neut|Number=Sing	1	obl	1:obl	_
 5	πέσου	πέσου	ADV	ADV	_	1	advmod	1:advmod	_
@@ -391,3 +393,4 @@
 8	‘τι	di	SCONJ	SCONJ	_	7	mark	7:mark	_
 9	κι	κι	SCONJ	SCONJ	_	7	mark	7:mark	SpaceAfter=No
 10	!	!	PUNCT	PUNCT	_	1	punct	1:punct	_
+
