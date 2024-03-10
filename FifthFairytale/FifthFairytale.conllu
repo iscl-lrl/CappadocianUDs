@@ -481,99 +481,99 @@
 8	:	:	PUNCT	PUNCT	_	3	punct	3:punct	_
 
 # sent_id = Fairytale5.26
-# text = «‘Σ τ’ εµέν’ γιο µου, τούς καό ‘υρέβ’ να σε ποίκω;
+# text = «‘Σ τ’ εµέν’ γιο µου, τούς καό ‘υρέβ’ να σε ποίκω;»
 # translit =  
-# text_en =
-1	«	_	PUNCT	_	_	_	_	_	_
-2	‘Σ	_	ADP	_	_	_	_	_	_
-3	τ’	_	ADP	_	_	_	_	_	_
-4	εµέν’	_	PRON	_	_	_	_	_	_
-5	γιο	_	NOUN	_	_	_	_	_	_
-6	µου	_	DET	_	_	_	_	_	_
-7	,	_	PUNCT	_	_	_	_	_	_
-8	τούς	_	DET	_	_	_	_	_	_
-9	καό	_	ADJ	_	_	_	_	_	_
-10	‘υρέβ’	_	VERB	_	_	_	_	_	_
-11	να	_	AUX	_	_	_	_	_	_
-12	σε	_	DET	_	_	_	_	_	_
-13	ποίκω	_	VERB	_	_	_	_	_	_
-14	;	_	PUNCT	_	_	_	_	_	_ 
+# text_en = From me my son, what good shall I do to you? 
+1	«	«	PUNCT	PUNCT	_	10	punct	10:punct	_
+2	‘Σ	σε	ADP	ADP	_	4	case	4:case	_
+3	τ’	το	ADP	ADP	_	4	case	4:case	_
+4	εµέν’	εγώ	PRON	PRON	Case=Acc|Gender=Fem|Number=Sing|PronType=Prs	10	obl	10:obl	_
+5	γιο	γιός	NOUN	NOUN	Case=Voc|Gender=Masc|Number=Sing	10	vocative	10:vocative	_
+6	µου	εγώ	PRON	PRON	Case=Gen|Gender=Masc|Number=Sing|PronType=Prs	5	nmod	5:nmod	_
+7	,	,	PUNCT	PUNCT	_	10	punct	10:punct	_
+8	τούς	τι	DET	DET	Case=Acc|Gender=Neut|Number=Sing	9	det	9:det	_
+9	καό	καλό	ADJ	ADJ	Case=Acc|Gender=Neut|Number=Sing	10	obj	10:obj	_
+10	‘υρέβ’	γυρεύω	VERB	VERB	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	_
+11	να	να	AUX	AUX	_	13	aux	13:aux	_
+12	σε	εσύ	PRON	PRON	Case=Gen|Gender=Masc|Number=Sing|PronType=Prs	13	iobj	13:iobj	_
+13	ποίκω	ποιώ	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	10	ccomp	10:ccomp	_
+14	;	;	PUNCT	PUNCT	_	10	punct	10:punct	_ 
+15	»	»	PUNCT	PUNCT	_	10	punct	10:punct	_
 
 # sent_id = Fairytale5.27
 # text = Είπεν ‘τι τζαι το φσόκκο:
 # translit =  
 # text_en = 
-1	Είπεν	_	VERB	_	_	0	root	0:root	_
-2	‘τι	_	SCONJ	_	_	1	mark	1:mark	_
-3	τζαι	_	CCONJ	_	_	1	cc	1:cc	_
-4	το	_	DET	_	_	5	det	5:det	_
-5	φσόκκο	_	NOUN	_	_	1	nsubj	1:nsubj	_
-6	:	_	PUNCT	_	_	1	punct	1:punct	_
+1	Είπεν	λαλώ	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	_
+2	‘τι	di	SCONJ	SCONJ	_	1	mark	1:mark	_
+3	τζαι	jαι	CCONJ	CCONJ	_	1	cc	1:cc	_
+4	το	το	DET	DET	Case=Nom|Gender=Neut|Number=Sing	5	det	5:det	_
+5	φσόκκο	φσάχ	NOUN	NOUN	Case=Nom|Gender=Neut|Number=Sing	1	nsubj	1:nsubj	_
+6	:	:	PUNCT	PUNCT	_	1	punct	1:punct	_
 
 # sent_id = Fairytale5.28
 # text = «Συ σε µένα ‘π ‘α πορέζ’ να µε ποικ;»
 # translit =  
 # text_en = 
-1	«	_	PUNCT	_	_	_	_	_	_
-2	Συ	_	DET	_	_	_	_	_	_
-3	σε	_	DET	_	_	_	_	_	_
-4	µένα	_	PRON	_	_	_	_	_	_
-5	‘π	_	PRON	_	_	_	_	_	_
-6	‘α	_	ADP	_	_	_	_	_	_
-7	πορέζ’	_	VERB	_	_	_	_	_	_
-8	να	_	AUX	_	_	_	_	_	_
-9	µε	_	DET	_	_	_	_	_	_
-10	ποικ	_	VERB	_	_	_	_	_	_
-11	;	_	PUNCT	_	_	_	_	_	_
-12	»	_	PUNCT	_	_	_	_	_	_
+1	«	«	PUNCT	PUNCT	_	7	punct	7:punct	_
+2	Συ	εσύ	PRON	PRON	Case=Nom|Gender=Masc|Number=Sing|PronType=Prs	7	nsubj	7:nsubj	_
+3	σε	σε	ADP	ADP	_	4	case	4:case	_
+4	µένα	εγώ	PRON	PRON	Case=Acc|Gender=Masc|Number=Sing|PronType=Prs	7	obl	7:obl	_
+5	‘π	πα	PRON	PRON	_	7	iobj	7:iobj	_
+6	‘α	α	ADP	ADP	_	7	case	7:case	_
+7	πορέζ’	μπορώ	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=2|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	_
+8	να	να	AUX	AUX	_	10	aux	10:aux	_
+9	µε	εγώ	PRON	PRON	Case=Acc|Gender=Masc|Number=Sing|PronType=Prs	10	obj	10:obj	_
+10	ποικ	ποιώ	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=2|Tense=Past|VerbForm=Fin|Voice=Act	7	ccomp	7:ccomp	_
+11	;	;	PUNCT	PUNCT	_	7	punct	7:punct	_
+12	»	»	PUNCT	PUNCT	_	7	punct	7:punct	_
 
 # sent_id = Fairytale5.29
 # text = Η Μαρκάλτσα ατέ τη µία έβκαλεν ‘πο πέσου σ'το ντουλάπι αν τσίκκιν, δώτζεν τα, τζ’ είπεν ‘τι κι:
 # translit =  
 # text_en = 
-1	Η	_	DET	_	_	_	_	_	_
-2	Μαρκάλτσα	_	NOUN	_	_	_	_	_	_
-3	ατέ	_	PRON	_	_	_	_	_	_
-4	τη	_	DET	_	_	_	_	_	_
-5	µία	_	DET	_	_	_	_	_	_
-6	έβκαλεν	_	VERB	_	_	_	_	_	_
-7	‘πο	_	ADP	_	_	_	_	_	_
-8	πέσου	_	ADV	_	_	_	_	_	_
+1	Η	η	DET	DET	Case=Nom|Gender=Fem|Number=Sing	2	det	2:det	_
+2	Μαρκάλτσα	Μαρκάλτσα	NOUN	NOUN	Case=Nom|Gender=Fem|Number=Sing	6	nsubj	6:nsubj	_
+3	ατέ	ατό	PRON	PRON	Case=Acc|Gender=Fem|Number=Sing	5	det	5:det	_
+4	τη	η	DET	DET	Case=Acc|Gender=Fem|Number=Sing	5	det	5:det	_
+5	µία	µία	NUM	NUM	Case=Acc|Gender=Fem|Number=Plur	6	expl	6:expl	_
+6	έβκαλεν	βγάζω	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	_
+7	‘πο	από	ADP	ADP	_	8	mark	8:mark	_
+8	πέσου	πέσου	ADV	ADV	_	11	advmod	11:advmod	_
 9-10	σ'το	_	_	_	_	_	_	_	_
-9	σ'	_	ADJ	_	_	_	_	_	_
-10	το	_	DET	_	_	_	_	_	_
-11	ντουλάπι	_	NOUN	_	_	_	_	_	_
-12	αν	_	DET	_	_	_	_	_	_
-13	τσίκκιν	_	NOUN	_	_	_	_	_	_
-14	,	_	PUNCT	_	_	_	_	_	_
-15	δώτζεν	_	VERB	_	_	_	_	_	_
-16	τα	_	DET	_	_	_	_	_	_
-17	,	_	PUNCT	_	_	_	_	_	_
-18	τζ’	_	CCONJ	_	_	_	_	_	_
-19	είπεν	_	VERB	_	_	_	_	_	_
-20	‘τι	_	SCONJ	_	_	_	_	_	_
-21	κι	_	SCONJ	_	_	_	_	_	_
-22	:	_	PUNCT	_	_	_	_	_	_
+9	σ'	σε	ADP	ADP	_	11	mark	11:mark	_
+10	το	το	DET	DET	Case=Acc|Gender=Neut|Number=Sing	11	det	11:det	_
+11	ντουλάπι	ντουλάπι	NOUN	NOUN	Case=Acc|Gender=Neut|Number=Sing	6	obl	6:obl	_
+12	αν	αν	DET	DET	Case=Acc|Gender=Neut|Number=Sing	13	det	13:det	_
+13	τσίκκιν	τσίκκι	NOUN	NOUN	Case=Acc|Gender=Neut|Number=Sing	6	obj	6:obj	_
+14	,	,	PUNCT	PUNCT	_	15	punct	15:punct	_
+15	δώτζεν	δίνω	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	6	parataxis	6:parataxis	_
+16	τα	το_	DET	DET	Case=Acc|Gender=Neut|Number=Sing	15	obj	15:obj	_
+17	,	,	PUNCT	PUNCT	_	19	punct	19:punct	_
+18	τζ’	jαι	CCONJ	CCONJ	_	19	cc	19:cc	_
+19	είπεν	λαλώ	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	15	conj	15:conj	_
+20	‘τι	di	SCONJ	SCONJ	_	19	mark	19:mark	_
+21	κι	κι	SCONJ	SCONJ	_	19	mark	19:mark	_
+22	:	:	PUNCT	PUNCT	_	6	punct	6:punct	_
 
 # sent_id = Fairytale5.30
 # text = «Έπαρ’ τ’ ατέ το τσίκκι, τζαι ό,τι α ‘υρέβ ‘α σε τα ποίτζει!»
 # translit =  
 # text_en = 
-1	«	_	PUNCT	_	_	_	_	_	_
-2	Έπαρ’	_	VERB	_	_	_	_	_	_
-3	τ’	_	DET	_	_	_	_	_	_
-4	ατέ	_	PRON	_	_	_	_	_	_
-5	το	_	DET	_	_	_	_	_	_
-6	τσίκκι	_	NOUN	_	_	_	_	_	_
-7	,	_	PUNCT	_	_	_	_	_	_
-8	τζαι	_	CCONJ	_	_	_	_	_	_
-9	ό,τι	_	PRON	_	_	_	_	_	_
-10	α	_	ADP	_	_	_	_	_	_
-11	‘υρέβ	_	VERB	_	_	_	_	_	_
-12	‘α	_	ADP	_	_	_	_	_	_
-13	σε	_	DET	_	_	_	_	_	_
-14	τα	_	DET	_	_	_	_	_	_
-15	ποίτζει	_	VERB	_	_	_	_	_	_
-16	!	_	PUNCT	_	_	_	_	_	_
-17	»	_	PUNCT	_	_	_	_	_	_
-
+1	«	«	PUNCT	PUNCT	_	2	punct	2:punct	_
+2	Έπαρ’	παίρνω	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	_
+3	τ’	το	DET	DET	Case=Acc|Gender=Neut|Number=Sing	4	det	4:det	_
+4	ατέ	ατό	PRON	PRON	Case=Acc|Gender=Neut|Number=Sing	6	expl	6:expl	_
+5	το	το	DET	DET	Case=Acc|Gender=Neut|Number=Sing	6	det	6:det	_
+6	τσίκκι	τσίκκι	NOUN	NOUN	Case=Acc|Gender=Neut|Number=Sing	2	obj	2:obj	_
+7	,	,	PUNCT	PUNCT	_	11	punct	11:punct	_
+8	τζαι	jαι	CCONJ	CCONJ	_	11	cc	11:cc	_
+9	ό,τι	ό,τι	PRON	PRON	Case=Acc|Gender=Neut|Number=Sing	11	obj	11:obj	_
+10	α	α	ADP	ADP	_	11	case	11:case	_
+11	‘υρέβ	γυρεύω	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	2	conj	2:conj	_
+12	‘α	α	ADP	ADP	_	15	case	15:case	_
+13	σε	εσύ	PRON	PRON	Case=Acc|Gender=Masc|Number=Sing	15	iobj	15:iobj	_
+14	τα	το	DET	DET	Case=Acc|Gender=Neut|Number=Sing	15	obj	15:obj	_
+15	ποίτζει	ποιώ	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	11	advcl	11:advcl	_
+16	!	!	PUNCT	PUNCT	_	2	punct	2:punct	_
+17	»	»	PUNCT	PUNCT	_	2	punct	2:punct	_
