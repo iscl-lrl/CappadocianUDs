@@ -2,6 +2,6 @@
 # text = Είπαν dι κι
 # translit =  Eipan di ki
 # text_en = and they said
-1	Είπαν	λέγω	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
-2	dι	di	SCONJ	SCONJ	_	1	mark	_	_
-3	κι	ki	SCONJ	SCONJ	_	1	mark	_	_
+1	Είπαν	λέγω	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	_
+2	dι	di	SCONJ	SCONJ	_	1	mark	1:mark	_
+3	κι	ki	SCONJ	SCONJ	_	1	mark	1:mark	_

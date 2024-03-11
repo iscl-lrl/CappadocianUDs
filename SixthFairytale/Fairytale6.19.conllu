@@ -1,0 +1,10 @@
+# sent_id = Fairytale6.19
+# text = Ποίjεν dα α ζυ ρούχα.
+# translit =  Pijen da a zi rouxa
+# text_en = He made him a suit of clothes
+1	Ποίjεν	ποιώ	VERB	VERB	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	_
+2	dα	dα	PRON	PRON	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	1	iobj	1:iobj	_
+3	α	α	DET	DET	Case=Acc|Definite=Ind|Gender=Neut|Number=Sing|PronType=Art	4	det	4:det	_
+4	ζυ	ζι	NOUN	NOUN	Case=Acc|Gender=Neut|Number=Sing	1	obj	1:obj	_
+5	ρούχα	ρούχο	NOUN	NOUN	Case=Acc|Gender=Neut|Number=Plur	4	nmod	4:nmod	SpaceAfter=No
+6	.	.	PUNCT	PUNCT	_	1	punct	1:punct	_

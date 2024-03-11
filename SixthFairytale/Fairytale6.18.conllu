@@ -1,0 +1,11 @@
+# sent_id = Fairytale6.18
+# text = Ήγρεψεν dι κι ένι τίπκε νομάτ.
+# translit =  Igrepsen di ki eni tipke nomat.
+# text_en = He saw that it is exactly like human being.
+1	Ήγρεψεν	αγροικώ	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	_
+2	dι	dι	SCONJ	SCONJ	_	1	mark	1:mark	_
+3	κι	κι	SCONJ	SCONJ	_	1	mark	1:mark	_
+4	ένι	είμαι	AUX	AUX	_	6	cop	6:cop	_
+5	τίπκε	τίπκε	ADJ	ADJ	Case=Nom|Gender=Masc|Number=Sing	6	amod	6:amod	_
+6	νομάτ	νομάτης	NOUN	NOUN	Case=Nom|Gender=Masc|Number=Sing	1	ccomp	1:ccomp	SpaceAfter=No
+7	.	.	PUNCT	PUNCT	_	1	punct	1:punct	_

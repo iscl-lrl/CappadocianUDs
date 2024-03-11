@@ -1,0 +1,11 @@
+# sent_id = Fairytale6.26
+# text = Ήγρεψέν dα κι έν’ α σουράτι.
+# translit =  Igrepsen da ki en’ a sourati
+# text_en = He saw that it is an image.
+1	Ήγρεψέν	αγροικώ	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	_
+2	dα	dα	PRON	PRON	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	1	obj	1:obj	_
+3	κι	κι 	SCONJ	SCONJ	_	1	mark	1:mark	_
+4	έν’	είμαι	AUX	AUX	_	6	cop	6:cop	_
+5	α	α	DET	DET	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing|PronType=Art	6	det	6:det	_
+6	σουράτι	σουράτι	NOUN	NOUN	Case=Nom|Gender=Neut|Number=Sing	1	ccomp	1:ccomp	SpaceAfter=No
+7	.	.	PUNCT	PUNCT	_	1	punct	1:punct	_

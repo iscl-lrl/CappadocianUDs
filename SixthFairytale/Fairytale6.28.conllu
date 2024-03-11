@@ -1,0 +1,19 @@
+# sent_id = Fairytale6.28
+# text = « Αλλάχ, Παναγία μου, αdέ το κορίdζι δος τα αμ ψυσή ».
+# translit = « Allah, Panagia mou, ade to koridzi dos ta am psisi ».
+# text_en =« Good and Mary, give to this girl a soul».
+1	«	«	PUNCT	PUNCT	_	2	punct	2:punct	_
+2	Αλλάχ	Αλλάχ	PROPN	PROPN	Case=Voc|Gender=Masc|Number=Sing	0	root	0:root	_
+3	,	,	PUNCT	PUNCT	_	2	punct	2:punct	_
+4	Παναγία	Παναγία	PROPN	PROPN	Case=Voc|Gender=Fem|Number=Sing	2	conj	2:conj	_
+5	μου	εγω	PRON	PRON	Case=Gen|Gender=Masc|Number=Sing|Person=1|Poss=Yes|PronType=Prs	4	nmod	4:nmod	_
+6	,	,	PUNCT	PUNCT	_	10	punct	10:punct	_
+7	αdέ	αdα	DET	DET	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Dem	9	det	9:det	_
+8	το	το	DET	DET	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	9	det	9:det	_
+9	κορίdζι	κορίτσι,κορίdζι	NOUN	NOUN	Case=Acc|Gender=Neut|Number=Sing	10	iobj	10:iobj	_
+10	δος	δίνω	VERB	VERB	Aspect=Perf|Mood=Imp|Number=Plur|Person=2|VerbForm=Fin|Voice=Act	2	parataxis	2:parataxis	_
+11	τα	το	DET	DET	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	13	det	13:det	_
+12	αμ	α	DET	DET	Case=Acc|Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	13	det	13:det	_
+13	ψυσή	ψυσή	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Sing	10	obj	10:obj	_
+14	»	»	PUNCT	PUNCT	_	2	punct	2:punct	_
+15	.	.	PUNCT	PUNCT	_	2	punct	2:punct	_

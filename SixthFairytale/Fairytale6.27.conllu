@@ -1,0 +1,8 @@
+# sent_id = Fairytale6.27
+# text = Είπεν dι κι,
+# translit =  Eipen di ki,
+# text_en =And they said,
+1	Είπεν	λέγω	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	_
+2	dι	dι	SCONJ	SCONJ	_	1	mark	1:mark	_
+3	κι	κι	SCONJ	SCONJ	_	1	mark	1:mark	SpaceAfter=No
+4	,	,	PUNCT	PUNCT	_	1	punct	1:punct	_
