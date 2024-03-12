@@ -1,0 +1,10 @@
+# sent_id = Fairytale6.21
+# text = Δέβασέν dα βρασόλε jαι κερdάνε.
+# translit =  Devasen da brasole jai kerdane.
+# text_en = He put bracelets and necklaces on it.
+1	Δέβασέν	δεβάζω	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	_
+2	dα	dα	PRON	PRON	Case=Gen|Gender=Neut|Number=Sing|Person=3|PronType=Prs	1	iobj	1:iobj	_
+3	βρασόλε	βροσάλι	NOUN	NOUN	Case=Acc|Gender=Neut|Number=Plur	1	obj	1:obj	_
+4	jαι	jαι	CCONJ	CCONJ	_	5	cc	5:cc	_
+5	κερdάνε	κερdάνε	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Plur	3	conj	3:conj	SpaceAfter=No
+6	.	.	PUNCT	PUNCT	_	1	punct	1:punct	_

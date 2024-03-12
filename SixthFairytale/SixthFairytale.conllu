@@ -1,0 +1,397 @@
+# sent_id = Fairytale6.0Title
+# text = Dουλgέρ, Kουγιουμτζής, Tερζής τζαι τ’ ένα καό Θεού νομάτ.
+# translit =  Dulger, Kumgioutzis, Terzis tzai t’ ena kao theou nomat.
+# text_en = The Carpenter, the Jeweler, the Tailor and a good man of God.
+1	Dουλgέρ	Dουλgέρ	NOUN	NOUN	Foreign=Yes	0	root	0:root	SpaceAfter=No
+2	,	,	PUNCT	PUNCT	_	3	punct	3:punct	_
+3	Kουγιουμτζής	qουγιουμjης	NOUN	NOUN	Case=Nom|Gender=Masc|Number=Sing	1	conj	1:conj	SpaceAfter=No
+4	,	,	PUNCT	PUNCT	_	5	punct	5:punct	_
+5	Tερζής	τερ(d)ζής	NOUN	NOUN	Case=Nom|Gender=Masc|Number=Sing	1	conj	1:conj	_
+6	τζαι	jαι	CCONJ	CCONJ	_	1	cc	1:cc	_
+7	τ’	τ’	DET	DET	Case=Gen|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	10:det	_
+8	ένα	ένας	DET	DET	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	11	det	11:det	_
+9	καό	κα(λ)ός	ADJ	ADJ	Case=Nom|Gender=Masc|Number=Sing	11	amod	11:amod	_
+10	Θεού	Θεός	NOUN	NOUN	Case=Gen|Gender=Masc|Number=Sing	11	nmod	11:nmod	_
+11	νομάτ	νομάτης	NOUN	NOUN	Case=Nom|Gender=Masc|Number=Sing	1	conj	1:conj	SpaceAfter=No
+12	.	.	PUNCT	PUNCT	_	1	punct	1:punct	_
+
+# sent_id = Fairytale6.1
+# text = Σηκώθην jαι bά σηκώθη.
+# translit =  Sikothin jai ba sikothi.
+# text_en = He rose and rose.
+1	Σηκώθην	σηκούμαι	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	0	root	0:root	_
+2	jαι	jαι	CCONJ	CCONJ	_	4	cc	4:cc	_
+3	bά	bά	ADV	ADV	_	4	advmod	4:advmod	_
+4	σηκώθη	σηκούμαι	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	1	conj	1:conj	SpaceAfter=No
+5	.	.	PUNCT	PUNCT	_	1	punct	1:punct	_
+
+# sent_id = Fairytale6.2
+# text = 'Σ αμ πώτο ζαμάνι ήτουνε τέσσερα νομάτοι.
+# translit =  'S am poto zamani itoune tessera nomatoi
+# text_en =In the old days it was four people.
+1	'	'	PUNCT	PUNCT	_	2	punct	2:punct	SpaceAfter=No
+2	Σ	σε	ADP	ADP	_	5	case	5:case	_
+3	αμ	α	DET	DET	Case=Acc|Gender=Neut|Number=Sing	5	det	5:det	_
+4	πώτο	πρώτο	ADJ	ADJ	Case=Acc|Gender=Neut|Number=Sing|NumType=Ord	4	det	_	_
+5	ζαμάνι	ζαμάν(ι)	NOUN	NOUN	Case=Acc|Gender=Neut|Number=Sing	8	obl	8:obl	_
+6	ήτουνε	είμαι	AUX	AUX	_	8	cop	8:cop	_
+7	τέσσερα	τέσερα	NUM	NUM	Case=Nom|Gender=Masc|Number=Plur|NumType=Card	8	nummod	8:nummod	_
+8	νομάτοι	νομάτης	NOUN	NOUN	Case=Nom|Gender=Masc|Number=Plur	0	root	0:root	SpaceAfter=No
+9	.	.	PUNCT	PUNCT	_	8	punct	8:punct	_
+
+# sent_id = Fairytale6.3
+# text = Τ’ ένα ήτουνε qουγιουμτζής, jαι τ’ ένα τερζής, jαι τ’ ένα καό Θεού νομάτ.
+# translit = T’ ena itoune qumgioutzis, jai, t’ ena terzis, jai t’ ena kao Theou nomat.
+# text_en = There was a tailor and a jeweler, and a good man of God.
+1	Τ’	τε	PART	PART	_	4	cc	4:cc	_
+2	ένα	ένας	DET	DET	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	4	det	4:det	_
+3	ήτουνε	είμαι	AUX	AUX	_	4	cop	4:cop	_
+4	qουγιουμτζής	qουγιουμjης	NOUN	NOUN	Case=Nom|Gender=Masc|Number=Sing	0	root	0:root	SpaceAfter=No
+5	,	,	PUNCT	PUNCT	_	9	punct	9:punct	_
+6	jαι	jαι	CCONJ	CCONJ	_	9	cc	9:cc	_
+7	τ’	τε	PART	PART	_	9	cc	9:cc	_
+8	ένα	ένας	DET	DET	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	9	det	9:det	_
+9	τερζής	τερ(d)ζής	NOUN	NOUN	Case=Nom|Gender=Masc|Number=Sing	4	conj	4:conj	SpaceAfter=No
+10	,	,	PUNCT	PUNCT	_	16	punct	16:punct	_
+11	jαι	jαι	CCONJ	CCONJ	_	16	cc	16:cc	_
+12	τ’	τε	PART	PART	_	16	cc	16:cc	_
+13	ένα	ένας	DET	DET	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	16	det	16:det	_
+14	καό	κα(λ)ός	ADJ	ADJ	Case=Nom|Gender=Masc|Number=Sing	16	amod	16:amod	_
+15	Θεού	Θεός		NOUN	NOUN	Case=Gen|Gender=Masc|Number=Sing	16	nmod	16:nmod	_
+16	νομάτ	νομάτης	NOUN	NOUN	Case=Nom|Gender=Masc|Number=Sing	4	conj	4:conj	SpaceAfter=No
+17	.	.	PUNCT	PUNCT	_	4	punct	4:punct	_
+
+# sent_id = Fairytale6.4
+# text = Πηάγανε ς’ αν ορμάνι.
+# translit = Piagane s’ an ormani.
+# text_en = They went to a forest.
+1	Πηάγανε	πηγαίνω	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+2	ς’	σε	ADP	ADP	_	4	case	_	_
+3	αν	α	DET	DET	Case=Acc|Definite=Ind|Gender=Neut|Number=Sing|PronType=Art	4	det	_	_
+4	ορμάνι	ορμάν(ι)	NOUN	NOUN	Case=Acc|Gender=Neut|Number=Sing	1	obl	_	SpaceAfter=No
+5	.	.	PUNCT	PUNCT	_	1	punct	_	_
+
+# sent_id = Fairytale6.5
+# text = Αjέ σ’ ορμάνι ήσανdαι πουά λύçοι.
+# translit = Aje s’ ormani isandai poua litsoi.
+# text_en = In that forest there were many wolves.
+1	Αjέ	αjέ	ADV	ADV	_	6	advmod	6:advmod	_
+2	σ’	σε	ADP	ADP	_	3	case	3:case	_
+3	ορμάνι	ορμάν(ι)	NOUN	NOUN	Case=Acc|Gender=Neut|Number=Sing	6	obl	6:obl	_
+4	ήσανdαι	είμαι	AUX	AUX	_	6	cop	6:cop	_
+5	πουά	πολύς	ADJ	ADJ	Case=Nom|Gender=Masc|Number=Plur	6	amod	6:amod	_
+6	λύçοι	λύκος(λύgος)	NOUN	NOUN	Case=Nom|Gender=Masc|Number=Plur	0	root	0:root	SpaceAfter=No
+7	.	.	PUNCT	PUNCT	_	6	punct	6:punct	_
+
+# sent_id = Fairytale6.6
+# text = çαι σκούνdαι.
+# translit = tse skoundai
+# text_en = And they are afraid.
+1	çαι	jαι	CCONJ	CCONJ	_	2	cc	2:cc	_
+2	σκούνdαι	σκούνdαι	VERB	VERB	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	0:root	SpaceAfter=No
+3	.	.	PUNCT	PUNCT	_	2	punct	2:punct	_
+
+# sent_id = Fairytale6.7
+# text = Είπαν dι κι
+# translit =  Eipan di ki
+# text_en = and they said
+1	Είπαν	λέγω	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	_
+2	dι	dι	SCONJ	SCONJ	_	1	mark	1:mark	_
+3	κι	kι	SCONJ	SCONJ	_	1	mark	1:mark	_
+
+# sent_id = Fairytale6.8
+# text = «Να πνώσωμε με dο νοbάτι.»
+# translit =  «Na pnosome me do nobati.»
+# text_en = "Lets sleep with one person."
+1	«	«	PUNCT	PUNCT	_	3	punct	3:punct	SpaceAfter=No
+2	Να	να	AUX	AUX	_	3	aux	3:aux	_
+3	πνώσωμε	 πνώνω	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|VerbForm=Fin|Voice=Pass	0	root	0:root	_
+4	με	με	ADP	ADP	_	6	case	6:case	_
+5	dο	ο	DET	DET	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	6:det	_
+6	νοbάτι	νομάτης	NOUN	NOUN	Case=Acc|Gender=Masc|Number=Sing	3	obl	3:obl	SpaceAfter=No
+7	.	.	PUNCT	PUNCT	_	3	punct	3:punct	SpaceAfter=No
+8	»	»	PUNCT	PUNCT	_	3	punct	3:punct	_
+
+# sent_id = Fairytale6.9
+# text = ΄Υπνωσανε τα τρία.
+# translit =  Ipnosane ta tria.
+# text_en = "They three slept"
+1	΄Υπνωσανε	πνώνω	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	_
+2	τα	το	DET	DET	Case=Nom|Definite=Def|Gender=Neut|Number=Plur|PronType=Art	3	det	3:det	_
+3	τρία	τρείς	NUM	NUM	Case=Nom|Gender=Neut|Number=Plur|NumType=Card	1	nsubj:pass	1:nsubj:pass	SpaceAfter=No
+4	.	.	PUNCT	PUNCT	_	1	punct	1:punct	_
+
+# sent_id = Fairytale6.10
+# text = Ο dουλgâρ φύαξε.
+# translit = O Dulgar fiaxe.
+# text_en = The Carpenter guarded.
+1	Ο	ο	DET	DET	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	2:det	_
+2	dουλgâρ	Dουλgέρ	NOUN	NOUN	Foreign=Yes	3	nsubj	3:nsubj	_
+3	φύαξε	φυλάττω	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	SpaceAfter=No
+4	.	.	PUNCT	PUNCT	_	3	punct	3:punct	_
+
+# sent_id = Fairytale6.11
+# text = Είδεν α μέγα ξύο.
+# translit = Iden a mega xio.
+# text_en = He saw a big tree.
+1	Είδεν	θεωρώ	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	_
+2	α	α	DET	DET	Case=Acc|Definite=Ind|Gender=Neut|Number=Sing|PronType=Art	4	det	4:det	_
+3	μέγα	μέγας	ADJ	ADJ	Case=Acc|Gender=Neut|Number=Sing	4	amod	4:amod	_
+4	ξύο	ξύο	NOUN	NOUN	Case=Acc|Gender=Neut|Number=Sing	1	obj	1:obj	SpaceAfter=No
+5	.	.	PUNCT	PUNCT	_	1	punct	1:punct	_
+
+# sent_id = Fairytale6.12
+# text = Σηκώθην, έκοψεν το ξύο.
+# translit =  Sikothin, ekopsen to xio
+# text_en = He rose up, he cut the tree.
+1	Σηκώθην	σηκούμαι	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	0	root	0:root	SpaceAfter=No
+2	,	,	PUNCT	PUNCT	_	3	punct	3:punct	_
+3	έκοψεν	κόφτω	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	1	conj	1:conj	_
+4	το	τό	DET	DET	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	5	det	5:det	_
+5	ξύο	ξύο	NOUN	NOUN	Case=Acc|Gender=Neut|Number=Sing	3	obj	3:obj	SpaceAfter=No
+6	.	.	PUNCT	PUNCT	_	1	punct	1:punct	_
+
+# sent_id = Fairytale6.13
+# text = Ήφαρέν dα, ποίτζεν dα α νομάτ, τίπκε νομάτ.
+# translit =  Ιfaren da pitzen da a nomat tipke nomat.
+# text_en = He brought it, he made it into a human being,exactly a human being.
+1	Ήφαρέν	φέρνω	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	_
+2	dα	το	PRON	PRON	Case=Acc|Gender=Neut|Number=Plur|Person=3|PronType=Prs	1	obj	1:obj	SpaceAfter=No
+3	,	,	PUNCT	PUNCT	_	4	punct	4:punct	_
+4	ποίτζεν	ποιώ	VERB	VERB	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	1	conj	1:conj	_
+5	dα	το	PRON	PRON	Case=Acc|Gender=Neut|Number=Plur|Person=3|PronType=Prs	4	obj	4:obj	_
+6	α	α	DET	DET	Case=Acc|Definite=Ind|Gender=Neut|Number=Sing|PronType=Art	7	det	7:det	_
+7	νομάτ	νομάτης	NOUN	NOUN	Case=Acc|Gender=Masc|Number=Sing	4	obj	4:obj	SpaceAfter=No
+8	,	,	PUNCT	PUNCT	_	10	punct	10:punct	_
+9	τίπκε	τίπκε	ADJ	ADJ	Case=Acc|Gender=Masc|Number=Sing	10	amod	10:amod	_
+10	νομάτ	νομάτης	NOUN	NOUN	Case=Acc|Gender=Masc|Number=Sing	7	nmod	7:nmod	_
+11	.	.	PUNCT	PUNCT	_	1	punct	1:punct	SpaceAfter=No
+
+# sent_id = Fairytale6.14
+# text = Ύπνωσε.
+# translit =  Ipnose.
+# text_en = He slept.
+1	Ύπνωσε	υπνώνω	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	_
+2	.	.	PUNCT	PUNCT	_	1	punct	1:punct	_
+
+# sent_id = Fairytale6.15
+# text = Σηκώθη ο τερζής.
+# translit =  Sikothi o terzis.
+# text_en = The Tailor rose up.
+1	Σηκώθη	σηκούμαι	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	0	root	0:root	_
+2	ο	ο	DET	DET	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	3:det	_
+3	τερζής	τερ(d)ζής	NOUN	NOUN	Case=Nom|Gender=Masc|Number=Sing	1	nsubj:pass	1:nsubj:pass	SpaceAfter=No
+4	.	.	PUNCT	PUNCT	_	1	punct	1:punct	_
+
+# sent_id = Fairytale6.16
+# text = Ήγρεψεν κι, ένι αjά αν ξύο.
+# translit =  Igrepsen ki, eni aja an xio.
+# text_en = He saw that there is a a log there.
+1	Ήγρεψεν	αγροικώ	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	_
+2	κι	κι	SCONJ	SCONJ	_	1	mark	1:mark	SpaceAfter=No
+3	,	,	PUNCT	PUNCT	_	7	punct	7:punct	_
+4	ένι	είμαι	AUX	AUX	_	7	cop	7:cop	_
+5	αjά	αjά	ADV	ADV	_	7	advmod	7:advmod	_
+6	αν	α	NUM	NUM	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing|PronType=Art	7	nummod	7:nummod	_
+7	ξύο	ξύο	NOUN	NOUN	Case=Nom|Gender=Neut|Number=Sing	1	ccomp	1:ccomp	SpaceAfter=No
+8	.	.	PUNCT	PUNCT	_	1	punct	1:punct	_
+
+# sent_id = Fairytale6.17
+# text = Πήρεν dα.
+# translit =  Piren da.
+# text_en = He took it.
+1	Πήρεν	παίρνω	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	_
+2	dα	dα	PRON	PRON	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	1	obj	1:obj	SpaceAfter=No
+3	.	.	PUNCT	PUNCT	_	1	punct	1:punct	_
+
+# sent_id = Fairytale6.18
+# text = Ήγρεψεν dι κι ένι τίπκε νομάτ.
+# translit =  Igrepsen di ki eni tipke nomat.
+# text_en = He saw that it is exactly like human being.
+1	Ήγρεψεν	αγροικώ	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	_
+2	dι	dι	SCONJ	SCONJ	_	1	mark	1:mark	_
+3	κι	κι	SCONJ	SCONJ	_	1	mark	1:mark	_
+4	ένι	είμαι	AUX	AUX	_	6	cop	6:cop	_
+5	τίπκε	τίπκε	ADJ	ADJ	Case=Nom|Gender=Masc|Number=Sing	6	amod	6:amod	_
+6	νομάτ	νομάτης	NOUN	NOUN	Case=Nom|Gender=Masc|Number=Sing	1	ccomp	1:ccomp	SpaceAfter=No
+7	.	.	PUNCT	PUNCT	_	1	punct	1:punct	_
+
+# sent_id = Fairytale6.19
+# text = Ποίjεν dα α ζυ ρούχα.
+# translit =  Pijen da a zi rouxa.
+# text_en = He made a suit of clothes.
+1	Ποίjεν	ποιώ	VERB	VERB	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	_
+2	dα	dα	PRON	PRON	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	1	iobj	1:iobj	_
+3	α	α	DET	DET	Case=Acc|Definite=Ind|Gender=Neut|Number=Sing|PronType=Art	4	det	4:det	_
+4	ζυ	ζι	NOUN	NOUN	Case=Acc|Gender=Neut|Number=Sing	1	obj	1:obj	_
+5	ρούχα	ρούχο	NOUN	NOUN	Case=Acc|Gender=Neut|Number=Plur	4	nmod	4:nmod	SpaceAfter=No
+6	.	.	PUNCT	PUNCT	_	1	punct	1:punct	_
+
+# sent_id = Fairytale6.20
+# text = Ύπνωσεν ο τερζής.
+# translit =  Ipnosen o terzis.
+# text_en = The tailor slept.
+1	Ύπνωσεν	υπνώνω	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	_
+2	ο	ο	DET	DET	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	3:det	_
+3	τερζής	τερ(d)ζής	NOUN	NOUN	Case=Nom|Gender=Masc|Number=Sing	1	nsubj	1:nsubj	SpaceAfter=No
+4	.	.	PUNCT	PUNCT	_	1	punct	1:punct	_
+
+# sent_id = Fairytale6.21
+# text = Δέβασέν dα βρασόλε jαι κερdάνε.
+# translit =  Devasen da brasole jai kerdane.
+# text_en = He put bracelets and necklaces on it.
+1	Δέβασέν	δεβάζω	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	_
+2	dα	dα	PRON	PRON	Case=Gen|Gender=Neut|Number=Sing|Person=3|PronType=Prs	1	iobj	1:iobj	_
+3	βρασόλε	βροσάλι	NOUN	NOUN	Case=Acc|Gender=Neut|Number=Plur	1	obj	1:obj	_
+4	jαι	jαι	CCONJ	CCONJ	_	5	cc	5:cc	_
+5	κερdάνε	κερdάνε	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Plur	3	conj	3:conj	SpaceAfter=No
+6	.	.	PUNCT	PUNCT	_	1	punct	1:punct	_
+
+# sent_id = Fairytale6.22
+# text = Ύπνωσεν j' ο κουγιουμτζής.
+# translit =  Ipnoses j' o kougioumtzis.
+# text_en = And the jeweler slept.
+1	Ύπνωσεν	υπνώνω	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	_
+2	j'	jαι	CCONJ	CCONJ	_	4	cc	4:cc	_
+3	ο	ο	DET	DET	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	4:det	_
+4	κουγιουμτζής	qουγιουμjης	NOUN	NOUN	Case=Nom|Gender=Masc|Number=Sing	1	nsubj	1:nsubj	SpaceAfter=No
+5	.	.	PUNCT	PUNCT	_	1	punct	1:punct	_
+
+# sent_id = Fairytale6.23
+# text = Σηκώθην jαι του Θεού το καό ο νομάτ.
+# translit =  Sikothin jai tou theou to kao o nomat.
+# text_en = And the good man of God rose up.
+1	Σηκώθην	σηκούμαι	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	0	root	0:root	_
+2	jαι	jαι	CCONJ	CCONJ	_	4	cc	4:cc	_
+3	του	ο 	DET	DET	Case=Gen|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	4:det	_
+4	Θεού	Θεός	NOUN	NOUN	Case=Gen|Gender=Masc|Number=Sing	8	nmod	8:nmod	_
+5	το	ο	DET	DET	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	6:det	_
+6	καό	καλός	ADJ	ADJ	Case=Nom|Gender=Masc|Number=Sing	8	amod	8:amod	_
+7	ο	ο	DET	DET	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	8:det	_
+8	νομάτ	νομάτης	NOUN	NOUN	Case=Nom|Gender=Masc|Number=Sing	1	nsubj:pass	1:nsubj:pass	SpaceAfter=No
+9	.	.	PUNCT	PUNCT	_	1	punct	1:punct	_
+
+# sent_id = Fairytale6.24
+# text = Ήγρεψεν κι ένι αjά αν ξύο σ ον dιέχο τενdεμένο.
+# translit =  Igrepsen ki eni aja an xio s on diexo tendemeno
+# text_en = He saw that there is there a log leaning against the wall.
+1	Ήγρεψεν	αγροικώ	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	_
+2	κι	κι	SCONJ	SCONJ	_	1	mark	1:mark	_
+3	ένι	είμαι	AUX	AUX	_	6	cop	6:cop	_
+4	αjά	αjα	ADV	ADV	_	6	advmod	6:advmod	_
+5	αν	α	DET	DET	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing|PronType=Art	6	det	6:det	_
+6	ξύο	ξύο	NOUN	NOUN	Case=Nom|Gender=Neut|Number=Sing	1	ccomp	1:ccomp	_
+7-8	σον	_	_	_	_	_	_	_	_
+7	σ	σε	ADP	ADP	_	9	case	9:case	_
+8	ον	ο	DET	DET	Case=Αcc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	9:det	_
+9	dιέχο	dιέχος	NOUN	NOUN	Case=Acc|Gender=Masc|Number=Sing	6	obl	6:obl	_
+10	τενdεμένο	τενdεμένο	ADJ	ADJ	Case=Nom|Gender=Neut|Number=Sing	6	amod	6:amod	SpaceAfter=No
+11	.	.	PUNCT	PUNCT	_	1	punct	1:punct	_
+
+# sent_id = Fairytale6.25
+# text = Πήρεν dα.
+# translit =  Piren da.
+# text_en = He took it.
+1	Πήρεν	παίρνω	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	_
+2	dα	dα	PRON	PRON	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	1	obj	1:obj	SpaceAfter=No
+3	.	.	PUNCT	PUNCT	_	1	punct	1:punct	_
+
+# sent_id = Fairytale6.26
+# text = Ήγρεψέν dα κι έν’ α σουράτι.
+# translit =  Igrepsen da ki en’ a sourati
+# text_en = He saw that it is an image.
+1	Ήγρεψέν	αγροικώ	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	_
+2	dα	dα	PRON	PRON	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	1	obj	1:obj	_
+3	κι	κι 	SCONJ	SCONJ	_	1	mark	1:mark	_
+4	έν’	είμαι	AUX	AUX	_	6	cop	6:cop	_
+5	α	α	DET	DET	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing|PronType=Art	6	det	6:det	_
+6	σουράτι	σουράτι	NOUN	NOUN	Case=Nom|Gender=Neut|Number=Sing	1	ccomp	1:ccomp	SpaceAfter=No
+7	.	.	PUNCT	PUNCT	_	1	punct	1:punct	_
+
+# sent_id = Fairytale6.27
+# text = Είπεν dι κι,
+# translit =  Eipen di ki,
+# text_en =And they said,
+1	Είπεν	λέγω	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	_
+2	dι	dι	SCONJ	SCONJ	_	1	mark	1:mark	_
+3	κι	κι	SCONJ	SCONJ	_	1	mark	1:mark	SpaceAfter=No
+4	,	,	PUNCT	PUNCT	_	1	punct	1:punct	_
+
+# sent_id = Fairytale6.28
+# text = « Αλλάχ, Παναγία μου, αdέ το κορίdζι δος τα αμ ψυσή ».
+# translit = « Allah, Panagia mou, ade to koridzi dos ta am psisi ».
+# text_en =« Good and Mary, give to this girl a soul».
+1	«	«	PUNCT	PUNCT	_	2	punct	2:punct	_
+2	Αλλάχ	Αλλάχ	PROPN	PROPN	Case=Voc|Gender=Masc|Number=Sing	0	root	0:root	SpaceAfter=No
+3	,	,	PUNCT	PUNCT	_	2	punct	2:punct	_
+4	Παναγία	Παναγία	PROPN	PROPN	Case=Voc|Gender=Fem|Number=Sing	2	conj	2:conj	_
+5	μου	εγω	PRON	PRON	Case=Gen|Gender=Masc|Number=Sing|Person=1|Poss=Yes|PronType=Prs	4	nmod	4:nmod	SpaceAfter=No
+6	,	,	PUNCT	PUNCT	_	10	punct	10:punct	_
+7	αdέ	αdα	DET	DET	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Dem	9	det	9:det	_
+8	το	το	DET	DET	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	9	det	9:det	_
+9	κορίdζι	κορίτσι,κορίdζι	NOUN	NOUN	Case=Acc|Gender=Neut|Number=Sing	10	iobj	10:iobj	_
+10	δος	δίνω	VERB	VERB	Aspect=Perf|Mood=Imp|Number=Plur|Person=2|VerbForm=Fin|Voice=Act	2	parataxis	2:parataxis	_
+11	τα	το	DET	DET	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	13	det	13:det	_
+12	αμ	α	DET	DET	Case=Acc|Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	13	det	13:det	_
+13	ψυσή	ψυσή	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Sing	10	obj	10:obj	SpaceAfter=No
+14	»	»	PUNCT	PUNCT	_	2	punct	2:punct	SpaceAfter=No
+15	.	.	PUNCT	PUNCT	_	2	punct	2:punct	_
+
+# sent_id = Fairytale6.29
+# text = Δώjεν dα ο Θεός αμ ψυσή.
+# translit =  Dojen da o theos am psisi.
+# text_en = God gave it life.
+1	Δώjεν	δίνω	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	_
+2	dα	dα	PRON	PRON	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	1	iobj	1:iobj	_
+3	ο	ο	DET	DET	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	4:det	_
+4	Θεός	Θεός	NOUN	NOUN	Case=Nom|Gender=Masc|Number=Sing	1	nsubj	1:nsubj	_
+5	αμ	α	DET	DET	Case=Acc|Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	6	det	6:det	_
+6	ψυσή	ψυσή	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Sing	1	obj	1:obj	SpaceAfter=No
+7	.	.	PUNCT	PUNCT	_	1	punct	1:punct	_
+
+# sent_id = Fairytale6.30
+# text = Σηκώθανε την εβίdζα.
+# translit =  Sikothikane tin evidja
+# text_en = They rose up in the morning.
+1	Σηκώθανε	σηκούμαι	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	0	root	0:root	_
+2	την	η	DET	DET	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	3:det	_
+3	εβίdζα	(εβίτζα)	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Sing	1	obl	1:obl	SpaceAfter=No
+4	.	.	PUNCT	PUNCT	_	1	punct	1:punct	_
+
+# sent_id = Fairytale6.31
+# text = Ξημέρεψε.
+# translit =  Ksimerepse.
+# text_en = The day dawned.
+1	Ξημέρεψε	ξημερέβει	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	PUNCT	_	1	punct	_	_
+
+# sent_id = Fairytale6.32
+# text = Μαρgάωσεν ο dουλgέρ.
+# translit =  Margaosen o doulger.
+# text_en = The carpenter quarrelled.
+1	Μαρgάωσεν	μαρgαώνω	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	_
+2	ο	ο	DET	DET	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	3:det	_
+3	dουλgέρ	Dουλgέρ	NOUN	NOUN	Foreign=Yes	1	nsubj	1:nsubj	SpaceAfter=No
+4	.	.	PUNCT	PUNCT	_	1	punct	1:punct	_
+
+# sent_id = Fairytale6.33
+# text = Είπεν dι κι,
+# translit =  Eipen di ki,
+# text_en =And they said,
+1	Είπεν	λέγω	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	_
+2	dι	dι	SCONJ	SCONJ	_	1	mark	1:mark	_
+3	κι	κι	SCONJ	SCONJ	_	1	mark	1:mark	SpaceAfter=No
+4	,	,	PUNCT	PUNCT	_	1	punct	1:punct	_
+
+# sent_id = Fairytale6.34
+# text = « Αdέ ποίκα dα γω. »
+# translit =  « Ade poika da go. »
+# text_en =« This, I made her. »
+1	«	«	PUNCT	PUNCT	_	3	punct	3:punct	_
+2	Αdέ	αdα	PRON	PRON	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Dem	3	dislocated	3:dislocated	_
+3	ποίκα	ποιώ	VERB	VERB	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	_
+4	dα	dα	PRON	PRON	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs	3	obj	3:obj	_
+5	γω	εγω	PRON	PRON	Case=Nom|Gender=Masc|Number=Sing|Person=1|PronType=Prs	3	nsubj	3:nsubj	SpaceAfter=No
+6	.	.	PUNCT	PUNCT	_	3	punct	3:punct	SpaceAfter=No
+7	»	»	PUNCT	PUNCT	_	3	punct	3:punct	_
+

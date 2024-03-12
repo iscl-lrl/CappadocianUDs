@@ -1,0 +1,8 @@
+# sent_id = Fairytale6.30
+# text = Σηκώθανε την εβίdζα.
+# translit =  Sikothikane tin evidja
+# text_en = They rose up in the morning.
+1	Σηκώθανε	σηκούμαι	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	0	root	0:root	_
+2	την	η	DET	DET	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	3:det	_
+3	εβίdζα	(εβίτζα)	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Sing	1	obl	1:obl	SpaceAfter=No
+4	.	.	PUNCT	PUNCT	_	1	punct	1:punct	_

@@ -1,0 +1,6 @@
+# sent_id = Fairytale6.31
+# text = Ξημέρεψε.
+# translit =  Ksimerepse.
+# text_en = The day dawned.
+1	Ξημέρεψε	ξημερέβει	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	PUNCT	_	1	punct	_	_

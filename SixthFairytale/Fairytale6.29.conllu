@@ -1,0 +1,11 @@
+# sent_id = Fairytale6.29
+# text = Δώjεν dα ο Θεός αμ ψυσή.
+# translit =  Dojen da o theos am psisi.
+# text_en = God gave it life.
+1	Δώjεν	δίνω	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	_
+2	dα	dα	PRON	PRON	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	1	iobj	1:iobj	_
+3	ο	ο	DET	DET	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	4:det	_
+4	Θεός	Θεός	NOUN	NOUN	Case=Nom|Gender=Masc|Number=Sing	1	nsubj	1:nsubj	_
+5	αμ	α	DET	DET	Case=Acc|Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	6	det	6:det	_
+6	ψυσή	ψυσή	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Sing	1	obj	1:obj	SpaceAfter=No
+7	.	.	PUNCT	PUNCT	_	1	punct	1:punct	_

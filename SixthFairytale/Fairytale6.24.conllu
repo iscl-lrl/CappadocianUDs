@@ -1,0 +1,16 @@
+# sent_id = Fairytale6.24
+# text = Ήγρεψεν κι ένι αjά αν ξύο σ ον dιέχο τενdεμένο.
+# translit =  Igrepsen ki eni aja an xio s on diexo tendemeno
+# text_en = He saw that there is there a log leaning against the wall.
+1	Ήγρεψεν	αγροικώ	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	_
+2	κι	κι	SCONJ	SCONJ	_	1	mark	1:mark	_
+3	ένι	είμαι	AUX	AUX	_	6	cop	6:cop	_
+4	αjά	αjα	ADV	ADV	_	6	advmod	6:advmod	_
+5	αν	α	DET	DET	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing|PronType=Art	6	det	6:det	_
+6	ξύο	ξύο	NOUN	NOUN	Case=Nom|Gender=Neut|Number=Sing	1	ccomp	1:ccomp	_
+7-8	σον	_	_	_	_	_	_	_	_
+7	σ	σε	ADP	ADP	_	9	case	9:case	_
+8	ον	ο	DET	DET	Case=Αcc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	9:det	_
+9	dιέχο	dιέχος	NOUN	NOUN	Case=Acc|Gender=Masc|Number=Sing	6	obl	6:obl	_
+10	τενdεμένο	τενdεμένο	ADJ	ADJ	Case=Nom|Gender=Neut|Number=Sing	6	amod	6:amod	SpaceAfter=No
+11	.	.	PUNCT	PUNCT	_	1	punct	1:punct	_
