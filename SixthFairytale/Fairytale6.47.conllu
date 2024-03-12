@@ -1,0 +1,10 @@
+# sent_id = Fairytale6.47
+# text = « Αdε ποίκα τα γω.
+# translit =  « Ade poika ta go.
+# text_en =« I made this (girl).
+1	«	«	PUNCT	PUNCT	_	3	punct	3:punct	_
+2	Αdε	αdε	PRON	PRON	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Dem	3	obj	3:obj	_
+3	ποίκα	ποιώ	VERB	VERB	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	_
+4	τα	το	PRON	PRON	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs	3	dislocated	3:dislocated	_
+5	γω	εγώ	PRON	PRON	Case=Nom|Gender=Masc|Number=Sing|Person=1|PronType=Prs	3	nsubj	3:nsubj	SpaceAfter=No
+6	.	.	PUNCT	PUNCT	_	3	punct	3:punct	_

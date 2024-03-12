@@ -1,0 +1,10 @@
+# sent_id = Fairytale6.38
+# text = Είπεν dι jαι ο τερζής,
+# translit =  Ipen di jai o terzis
+# text_en = And the tailor said,
+1	Είπεν	λέγω	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	_
+2	dι	dι	SCONJ	SCONJ	_	1	mark	1:mark	_
+3	jαι	jαι	CCONJ	CCONJ	_	5	cc	5:cc	_
+4	ο	ο	DET	DET	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	5:det	_
+5	τερζής	τερ(d)ζής	NOUN	NOUN	Case=Nom|Gender=Masc|Number=Sing	1	nsubj	1:nsubj	SpaceAfter=No
+6	:	:	PUNCT	PUNCT	_	1	punct	1:punct	_

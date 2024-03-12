@@ -1,0 +1,11 @@
+# sent_id = Fairytale6.35
+# text = Είπεν dι κι jαι ο qουγιουμjής,
+# translit =  Ipen di ki jai o qougioumjis
+# text_en = And the jeweller said,
+1	Είπεν	λέγω	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	_
+2	dι	dι	SCONJ	SCONJ	_	1	mark	1:mark	_
+3	κι	κι	SCONJ	SCONJ	_	1	mark	1:mark	_
+4	jαι	jαι 	CCONJ	CCONJ	_	6	cc	6:cc	_
+5	ο	ο	DET	DET	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	6:det	_
+6	qουγιουμjής	qουγιουμjης	NOUN	NOUN	Case=Nom|Gender=Masc|Number=Sing	1	nsubj	1:nsubj	SpaceAfter=No
+7	,	,	PUNCT	PUNCT	_	1	punct	1:punct	_
