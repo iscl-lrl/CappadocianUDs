@@ -1,0 +1,16 @@
+# sent_id = Fairytale6.36
+# text = « Χαΐρ, ’γω πάλι δέβασά dα gουμουσόνα βρασάλε jαι αλτούνε.
+# translit =  « Hair, ’go pali devasa da goumousona vrasale jai altoune.
+# text_en = « No, it was I who put on her silver bracelets and gold coins.
+1	«	«	PUNCT	PUNCT	_	6	punct	6:punct	_
+2	Χαΐρ	Hayir	X	X	_	6	discourse	6:discourse	SpaceAfter=No
+3	,	,	PUNCT	PUNCT	_	2	punct	2:punct	_
+4	’γω	εγω	PRON	PRON	Case=Nom|Gender=Masc|Number=Sing|Person=1|PronType=Prs	6	nsubj	6:nsubj	_
+5	πάλι	πάλι	ADV	ADV	_	6	advmod	6:advmod	_
+6	δέβασά	δεβάζω	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	_
+7	dα	dα	PRON	PRON	Case=Neut|Gender=Fem|Number=Sing|Person=3|PronType=Prs	6	iobj	6:iobj	_
+8	gουμουσόνα	gουμούσι	ADJ	ADJ	Case=Acc|Gender=Neut|Number=Plur	9	amod	9:amod	_
+9	βρασάλε	βροσάλι	NOUN	NOUN	Case=Acc|Gender=Neut|Number=Plur	6	obj	6:obj	_
+10	jαι	jαι	CCONJ	CCONJ	_	11	cc	11:cc	_
+11	αλτούνε	αλτούνι	NOUN	NOUN	Case=Acc|Gender=Neut|Number=Plur	9	conj	9:conj	SpaceAfter=No
+12	.	.	PUNCT	PUNCT	_	6	punct	6:punct	_

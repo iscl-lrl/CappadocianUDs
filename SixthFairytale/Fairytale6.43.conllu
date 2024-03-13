@@ -1,0 +1,11 @@
+# sent_id = Fairytale6.43
+# text = « Α υπάμε να dανισεφτούμε. »
+# translit =  « A ipame na daniseftoume. »
+# text_en = We will to get advice. »
+1	«	«	PUNCT	PUNCT	_	3	punct	3:punct	_
+2	Α	α	AUX	AUX	_	3	aux	3:aux	_
+3	υπάμε	πηγαίνω	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|VerbForm=Fin|Voice=Act	0	root	0:root	_
+4	να	να	AUX	AUX	_	5	aux	5:aux	_
+5	dανισεφτούμε	dανιστούμε	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|VerbForm=Fin|Voice=Act	3	xcomp	3:xcomp	SpaceAfter=No
+6	.	.	PUNCT	PUNCT	_	3	punct	3:punct	SpaceAfter=No
+7	»	»	PUNCT	PUNCT	_	3	punct	3:punct	_

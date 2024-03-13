@@ -1,0 +1,9 @@
+# sent_id = Fairytale6.40
+# text = Φόρεσά τα ρούχα ».
+# translit =  Foresa ta rouxa ».
+# text_en = I dressed her in clothes ».
+1	Φόρεσά	φορώ	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	_
+2	τα	το	DET	DET	Case=Acc|Definite=Def|Gender=Neut|Number=Plur|PronType=Art	3	det	3:det	_
+3	ρούχα	ρούχο	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Sing	1	obj	1:obj	SpaceAfter=No
+4	»	»	PUNCT	PUNCT	_	1	punct	1:punct	SpaceAfter=No
+5	.	.	PUNCT	PUNCT	_	1	punct	1:punct	_

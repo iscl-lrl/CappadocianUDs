@@ -1,0 +1,22 @@
+# sent_id = Fairytale6.48
+# text = Αdέ πάλι φόρεσέν τα ρούχα, αdέ πάλι δέβασέν dα βρασάλε, αdέ πάλι δώjεν dα ψυσή.
+# translit =  Ade pali foresen ta rucha, ade pali devasen da vrasale, ade pali dojen da psyisi.
+# text_en =This man dressed her with clothes, this man again put upon her bracelets, and this man gave her a soul.
+1	Αdέ	αdέ	PRON	PRON	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Dem	3	nsubj	3:nsubj	_
+2	πάλι	πάλι	ADV	ADV	_	3	advmod	3:advmod	_
+3	φόρεσέν	φορώ	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	_
+4	τα	το	DET	DET	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	5:det	_
+5	ρούχα	ρούχο	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Sing	3	obj	3:obj	SpaceAfter=No
+6	,	,	PUNCT	PUNCT	_	9	punct	9:punct	_
+7	αdέ	αdέ	PRON	PRON	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Dem	9	nsubj	9:nsubj	_
+8	πάλι	πάλι	ADV	ADV	_	9	advmod	9:advmod	_
+9	δέβασέν	δεβάζω	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	3	conj	3:conj	_
+10	dα	dα	PRON	PRON	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs	9	iobj	9:iobj	_
+11	βρασάλε	βροσάλι	NOUN	NOUN	Case=Acc|Gender=Neut|Number=Plur	9	obj	9:obj	SpaceAfter=No
+12	,	,	PUNCT	PUNCT	_	15	punct	15:punct	_
+13	αdέ	αdέ	PRON	PRON	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Dem	15	nsubj	15:nsubj	_
+14	πάλι	πάλι	ADV	ADV	_	15	advmod	15:advmod	_
+15	δώjεν	δίνω	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	3	conj	3:conj	_
+16	dα	dα	PRON	PRON	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs	15	iobj	15:iobj	_
+17	ψυσή	ψυσή	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Sing	15	obj	15:obj	SpaceAfter=No
+18	.	.	PUNCT	PUNCT	_	3	punct	3:punct	_

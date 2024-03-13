@@ -1,0 +1,13 @@
+# sent_id = Fairytale6.43
+# text = Φοdές πααίνκανε, ήρταν ‘ς α Dερβίς ιράστα.
+# translit =  Fodes paainkane, irtan ‘s a Derbis irasta.
+# text_en = While they were going, they met a dervish.
+1	Φοdές	φοdές	SCONJ	SCONJ	_	2	mark	2:mark	_
+2	πααίνκανε	πηγαίνω	VERB	VERB	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	4	advcl	4:advcl	SpaceAfter=No
+3	,	,	PUNCT	PUNCT	_	2	punct	2:punct	_
+4	ήρταν	έρχομαι	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	0	root	0:root	_
+5	‘ς	σε	ADP	ADP	_	7	case	7:case	_
+6	α	α	DET	DET	Case=Acc|Definite=Ind|Gender=Neut|Number=Sing|PronType=Art	7	det	7:det	_
+7	Dερβίς	Dερβίς	PROPN	PROPN	Case=Acc|Gender=Neut|Number=Sing	4	obl	4:obl	_
+8	ιράστα	ιράς	ADJ	ADJ	Case=Acc|Gender=Neut|Number=Sing	7	amod	7:amod	SpaceAfter=No
+9	.	.	PUNCT	PUNCT	_	4	punct	4:punct	_

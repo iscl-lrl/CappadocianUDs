@@ -1,0 +1,10 @@
+# sent_id = Fairytale6.49
+# text = Είπεν dι κι ο Dερβίσης,
+# translit =  Eipen di ki o Dervisis.
+# text_en =And the dervish said
+1	Είπεν	λέγω	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	_
+2	dι	dι	SCONJ	SCONJ	_	1	mark	1:mark	_
+3	κι	κι	SCONJ	SCONJ	_	1	mark	1:mark	_
+4	ο	ο 	DET	DET	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	5:det	_
+5	Dερβίσης	Dερβίσης	PROPN	PROPN	Case=Nom|Gender=Masc|Number=Sing	1	nsubj	1:nsubj	SpaceAfter=No
+6	,	,	PUNCT	PUNCT	_	1	punct	1:punct	_

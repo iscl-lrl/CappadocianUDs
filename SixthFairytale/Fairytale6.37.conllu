@@ -1,0 +1,10 @@
+# sent_id = Fairytale6.37
+# text = Αν dα πάρω γω ».
+# translit =  An da paro go ».
+# text_en = I'll take her ».
+1	Αν	αν	AUX	AUX	_	3	aux	3:aux	_
+2	dα	dα	PRON	PRON	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs	3	iobj	3:iobj	_
+3	πάρω	παίρνω	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|VerbForm=Fin|Voice=Act	0	root	0:root	_
+4	γω	εγω	PRON	PRON	Case=Nom|Gender=Masc|Number=Sing|Person=1|PronType=Prs	3	nsubj	3:nsubj	SpaceAfter=No
+5	»	»	PUNCT	PUNCT	_	3	punct	3:punct	SpaceAfter=No
+6	.	.	PUNCT	PUNCT	_	3	punct	3:punct	_

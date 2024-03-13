@@ -1,0 +1,9 @@
+# sent_id = Fairytale6.50
+# text = « Σεις πο λέτε;
+# translit =  « Seis po lete?
+# text_en = What are you saying?
+1	«	«	PUNCT	PUNCT	_	4	punct	4:punct	_
+2	Σεις	εγώ	PRON	PRON	Case=Nom|Gender=Masc|Number=Plur|Person=2|PronType=Prs	4	nsubj	4:nsubj	TokenRange=0:5
+3	πο	πο	PRON	PRON	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Int	4	obj	4:obj	_
+4	λέτε	λέγω	VERB	VERB	Aspect=Imp|Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	SpaceAfter=No
+5	;	;	PUNCT	PUNCT	_	4	punct	4:punct	_
