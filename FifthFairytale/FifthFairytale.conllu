@@ -974,6 +974,7 @@
 # text = Σα δώδεκα το σαχάτι, κατακρώτσεν ο ουρανός τζαι σείστην ο κόσµος!
 # translit =  
 # text_en = At twelve o' clock, the sky thundered and the world shook!
+1-2	Σα	_	_	_	_	_	_	_	_
 1	Σ	σε	ADP	ADP	_	3	case	3:case	_
 2	α	η	DET	DET	Case=Acc|Gender=Fem|Number=Sing|PronType=Art	3	det	3:det	_
 3	δώδεκα	δώδεκα	NUM	NUM	Case=Acc|Gender=Fem|Number=Sing	7	obl	7:obl	_
@@ -1012,6 +1013,7 @@
 2	πίρ	πίρ	ADV	ADV	_	4	advmod	4:advmod	_
 3	µη	µη	PART	PART	_	4	advmod	4:advmod	_
 4	µπει	μπαίνω	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	_
+5-6	σο	_	_	_	_	_	_	_	_
 5	σ	σε	ADP	ADP	_	7	case	7:case	_
 6	ο	το	DET	DET	Case=Acc|Gender=Neut|Number=Sing|PronType=Art	7	det	7:det	_
 7	ποτάµι	ποτάµι	NOUN	NOUN	Case=Acc|Gender=Neut|Number=Sing	4	obl	4:obl	_
@@ -1027,6 +1029,7 @@
 17	τζαι	jαι	CCONJ	CCONJ	_	18	cc	18:cc	_
 18	δότζεν	δίνω	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	16	conj	16:conj	_
 19	dα	ο	DET	DET	Case=Acc|Gender=Masc|Number=Sing|PronType=Art	18	obj	18:obj	_
+20-21	σο	_	_	_	_	_	_	_	_
 20	σ	σε	ADP	ADP	_	22	case	22:case	_
 21	ο	το	DET	DET	Case=Acc|Gender=Neut|Number=Sing|PronType=Art	22	det	22:det	_
 22	τζουφάλιν	τζουφάλι	NOUN	NOUN	Case=Acc|Gender=Neut|Number=Sing	18	iobj	18:iobj	_
@@ -1034,13 +1037,14 @@
 24	,	,	PUNCT	PUNCT	_	25	punct	25:punct	_
 25	κρέµσην	κρημνίζω	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	18	parataxis	18:parataxis	_
 26	dα	ο	DET	DET	Case=Acc|Gender=Masc|Number=Sing|PronType=Art	25	obj	25:obj	_
+27-28	σο	_	_	_	_	_	_	_	_
 27	σ	σε	ADP	ADP	_	29	case	29:case	_
 28	ο	το	DET	DET	Case=Acc|Gender=Neut|Number=Sing|PronType=Art	29	det	29:det	_
 29	ποτάµι	ποτάµι	NOUN	NOUN	Case=Acc|Gender=Neut|Number=Sing	25	obl	25:obl	_
 30	.	.	PUNCT	PUNCT	_	4	punct	4:punct	_
 
 # sent_id = Fairytale5.54
-# text = Τζαι ‘ς ου να γρεπ, πέττασεν τζαι γαλίτζεψεν τ΄άβγο του Αράπη!
+# text = Τζαι ‘ς ου να γρεπ, πέττασεν τζαι γαλίτζεψεν τ΄ άβγο του Αράπη!
 # translit =  
 # text_en = And quickly jumped and rode the man's horse!
 1	Τζαι	jαι	CCONJ	CCONJ	_	7	cc	7:cc	_
@@ -1068,12 +1072,14 @@
 4	σηκώθην	σηκούμαι	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	_
 5	,	,	PUNCT	PUNCT	_	6	punct	6:punct	_
 6	έβκην	βγαίνω	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	4	parataxis	4:parataxis	_
+7-8	σον	_	_	_	_	_	_	_	_
 7	σ	σε	ADP	ADP	_	9	case	9:case	_
 8	ον	ο	DET	DET	Case=Acc|Gender=Masc|Number=Sing|PronType=Art	9	det	9:det	_
 9	ουρανό	ουρανός	NOUN	NOUN	Case=Acc|Gender=Masc|Number=Sing	6	obl	6:obl	_
 10	,	,	PUNCT	PUNCT	_	12	punct	12:punct	_
 11	στέρου	στέρου	ADV	ADV	_	12	advmod	12:advmod	_
 12	κατέβην	κατεβαίνω	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	6	parataxis	6:parataxis	_
+13-14	σον	_	_	_	_	_	_	_	_
 13	σ	σε	ADP	ADP	_	15	case	15:case	_
 14	ον	ο	DET	DET	Case=Acc|Gender=Masc|Number=Sing|PronType=Art	15	det	15:det	_
 15	κόσµον	κόσμος	NOUN	NOUN	Case=Acc|Gender=Masc|Number=Sing	12	obl	12:obl	_
@@ -1082,6 +1088,7 @@
 18	τζαι	jαι	CCONJ	CCONJ	_	19	cc	19:cc	_
 19	είπεν	λαλώ	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	17	conj	17:conj	_
 20	‘τι	di	SCONJ	SCONJ	_	19	mark	19:mark	_
+21-22	σο	_	_	_	_	_	_	_	_
 21	σ	σε	ADP	ADP	_	23	case	23:case	_
 22	ο	το	DET	DET	Case=Acc|Gender=Neut|Number=Sing|PronType=Art	23	det	23:det	_
 23	φσάχι	φσάχ	NOUN	NOUN	Case=Acc|Gender=Neut|Number=Sing	19	obl	19:obl	_
@@ -1090,24 +1097,123 @@
 # sent_id = Fairytale5.56
 # text = «Έπαρ ΄ς το βράδι µ΄ αν τσάρι, τζαι ΄ν ώρα να ’υρέπ τσούσ΄ τα, τζαι γω ‘χα να είµαι κοντά σου».
 # translit =  
-# text_en =
+# text_en = "Take a hair from my tail, and whenever you need me, pinch it and I will be close to you."
+1	«	«	PUNCT	PUNCT	_	2	punct	2:punct	_
+2	Έπαρ	παίρνω	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	_
+3	΄ς	ς	ADP	ADP	_	5	case	5:case	_
+4	το	το	DET	DET	Case=Acc|Gender=Neut|Number=Sing|PronType=Art	5	det	5:det	_
+5	βράδι	βράδι	NOUN	NOUN	Case=Acc|Gender=Neut|Number=Sing	2	obl	2:obl	_
+6	µ΄	εγώ	PRON	PRON	Case=Gen|Gender=Neut|Number=Sing|PronType=Prs	5	nmod	5:nmod	_
+7	αν	αν	DET	DET	Case=Acc|Gender=Neut|Number=Sing|PronType=Art	8	det	8:det	_
+8	τσάρι	τσάρι	NOUN	NOUN	Case=Acc|Gender=Neut|Number=Sing	2	obj	2:obj	_
+9	,	,	PUNCT	PUNCT	_	14	punct	14:punct	_
+10	τζαι	jαι	CCONJ	CCONJ	_	14	cc	14:cc	_
+11	΄ν	αν	DET	DET	Case=Acc|Gender=Neut|Number=Sing|PronType=Art	12	det	12:det	_
+12	ώρα	ώρα	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Sing	14	obl	14:obl	_
+13	να	να	AUX	AUX	_	14	aux	14:aux	_
+14	’υρέπ	γυρεύω	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	2	conj	2:conj	_
+15	τσούσ΄	(τσιμπώ)	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	14	parataxis	14:parataxis	_
+16	τα	το	DET	DET	Case=Acc|Gender=Neut|Number=Sing|PronType=Art	15	obj	15:obj	_
+17	,	,	PUNCT	PUNCT	_	23	punct	23:punct	_
+18	τζαι	jαι	CCONJ	CCONJ	_	23	cc	23:cc	_
+19	γω	εγώ	PRON	PRON	Case=Nom|Gender=Neut|Number=Sing|PronType=Prs	23	nsubj	23:nsubj	_
+20	‘χα	χα	ADP	ADP	_	23	case	23:case	_
+21	να	να	AUX	AUX	_	23	aux	23:aux	_
+22	είµαι	είµαι	AUX	AUX	_	23	cop	23:cop	_
+23	κοντά	κοντά	ADV	ADV	_	15	conj	15:conj	_
+24	σου	εσύ	PRON	PRON	Case=Gen|Gender=Neut|Number=Sing|PronType=Prs	23	nmod	23:nmod	_
+25	»	»	PUNCT	PUNCT	_	2	punct	2:punct	_
+26	.	.	PUNCT	PUNCT	_	2	punct	2:punct	_
 
 # sent_id = Fairytale5.57
 # text = Το φσάχι τάβρισεν αν τσάρι στο βράδι του, τζαι παλί γαλίτζεψεν τ' άβγο του έµπην σ' η στράτα να υπά σο κορίτζιν κοντά.
 # translit =  
-# text_en =
+# text_en = And the boy pulled a hair from the tail, mounted his horse, and made his way to the girl.
+1	Το	το	DET	DET	Case=Nom|Gender=Neut|Number=Sing|PronType=Art	2	det	2:det	_
+2	φσάχι	φσάχ	NOUN	NOUN	Case=Nom|Gender=Neut|Number=Sing	3	nsubj	3:nsubj	_
+3	τάβρισεν	τραβώ	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	_
+4	αν	αν	DET	DET	Case=Acc|Gender=Neut|Number=Sing|PronType=Art	5	det	5:det	_
+5	τσάρι	τσάρι	NOUN	NOUN	Case=Acc|Gender=Neut|Number=Sing	3	obj	3:obj	_
+6-7	στο	_	_	_	_	_	_	_	_
+6	σ	σε	ADP	ADP	_	8	case	8:case	_
+7	το	το	DET	DET	Case=Acc|Gender=Neut|Number=Sing|PronType=Art	8	det	8:det	_
+8	βράδι	βράδι	NOUN	NOUN	Case=Acc|Gender=Neut|Number=Sing	3	obl	3:obl	_
+9	του	το	DET	DET	Case=Gen|Gender=Neut|Number=Sing|PronType=Art	8	nmod	8:nmod	_
+10	,	,	PUNCT	PUNCT	_	13	punct	13:punct	_
+11	τζαι	jαι	CCONJ	CCONJ	_	13	cc	13:cc	_
+12	παλί	παλί	ADV	ADV	_	13	advmod	13:advmod	_
+13	γαλίτζεψεν	(γαλιτσεύω)	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	3	conj	3:conj	_
+14	τ'	το	DET	DET	Case=Acc|Gender=Neut|Number=Sing|PronType=Art	15	det	15:det	_
+15	άβγο	άβγο	NOUN	NOUN	Case=Acc|Gender=Neut|Number=Sing	13	obj	13:obj	_
+16	του	το	DET	DET	Case=Gen|Gender=Neut|Number=Sing|PronType=Art	15	nmod	15:nmod	_
+17	έµπην	μπαίνω	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	13	parataxis	13:parataxis	_
+18	σ'	σε	ADP	ADP	_	20	case	20:case	_
+19	η	η	DET	DET	Case=Acc|Gender=Fem|Number=Sing|PronType=Art	20	det	20:det	_
+20	στράτα	στράτα	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Sing	17	obl	17:obl	_
+21	να	να	SCONJ	SCONJ	_	22	mark	22:mark	_
+22	υπά	πηγαίνω	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	17	advcl	17:advcl	_
+23-24	σο	_	_	_	_	_	_	_	_
+23	σ	σε	ADP	ADP	_	25	case	25:case	_
+24	ο	το	DET	DET	Case=Acc|Gender=Neut|Number=Sing|PronType=Art	25	det	25:det	_
+25	κορίτζιν	κορίτζι	NOUN	NOUN	Case=Acc|Gender=Neut|Number=Sing	22	obl	22:obl	_
+26	κοντά	κοντά	ADV	ADV	_	22	advmod	22:advmod	_
+27	.	.	PUNCT	PUNCT	_	3	punct	3:punct	_
 
 # sent_id = Fairytale5.58
 # text = Για ση στράτα, φοτές 'υριζούτουν, ήρτεν σ΄εν άβου γαλάς µπρο, µα στάθη, δέβην πήε σο κορίτσι.
 # translit =  
-# text_en =
+# text_en = However, whilst he was turning on the road, he found himself in front of another castle, but he did not stop, he passed by and went to the girl.
+1	Για	για	PART	PART	_	7	advmod	7:advmod	_
+2-3	ση	_	_	_	_	_	_	_	_
+2	σ	σε	ADP	ADP	_	4	case	4:case	_
+3	η	η	DET	DET	Case=Acc|Gender=Fem|Number=Sing|PronType=Art	4	det	4:det	_
+4	στράτα	στράτα	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Sing	7	obl	7:obl	_
+5	,	,	PUNCT	PUNCT	_	7	punct	7:punct	_
+6	φοτές	φοτές	ADV	ADV	_	7	advmod	7:advmod	_
+7	'υριζούτουν	γυρίζω	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	_
+8	,	,	PUNCT	PUNCT	_	9	punct	9:punct	_
+9	ήρτεν	έρχομαι	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	7	parataxis	7:parataxis	_
+10-11	σ΄εν	_	_	_	_	_	_	_	_
+10	σ΄	σε	ADP	ADP	_	13	case	13:case	_
+11	εν	ένα	DET	DET	Case=Acc|Gender=Masc|Number=Sing|PronType=Art	13	det	13:det	_
+12	άβου	άβ	ADJ	ADJ	Case=Acc|Gender=Masc|Number=Sing	13	amod	13:amod	_
+13	γαλάς	γαλάς	NOUN	NOUN	Case=Acc|Gender=Masc|Number=Sing	9	obl	9:obl	_
+14	µπρο	µπρο	ADV	ADV	_	13	advmod	13:advmod	_
+15	,	,	PUNCT	PUNCT	_	17	punct	17:punct	_
+16	µα	μα	PART	PART	_	17	advmod	17:advmod	_
+17	στάθη	στέκω	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	9	parataxis	9:parataxis	_
+18	,	,	PUNCT	PUNCT	_	19	punct	19:punct	_
+19	δέβην	δεβαίνω	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	17	parataxis	17:parataxis	_
+20	πήε	πηγαίνω	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	19	parataxis	19:parataxis	_
+21-22	σο	_	_	_	_	_	_	_	_
+21	σ	σε	ADP	ADP	_	23	case	23:case	_
+22	ο	το	DET	DET	Case=Acc|Gender=Neut|Number=Sing|PronType=Art	23	det	23:det	_
+23	κορίτσι	κορίτσι	NOUN	NOUN	Case=Acc|Gender=Neut|Number=Sing	20	obl	20:obl	_
+24	.	.	PUNCT	PUNCT	_	7	punct	7:punct	_
 
 # sent_id = Fairytale5.59
 # text = Ρώτσεν τα, τζ΄ είπεν τι:
 # translit =  
-# text_en =
+# text_en = He asked the girl:
+1	Ρώτσεν	ρωτάω	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	_
+2	τα	το	DET	DET	Case=Acc|Gender=Neut|Number=Sing|PronType=Art	1	obj	1:obj	_
+3	,	,	PUNCT	PUNCT	_	5	punct	5:punct	_
+4	τζ΄	jαι	CCONJ	CCONJ	_	5	cc	5:cc	_
+5	είπεν	λαλώ	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	1	conj	1:conj	_
+6	τι	di	SCONJ	SCONJ	_	5	mark	5:mark	_
+7	:	:	PUNCT	PUNCT	_	1	punct	1:punct	_
 
 # sent_id = Fairytale5.60
 # text = «Ατζεινέ τ΄ άβου ο γαλάς πωτς ένι;»
 # translit =  
-# text_en =
+# text_en = "What is that other castle?"
+1	«	«	PUNCT	PUNCT	_	6	punct	6:punct	_
+2	Ατζεινέ	εκείνο	PRON	PRON	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	6	expl	6:expl	_
+3	τ΄	το	DET	DET	Case=Nom|Gender=Neut|Number=Sing|PronType=Art	4	det	4:det	_
+4	άβου	άβ	ADJ	ADJ	Case=Nom|Gender=Masc|Number=Sing	6	amod	6:amod	_
+5	ο	ο	DET	DET	Case=Nom|Gender=Masc|Number=Sing|PronType=Art	6	det	6:det	_
+6	γαλάς	γαλάς	NOUN	NOUN	Case=Acc|Gender=Masc|Number=Sing	0	root	0:root	_
+7	πωτς	πωτς	PRON	PRON	_	8	advmod	8:advmod	_
+8	ένι	είμαι	AUX	AUX	_	6	cop	6:cop	_
+9	;	;	PUNCT	PUNCT	_	6	punct	6:punct	_
+10	»	»	PUNCT	PUNCT	_	6	punct	6:punct	_
