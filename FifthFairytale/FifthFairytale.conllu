@@ -707,7 +707,7 @@
 # text_en = Some time later the boy opened his eyes and recuperated.
 1	‘Σ	σ	ADP	ADP	_	4	case	4:case	_
 2	τ’	το	DET	DET	Case=Acc|Gender=Neut|Number=Sing|PronType=Art	3	det	3:det	_
-3	εν	ένα	NUM	NUM	_	4	nummod	4:nummod	_
+3	εν	ένα	NUM	NUM	Case=Acc|Gender=Neut|Number=Sing	4	nummod	4:nummod	_
 4	κούτι	kötü	NOUN	NOUN	Case=Acc|Gender=Neut|Number=Sing	8	obl	8:obl	_
 5	στέρου	στέρου	ADV	ADV	_	8	advmod	8:advmod	_
 6	το	το	DET	DET	Case=Nom|Gender=Neut|Number=Sing|PronType=Art	7	det	7:det	_
@@ -1327,7 +1327,7 @@
 2	'σ	σε	ADP	ADP	_	5	case	5:case	_
 3	'τ	το	DET	DET	Case=Acc|Gender=Neut|Number=Sing|PronType=Art	4	det	4:det	_
 4	εν	ένα	NUM	NUM	Case=Acc|Gender=Neut|Number=Sing	5	nummod	5:nummod	_
-5	κούτι	κούτι	NOUN	NOUN	Case=Acc|Gender=Neut|Number=Sing	9	obl	9:obl	_
+5	κούτι	kötü	NOUN	NOUN	Case=Acc|Gender=Neut|Number=Sing	9	obl	9:obl	_
 6	στρέρου	στέρου	ADV	ADV	_	9	advmod	9:advmod	_
 7	σα	σα	PART	PART	_	9	advmod	9:advmod	_
 8	τα	το	DET	DET	Case=Acc|Gender=Neut|Number=Sing|PronType=Art	10	expl	10:expl	_
@@ -1794,7 +1794,7 @@
 # sent_id = Fairytale5.87
 # text = Σου να γρεπ' πάγασεν τζαι τούτινα σο πρωτινό το κορίτζι κοντά τζαι ΄υρίστη πίσω σο γαλά.
 # translit =  
-# text_en =
+# text_en = At once he left the girl with the first girl and returned to the castle.
 1-2	Σου	_	_	_	_	_	_	_	_
 1	Σ	σ	ADP	ADP	_	4	case	4:case	_
 2	ου	ου	PRON	PRON	_	4	obl	4:obl	_
@@ -1822,7 +1822,7 @@
 # sent_id = Fairytale5.88
 # text = Τζίριξεν το φσάχι σο Γαλά µπρο.
 # translit =  
-# text_en =
+# text_en = The boy screamed in front of the castle.
 1	Τζίριξεν	τσιρίζω	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	_
 2	το	το	DET	DET	Case=Nom|Gender=Neut|Number=Sing|PronType=Art	3	det	3:det	_
 3	φσάχι	φσάχ	NOUN	NOUN	Case=Nom|Gender=Neut|Number=Sing	1	nsubj	1:nsubj	_
@@ -1836,7 +1836,7 @@
 # sent_id = Fairytale5.89
 # text = ΄Νοίγη το θύρι, φάνη µπρο του αν Ντιλπέρτσα.
 # translit =  
-# text_en =
+# text_en = The door opens and in front of him appears a Beauty.
 1	΄Νοίγη	ανοίγω	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	_
 2	το	το	DET	DET	Case=Nom|Gender=Neut|Number=Sing|PronType=Art	3	det	3:det	_
 3	θύρι	θύρι	NOUN	NOUN	Case=Acc|Gender=Neut|Number=Sing	1	nsubj	1:nsubj	SpaceAfter=No
@@ -1851,7 +1851,7 @@
 # sent_id = Fairytale5.90
 # text = Τζας τα είδεν παΐνσεν το φσάχι.
 # translit =  
-# text_en =
+# text_en = When the boy saw her he fainted.
 1	Τζας	τζας	ADV	ADV	_	3	advmod	3:advmod	_
 2	τα	η	DET	DET	Case=Acc|Gender=Fem|Number=Sing|PronType=Art	3	obj	3:obj	_
 3	είδεν	θεωρώ	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	4	advcl	4:advcl	_
@@ -1863,27 +1863,91 @@
 # sent_id = Fairytale5.91
 # text = Πήραν τα πέσου οι τσιράχτσες.
 # translit =  
-# text_en =
+# text_en = The maids took him inside.
+1	Πήραν	παίρνω	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	_
+2	τα	το	DET	DET	Case=Acc|Gender=Neut|Number=Sing|PronType=Art	1	obj	1:obj	_
+3	πέσου	πέσου	ADV	ADV	_	1	advmod	1:advmod	_
+4	οι	η	DET	DET	Case=Nom|Gender=Fem|Number=Plur|PronType=Art	5	det	5:det	_
+5	τσιράχτσες	τσιράχτσα	NOUN	NOUN	Case=Nom|Gender=Fem|Number=Plur	1	nsubj	1:nsubj	SpaceAfter=No
+6	.	.	PUNCT	PUNCT	_	1	punct	1:punct	_
 
 # sent_id = Fairytale5.92
 # text = Τζαι σ' 'τ εν κούτι στέρου, ήνοιξεν τα φτάλµε του το φσάχι, τζ' ήρτεν ο νούς του σο τσουφάλι του.
 # translit =  
-# text_en =
+# text_en = And after a while the boy opened his eyes and recuperated.
+1	Τζαι	jαι	CCONJ	CCONJ	_	8	cc	8:cc	_
+2	σ'	σ	ADP	ADP	_	5	case	5:case	_
+3	'τ	το	DET	DET	Case=Acc|Gender=Neut|Number=Sing|PronType=Art	4	det	4:det	_
+4	εν	ένα	NUM	NUM	Case=Acc|Gender=Neut|Number=Sing	5	nummod	5:nummod	_
+5	κούτι	kötü	NOUN	NOUN	Case=Acc|Gender=Neut|Number=Sing	8	obl	8:obl	_
+6	στέρου	στέρου	ADV	ADV	_	8	advmod	8:advmod	SpaceAfter=No
+7	,	,	PUNCT	PUNCT	_	8	punct	8:punct	_
+8	ήνοιξεν	ανοίγω	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	_
+9	τα	ο	DET	DET	Case=Acc|Gender=Masc|Number=Plur|PronType=Art	10	det	10:det	_
+10	φτάλµε	οθφαλμός	NOUN	NOUN	Case=Acc|Gender=Masc|Number=Plur	8	obj	8:obj	_
+11	του	αυτό	PRON	PRON	Case=Gen|Gender=Neut|Number=Sing|PronType=Dem	10	nmod	10:nmod	_
+12	το	το	DET	DET	Case=Nom|Gender=Neut|Number=Sing|PronType=Art	13	det	13:det	_
+13	φσάχι	φσάχ	NOUN	NOUN	Case=Nom|Gender=Neut|Number=Sing	8	nsubj	8:nsubj	SpaceAfter=No
+14	,	,	PUNCT	PUNCT	_	16	punct	16:punct	_
+15	τζ'	jαι	CCONJ	CCONJ	_	16	cc	16:cc	_
+16	ήρτεν	έρχομαι	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	8	conj	8:conj	_
+17	ο	ο	DET	DET	Case=Nom|Gender=Masc|Number=Sing|PronType=Art	18	det	18:det	_
+18	νούς	νους	NOUN	NOUN	Case=Nom|Gender=Masc|Number=Sing	16	nsubj	16:nsubj	_
+19	του	αυτό	PRON	PRON	Case=Gen|Gender=Neut|Number=Sing|PronType=Dem	18	nmod	18:nmod	_
+20-21	σο	_	_	_	_	_	_	_	_
+20	σ	σε	ADP	ADP	_	22	case	22:case	_
+21	ο	το	DET	DET	Case=Acc|Gender=Neut|Number=Sing|PronType=Art	22	det	22:det	_
+22	τσουφάλι	τσουφάλι	NOUN	NOUN	Case=Acc|Gender=Neut|Number=Sing	16	obl	16:obl	_
+23	του	αυτό	PRON	PRON	Case=Gen|Gender=Neut|Number=Sing|PronType=Dem	22	nmod	22:nmod	SpaceAfter=No
+24	.	.	PUNCT	PUNCT	_	8	punct	8:punct	_
 
 # sent_id = Fairytale5.93
 # text = Τζ΄είπεν το κορτζόκκο:
 # translit =  
-# text_en =
+# text_en = And the girl said:
+1	Τζ΄	jαι	CCONJ	CCONJ	_	2	cc	2:cc	_
+2	είπεν	λαλώ	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	_
+3	το	το	DET	DET	Case=Nom|Gender=Masc|Number=Sing|PronType=Art	4	det	4:det	_
+4	κορτζόκκο	κορdζόκκο	NOUN	NOUN	Case=Nom|Gender=Neut|Number=Sing	2	nsubj	2:nsubj	SpaceAfter=No
+5	:	:	PUNCT	PUNCT	_	2	punct	2:punct	_
 
 # sent_id = Fairytale5.94
 # text = «Ε παλικάρι µου, συ αδέ τούς ήρτες, τούς τα πασάρεψες τζ΄ ήρτες;
 # translit =  
-# text_en =
+# text_en = "O boy, how did you come, how did you manage to come?"
+1	«	«	PUNCT	PUNCT	_	9	punct	9:punct	SpaceAfter=No
+2	Ε	ε	INTJ	INTJ	_	3	discourse	3:discourse	_
+3	παλικάρι	φσάχ	NOUN	NOUN	Case=Voc|Gender=Neut|Number=Sing	9	vocative	9:vocative	SpaceAfter=No
+4	µου	εγώ	PRON	PRON	Case=Voc|Gender=Neut|Number=Sing	3	nmod	3:nmod	SpaceAfter=No
+5	,	,	PUNCT	PUNCT	_	9	punct	9:punct	_
+6	συ	εσύ	PRON	PRON	Case=Nom|Gender=Neut|Number=Sing|PronType=Prs	9	nsubj	9:nsubj	_
+7	αδέ	αδέ	ADV	ADV	_	9	advmod	9:advmod	_
+8	τούς	τούς	PRON	PRON	_	9	obl	9:obl	_
+9	ήρτες	έρχομαι	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=2|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	SpaceAfter=No
+10	,	,	PUNCT	PUNCT	_	13	punct	13:punct	_
+11	τούς	τούς	PRON	PRON	_	13	obl	13:obl	_
+12	τα	το	DET	DET	Case=Acc|Gender=Neut|Number=Plur|PronType=Art	13	obj	13:obj	_
+13	πασάρεψες	πασαρεύω	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=2|Tense=Past|VerbForm=Fin|Voice=Act	9	conj	9:conj	_
+14	τζ΄	jαι	CCONJ	CCONJ	_	15	cc	15:cc	_
+15	ήρτες	έρχομαι	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=2|Tense=Past|VerbForm=Fin|Voice=Act	13	conj	13:conj	SpaceAfter=No
+16	;	;	PUNCT	PUNCT	_	9	punct	9:punct	_
 
 # sent_id = Fairytale5.95
 # text = Αδέ του πετάν τα πουλία πάλι τζο πορούν να νάρτουν!»
 # translit =  
-# text_en =
+# text_en = Even the flying birds can't come up here!"
+1	Αδέ	αδέ	ADV	ADV	_	3	advmod	3:advmod	_
+2	του	του	PRON	PRON	_	3	obl	3:obl	_
+3	πετάν	πετάω	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	8	xcomp	8:xcomp	_
+4	τα	το	DET	DET	Case=Nom|Gender=Neut|Number=Plur|PronType=Art	5	det	5:det	_
+5	πουλία	πουλί	NOUN	NOUN	Case=Nom|Gender=Neut|Number=Plur	8	nsubj	8:nsubj	_
+6	πάλι	πάλι	ADV	ADV	_	8	advmod	8:advmod	_
+7	τζο	τζο	PART	PART	_	8	advmod	8:advmod	_
+8	πορούν	μπορώ	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	_
+9	να	να	AUX	AUX	_	10	aux	10:aux	_
+10	νάρτουν	έρχομαι	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	8	ccomp	8:ccomp	SpaceAfter=No
+11	!	!	PUNCT	PUNCT	_	8	punct	8:punct	SpaceAfter=No
+12	»	»	PUNCT	PUNCT	_	8	punct	8:punct	_
 
 # sent_id = Fairytale5.96
 # text = Λε’ ‘τι τζαι το φσάχι κι:
