@@ -1,0 +1,11 @@
+# sent_id = Fairytale6.51
+# text = Αdό ήdουνε το μονα η κόρη.
+# translit =  Ado idoune to mona i kori.
+# text_en = This is my own daugther.
+1	Αdό	Αdε	PRON	PRON	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Dem	6	nsubj	6:nsubj	_
+2	ήdουνε	είμαι	AUX	AUX	_	6	cop	6:cop	_
+3	το	το	DET	DET	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	4	det	4:det	_
+4	μονα	μόνα	PRON	PRON	Case=Nom|Gender=Neut|Number=Sing|PronType=Prs	6	nmod	6:nmod	_
+5	η	η	DET	DET	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	6:det	_
+6	κόρη	κόρη	NOUN	NOUN	Case=Nom|Gender=Fem|Number=Sing	0	root	0:root	SpaceAfter=No
+7	.	.	PUNCT	PUNCT	_	6	punct	6:punct	_
