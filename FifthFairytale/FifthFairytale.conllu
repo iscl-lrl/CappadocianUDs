@@ -1952,27 +1952,120 @@
 # sent_id = Fairytale5.96
 # text = Λε’ ‘τι τζαι το φσάχι κι:
 # translit =  
-# text_en =
+# text_en = The boy replies:
+1	Λε’	λαλώ	VERB	VERB	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	_
+2	‘τι	di	SCONJ	SCONJ	_	1	mark	1:mark	_
+3	τζαι	jαι	CCONJ	CCONJ	_	5	cc	5:cc	_
+4	το	το	DET	DET	Case=Nom|Gender=Neut|Number=Sing|PronType=Art	5	det	5:det	_
+5	φσάχι	φσάχ	NOUN	NOUN	Case=Nom|Gender=Neut|Number=Sing	1	nsubj	1:nsubj	_
+6	κι	κι	SCONJ	SCONJ	_	1	mark	1:mark	SpaceAfter=No
+7	:	:	PUNCT	PUNCT	_	1	punct	1:punct	_
 
 # sent_id = Fairytale5.97
 # text = «Με µένα τίς χα µε κρατήσει τζαι µη µε φήτζει να νάρτω αδέ;»
 # translit =  
-# text_en =
+# text_en = "But what could keep me and not let me come here?"
+1	«	«	PUNCT	PUNCT	_	7	punct	7:punct	SpaceAfter=No
+2	Με	με	INTJ	INTJ	_	7	discourse	7:discourse	_
+3	µένα	εγώ	PRON	PRON	Case=Acc|Gender=Neut|Number=Sing|PronType=Prs	7	expl	7:expl	_
+4	τίς	τίς	PRON	PRON	Case=Nom|Gender=Masc|Number=Sing|PronType=Dem	7	nsubj	7:nsubj	_
+5	χα	χα	ADP	ADP	_	7	mark	7:mark	_
+6	µε	εγώ	PRON	PRON	Case=Acc|Gender=Neut|Number=Sing|PronType=Prs	7	obj	7:obj	_
+7	κρατήσει	_	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	_
+8	τζαι	jαι	CCONJ	CCONJ	_	11	cc	11:cc	_
+9	µη	µη	PART	PART_	_	11	advmod	11:advmod	_
+10	µε	εγώ	PRON	PRON	Case=Acc|Gender=Neut|Number=Sing|PronType=Prs	11	obj	11:obj	_
+11	φήτζει	αφήνω	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	7	conj	7:conj	_
+12	να	νά	AUX	AUX	_	13	aux	13:aux	_
+13	νάρτω	έρχομαι	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	11	advcl	11:advcl	_
+14	αδέ	αδέ	ADV	ADV	_	13	advmod	13:advmod	SpaceAfter=No
+15	;	;	PUNCT	PUNCT	_	7	punct	7:punct	SpaceAfter=No
+16	»	»	PUNCT	PUNCT	_	7	punct	7:punct	_
 
 # sent_id = Fairytale5.98
 # text = «’Γω έχω αν Αράπ µο τα τρία τσουφάλε», είπεν τι το κορτζόκκο, «ατός µο τ’ άβγο του κάτα ηµέρα ξειά στο γεφύρι σο ποτάµι.
 # translit =  
-# text_en =
+# text_en = "There is an African man with three heads", said the girl, "Every day he with his horse throws people of the bridge inside the river.
+1	«	«	PUNCT	PUNCT	_	3	punct	3:punct	SpaceAfter=No
+2	’Γω	εγώ	PRON	PRON	Case=Nom|Gender=Neut|Number=Sing|PronType=Prs	3	nsubj	3:nsubj	_
+3	έχω	έχω	VERB	VERB	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	12	parataxis	12:parataxis	_
+4	αν	αν	DET	DET	Case=Acc|Gender=Neut|Number=Sing	5	det	5:det	_
+5	Αράπ	arap	NOUN	NOUN	Case=Acc|Gender=Masc|Number=Sing	3	obj	3:obj	_
+6	µο	με	ADP	ADP	_	9	case	9:case	_
+7	τα	το	DET	DET	Case=Acc|Gender=Neut|Number=Plur|PronType=Art	8	det	8:det	_
+8	τρία	τρία	NUM	NUM	Case=Acc|Gender=Neut|Number=Plur	9	nummod	9:nummod	_
+9	τσουφάλε	τσουφάλι	NOUN	NOUN	Case=Acc|Gender=Neut|Number=Plur	3	obl	3:obl	SpaceAfter=No
+10	»	»	PUNCT	PUNCT	_	3	punct	3:punct	SpaceAfter=No
+11	,	,	PUNCT	PUNCT	_	12	punct	12:punct	_
+12	είπεν	λαλώ	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	_
+13	τι	di	SCONJ	SCONJ	_	12	mark	12:mark	_
+14	το	ρο	DET	DET	Case=Nom|Gender=Neut|Number=Sing|PronType=Art	15	det	15:det	_
+15	κορτζόκκο	κορdζόκκο	NOUN	NOUN	Case=Nom|Gender=Neut|Number=Sing	12	nsubj	12:nsubj	SpaceAfter=No
+16	,	,	PUNCT	PUNCT	_	12	punct	12:punct	_
+17	«	«	PUNCT	PUNCT	_	25	punct	25:punct	SpaceAfter=No
+18	ατός	ατός	PRON	PRON	Case=Nom|Gender=Masc|Number=Sing|PronType=Prs	25	nsubj	25:nsubj	_
+19	µο	με	ADP	ADP	_	21	case	21:case	_
+20	τ’	το	DET	DET	Case=Acc|Gender=Neut|Number=Sing|PronType=Art	21	det	21:det	_
+21	άβγο	άβγο	NOUN	NOUN	Case=Acc|Gender=Neut|Number=Sing	25	obl	25:obl	_
+22	του	ατός	PRON	PRON	Case=Gen|Gender=Masc|Number=Sing|PronType=Prs	21	nmod	21:nmod	_
+23	κάτα	κάτα	PRON	PRON	Case=Nom|Gender=Fem|Number=Sing	24	nmod	24:nmod	_
+24	ηµέρα	ηµέρα	NOUN	NOUN	Case=Nom|Gender=Fem|Number=Sing	25	obl	25:obl	_
+25	ξειά	(?)	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	12	parataxis	12:parataxis	_
+26-27	στο	_	_	_	_	_	_	_	_
+26	σ	σε	ADP	ADP	_	28	case	28:case	_
+27	το	το	DET	DET	Case=Acc|Gender=Neut|Number=Sing|PronType=Art	28	det	28:det	_
+28	γεφύρι	γεφύρι	NOUN	NOUN	Case=Acc|Gender=Neut|Number=Sing	25	obl	25:obl	_
+29-30	σο	_	_	_	_	_	_	_	_
+29	σ	σε	ADP	ADP	_	31	case	31:case	_
+30	ο	το	DET	DET	Case=Acc|Gender=Neut|Number=Sing|PronType=Art	31	det	31:det	_
+31	ποτάµι	ποτάµι	NOUN	NOUN	Case=Acc|Gender=Neut|Number=Sing	25	obl	25:obl	SpaceAfter=No
+32	.	.	PUNCT	PUNCT	_	25	punct	25:punct	_
 
 # sent_id = Fairytale5.99
 # text = Ερ ντα δος µε τε τσίκκι σα τρία του τσουφάλε, χα µε παρ.
 # translit =  
-# text_en =
+# text_en = If you hit him with the bow on his three heads, you shall have me.
+1	Ερ	eyer	INTJ	INTJ	_	3	vocative	3:vocative	_
+2	ντα	να	AUX	AUX	_	3	aux	3:aux	_
+3	δος	δίνω	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	_
+4	µε	με	ADP	ADP	_	6	case	6:case	_
+5	τε	το	DET	DET	Case=Acc|Gender=Neut|Number=Sing|PronType=Art	6	det	6:det	_
+6	τσίκκι	τσίκκι	NOUN	NOUN	Case=Acc|Gender=Neut|Number=Sing	3	obj	3:obj	_
+7-8	σα	_	_	_	_	_	_	_	_
+7	σ	σε	ADP	ADP	_	11	case	11:case	_
+8	α	το	DET	DET	Case=Acc|Gender=Neut|Number=Plur|PronType=Art	9	det	9:det	_
+9	τρία	τρία	NUM	NUM	Case=Acc|Gender=Neut|Number=Plur	11	nummod	11:nummod	_
+10	του	ατός	PRON	PRON	Case=Gen|Gender=Masc|Number=Sing|PronType=Prs	9	nmod	9:nmod	_
+11	τσουφάλε	τσουφάλι	NOUN	NOUN	Case=Acc|Gender=Neut|Number=Plur	3	iobj	3:iobj	SpaceAfter=No
+12	,	,	PUNCT	PUNCT	_	15	punct	15:punct	_
+13	χα	χα	ADP	ADP	_	15	case	15:case	_
+14	µε	εγώ	PRON	PRON	Case=Acc|Gender=Neut|Number=Sing|PronType=Prs	15	obj	15:obj	_
+15	παρ	παίρνω	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	3	conj	3:conj	SpaceAfter=No
+16	.	.	PUNCT	PUNCT	_	3	punct	3:punct	_
 
 # sent_id = Fairytale5.100
 # text = Ερ να µη τα πασαρέψης, τζαι σένα χα σε φα, τζαι µένα χα µε φα».
 # translit =  
-# text_en =
+# text_en = If you do not do it, he will eat you, and he will eat me".
+1	Ερ	eyer	INTJ	INTJ	_	5	vocative	5:vocative	_
+2	να	να	AUX	AUX	_	5	aux	5:aux	_
+3	µη	µη	PART	PART	_	5	advmod	5:advmod	_
+4	τα	το	DET	DET	Case=Acc|Gender=Neut|Number=Plur|PronType=Art	5	obj	5:obj	_
+5	πασαρέψης	πασαρεύω	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	SpaceAfter=No
+6	,	,	PUNCT	PUNCT	_	11	punct	11:punct	_
+7	τζαι	jαι	CCONJ	CCONJ	_	11	cc	11:cc	_
+8	σένα	εσύ	PRON	PRON	Case=Acc|Gender=Neut|Number=Sing|PronType=Prs	11	expl	11:expl	_
+9	χα	χα	ADP	ADP	_	11	case	11:case	_
+10	σε	εσύ	PRON	PRON	Case=Acc|Gender=Neut|Number=Sing|PronType=Prs	11	obj	11:obj	_
+11	φα	τρώγω	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	conj	5:conj	SpaceAfter=No
+12	,	,	PUNCT	PUNCT	_	17	punct	17:punct	_
+13	τζαι	jαι	CCONJ	CCONJ	_	17	cc	17:cc	_
+14	µένα	εγώ	PRON	PRON	Case=Acc|Gender=Neut|Number=Sing|PronType=Prs	17	_	17	_
+15	χα	χα	ADP	ADP	_	17	case	17:case	_
+16	µε	εγώ	PRON	PRON	Case=Acc|Gender=Neut|Number=Sing|PronType=Prs	17	obj	17:obj	_
+17	φα	τρώγω	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	11	conj	11:conj	SpaceAfter=No
+18	»	»	PUNCT	PUNCT	_	5	punct	5:punct	SpaceAfter=No
+19	.	.	PUNCT	PUNCT	_	5	punct	5:punct	_
 
 # sent_id = Fairytale5.101
 # text = Πην το φσάχι σο γεθύρι.
