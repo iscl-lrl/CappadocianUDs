@@ -1,0 +1,13 @@
+# sent_id = Fairytale6.54
+# text = « Έ χοjά, δομαίνο μή ίνεσαι;»
+# translit =  "E choha, domeno mi inesai?"
+# text_en = E master, surely your are going crazy?
+1	«	«	PUNCT	PUNCT	_	7	punct	7:punct	_
+2	Έ	Ε	INTJ	INTJ	_	7	discourse	7:discourse	_
+3	χοjά	Hoca	X	X	_	7	vocative	7:vocative	SpaceAfter=No
+4	,	,	PUNCT	PUNCT	_	3	punct	3:punct	_
+5	δομαίνο	δομαινέφτη	ADJ	ADJ	Case=Acc|Gender=Neut|Number=Sing	7	xcomp	7:xcomp	_
+6	μή	μη	PART	PART	_	7	advmod	7:advmod	_
+7	ίνεσαι	γίγνομαι	VERB	VERB	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	0:root	SpaceAfter=No
+8	;	;	PUNCT	PUNCT	_	7	punct	7:punct	SpaceAfter=No
+9	»	»	PUNCT	PUNCT	_	7	punct	7:punct	_

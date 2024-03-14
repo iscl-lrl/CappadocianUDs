@@ -1,0 +1,10 @@
+# sent_id = Fairytale6.53
+# text = Είπαν dι κι jαι jείνοι :
+# translit =  Eipan di ki ke jine:
+# text_en = And they said:
+1	Είπαν	λέγω	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	_
+2	dι	dι	SCONJ	SCONJ	_	1	mark	1:mark	_
+3	κι	κι	SCONJ	SCONJ	_	1	mark	1:mark	_
+4	jαι	jαι	CCONJ	CCONJ	_	5	cc	5:cc	_
+5	jείνοι	εκείνος	PRON	PRON	Case=Nom|Gender=Masc|Number=Plur|Person=3|PronType=Dem	1	nsubj	1:nsubj	SpaceAfter=No
+6	:	:	PUNCT	PUNCT	_	1	punct	1:punct	_
