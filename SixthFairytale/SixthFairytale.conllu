@@ -387,9 +387,9 @@
 # translit =  « Ade poika da go.»
 # text_en =« This, I made her.»
 1	«	«	PUNCT	PUNCT	_	3	punct	3:punct	_
-2	Αdέ	αdα	PRON	PRON	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Dem	3	dislocated	3:dislocated	_
+2	Αdέ	αdα	PRON	PRON	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Dem	3	obj	3:obj	_
 3	ποίκα	ποιώ	VERB	VERB	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	_
-4	dα	dα	PRON	PRON	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs	3	obj	3:obj	_
+4	dα	dα	PRON	PRON	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs	3	dislocated	3:dislocated	_
 5	γω	εγω	PRON	PRON	Case=Nom|Gender=Masc|Number=Sing|Person=1|PronType=Prs	3	nsubj	3:nsubj	SpaceAfter=No
 6	.	.	PUNCT	PUNCT	_	3	punct	3:punct	SpaceAfter=No
 7	»	»	PUNCT	PUNCT	_	3	punct	3:punct	_
@@ -641,3 +641,114 @@
 2	dι	dι	SCONJ	SCONJ	_	1	mark	1:mark	_
 3	κι	κι	SCONJ	SCONJ	_	1	mark	1:mark	SpaceAfter=No
 4	,	,	PUNCT	PUNCT	_	1	punct	1:punct	_
+
+# sent_id = Fairytale6.56
+# text = « Χίdα να υπάμε, jαι συ.»
+# translit =  "Chida na ypame, ke sy."
+# text_en = " Come we must go, you as well."
+1	«	«	PUNCT	PUNCT	_	2	punct	2:punct	_
+2	Χίdα	(Xίdα)	X	X	Foreign=Yes	0	root	0:root	_
+3	να	να	AUX	AUX	_	4	aux	4:aux	_
+4	υπάμε	πηγαίνω	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|VerbForm=Fin|Voice=Act	2	xcomp	2:xcomp	SpaceAfter=No
+5	,	,	PUNCT	PUNCT	_	4	punct	4:punct	_
+6	jαι	jαι	CCONJ	CCONJ	_	7	cc	7:cc	_
+7	συ	εσυ	PRON	PRON	Case=Nom|Gender=Masc|Number=Plur|Person=2|PronType=Prs	4	nsubj	4:nsubj	SpaceAfter=No
+8	.	.	PUNCT	PUNCT	_	2	punct	2:punct	SpaceAfter=No
+9	»	»	PUNCT	PUNCT	_	2	punct	2:punct	_
+
+# sent_id = Fairytale6.57
+# text = Σο ενόσανdαι πένdε πίλενε.
+# translit =  So enosandai pende pilene.
+# text_en = They became five after this.
+1-2	Σο	_	_	_	_	_	_	_	_
+1	Σ	σε	ADP	ADP	_	5	case	5:case	_
+2	ο	το	DET	DET	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	5	det	5:det	_
+3	ενόσανdαι	γίνομαι	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	0	root	0:root	_
+4	πένdε	πένdε	NUM	NUM	Case=Nom|Gender=Masc|Number=Plur|NumType=Card	3	xcomp	3:xcomp	_
+5	πίλενε	πίλενε	ADV	ADV	_	3	obl	3:obl	SpaceAfter=No
+6	.	.	PUNCT	PUNCT	_	3	punct	3:punct	_
+
+# sent_id = Fairytale6.58
+# text = Πηάγανε.
+# translit =  Piagane.
+# text_en = They went.
+1	Πηάγανε	πηγαίνω	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	PUNCT	_	1	punct	_	_
+
+# sent_id = Fairytale6.59
+# text = Ήρτανε ‘ς αν Dερβίσης ιράστα.
+# translit =  Irtane 's an Dervisis irasta.
+# text_en = They came to a Dervish.
+1	Ήρτανε	έρχουμι	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	0	root	0:root	_
+2	‘ς	σε	ADP	ADP	_	4	case	4:case	_
+3	αν	α	DET	DET	Case=Acc|Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	4	det	4:det	_
+4	Dερβίσης	Dερβίσης	PROPN	PROPN	Case=Acc|Gender=Fem|Number=Sing	1	obl	1:obl	_
+5	ιράστα	ιράστα 	ADJ	ADJ	Case=Acc|Gender=Fem|Number=Sing	4	amod	4:amod	SpaceAfter=No
+6	.	.	PUNCT	PUNCT	_	1	punct	1:punct	_
+
+# sent_id = Fairytale6.60
+# text = Είπεν dι κι ο Dερβίσης,
+# translit =  Eipen di ki o Dervisis,
+# text_en = And the dervish said,
+1	Είπεν	λέγω	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	_
+2	dι	dι	SCONJ	SCONJ	_	1	mark	1:mark	_
+3	κι	κι	SCONJ	SCONJ	_	1	mark	1:mark	_
+4	ο	ο	DET	DET	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	5:det	_
+5	Dερβίσης	Dερβίσης	PROPN	PROPN	Case=Nom|Gender=Masc|Number=Sing	1	nsubj	1:nsubj	SpaceAfter=No
+6	,	,	PUNCT	PUNCT	_	1	punct	1:punct	_
+
+# sent_id = Fairytale6.61
+# text = « Αdό ένι το μονα η ναικα.
+# translit =  "Ado eni to mona i neika.
+# text_en = This is my own wife.
+1	«	«	PUNCT	PUNCT	_	7	punct	7:punct	_
+2	Αdό	αdε	PRON	PRON	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Dem	7	nsubj	7:nsubj	_
+3	ένι	είμαι	AUX	AUX	_	7	cop	7:cop	_
+4	το	το	DET	DET	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	5	det	5:det	_
+5	μονα	μόνα	PRON	PRON	Case=Nom|Gender=Neut|Number=Sing|PronType=Prs	7	nmod	7:nmod	_
+6	η	η	DET	DET	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	7:det	_
+7	ναικα	γυναίκα	NOUN	NOUN	Case=Nom|Gender=Fem|Number=Sing	0	root	0:root	SpaceAfter=No
+8	.	.	PUNCT	PUNCT	_	7	punct	7:punct	_
+
+# sent_id = Fairytale6.62
+# text = Σεις πού τα ήβρετε;»
+# translit =  Seis pou ta ivrete?"
+# text_en = Where did you find her?
+1	Σεις	εσυ	PRON	PRON	Case=Nom|Gender=Masc|Number=Plur|Person=2|PronType=Prs	4	nsubj	4:nsubj	_
+2	πού	που	ADV	ADV	_	4	advmod	4:advmod	_
+3	τα	η	PRON	PRON	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs	4	obj	4:obj	_
+4	ήβρετε	ευρίσκω	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Plur|Person=2|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	SpaceAfter=No
+5	;	;	PUNCT	PUNCT	_	4	punct	4:punct	SpaceAfter=No
+6	»	»	PUNCT	PUNCT	_	4	punct	4:punct	_
+
+# sent_id = Fairytale6.63
+# text = « Ολάν, δομαίνο μη ίνεσαι;
+# translit =  "Olan, domeno mi inesai?
+# text_en = "What? surely you are mad!
+1	«	«	PUNCT	PUNCT	_	6	punct	6:punct	_
+2	Ολάν	ολάν	INTJ	INTJ	_	6	discourse	6:discourse	SpaceAfter=No
+3	,	,	PUNCT	PUNCT	_	2	punct	2:punct	_
+4	δομαίνο	δομαινέφτη	ADJ	ADJ	Case=Acc|Gender=Neut|Number=Sing	6	xcomp	6:xcomp	_
+5	μη	μη	PART	PART	_	6	advmod	6:advmod	_
+6	ίνεσαι	γίγνομαι	VERB	VERB	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	0:root	SpaceAfter=No
+7	;	;	PUNCT	PUNCT	_	6	punct	6:punct	_
+
+# sent_id = Fairytale6.64
+# text = Αdό ποίκαμ’ dα μεις.»
+# translit =  Ado poikam' da meis."
+# text_en = This, I made her."
+1	Αdό	αdε	PRON	PRON	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Dem	2	obj	2:obj	_
+2	ποίκαμ’	ποιώ	VERB	VERB	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	_
+3	dα	dα	PRON	PRON	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs	2	dislocated	2:dislocated	_
+4	μεις	εγω	PRON	PRON	Case=Nom|Gender=Masc|Number=Plur|Person=1|PronType=Prs	2	nsubj	2:nsubj	SpaceAfter=No
+5	.	.	PUNCT	PUNCT	_	2	punct	2:punct	SpaceAfter=No
+6	»	»	PUNCT	PUNCT	_	2	punct	2:punct	_
+
+# sent_id = Fairytale6.65
+# text = Ενόσανdαι έξι πίλενε.
+# translit =  Enosandai exi pilene.
+# text_en = They became six after this.
+1	Ενόσανdαι	γίνομαι	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	0	root	0:root	_
+2	έξι	έξι	NUM	NUM	Case=Nom|Gender=Masc|Number=Plur|NumType=Card	1	xcomp	1:xcomp	_
+3	πίλενε	πίλενε	ADV	ADV	_	1	advmod	1:advmod	SpaceAfter=No
+4	.	.	PUNCT	PUNCT	_	1	punct	1:punct	_

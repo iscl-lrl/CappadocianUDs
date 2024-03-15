@@ -1,0 +1,10 @@
+# sent_id = Fairytale6.59
+# text = Ήρτανε ‘ς αν Dερβίσης ιράστα.
+# translit =  Irtane 's an Dervisis irasta.
+# text_en = They came to a Dervish.
+1	Ήρτανε	έρχουμι	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	0	root	0:root	_
+2	‘ς	σε	ADP	ADP	_	4	case	4:case	_
+3	αν	α	DET	DET	Case=Acc|Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	4	det	4:det	_
+4	Dερβίσης	Dερβίσης	PROPN	PROPN	Case=Acc|Gender=Fem|Number=Sing	1	obl	1:obl	_
+5	ιράστα	ιράστα 	ADJ	ADJ	Case=Acc|Gender=Fem|Number=Sing	4	amod	4:amod	SpaceAfter=No
+6	.	.	PUNCT	PUNCT	_	1	punct	1:punct	_

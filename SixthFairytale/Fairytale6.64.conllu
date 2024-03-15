@@ -1,0 +1,10 @@
+# sent_id = Fairytale6.64
+# text = Αdό ποίκαμ’ dα μεις. »
+# translit =  Ado poikam' da meis."
+# text_en = This, I made her."
+1	Αdό	αdε	PRON	PRON	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Dem	2	obj	2:obj	_
+2	ποίκαμ’	ποιώ	VERB	VERB	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	_
+3	dα	dα	PRON	PRON	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs	2	dislocated	2:dislocated	_
+4	μεις	εγω	PRON	PRON	Case=Nom|Gender=Masc|Number=Plur|Person=1|PronType=Prs	2	nsubj	2:nsubj	SpaceAfter=No
+5	.	.	PUNCT	PUNCT	_	2	punct	2:punct	SpaceAfter=No
+6	»	»	PUNCT	PUNCT	_	2	punct	2:punct	_

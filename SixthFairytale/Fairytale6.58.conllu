@@ -1,0 +1,6 @@
+# sent_id = Fairytale6.58
+# text = Πηάγανε.
+# translit =  Piagane.
+# text_en = They went.
+1	Πηάγανε	πηγαίνω	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	PUNCT	_	1	punct	_	_

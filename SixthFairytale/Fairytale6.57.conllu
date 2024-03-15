@@ -1,0 +1,11 @@
+# sent_id = Fairytale6.57
+# text = Σο ενόσανdαι πένdε πίλενε.
+# translit =  So enosandai pende pilene.
+# text_en = They became five after this.
+1-2	Σο	_	_	_	_	_	_	_	_
+1	Σ	σε	ADP	ADP	_	5	case	5:case	_
+2	ο	το	DET	DET	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	5	det	5:det	_
+3	ενόσανdαι	γίγνομαι	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	0	root	0:root	_
+4	πένdε	πένdε	NUM	NUM	Case=Nom|Gender=Masc|Number=Plur|NumType=Card	3	xcomp	3:xcomp	_
+5	πίλενε	πίλενε	ADV	ADV	_	3	obl	3:obl	SpaceAfter=No
+6	.	.	PUNCT	PUNCT	_	3	punct	3:punct	_

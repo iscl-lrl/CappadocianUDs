@@ -1,0 +1,10 @@
+# sent_id = Fairytale6.62
+# text = Σεις πού τα ήβρετε;»
+# translit =  Seis pou ta ivrete?"
+# text_en = Where did you find her?
+1	Σεις	εσυ	PRON	PRON	Case=Nom|Gender=Masc|Number=Plur|Person=2|PronType=Prs	4	nsubj	4:nsubj	_
+2	πού	που	ADV	ADV	_	4	advmod	4:advmod	_
+3	τα	η	PRON	PRON	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs	4	obj	4:obj	_
+4	ήβρετε	ευρίσκω	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Plur|Person=2|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	SpaceAfter=No
+5	;	;	PUNCT	PUNCT	_	4	punct	4:punct	SpaceAfter=No
+6	»	»	PUNCT	PUNCT	_	4	punct	4:punct	_
