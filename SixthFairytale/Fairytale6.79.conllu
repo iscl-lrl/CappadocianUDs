@@ -1,0 +1,9 @@
+# sent_id = Fairytale6.79
+# text = Qαπαdίστη πάλι το ξύο.
+# translit =  Qapadisti pali to xyo.
+# text_en = The tree closed up again.
+1	Qαπαdίστη	qαπατώ	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	0	root	0:root	_
+2	πάλι	πάλι	ADV	ADV	_	1	advmod	1:advmod	_
+3	το	το	DET	DET	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	4	det	4:det	_
+4	ξύο	ξύο	NOUN	NOUN	Case=Nom|Gender=Neut|Number=Sing	1	nsubj:pass	1:nsubj:pass	SpaceAfter=No
+5	.	.	PUNCT	PUNCT	_	1	punct	1:punct	_

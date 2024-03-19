@@ -752,3 +752,158 @@
 2	έξι	έξι	NUM	NUM	Case=Nom|Gender=Masc|Number=Plur|NumType=Card	1	xcomp	1:xcomp	_
 3	πίλενε	πίλενε	ADV	ADV	_	1	advmod	1:advmod	SpaceAfter=No
 4	.	.	PUNCT	PUNCT	_	1	punct	1:punct	_
+
+# sent_id = Fairytale6.66
+# text = Πηάγανε σον qαdή.
+# translit =  Piagane s on qadi.
+# text_en = They went to the judge
+1	Πηάγανε	πηγαίνω	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	_
+2-3	σον	_	_	_	_	_	_	_	_
+2	σ	σε	ADP	ADP	_	4	case	4:case	_
+3	ον	ο	DET	DET	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	4:det	_
+4	qαdή	qαdής	NOUN	NOUN	Case=Acc|Gender=Masc|Number=Sing		1	obl	1:obl	SpaceAfter=No
+5	.	.	PUNCT	PUNCT	_	1	punct	1:punct	_
+
+# sent_id = Fairytale6.67
+# text = Είπεν dι κι j' ο qαdής,
+# translit =  Eipen di ki j' o qadis,
+# text_en = The judge said,
+1	Είπεν	λέγω	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	_
+2	dι	dι	SCONJ	SCONJ	_	1	mark	1:mark	_
+3	κι	κι	SCONJ	SCONJ	_	1	mark	1:mark	_
+4	j'	jαι	CCONJ	CCONJ	_	6	cc	6:cc	_
+5	ο	ο 	DET	DET	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	6:det	_
+6	qαdής	qαdής	NOUN	NOUN	Case=Nom|Gender=Masc|Number=Sing	1	nsubj	1:nsubj	SpaceAfter=No
+7	,	,	PUNCT	PUNCT	_	1	punct	1:punct	_
+
+# sent_id = Fairytale6.68
+# text = « Ένι το μόνα η 'ναίκα.
+# translit =  "Eni to mona i 'naika.
+# text_en = "It is my own wife.
+1	«	«	PUNCT	PUNCT	_	4	punct	4:punct	_
+2	Ένι	είμαι	AUX	AUX	_	4	cop	4:cop	_
+3	το	το	DET	DET	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	4	det	4:det	_
+4	μόνα	μόνα	PRON	PRON	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	0	root	0:root	_
+5	η	η	DET	DET	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	6:det	_
+6	'ναίκα	γυναίκα	NOUN	NOUN	Case=Nom|Gender=Fem|Number=Sing	4	nsubj	4:nsubj	SpaceAfter=No
+7	.	.	PUNCT	PUNCT	_	4	punct	4:punct	_
+
+# sent_id = Fairytale6.69
+# text = Σεις πού τα ήβρετε;»
+# translit =  Seis pou ta ivrete?"
+# text_en = Where did you find her?
+1	Σεις	εσυ	PRON	PRON	Case=Nom|Gender=Masc|Number=Plur|Person=2|PronType=Prs	4	nsubj	4:nsubj	_
+2	πού	που	ADV	ADV	_	4	advmod	4:advmod	_
+3	τα	η	PRON	PRON	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs	4	obj	4:obj	_
+4	ήβρετε	ευρίσκω	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Plur|Person=2|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	SpaceAfter=No
+5	;	;	PUNCT	PUNCT	_	4	punct	4:punct	SpaceAfter=No
+6	»	»	PUNCT	PUNCT	_	4	punct	4:punct	_
+
+# sent_id = Fairytale6.70
+# text = Είπεν dι κι.
+# translit =  Eipen di ki.
+# text_en = And said.
+1	Είπεν	λέγω	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	_
+2	dι	dι	SCONJ	SCONJ	_	1	mark	1:mark	_
+3	κι	κι	SCONJ	SCONJ	_	1	mark	1:mark	SpaceAfter=No
+4	.	.	PUNCT	PUNCT	_	1	punct	1:punct	_
+
+# sent_id = Fairytale6.71
+# text = Σωρεύτανε το μεντζιλίσι.
+# translit =  Soreytane to mentzilisi.
+# text_en = The council gathered together.
+1	Σωρεύτανε	σωρέβου	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	0	root	0:root	_
+2	το	το	DET	DET	Case=Nom|Gender=Neut|Number=Sing|PronType=Art	3	det	3:det	_
+3	μεντζιλίσι	menjουλίσι	NOUN	NOUN	Case=Nom|Gender=Neut|Number=Sing	1	nsubj	1:nsubj	SpaceAfter=No
+4	.	.	PUNCT	PUNCT	_	1	punct	1:punct	_
+
+# sent_id = Fairytale6.72
+# text = Τον çαρέν dου jο bόρκανε dα νάβρουνε.
+# translit =  Ton çaren dou jo vorkane da navrune.
+# text_en = They couldn't find its solution.
+1	Τον	ο	DET	DET	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	2:det	_
+2	çαρέν	çαρές	NOUN	NOUN	Case=Acc|Gender=Masc|Number=Sing	5	obj	5:obj	_
+3	dου	dα	PRON	PRON	Case=Gen|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	2	nmod	2:nmod	_
+4	jο	jο	PART	PART	_	5	discourse	5:discourse	_
+5	bόρκανε	boρώ	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	_
+6	dα	dα	PRON	PRON	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	dislocated	5:dislocated	_
+7	νάβρουνε	βρίσκω	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|VerbForm=Fin|Voice=Act	5	xcomp	5:xcomp	SpaceAfter=No
+8	.	.	PUNCT	PUNCT	_	5	punct	5:punct	_
+
+# sent_id = Fairytale6.73
+# text = Είπαν dι κι:
+# translit =  Eipan di ki:
+# text_en =And they said:
+1	Είπαν	λέγω	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	_
+2	dι	dι	SCONJ	SCONJ	_	1	mark	1:mark	_
+3	κι	κι	SCONJ	SCONJ	_	1	mark	1:mark	SpaceAfter=No
+4	:	:	PUNCT	PUNCT	_	1	punct	1:punct	_
+
+# sent_id = Fairytale6.74
+# text = « Άμε jα σ ο ξύο».
+# translit =  "Ame ja s o xyο."
+# text_en = "Go to that tree."
+1	«	«	PUNCT	PUNCT	_	2	punct	2:punct	_
+2	Άμε	πηγαίνω	VERB	VERB	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	_
+3	jα	εκεί	ADV	ADV	_	2	advmod	2:advmod	_
+4-5	σο	_	_	_	_	_	_	_	_
+4	σ	σε	ADP	ADP	_	7	case	7:case	_
+5	ο	το	DET	DET	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	7	det	7:det	_
+6	ξύο	ξύο	NOUN	NOUN	Case=Nom|Gender=Neut|Number=Sing	2	obl	2:obl	SpaceAfter=No
+7	»	»	PUNCT	PUNCT	_	2	punct	2:punct	SpaceAfter=No
+8	.	.	PUNCT	PUNCT	_	2	punct	2:punct	_
+
+# sent_id = Fairytale6.75
+# text = Πηάγανε σο ξύο.
+# translit =  Piagane so xyo.
+# text_en = They went to the tree.
+1	Πηάγανε	_	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	_
+2-3	στο	_	_	_	_	_	_	_	TokenRange=7:10
+2	σ	σε	ADP	ADP	_	4	case	4:case	_
+3	ο	το	DET	DET	Case=Acc|Gender=Neut|Number=Sing	4	det	4:det	_
+4	ξύο	ξύο	NOUN	NOUN	Case=Acc|Gender=Neut|Number=Sing	1	obl	1:obl	SpaceAfter=No
+5	.	.	PUNCT	PUNCT	_	1	punct	1:punct	_
+
+# sent_id = Fairytale6.76
+# text = Dένσεν το κορίdζι αjεί σ ο ξύο.
+# translit =  Densen to koridzi ajei s o xyo.
+# text_en = The girl leaned up against the tree.
+1	Dένσεν	dενdάγω	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	_
+2	το	το	DET	DET	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	3	det	3:det	_
+3	κορίdζι	κορίdζι	NOUN	NOUN	Case=Acc|Gender=Neut|Number=Sing	1	nsubj	1:nsubj	_
+4	αjεί	εκεί	ADV	ADV	_	1	advmod	1:advmod	_
+5-6	σο	_	_	_	_	_	_	_	_
+5	σ	σε	ADP	ADP	_	7	case	7:case	_
+6	ο	ο	DET	DET	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	7	det	7:det	_
+7	ξύο	ξύο	NOUN	NOUN	Case=Acc|Gender=Neut|Number=Sing	1	obl	1:obl	SpaceAfter=No
+8	.	.	PUNCT	PUNCT	_	1	punct	1:punct	_
+
+# sent_id = Fairytale6.77
+# text = Κανίστη το ξύο.
+# translit =  Kanisti to xyo.
+# text_en = The tree split.
+1	Κανίστη	κανίζω	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	0	root	0:root	_
+2	το	το	DET	DET	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	3	det	3:det	_
+3	ξύο	ξύο	NOUN	NOUN	Case=Nom|Gender=Neut|Number=Sing	1	nsubj:pass	1:nsubj:pass	SpaceAfter=No
+4	.	.	PUNCT	PUNCT	_	1	punct	1:punct	_
+
+# sent_id = Fairytale6.78
+# text = Έμbη το κορίdζι πέσου.
+# translit =  Embi to koridzi pesou.
+# text_en = The girl went into it.
+1	Έμbη	εμβαίνω	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	_
+2	το	το	DET	DET	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	3	det	3:det	_
+3	κορίdζι	κορίdζι	NOUN	NOUN	Case=Nom|Gender=Neut|Number=Sing	1	nsubj	1:nsubj	_
+4	πέσου	πέσου	ADV	ADV	_	1	advmod	1:advmod	SpaceAfter=No
+5	.	.	PUNCT	PUNCT	_	1	punct	1:punct	_
+
+# sent_id = Fairytale6.79
+# text = Qαπαdίστη πάλι το ξύο.
+# translit =  Qapadisti pali to xyo.
+# text_en = The tree closed up again.
+1	Qαπαdίστη	qαπατώ	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	0	root	0:root	_
+2	πάλι	πάλι	ADV	ADV	_	1	advmod	1:advmod	_
+3	το	το	DET	DET	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	4	det	4:det	_
+4	ξύο	ξύο	NOUN	NOUN	Case=Nom|Gender=Neut|Number=Sing	1	nsubj:pass	1:nsubj:pass	SpaceAfter=No
+5	.	.	PUNCT	PUNCT	_	1	punct	1:punct	_
+

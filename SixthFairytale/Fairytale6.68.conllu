@@ -1,0 +1,11 @@
+# sent_id = Fairytale6.68
+# text = « Ένι το μόνα η 'ναίκα.
+# translit =  "Eni to mona i 'naika.
+# text_en = "It is my own wife.
+1	«	«	PUNCT	PUNCT	_	4	punct	4:punct	_
+2	Ένι	είμαι	AUX	AUX	_	4	cop	4:cop	_
+3	το	το	DET	DET	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	4	det	4:det	_
+4	μόνα	μόνα	PRON	PRON	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	0	root	0:root	_
+5	η	η	DET	DET	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	6:det	_
+6	'ναίκα	γυναίκα	NOUN	NOUN	Case=Nom|Gender=Fem|Number=Sing	4	nsubj	4:nsubj	SpaceAfter=No
+7	.	.	PUNCT	PUNCT	_	4	punct	4:punct	_

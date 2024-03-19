@@ -1,0 +1,12 @@
+# sent_id = Fairytale6.72
+# text = Τον çαρέν dου jο bόρκανε dα νάβρουνε.
+# translit =  Ton çaren dou jo vorkane da navrune.
+# text_en = They couldn't find its solution.
+1	Τον	ο	DET	DET	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	2:det	_
+2	çαρέν	çαρές	NOUN	NOUN	Case=Acc|Gender=Masc|Number=Sing	5	obj	5:obj	_
+3	dου	dα	PRON	PRON	Case=Gen|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	2	nmod	2:nmod	_
+4	jο	τζο	PART	PART	_	5	discourse	5:discourse	_
+5	bόρκανε	boρώ	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	_
+6	dα	dα	PRON	PRON	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	dislocated	5:dislocated	_
+7	νάβρουνε	βρίσκω	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|VerbForm=Fin|Voice=Act	5	xcomp	5:xcomp	SpaceAfter=No
+8	.	.	PUNCT	PUNCT	_	5	punct	5:punct	_

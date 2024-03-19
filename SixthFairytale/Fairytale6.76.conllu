@@ -1,0 +1,13 @@
+# sent_id = Fairytale6.76
+# text = Dένσεν το κορίdζι αjεί σ ο ξύο.
+# translit =  Densen to koridzi ajei s o xyo.
+# text_en = The girl leaned up against the tree.
+1	Dένσεν	dενdάγω	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	_
+2	το	το	DET	DET	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	3	det	3:det	_
+3	κορίdζι	κορίdζι	NOUN	NOUN	Case=Acc|Gender=Neut|Number=Sing	1	nsubj	1:nsubj	_
+4	αjεί	εκεί	ADV	ADV	_	1	advmod	1:advmod	_
+5-6	σο	_	_	_	_	_	_	_	_
+5	σ	σε	ADP	ADP	_	7	case	7:case	_
+6	ο	ο	DET	DET	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	7	det	7:det	_
+7	ξύο	ξύο	NOUN	NOUN	Case=Acc|Gender=Neut|Number=Sing	1	obl	1:obl	SpaceAfter=No
+8	.	.	PUNCT	PUNCT	_	1	punct	1:punct	_

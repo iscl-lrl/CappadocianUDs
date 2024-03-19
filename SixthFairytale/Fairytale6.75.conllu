@@ -1,0 +1,10 @@
+# sent_id = Fairytale6.75
+# text = Πηάγανε σο ξύο.
+# translit =  Piagane so xyo.
+# text_en = They went to the tree.
+1	Πηάγανε	_	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	_
+2-3	στο	_	_	_	_	_	_	_	TokenRange=7:10
+2	σ	σε	ADP	ADP	_	4	case	4:case	_
+3	ο	το	DET	DET	Case=Acc|Gender=Neut|Number=Sing	4	det	4:det	_
+4	ξύο	ξύο	NOUN	NOUN	Case=Acc|Gender=Neut|Number=Sing	1	obl	1:obl	SpaceAfter=No
+5	.	.	PUNCT	PUNCT	_	1	punct	1:punct	_

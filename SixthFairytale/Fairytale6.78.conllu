@@ -1,0 +1,9 @@
+# sent_id = Fairytale6.78
+# text = Έμbη το κορίdζι πέσου.
+# translit =  Embi to koridzi pesou.
+# text_en = The girl went into it.
+1	Έμbη	εμβαίνω	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	_
+2	το	το	DET	DET	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	3	det	3:det	_
+3	κορίdζι	κορίdζι	NOUN	NOUN	Case=Nom|Gender=Neut|Number=Sing	1	nsubj	1:nsubj	_
+4	πέσου	πέσου	ADV	ADV	_	1	advmod	1:advmod	SpaceAfter=No
+5	.	.	PUNCT	PUNCT	_	1	punct	1:punct	_

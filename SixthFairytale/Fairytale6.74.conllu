@@ -1,0 +1,13 @@
+# sent_id = Fairytale6.74
+# text = « Άμε jα σ ο ξύο».
+# translit =  "Ame ja s o xyο."
+# text_en = "Go to that tree."
+1	«	«	PUNCT	PUNCT	_	2	punct	2:punct	_
+2	Άμε	πηγαίνω	VERB	VERB	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	_
+3	jα	εκεί	ADV	ADV	_	2	advmod	2:advmod	_
+4-5	σο	_	_	_	_	_	_	_	_
+4	σ	σε	ADP	ADP	_	7	case	7:case	_
+5	ο	το	DET	DET	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	7	det	7:det	_
+6	ξύο	ξύο	NOUN	NOUN	Case=Nom|Gender=Neut|Number=Sing	2	obl	2:obl	SpaceAfter=No
+7	»	»	PUNCT	PUNCT	_	2	punct	2:punct	SpaceAfter=No
+8	.	.	PUNCT	PUNCT	_	2	punct	2:punct	_

@@ -1,0 +1,8 @@
+# sent_id = Fairytale6.77
+# text = Κανίστη το ξύο.
+# translit =  Kanisti to xyo.
+# text_en = The tree split.
+1	Κανίστη	κανίζω	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	0	root	0:root	_
+2	το	το	DET	DET	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	3	det	3:det	_
+3	ξύο	ξύο	NOUN	NOUN	Case=Nom|Gender=Neut|Number=Sing	1	nsubj:pass	1:nsubj:pass	SpaceAfter=No
+4	.	.	PUNCT	PUNCT	_	1	punct	1:punct	_
