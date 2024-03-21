@@ -602,14 +602,14 @@
 # translit =  Seis pou na ivrete?»
 # text_en = Where did you find her?"
 1	Σεις	εγω	PRON	PRON	Case=Nom|Gender=Masc|Number=Plur|Person=2|PronType=Prs	4	nmod	4:nmod	_
-2	πού	που 	ADV	ADV	_	4	advmod	4:advmod	_
+2	πού	που	ADV	ADV	_	4	advmod	4:advmod	_
 3	dα	dα	PRON	PRON	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs	4	iobj	4:iobj	_
 4	ήβρετε	βρίσκω	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Plur|Person=2|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	SpaceAfter=No
 5	;	;	PUNCT	PUNCT	_	4	punct	4:punct	SpaceAfter=No
 6	»	»	PUNCT	PUNCT	_	4	punct	4:punct	_
 
 # sent_id = Fairytale6.53
-# text = Είπαν dι κι jαι jείνοι :
+# text = Είπαν dι κι jαι jείνοι:
 # translit =  Eipan di ki ke jine:
 # text_en = And they said:
 1	Είπαν	λέγω	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	_
@@ -672,8 +672,8 @@
 # text = Πηάγανε.
 # translit =  Piagane.
 # text_en = They went.
-1	Πηάγανε	πηγαίνω	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
-2	.	.	PUNCT	PUNCT	_	1	punct	_	_
+1	Πηάγανε	πηγαίνω	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	SpaceAfter=No
+2	.	.	PUNCT	PUNCT	_	1	punct	1:punct	_
 
 # sent_id = Fairytale6.59
 # text = Ήρτανε ‘ς αν Dερβίσης ιράστα.
@@ -683,7 +683,7 @@
 2	‘ς	σε	ADP	ADP	_	4	case	4:case	_
 3	αν	α	DET	DET	Case=Acc|Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	4	det	4:det	_
 4	Dερβίσης	Dερβίσης	PROPN	PROPN	Case=Acc|Gender=Fem|Number=Sing	1	obl	1:obl	_
-5	ιράστα	ιράστα 	ADJ	ADJ	Case=Acc|Gender=Fem|Number=Sing	4	amod	4:amod	SpaceAfter=No
+5	ιράστα	ιράστα	ADJ	ADJ	Case=Acc|Gender=Fem|Number=Sing	4	amod	4:amod	SpaceAfter=No
 6	.	.	PUNCT	PUNCT	_	1	punct	1:punct	_
 
 # sent_id = Fairytale6.60
@@ -761,7 +761,7 @@
 2-3	σον	_	_	_	_	_	_	_	_
 2	σ	σε	ADP	ADP	_	4	case	4:case	_
 3	ον	ο	DET	DET	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	4:det	_
-4	qαdή	qαdής	NOUN	NOUN	Case=Acc|Gender=Masc|Number=Sing		1	obl	1:obl	SpaceAfter=No
+4	qαdή	qαdής	NOUN	NOUN	Case=Acc|Gender=Masc|Number=Sing	1	obl	1:obl	SpaceAfter=No
 5	.	.	PUNCT	PUNCT	_	1	punct	1:punct	_
 
 # sent_id = Fairytale6.67
@@ -772,7 +772,7 @@
 2	dι	dι	SCONJ	SCONJ	_	1	mark	1:mark	_
 3	κι	κι	SCONJ	SCONJ	_	1	mark	1:mark	_
 4	j'	jαι	CCONJ	CCONJ	_	6	cc	6:cc	_
-5	ο	ο 	DET	DET	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	6:det	_
+5	ο	ο	DET	DET	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	6:det	_
 6	qαdής	qαdής	NOUN	NOUN	Case=Nom|Gender=Masc|Number=Sing	1	nsubj	1:nsubj	SpaceAfter=No
 7	,	,	PUNCT	PUNCT	_	1	punct	1:punct	_
 
@@ -783,7 +783,7 @@
 1	«	«	PUNCT	PUNCT	_	4	punct	4:punct	_
 2	Ένι	είμαι	AUX	AUX	_	4	cop	4:cop	_
 3	το	το	DET	DET	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	4	det	4:det	_
-4	μόνα	μόνα	PRON	PRON	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	0	root	0:root	_
+4	μόνα	μόνα	PRON	PRON	Case=Nom|Gender=Neut|Number=Sing|PronType=Art	0	root	0:root	_
 5	η	η	DET	DET	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	6:det	_
 6	'ναίκα	γυναίκα	NOUN	NOUN	Case=Nom|Gender=Fem|Number=Sing	4	nsubj	4:nsubj	SpaceAfter=No
 7	.	.	PUNCT	PUNCT	_	4	punct	4:punct	_
@@ -823,10 +823,10 @@
 # text_en = They couldn't find its solution.
 1	Τον	ο	DET	DET	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	2:det	_
 2	çαρέν	çαρές	NOUN	NOUN	Case=Acc|Gender=Masc|Number=Sing	5	obj	5:obj	_
-3	dου	dα	PRON	PRON	Case=Gen|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	2	nmod	2:nmod	_
+3	dου	dα	PRON	PRON	Case=Gen|Gender=Neut|Number=Sing|PronType=Art	2	nmod	2:nmod	_
 4	jο	jο	PART	PART	_	5	discourse	5:discourse	_
 5	bόρκανε	boρώ	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	_
-6	dα	dα	PRON	PRON	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	dislocated	5:dislocated	_
+6	dα	dα	PRON	PRON	Case=Acc|Gender=Masc|Number=Sing|PronType=Art	5	dislocated	5:dislocated	_
 7	νάβρουνε	βρίσκω	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|VerbForm=Fin|Voice=Act	5	xcomp	5:xcomp	SpaceAfter=No
 8	.	.	PUNCT	PUNCT	_	5	punct	5:punct	_
 
@@ -840,15 +840,15 @@
 4	:	:	PUNCT	PUNCT	_	1	punct	1:punct	_
 
 # sent_id = Fairytale6.74
-# text = « Άμε jα σ ο ξύο».
+# text = « Άμε jα σο ξύο».
 # translit =  "Ame ja s o xyο."
 # text_en = "Go to that tree."
 1	«	«	PUNCT	PUNCT	_	2	punct	2:punct	_
 2	Άμε	πηγαίνω	VERB	VERB	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	_
 3	jα	εκεί	ADV	ADV	_	2	advmod	2:advmod	_
 4-5	σο	_	_	_	_	_	_	_	_
-4	σ	σε	ADP	ADP	_	7	case	7:case	_
-5	ο	το	DET	DET	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	7	det	7:det	_
+4	σ	σε	ADP	ADP	_	6	case	6:case	_
+5	ο	το	DET	DET	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	6	det	6:det	_
 6	ξύο	ξύο	NOUN	NOUN	Case=Nom|Gender=Neut|Number=Sing	2	obl	2:obl	SpaceAfter=No
 7	»	»	PUNCT	PUNCT	_	2	punct	2:punct	SpaceAfter=No
 8	.	.	PUNCT	PUNCT	_	2	punct	2:punct	_
@@ -858,14 +858,14 @@
 # translit =  Piagane so xyo.
 # text_en = They went to the tree.
 1	Πηάγανε	_	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	_
-2-3	στο	_	_	_	_	_	_	_	TokenRange=7:10
+2-3	σο	_	_	_	_	_	_	_	TokenRange=7:10
 2	σ	σε	ADP	ADP	_	4	case	4:case	_
 3	ο	το	DET	DET	Case=Acc|Gender=Neut|Number=Sing	4	det	4:det	_
 4	ξύο	ξύο	NOUN	NOUN	Case=Acc|Gender=Neut|Number=Sing	1	obl	1:obl	SpaceAfter=No
 5	.	.	PUNCT	PUNCT	_	1	punct	1:punct	_
 
 # sent_id = Fairytale6.76
-# text = Dένσεν το κορίdζι αjεί σ ο ξύο.
+# text = Dένσεν το κορίdζι αjεί σο ξύο.
 # translit =  Densen to koridzi ajei s o xyo.
 # text_en = The girl leaned up against the tree.
 1	Dένσεν	dενdάγω	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	_
