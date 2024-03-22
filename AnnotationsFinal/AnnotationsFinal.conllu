@@ -5980,3 +5980,4 @@
 3	το	το	DET	DET	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	4	det	4:det	_
 4	ξύο	ξύο	NOUN	NOUN	Case=Nom|Gender=Neut|Number=Sing	1	nsubj:pass	1:nsubj:pass	SpaceAfter=No
 5	.	.	PUNCT	PUNCT	_	1	punct	1:punct	_
+
