@@ -18,6 +18,7 @@ if not args.input:
 
 sentlen = []
 postags = []
+deprels = []
 feats = []
 multi = 0
 nprep, npostp = 0, 0
@@ -32,6 +33,7 @@ for infile in args.input:
         multi += len(sent.multi)
         for tok in sent.nodes[1:]:
             postags.append(tok.upos)
+            deprels.append(tok.deprel)
             if tok.upos == 'NOUN':
                 gender.append(tok.get_feat('Gender'))
             if tok.upos == 'ADP':
@@ -70,9 +72,23 @@ print(f"Avglen (tokens): {sum(sentlen)/len(sentlen)}")
 print(f"Avglen (words): {(sum(sentlen)-multi)/len(sentlen)}")
 
 #print(f"Features: ", Counter([(fv[0], fv[1]) for fv in feats]).most_common())
-for p, f in sorted(set([(fv[0], fv[1]) for fv in feats])):
-    print(p, f)
-print(f"Features/values: ", Counter(feats).most_common())
+#for p, f in sorted(set([(fv[0], fv[1]) for fv in feats])):
+#    print(p, f)
+print("POS tags:") 
+for f, c in Counter(postags).most_common():
+    print(f, c) 
+print()
+print("Dependencies") 
+for f, c in Counter(deprels).most_common():
+    print(f, c) 
+print()
+print("Features") 
+for f, c in Counter([fv[1] for fv in feats]).most_common():
+    print(f, c) 
+print()
+print("Features/values: ") 
+for f, c in Counter([(fv[1], fv[2]) for fv in feats]).most_common():
+    print(f, c) 
 
 print(f"Prepostions: {nprep}, postpositions: {npostp}")
 print(f"Postposition ratio: {npostp/(nprep+npostp)}")
