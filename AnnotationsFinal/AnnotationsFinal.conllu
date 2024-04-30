@@ -282,7 +282,8 @@
 # text =  Κάτα ημέρα έρχονται οι τζυνη'οί τζαι μες σκοτώνουν τζάπου να μες εύρουν.
 # translit =   Kata imera erchontai oi tzuni'oi tzai mes skotonoyn tzapoy na mes eyroyn.
 # text_en = Every day the hunters come and kill us everywhere find us.
-1	Κάτα	κάτε/κάdε	DET	DET	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Ind	2	det	2:det	_
+# todo/check: Person was removed from DET.
+1	Κάτα	κάτε/κάdε	DET	DET	Case=Acc|Gender=Fem|Number=Sing|PronType=Ind	2	det	2:det	_
 2	ημέρα	(η)μέρα	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Sing	3	obl	3:obl	_
 3	έρχονται	έρχουμι	VERB	VERB	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	0:root	_
 4	οι	ο	DET	DET	Case=Nom|Definite=Def|Gender=Masc|Number=Plur|PronType=Art	5	det	5:det	_
@@ -2238,6 +2239,7 @@
 # text = Ο ασλάνος χολιέστην, σηκώθαν του γουργουρού του τα τσάρε, με ντράπη ν’ τα σπαράξει σο μεντζιλίσι πέσου.
 # translit =  O aslanos choliestin, sikothan toy goyrgoyroy toy ta tsare, me ntrapi n’ ta sparaxei so mentzilisi pesoy.
 # text_en = The lion became angry, the hairs on his mane stood up, but he was ashamed to ravage the pig within the assembly.
+# todo/check: Person=3 removed from  ν’
 1	Ο	ο	DET	DET	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	2:det	_
 2	ασλάνος	ασλάνος	NOUN	NOUN	Case=Nom|Gender=Masc|Number=Sing	3	nsubj	3:nsubj	_
 3	χολιέστην	χολιάζω	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	SpaceAfter=No
@@ -2252,7 +2254,7 @@
 12	με	με	INTJ	INTJ	_	13	vocative	13:vocative	_
 13	ντράπη	ντρέπομαι	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	5	parataxis	5:parataxis	_
 14	ν’	να	AUX	AUX	_	16	aux	16:aux	_
-15	τα	ο	DET	DET	Case=Acc|Gender=Neut|Number=Plur|Person=3|PronType=Art	16	obj	16:obj	_
+15	τα	ο	DET	DET	Case=Acc|Gender=Neut|Number=Plur|PronType=Art	16	obj	16:obj	_
 16	σπαράξει	σπαράζω	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|VerbForm=Fin|Voice=Act	13	acl	13:acl	_
 17-18	σο	_	_	_	_	_	_	_	_
 17	σ	σε	ADP	ADP	_	19	case	19:case	_
@@ -2417,10 +2419,11 @@
 # sent_id = Fairytale2.26
 # text = Πα ποίκω γω δεχούς άντρα μο τα εννέ μαχσούλε μου, τα ’ρφανά;»
 # text_en = What will I do without my husband with my nine orphaned babies?»
+# todo/check: removed Case=Acc|Gender=Masc|Number=Plur features from Iδεχούς
 1	Πα	πα	PRON	PRON	Case=Acc|Gender=Neut|Number=Sing|PronType=Ind	2	obj	2:obj	_
 2	ποίκω	ποιώ	VERB	VERB	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	_
 3	γω	εγω	PRON	PRON	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	2:nsubj	_
-4	δεχούς	δεχούς	ADP	ADP	Case=Acc|Gender=Masc|Number=Plur	5	case	5:case	_
+4	δεχούς	δεχούς	ADP	ADP	_	5	case	5:case	_
 5	άντρα	άνdρας	NOUN	NOUN	Case=Acc|Gender=Neut|Number=Plur	2	obl	2:obl	_
 6	μο	με	ADP	ADP	_	9	case	9:case	_
 7	τα	το	DET	DET	Case=Acc|Definite=Def|Gender=Neut|Number=Plur|PronType=Art	9	det	9:det	_
@@ -2510,6 +2513,7 @@
 # sent_id =Fairytale2.33
 # text = Τε μπρο τσυλίσταν σα κάκα πέσου.
 # text_en = First they rolled in the feces.
+# todo/check: removed Case=Gen|Gender=Fem|Number=Sing features from πέσου
 1	Τε	τε	PART	PRON	_	2	discourse	2:discourse	_
 2	μπρο	μπρο	ADV	NOUN	_	3	advmod	3:advmod	_
 3	τσυλίσταν	τσυλίζω	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	_
@@ -2517,7 +2521,7 @@
 4	σ	σε	ADP	ADP	_	6	case	6:case	_
 5	α	το	DET	DET	Case=Acc|Definite=Def|Gender=Neut|Number=Plur|PronType=Art	6	det	6:det	_
 6	κάκα	κάκα	NOUN	NOUN	Case=Acc|Gender=Neut|Number=Plur	3	obl	3:obl	_
-7	πέσου	πέσο	ADP	NOUN	Case=Gen|Gender=Fem|Number=Sing	6	case	6:case	SpaceAfter=No
+7	πέσου	πέσο	ADP	NOUN	_	6	case	6:case	SpaceAfter=No
 8	.	.	PUNCT	PUNCT	_	3	punct	3:punct	_
 
 # sent_id =Fairytale2.34
